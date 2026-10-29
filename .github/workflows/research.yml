@@ -1,4 +1,4 @@
-name: Research sweep
+name: Research run
 
 on:
   schedule:
@@ -35,9 +35,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - run: pip install -r requirements.txt
+      - run: pip install requests pyyaml jsonschema
       - run: npm install -g @anthropic-ai/claude-code
-      - name: Run sweep
+      - name: Run
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GH_TOKEN: ${{ github.token }}
