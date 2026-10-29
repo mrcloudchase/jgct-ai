@@ -9,7 +9,7 @@ You run this procedure every time. Same steps, same order. The repository is you
 
 ## 0. Orient (read only, no fetching)
 
-1. Read `state/ledger.json` and `state/backlog.json`. Note counts: done, unreachable, pending, needs_index_approval.
+1. `python3 tools/ledger.py status` for counts, then `python3 tools/ledger.py triage` so every PubMed item has a title and a priority, then `python3 tools/ledger.py next --limit 30` to see what is up. Do not open the raw JSON files; they are far too large to read.
 2. Read `knowledge/INDEX.md` and the two most recent files in `state/runs/`. Note what the last run left unfinished and any "Suggested changes".
 3. Read `sources/index.md`. Note any source marked `verify on first run` that has not been verified.
 4. Decide the plan for this run and write it as the first section of `state/runs/<today>.md` before doing anything else. If the run dies, the report still says what was intended.
@@ -28,13 +28,7 @@ Off-index domains: do not fetch. Add to the backlog with `--needs-index-approval
 
 ## 2. Process (the expensive part)
 
-Work the backlog in this priority order, and stop when the validator-safe budget is reached (see step 4):
-
-1. Peer-reviewed papers and guidelines with `n_jgct_patients >= 5` or genomic data.
-2. Registry and consortium reports.
-3. Preprints and conference abstracts.
-4. Case reports, newest first.
-5. Organization pages.
+Work the backlog in the order `tools/ledger.py next` gives, and stop when the validator-safe budget is reached (see step 4). Triage sets priority 1 for reviews, cohorts, registries, guidelines and genomic studies, 2 for other papers, 3 for preprints, abstracts and database entries, 4 for case reports, 5 for organization pages. Within a priority, newest first.
 
 For each item:
 

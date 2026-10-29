@@ -31,30 +31,40 @@ git checkout -B "${BRANCH}" origin/main
 git config user.name "jgct-ai research sweep"
 git config user.email "actions@users.noreply.github.com"
 
-# 3. Run Claude Code with the fixed prompt. Permissions come from .claude/settings.json.
+# 3. Run Claude Code with the fixed prompt. A fresh checkout is not a trusted workspace, so project
+#    settings are ignored unless passed explicitly. Pass the settings file and the allow-list both ways.
 mkdir -p state/runs
+mapfile -t ALLOWED < <(python3 -c 'import json; [print(r) for r in json.load(open(".claude/settings.json"))["permissions"]["allow"]]')
+mapfile -t DENIED  < <(python3 -c 'import json; [print(r) for r in json.load(open(".claude/settings.json"))["permissions"]["deny"]]')
+CLAUDE_OUT="$(mktemp -t sweep-XXXXXX.json)"
 set +e
 claude -p "$(cat prompts/research.md)" \
   --model "${MODEL}" \
   --max-budget-usd "${BUDGET}" \
+  --settings .claude/settings.json \
+  --allowedTools "${ALLOWED[@]}" \
+  --disallowedTools "${DENIED[@]}" \
   --permission-mode acceptEdits \
   --output-format json \
-  > "state/runs/${TODAY}.claude.json"
+  > "${CLAUDE_OUT}"
 claude_exit=$?
 set -e
-echo "== claude exited ${claude_exit}"
-python3 - <<PY
-import json, pathlib
-p = pathlib.Path("state/runs/${TODAY}.claude.json")
+echo "== claude exited ${claude_exit}; transcript at ${CLAUDE_OUT}"
+python3 - "${CLAUDE_OUT}" <<'PY'
+import json, sys, pathlib
+p = pathlib.Path(sys.argv[1])
 try:
     d = json.loads(p.read_text())
     print("cost_usd:", d.get("total_cost_usd"), "turns:", d.get("num_turns"), "subtype:", d.get("subtype"))
+    if d.get("permission_denials"):
+        print("permission denials:", len(d["permission_denials"]))
+        for x in d["permission_denials"][:10]:
+            print("  ", x.get("tool_name"), str(x.get("tool_input"))[:120])
 except Exception as e:
     print("could not parse claude output:", e)
 PY
 
 # 4. The model must not have touched git.
-if ! git diff --quiet HEAD -- .git 2>/dev/null; then :; fi
 if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
   echo "Branch moved during the run; the model ran git. Discarding."
   exit 1
@@ -65,7 +75,6 @@ python3 tools/validate.py
 python3 tools/build_index.py
 
 # 6. Anything to commit?
-rm -f "state/runs/${TODAY}.claude.json"
 if git diff --quiet && [ -z "$(git status --porcelain)" ]; then
   echo "No changes produced. Nothing to commit."
   exit 0

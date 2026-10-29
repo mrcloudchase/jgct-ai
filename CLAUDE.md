@@ -32,7 +32,7 @@ The full schema is `knowledge/schema/record.schema.json`. The validator enforces
 
 ## Rules
 
-1. **Read before you research.** Start with `state/ledger.json`, `state/backlog.json`, `knowledge/INDEX.md`, and the last two files in `state/runs/`. Do not re-process a source whose ledger status is `done` unless a newer version exists.
+1. **Read before you research.** Start with `python3 tools/ledger.py status` and `python3 tools/ledger.py next --limit 30`, then `knowledge/INDEX.md` and the last two files in `state/runs/`. Never open `state/ledger.json` or `state/backlog.json` directly; they are tens of thousands of tokens and the ledger tool answers every question about them. Do not re-process a source whose ledger status is `done` unless a newer version exists.
 2. **Only cite what you fetched.** Every claim in a record traces to text you actually retrieved. If you could not fetch a source, ledger it as `unreachable` with the reason. Never write a record from memory of a paper.
 3. **Source tiers are not optional.** Rate every record per `sources/credibility.md`. A conference abstract is `conference_abstract`, not `peer_reviewed`, even if it later became a paper.
 4. **Conflicts are recorded, not resolved.** If two sources disagree, note it in both records' `conflicts_with` and say so in `SUMMARY.md`. Do not pick a winner.
@@ -53,7 +53,10 @@ python3 tools/europepmc.py search "<query>"    # Europe PMC search, broader than
 python3 tools/europepmc.py fulltext <id>       # open access full text when available
 python3 tools/validate.py                      # validate every record against the schema; must pass before you finish
 python3 tools/build_index.py                   # regenerate INDEX.md, ALTERATIONS.md, TREATMENTS.md
-python3 tools/ledger.py <subcommand>           # read and update state/ledger.json and state/backlog.json
+python3 tools/ledger.py status                 # counts by status; run this first
+python3 tools/ledger.py next --limit N         # highest-priority pending items with titles
+python3 tools/ledger.py triage                 # batch-fetch titles and publication types from PubMed, set priorities
+python3 tools/ledger.py add|start|done|unreachable|skip ...   # update one item; never edit the JSON by hand
 ```
 
 For sources without a tool, use WebFetch on the URL and write the record by hand with `tools/ledger.py` to log it.
