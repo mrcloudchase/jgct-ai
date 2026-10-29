@@ -1,0 +1,46 @@
+name: Research sweep
+
+on:
+  schedule:
+    - cron: "23 6 1 * *"
+  workflow_dispatch:
+    inputs:
+      max_budget_usd:
+        description: Dollar cap for this run
+        default: "40"
+      model:
+        description: Claude model
+        default: claude-opus-5-5
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: research-sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: pip install -r requirements.txt
+      - run: npm install -g @anthropic-ai/claude-code
+      - name: Run sweep
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          MAX_BUDGET_USD: ${{ inputs.max_budget_usd || '40' }}
+          CLAUDE_MODEL: ${{ inputs.model || 'claude-opus-5-5' }}
+        run: scripts/research.sh

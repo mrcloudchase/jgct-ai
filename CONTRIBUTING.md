@@ -1,27 +1,31 @@
 # Contributing
 
-## Reviewing a record
+## Reviewing a sweep pull request
 
-Every file in `knowledge/papers/` has a `review_status` of `draft` or `reviewed`. Drafts were produced by Claude from the PubMed abstract and may be wrong.
+This is the most valuable contribution. Each `research/YYYY-MM-DD` pull request is one month of automated research.
 
-1. Open the paper by its DOI or PubMed ID.
-2. Check every field in the YAML against the paper. Fix anything wrong. Remove anything the paper does not actually say.
-3. Set `review_status: reviewed` and put your GitHub handle in `reviewed_by`.
-4. Run `python knowledge/build_index.py` and commit the regenerated `INDEX.md` and `ALTERATIONS.md`.
-5. Open a pull request titled `Review PMID <id>`.
+1. Read the run report in the PR body. Start with the lowest-confidence additions.
+2. For each record, open `source_url` and check every field against the source. Fix mistakes in the branch. Delete anything the source does not say.
+3. Check the "Needs index approval" list. If a source is credible, add it to `sources/index.md` and the matching `WebFetch(domain:...)` line in `.claude/settings.json`.
+4. Read "Suggested changes" and open issues for any you agree with.
+5. Merge.
 
-## Adding a paper
+## Marking a record as verified
+
+Set `review_status: reviewed`, `reviewed_by: <your handle>`, `reviewed_on: <date>`. Sweeps never edit a reviewed record except to add `conflicts_with` or `superseded_by`.
+
+## Adding a source by hand
 
 ```bash
-python extract/extract_paper.py <pmid>
+python3 tools/ledger.py add pmid 12345678 https://pubmed.ncbi.nlm.nih.gov/12345678/ --tier peer_reviewed
 ```
 
-This writes `knowledge/papers/<pmid>.yaml` as a draft. Review it as above before or after opening the pull request. Papers with no abstract on PubMed need the record written by hand from the full text.
+The next sweep will process it. To process it now with your own key, run `python3 tools/extract/extract_paper.py 12345678`, review the draft, and open a PR.
 
-## Monitor and lookup scripts
+## Changing the procedure
 
-Keep them dependency-light and runnable without an API key. Summaries are the only thing that should require `ANTHROPIC_API_KEY`.
+`CLAUDE.md`, the skill, the rubric, the schema, and the script are deliberately not editable by the sweep. Change them by pull request like any code.
 
 ## Scope
 
-JGCT first. Adult granulosa cell tumor and other sex cord-stromal tumors are in scope when a paper or sample set bears on JGCT biology or treatment.
+JGCT first. Adult granulosa cell tumor and other sex cord-stromal tumors are in scope when they bear on JGCT biology or treatment. Patient communities and personal stories are never sources.

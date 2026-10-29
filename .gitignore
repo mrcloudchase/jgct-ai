@@ -2,5 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 .env
-monitor/latest.md
-genomics/cache/
+tools/monitor/latest.md
+tools/monitor/run.log
+state/runs/*.claude.json

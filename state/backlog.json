@@ -1,0 +1,4285 @@
+{
+ "count": 428,
+ "items": {
+  "1014997": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1014997/"
+  },
+  "10358266": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10358266/"
+  },
+  "10509309": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10509309/"
+  },
+  "10688023": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10688023/"
+  },
+  "10742079": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10742079/"
+  },
+  "10823140": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10823140/"
+  },
+  "10836607": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10836607/"
+  },
+  "10891723": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10891723/"
+  },
+  "10925635": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10925635/"
+  },
+  "11014571": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11014571/"
+  },
+  "11277661": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11277661/"
+  },
+  "11329568": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11329568/"
+  },
+  "11503097": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11503097/"
+  },
+  "11531301": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11531301/"
+  },
+  "11696779": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11696779/"
+  },
+  "11776205": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11776205/"
+  },
+  "11936727": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11936727/"
+  },
+  "11938428": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11938428/"
+  },
+  "11990313": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11990313/"
+  },
+  "12004856": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12004856/"
+  },
+  "12165898": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12165898/"
+  },
+  "12411036": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12411036/"
+  },
+  "12448366": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12448366/"
+  },
+  "12462106": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12462106/"
+  },
+  "12757681": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12757681/"
+  },
+  "12793611": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12793611/"
+  },
+  "12808064": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12808064/"
+  },
+  "12823914": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12823914/"
+  },
+  "12893354": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12893354/"
+  },
+  "12910419": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12910419/"
+  },
+  "1299522": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1299522/"
+  },
+  "1300967": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1300967/"
+  },
+  "1362810": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1362810/"
+  },
+  "1464093": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1464093/"
+  },
+  "14660284": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/14660284/"
+  },
+  "1466394": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1466394/"
+  },
+  "14665372": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/14665372/"
+  },
+  "14674109": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/14674109/"
+  },
+  "15076304": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15076304/"
+  },
+  "15123101": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15123101/"
+  },
+  "15160508": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15160508/"
+  },
+  "15192945": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15192945/"
+  },
+  "15198302": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15198302/"
+  },
+  "1526522": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1526522/"
+  },
+  "15295395": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15295395/"
+  },
+  "15490488": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15490488/"
+  },
+  "15498394": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15498394/"
+  },
+  "15502809": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15502809/"
+  },
+  "1553918": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1553918/"
+  },
+  "15693901": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15693901/"
+  },
+  "15864389": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15864389/"
+  },
+  "15880717": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15880717/"
+  },
+  "16050568": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16050568/"
+  },
+  "16163598": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16163598/"
+  },
+  "16167924": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16167924/"
+  },
+  "16222477": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16222477/"
+  },
+  "16256182": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16256182/"
+  },
+  "1634146": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1634146/"
+  },
+  "1638506": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1638506/"
+  },
+  "16516278": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16516278/"
+  },
+  "16537089": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16537089/"
+  },
+  "1655284": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1655284/"
+  },
+  "16613252": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16613252/"
+  },
+  "1669232": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1669232/"
+  },
+  "16821059": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16821059/"
+  },
+  "16915782": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16915782/"
+  },
+  "16957416": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16957416/"
+  },
+  "1699867": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1699867/"
+  },
+  "16998935": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16998935/"
+  },
+  "17009609": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17009609/"
+  },
+  "17406141": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17406141/"
+  },
+  "1756711": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1756711/"
+  },
+  "17581419": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17581419/"
+  },
+  "17624097": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17624097/"
+  },
+  "17652550": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17652550/"
+  },
+  "1765908": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1765908/"
+  },
+  "17661024": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17661024/"
+  },
+  "17718142": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17718142/"
+  },
+  "17849133": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17849133/"
+  },
+  "17885484": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17885484/"
+  },
+  "17983492": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17983492/"
+  },
+  "18008216": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18008216/"
+  },
+  "18028383": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18028383/"
+  },
+  "18301054": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18301054/"
+  },
+  "18313118": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18313118/"
+  },
+  "18548396": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18548396/"
+  },
+  "18721930": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18721930/"
+  },
+  "18760677": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18760677/"
+  },
+  "19058207": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19058207/"
+  },
+  "19106661": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19106661/"
+  },
+  "19119048": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19119048/"
+  },
+  "19162310": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19162310/"
+  },
+  "19225930": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19225930/"
+  },
+  "19346888": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19346888/"
+  },
+  "1951843": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1951843/"
+  },
+  "19524286": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19524286/"
+  },
+  "19539204": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19539204/"
+  },
+  "19546054": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19546054/"
+  },
+  "19573898": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19573898/"
+  },
+  "19576820": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19576820/"
+  },
+  "1963878": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1963878/"
+  },
+  "19696617": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19696617/"
+  },
+  "1989922": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1989922/"
+  },
+  "19995209": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19995209/"
+  },
+  "20105593": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20105593/"
+  },
+  "20371195": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20371195/"
+  },
+  "20395670": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20395670/"
+  },
+  "20445412": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20445412/"
+  },
+  "2048938": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2048938/"
+  },
+  "20592370": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20592370/"
+  },
+  "20629323": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20629323/"
+  },
+  "2066013": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2066013/"
+  },
+  "20693978": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20693978/"
+  },
+  "20715666": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20715666/"
+  },
+  "20850634": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20850634/"
+  },
+  "20875070": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20875070/"
+  },
+  "21040368": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21040368/"
+  },
+  "21176530": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21176530/"
+  },
+  "21217523": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21217523/"
+  },
+  "21256573": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21256573/"
+  },
+  "21358338": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21358338/"
+  },
+  "21378549": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21378549/"
+  },
+  "21488154": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21488154/"
+  },
+  "21501861": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21501861/"
+  },
+  "21552888": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21552888/"
+  },
+  "21623383": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21623383/"
+  },
+  "21841464": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21841464/"
+  },
+  "2196546": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2196546/"
+  },
+  "2198463": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2198463/"
+  },
+  "21993272": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21993272/"
+  },
+  "22088573": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22088573/"
+  },
+  "22088653": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22088653/"
+  },
+  "22226215": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22226215/"
+  },
+  "22244428": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22244428/"
+  },
+  "22271884": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22271884/"
+  },
+  "22353374": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22353374/"
+  },
+  "2239315": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2239315/"
+  },
+  "22511424": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22511424/"
+  },
+  "22742556": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22742556/"
+  },
+  "2302039": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2302039/"
+  },
+  "23029311": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23029311/"
+  },
+  "23150859": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23150859/"
+  },
+  "23217189": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23217189/"
+  },
+  "2332212": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2332212/"
+  },
+  "23348906": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23348906/"
+  },
+  "23370648": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23370648/"
+  },
+  "23424695": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23424695/"
+  },
+  "23519754": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23519754/"
+  },
+  "2359966": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2359966/"
+  },
+  "23733594": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23733594/"
+  },
+  "23776871": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23776871/"
+  },
+  "24198925": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24198925/"
+  },
+  "24300529": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24300529/"
+  },
+  "24304499": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24304499/"
+  },
+  "2435268": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2435268/"
+  },
+  "24371683": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24371683/"
+  },
+  "2439713": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2439713/"
+  },
+  "2444685": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2444685/"
+  },
+  "24455600": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24455600/"
+  },
+  "2456656": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2456656/"
+  },
+  "24606464": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24606464/"
+  },
+  "24656706": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24656706/"
+  },
+  "2471350": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2471350/"
+  },
+  "2474244": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2474244/"
+  },
+  "24783102": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24783102/"
+  },
+  "24785740": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24785740/"
+  },
+  "24959454": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24959454/"
+  },
+  "25053523": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25053523/"
+  },
+  "25148497": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25148497/"
+  },
+  "25165122": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25165122/"
+  },
+  "25204485": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25204485/"
+  },
+  "25266542": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25266542/"
+  },
+  "25362018": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25362018/"
+  },
+  "25440719": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25440719/"
+  },
+  "25440720": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25440720/"
+  },
+  "25478362": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25478362/"
+  },
+  "25656930": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25656930/"
+  },
+  "25788847": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25788847/"
+  },
+  "25828390": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25828390/"
+  },
+  "25844550": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25844550/"
+  },
+  "26033501": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26033501/"
+  },
+  "26034868": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26034868/"
+  },
+  "26076062": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26076062/"
+  },
+  "26123103": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26123103/"
+  },
+  "26135561": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26135561/"
+  },
+  "26137586": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26137586/"
+  },
+  "26165406": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26165406/"
+  },
+  "26169919": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26169919/"
+  },
+  "26206391": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26206391/"
+  },
+  "26362254": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26362254/"
+  },
+  "26389276": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26389276/"
+  },
+  "26389315": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26389315/"
+  },
+  "26500075": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26500075/"
+  },
+  "27042471": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27042471/"
+  },
+  "27047664": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27047664/"
+  },
+  "27057263": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27057263/"
+  },
+  "27104151": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27104151/"
+  },
+  "27372158": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27372158/"
+  },
+  "27569101": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27569101/"
+  },
+  "2757305": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2757305/"
+  },
+  "27628838": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27628838/"
+  },
+  "27702598": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27702598/"
+  },
+  "27843515": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27843515/"
+  },
+  "27897024": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27897024/"
+  },
+  "28040149": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28040149/"
+  },
+  "28123736": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28123736/"
+  },
+  "28144098": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28144098/"
+  },
+  "28154722": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28154722/"
+  },
+  "28331810": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28331810/"
+  },
+  "28420520": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28420520/"
+  },
+  "28501984": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28501984/"
+  },
+  "28652991": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28652991/"
+  },
+  "29037807": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29037807/"
+  },
+  "2909044": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2909044/"
+  },
+  "2910225": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2910225/"
+  },
+  "29175835": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29175835/"
+  },
+  "29198337": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29198337/"
+  },
+  "29275930": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29275930/"
+  },
+  "29290327": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29290327/"
+  },
+  "29409506": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29409506/"
+  },
+  "29546931": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29546931/"
+  },
+  "2964926": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2964926/"
+  },
+  "29660837": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29660837/"
+  },
+  "29923976": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29923976/"
+  },
+  "30011982": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30011982/"
+  },
+  "30123871": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30123871/"
+  },
+  "30275002": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30275002/"
+  },
+  "3028928": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3028928/"
+  },
+  "30358638": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30358638/"
+  },
+  "30500284": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30500284/"
+  },
+  "30547828": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30547828/"
+  },
+  "30659330": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30659330/"
+  },
+  "30728165": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30728165/"
+  },
+  "30772079": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30772079/"
+  },
+  "30796991": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30796991/"
+  },
+  "30911605": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30911605/"
+  },
+  "30965205": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30965205/"
+  },
+  "30992313": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30992313/"
+  },
+  "31162286": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31162286/"
+  },
+  "31409083": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31409083/"
+  },
+  "31582893": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31582893/"
+  },
+  "3176932": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3176932/"
+  },
+  "3178427": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3178427/"
+  },
+  "31789679": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31789679/"
+  },
+  "31846265": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31846265/"
+  },
+  "31846269": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31846269/"
+  },
+  "31871849": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31871849/"
+  },
+  "32030006": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32030006/"
+  },
+  "3209455": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3209455/"
+  },
+  "3211812": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3211812/"
+  },
+  "32144835": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32144835/"
+  },
+  "32341591": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32341591/"
+  },
+  "32561911": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32561911/"
+  },
+  "32610388": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32610388/"
+  },
+  "32745618": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32745618/"
+  },
+  "32751726": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32751726/"
+  },
+  "32782216": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32782216/"
+  },
+  "32815828": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32815828/"
+  },
+  "32910017": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32910017/"
+  },
+  "33201299": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33201299/"
+  },
+  "33241170": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33241170/"
+  },
+  "33323862": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33323862/"
+  },
+  "33362514": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33362514/"
+  },
+  "33371855": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33371855/"
+  },
+  "33560080": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33560080/"
+  },
+  "33583630": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33583630/"
+  },
+  "33621150": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33621150/"
+  },
+  "33725665": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33725665/"
+  },
+  "3373268": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3373268/"
+  },
+  "33754426": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33754426/"
+  },
+  "33789803": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33789803/"
+  },
+  "3383118": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3383118/"
+  },
+  "33849266": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33849266/"
+  },
+  "33904645": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33904645/"
+  },
+  "34169133": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34169133/"
+  },
+  "34285730": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34285730/"
+  },
+  "34286167": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34286167/"
+  },
+  "34306284": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34306284/"
+  },
+  "34411449": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34411449/"
+  },
+  "34469331": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34469331/"
+  },
+  "34487069": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34487069/"
+  },
+  "34674583": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34674583/"
+  },
+  "34688077": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34688077/"
+  },
+  "34694430": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34694430/"
+  },
+  "34902562": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34902562/"
+  },
+  "35049372": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35049372/"
+  },
+  "35156876": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35156876/"
+  },
+  "35165855": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35165855/"
+  },
+  "35296906": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35296906/"
+  },
+  "35300053": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35300053/"
+  },
+  "35300760": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35300760/"
+  },
+  "35371651": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35371651/"
+  },
+  "35395117": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35395117/"
+  },
+  "35437273": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35437273/"
+  },
+  "35466733": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35466733/"
+  },
+  "35715160": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35715160/"
+  },
+  "35778792": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35778792/"
+  },
+  "35848651": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35848651/"
+  },
+  "35927968": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35927968/"
+  },
+  "35942608": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35942608/"
+  },
+  "35944993": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35944993/"
+  },
+  "35968204": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35968204/"
+  },
+  "3597846": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3597846/"
+  },
+  "36112066": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36112066/"
+  },
+  "36208031": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36208031/"
+  },
+  "36247268": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36247268/"
+  },
+  "36420590": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36420590/"
+  },
+  "36647328": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36647328/"
+  },
+  "36748172": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36748172/"
+  },
+  "36813116": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36813116/"
+  },
+  "36869369": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36869369/"
+  },
+  "36992983": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36992983/"
+  },
+  "37052631": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37052631/"
+  },
+  "3712163": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3712163/"
+  },
+  "37151162": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37151162/"
+  },
+  "37169426": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37169426/"
+  },
+  "37169445": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37169445/"
+  },
+  "37184091": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37184091/"
+  },
+  "37248399": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37248399/"
+  },
+  "37324278": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37324278/"
+  },
+  "3740351": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3740351/"
+  },
+  "37483405": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37483405/"
+  },
+  "37493465": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37493465/"
+  },
+  "37567969": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37567969/"
+  },
+  "37634867": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37634867/"
+  },
+  "37650316": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37650316/"
+  },
+  "37668387": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37668387/"
+  },
+  "37749997": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37749997/"
+  },
+  "37796616": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37796616/"
+  },
+  "37840846": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37840846/"
+  },
+  "38282900": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38282900/"
+  },
+  "3835552": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3835552/"
+  },
+  "38513413": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38513413/"
+  },
+  "38575475": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38575475/"
+  },
+  "3863589": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3863589/"
+  },
+  "38879834": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38879834/"
+  },
+  "38942037": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38942037/"
+  },
+  "39022116": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39022116/"
+  },
+  "39098546": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39098546/"
+  },
+  "39161564": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39161564/"
+  },
+  "39169716": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39169716/"
+  },
+  "39215355": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39215355/"
+  },
+  "39231752": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39231752/"
+  },
+  "39271346": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39271346/"
+  },
+  "39486125": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39486125/"
+  },
+  "39561630": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39561630/"
+  },
+  "3971998": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3971998/"
+  },
+  "3976984": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3976984/"
+  },
+  "39773640": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39773640/"
+  },
+  "39863551": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39863551/"
+  },
+  "39877787": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39877787/"
+  },
+  "39983368": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39983368/"
+  },
+  "39993522": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39993522/"
+  },
+  "40076617": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40076617/"
+  },
+  "40234276": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40234276/"
+  },
+  "40267023": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40267023/"
+  },
+  "40272823": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40272823/"
+  },
+  "40288095": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40288095/"
+  },
+  "40390890": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40390890/"
+  },
+  "4061731": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/4061731/"
+  },
+  "40815979": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40815979/"
+  },
+  "40901169": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40901169/"
+  },
+  "41035579": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41035579/"
+  },
+  "41036825": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41036825/"
+  },
+  "41112815": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41112815/"
+  },
+  "41237900": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41237900/"
+  },
+  "41243833": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41243833/"
+  },
+  "41338896": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41338896/"
+  },
+  "41340166": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41340166/"
+  },
+  "41367860": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41367860/"
+  },
+  "41416308": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41416308/"
+  },
+  "41617645": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41617645/"
+  },
+  "41644436": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41644436/"
+  },
+  "41654424": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41654424/"
+  },
+  "41797949": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41797949/"
+  },
+  "41839237": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41839237/"
+  },
+  "41887253": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41887253/"
+  },
+  "42706059": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42706059/"
+  },
+  "42727615": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42727615/"
+  },
+  "42887639": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42887639/"
+  },
+  "42896236": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42896236/"
+  },
+  "42927143": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42927143/"
+  },
+  "509394": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/509394/"
+  },
+  "6175237": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/6175237/"
+  },
+  "6263992": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/6263992/"
+  },
+  "6365306": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/6365306/"
+  },
+  "6465418": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/6465418/"
+  },
+  "6548120": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/6548120/"
+  },
+  "6624445": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/6624445/"
+  },
+  "7240858": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7240858/"
+  },
+  "7731938": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7731938/"
+  },
+  "7774848": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7774848/"
+  },
+  "8116801": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8116801/"
+  },
+  "8154078": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8154078/"
+  },
+  "8247952": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8247952/"
+  },
+  "8293741": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8293741/"
+  },
+  "8308995": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8308995/"
+  },
+  "8372023": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8372023/"
+  },
+  "8423014": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8423014/"
+  },
+  "8427250": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8427250/"
+  },
+  "8540611": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8540611/"
+  },
+  "8598334": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8598334/"
+  },
+  "8602303": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8602303/"
+  },
+  "8884354": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8884354/"
+  },
+  "8969738": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8969738/"
+  },
+  "9025845": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9025845/"
+  },
+  "9038278": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9038278/"
+  },
+  "9090524": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9090524/"
+  },
+  "9134041": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9134041/"
+  },
+  "9143029": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9143029/"
+  },
+  "9165470": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9165470/"
+  },
+  "9165474": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9165474/"
+  },
+  "9190974": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9190974/"
+  },
+  "9237180": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9237180/"
+  },
+  "9253627": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9253627/"
+  },
+  "9289669": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9289669/"
+  },
+  "9343289": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9343289/"
+  },
+  "9416696": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9416696/"
+  },
+  "9421080": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9421080/"
+  },
+  "9553819": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9553819/"
+  },
+  "9560834": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9560834/"
+  },
+  "9623521": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9623521/"
+  },
+  "9688187": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9688187/"
+  },
+  "9704306": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9704306/"
+  },
+  "9712426": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9712426/"
+  },
+  "9773806": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9773806/"
+  },
+  "9777570": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9777570/"
+  },
+  "9810398": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "phrase search backlog",
+   "priority": 2,
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9810398/"
+  }
+ }
+}

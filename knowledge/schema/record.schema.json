@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "JGCT knowledge base record: one source",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["source_id", "source_type", "source_tier", "source_url", "retrieved_on", "title", "year",
+               "study_type", "key_findings", "relevance_to_jgct", "review_status", "confidence"],
+  "properties": {
+    "source_id": {"type": "string", "description": "pmid number, DOI, abstract number, or 12-char sha1 of the URL"},
+    "source_type": {"type": "string", "enum": ["pmid", "doi", "abstract", "url"]},
+    "source_tier": {"type": "string", "enum": ["peer_reviewed", "guideline", "registry", "preprint", "conference_abstract", "database", "organization", "other"]},
+    "source_url": {"type": "string", "pattern": "^https?://"},
+    "retrieved_on": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+    "full_text_read": {"type": "boolean", "default": false},
+    "language": {"type": ["string", "null"], "default": "en"},
+    "pmid": {"type": ["string", "null"]},
+    "doi": {"type": ["string", "null"]},
+    "title": {"type": "string", "minLength": 3},
+    "journal": {"type": ["string", "null"]},
+    "year": {"type": "integer", "minimum": 1900, "maximum": 2100},
+    "first_author": {"type": ["string", "null"]},
+    "study_type": {"type": "string", "enum": ["case_report", "case_series", "cohort", "genomic", "review", "trial", "registry", "guideline", "database_entry", "other"]},
+    "n_jgct_patients": {"type": ["integer", "null"], "minimum": 0},
+    "age_range": {"type": ["string", "null"]},
+    "alterations": {
+      "type": "array",
+      "items": {
+        "type": "object", "additionalProperties": false, "required": ["gene", "alteration"],
+        "properties": {
+          "gene": {"type": "string"},
+          "alteration": {"type": "string"},
+          "frequency": {"type": ["string", "null"]},
+          "notes": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "treatments": {
+      "type": "array",
+      "items": {
+        "type": "object", "additionalProperties": false, "required": ["regimen"],
+        "properties": {
+          "regimen": {"type": "string"},
+          "setting": {"type": ["string", "null"]},
+          "n": {"type": ["integer", "null"]},
+          "outcome": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "presentation": {"type": "array", "items": {"type": "string"}, "description": "Clinical presentation features reported, e.g. precocious puberty, abdominal mass"},
+    "key_findings": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+    "relevance_to_jgct": {"type": "string", "minLength": 10},
+    "conflicts_with": {"type": "array", "items": {"type": "string"}, "description": "record file stems this disagrees with"},
+    "superseded_by": {"type": ["string", "null"]},
+    "retracted": {"type": "boolean", "default": false},
+    "notes": {"type": ["string", "null"]},
+    "confidence": {"type": "integer", "minimum": 1, "maximum": 5},
+    "review_status": {"type": "string", "enum": ["draft", "reviewed"]},
+    "reviewed_by": {"type": ["string", "null"]},
+    "reviewed_on": {"type": ["string", "null"]}
+  }
+}

@@ -1,50 +1,73 @@
 # jgct-ai
 
-Open knowledge base, literature monitor and genomic lookup tools for juvenile granulosa cell tumor (JGCT), built with AI.
+A comprehensive, centralized knowledge base on juvenile granulosa cell tumor (JGCT), built and kept current by a headless Claude Code run that receives the same prompt every month, reads this repository as its memory, does the next slice of research, and opens a pull request for human review.
 
-JGCT is a rare ovarian sex cord-stromal tumor that occurs mostly in children and young women. Fewer than 450 papers mention it. The largest molecular study covers 31 tumors. There is no public dataset to train a model on, so this project does the thing AI is actually good at today for a rare disease: reading everything, structuring it, and keeping watch.
+JGCT is a rare ovarian sex cord-stromal tumor that occurs mostly in children and young women. A few hundred papers mention it. The largest molecular study covers 31 tumors. Knowledge about it is scattered across journals, conference abstracts, registries, guidelines, and databases that nobody has pulled together. This repository pulls it together.
 
-> **Disclaimer:** Nothing in this repository is medical advice. The genomic lookups generate hypotheses for discussion with a treating oncologist, not treatment recommendations. Every AI-extracted record is marked as a draft until a human has checked it against the source paper.
+> **Disclaimer:** Nothing here is medical advice. Records describe what sources report. The genomic lookups generate hypotheses for discussion with a treating oncologist. Every AI-written record is a draft until a human has checked it against its source.
 
-## What is here
+## How it works
 
-| Part | Directory | What it does |
-|---|---|---|
-| Knowledge base | `knowledge/` | One YAML record per paper, in a fixed schema, with a review status. `build_index.py` renders them into `INDEX.md` and `ALTERATIONS.md`. |
-| Literature monitor | `monitor/` | Weekly GitHub Action that queries PubMed and ClinicalTrials.gov for new JGCT papers and trials, summarizes them with Claude, and opens an issue. |
-| Genomic lookup | `genomics/` | Pulls every granulosa cell tumor sample in public cBioPortal studies, separates adult-type from likely juvenile-type using the FOXL2 C134W marker, and annotates recurrent JGCT genes against CIViC. |
-| Extractor | `extract/` | Turns a PubMed ID into a draft knowledge record using Claude structured outputs. |
+```
+monthly cron ──▶ scripts/research.sh ──▶ claude -p prompts/research.md ──▶ edits knowledge/ and state/
+                       │                                                            │
+                       └── validate, build indexes, commit, open PR ◀───────────────┘
+                                                │
+                                     human review and merge to main
+```
 
-## Quick start
+- **The prompt never changes.** It is `prompts/research.md`: research all sources on JGCT, organize them into this knowledge base, take into account what is already here.
+- **The repository is the memory.** `state/ledger.json` records every source processed. `state/backlog.json` is the to-do list. `state/runs/` holds each run's report. `knowledge/` is the base itself.
+- **The procedure is a skill.** `.claude/skills/research-sweep/SKILL.md` is the step-by-step method. `CLAUDE.md` holds the standing rules. `sources/index.md` says where to look. `sources/credibility.md` says how to rate what it finds.
+- **The script owns git.** The model cannot run git or gh. The script validates every record against the schema, rebuilds the generated indexes, commits to a dated branch, and opens one pull request whose body is the run report.
+- **Humans own main.** Branch protection requires a pull request and a reviewer. Merging is the review.
+- **Starting from empty works.** The first runs work through the backlog until it is empty. Later runs find only what is new. Same prompt, same procedure.
+
+## Layout
+
+| Path | Contents |
+|---|---|
+| `knowledge/records/` | One YAML record per source, in `knowledge/schema/record.schema.json` |
+| `knowledge/INDEX.md`, `ALTERATIONS.md`, `TREATMENTS.md` | Generated from records |
+| `knowledge/SUMMARY.md` | Narrative synthesis, rewritten each run, every fact cited to a record |
+| `sources/` | Source index and credibility rubric |
+| `state/` | Ledger, backlog, run reports |
+| `tools/` | Monitor, Europe PMC, genomic lookup, extractor, validator, ledger, index builder |
+| `scripts/research.sh` | The sweep runner |
+| `prompts/research.md` | The fixed prompt |
+| `.claude/` | Settings with the domain allow-list, and the research-sweep skill |
+
+## Running it
+
+**In GitHub Actions.** Add an `ANTHROPIC_API_KEY` repository secret. The `Research sweep` workflow runs on the first of each month and can be triggered by hand with a dollar cap and model choice. The `Literature monitor` workflow runs weekly, costs almost nothing, and opens an issue when something new appears.
+
+**Locally.**
 
 ```bash
 pip install -r requirements.txt
-
-# Genomic lookup: no API key needed, hits public cBioPortal and CIViC
-python genomics/gct_lookup.py
-
-# Literature monitor, dry run (no issue, no summaries unless ANTHROPIC_API_KEY is set)
-python monitor/monitor.py --dry-run --backfill 5
-
-# Draft a knowledge record for one paper (needs ANTHROPIC_API_KEY)
-python extract/extract_paper.py 35031544
-
-# Rebuild the index after adding or reviewing records
-python knowledge/build_index.py
+npm install -g @anthropic-ai/claude-code
+export ANTHROPIC_API_KEY=...
+DRY_RUN=1 MAX_BUDGET_USD=5 scripts/research.sh   # commits to a local branch, no push, no PR
 ```
 
-## Known JGCT biology, in one paragraph
+**Tools on their own.** No API key needed for any of these.
 
-Unlike adult granulosa cell tumor, which carries the FOXL2 p.C134W mutation in about 97 percent of cases, JGCT does not. Reported recurrent alterations include KMT2C truncating mutations, SWI/SNF chromatin remodeling genes, hotspot AKT1 in-frame duplications, DICER1 mutations, TERT rearrangements with CLPTM1L or DROSHA in about 13 percent, GNAS hotspot mutations, and IDH1 R132 in the setting of Ollier disease or Maffucci syndrome. Genome-wide methylation cleanly separates juvenile from adult tumors. See `knowledge/ALTERATIONS.md` for the sourced table.
+```bash
+python3 tools/genomics/gct_lookup.py               # public cBioPortal and CIViC snapshot
+python3 tools/monitor/monitor.py --dry-run         # new PubMed papers and trials
+python3 tools/europepmc.py search '"juvenile granulosa cell tumor"' --preprints
+python3 tools/ledger.py status
+python3 tools/validate.py && python3 tools/build_index.py
+```
 
-## Contributing
+## Reviewing a sweep
 
-Reviewing AI-drafted records against their source papers is the most valuable contribution. See `CONTRIBUTING.md`.
+Open the pull request. The body ranks additions by confidence, lowest first. For each record, open the source and check the fields. Fix anything wrong in the branch. Merge when satisfied. To mark a record as human-verified, set `review_status: reviewed` and `reviewed_by`; a sweep will never edit it again except to link conflicts.
 
 ## Licenses
 
-Code is MIT. Knowledge base content under `knowledge/` is CC BY 4.0. Source abstracts remain the property of their publishers and are not redistributed beyond what PubMed makes public.
+Code is MIT. Knowledge base content under `knowledge/` is CC BY 4.0.
 
 ## Why
 
-My daughter is seven and is being treated for JGCT. See [awesome-cancer-ai](https://github.com/mrcloudchase/awesome-cancer-ai) for the wider map of AI tools against cancer.
+My daughter is seven and is being treated for JGCT. See [awesome-cancer-ai](https://github.com/mrcloudchase/awesome-cancer-ai) for the wider map of AI against cancer.

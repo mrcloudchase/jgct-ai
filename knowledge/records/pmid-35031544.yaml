@@ -1,3 +1,10 @@
+source_id: '35031544'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35031544/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
 pmid: '35031544'
 doi: 10.1158/1078-0432.CCR-21-3394
 title: Integrated Analysis of Ovarian Juvenile Granulosa Cell Tumors Reveals Distinct Epigenetic Signatures and Recurrent TERT Rearrangements
@@ -33,11 +40,18 @@ alterations:
   frequency: null
   notes: The adult granulosa cell tumor hallmark mutation is not a feature of JGCT
 treatments: []
+presentation: []
 key_findings:
 - Largest comprehensive molecular study of JGCT to date, 31 tumors with 580-gene DNA panel, targeted RNA sequencing and EPIC methylation array
 - Genome-wide DNA methylation cleanly separates JGCT from adult granulosa cell tumor, supporting diagnostic use
 - Recurrent TERT rearrangements in 13 percent, a mechanism distinct from the TERT promoter mutations seen in adult tumors
 - Findings suggest possible targeted therapy avenues, including FGFR1 and AKT pathway
 relevance_to_jgct: Defines the current reference genomic and epigenomic landscape of JGCT and the main candidate drivers.
-review_status: reviewed
-reviewed_by: seeded from the PubMed abstract by the maintainer; full text not yet checked
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Seeded from the PubMed abstract by the maintainer; full text not yet checked.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
