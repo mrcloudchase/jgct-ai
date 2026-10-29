@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "JGCT paper record",
+  "type": "object",
+  "required": ["pmid", "title", "year", "study_type", "key_findings", "review_status"],
+  "properties": {
+    "pmid": {"type": "string"},
+    "doi": {"type": ["string", "null"]},
+    "title": {"type": "string"},
+    "journal": {"type": ["string", "null"]},
+    "year": {"type": "integer"},
+    "first_author": {"type": ["string", "null"]},
+    "study_type": {"type": "string", "enum": ["case_report", "case_series", "cohort", "genomic", "review", "trial", "registry", "other"]},
+    "n_jgct_patients": {"type": ["integer", "null"], "description": "Number of JGCT patients or tumors studied, null if not stated"},
+    "age_range": {"type": ["string", "null"], "description": "Patient age or age range as stated, e.g. '3 months to 16 years'"},
+    "alterations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["gene", "alteration"],
+        "properties": {
+          "gene": {"type": "string"},
+          "alteration": {"type": "string", "description": "e.g. 'p.C134W', 'truncating', 'rearrangement with CLPTM1L', 'in-frame duplication'"},
+          "frequency": {"type": ["string", "null"], "description": "e.g. '4/31' or '13%'"},
+          "notes": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "treatments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["regimen"],
+        "properties": {
+          "regimen": {"type": "string"},
+          "setting": {"type": ["string", "null"], "description": "e.g. 'adjuvant stage IC', 'recurrent'"},
+          "outcome": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "key_findings": {"type": "array", "items": {"type": "string"}},
+    "relevance_to_jgct": {"type": "string", "description": "One sentence on why this paper matters for JGCT specifically"},
+    "review_status": {"type": "string", "enum": ["draft", "reviewed"]},
+    "reviewed_by": {"type": ["string", "null"]}
+  }
+}

@@ -1,0 +1,43 @@
+name: Literature monitor
+
+on:
+  schedule:
+    - cron: "17 13 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Run monitor
+        id: run
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python monitor/monitor.py | tee monitor/run.log
+          echo "new=$(grep -oP 'NEW_ITEMS=\K\d+' monitor/run.log)" >> "$GITHUB_OUTPUT"
+      - name: Open issue
+        if: steps.run.outputs.new != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "JGCT monitor: ${{ steps.run.outputs.new }} new item(s), $(date -u +%Y-%m-%d)" \
+            --label monitor \
+            --body-file monitor/latest.md
+      - name: Commit state
+        run: |
+          git config user.name "jgct-ai monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add monitor/state.json
+          git diff --cached --quiet || git commit -m "monitor: update state $(date -u +%Y-%m-%d)"
+          git push
