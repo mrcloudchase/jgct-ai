@@ -1,0 +1,41 @@
+source_id: '6465418'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/6465418/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '6465418'
+doi: 10.1097/00000478-198408000-00002
+title: Juvenile granulosa cell tumor of the ovary. A clinicopathological analysis of 125 cases
+journal: The American Journal of Surgical Pathology
+year: 1984
+first_author: Young RH
+study_type: case_series
+n_jgct_patients: 125
+age_range: newborn to 67 years (average 13)
+alterations: []
+treatments: []
+presentation:
+- isosexual pseudoprecocity (82% of prepubertal patients)
+- abdominal pain or swelling (other children and most older patients)
+- menstrual irregularity or amenorrhea (reproductive age)
+- rupture before or during surgery (11%)
+- ascites (9%)
+- association with Ollier disease (2) and Maffucci syndrome (2)
+key_findings:
+- Defining clinicopathologic series of 125 ovarian JGCTs; 44% of patients were 10 or younger, 34% 11 to 20, 18% 21 to 30, 3% over 30.
+- Unilateral in 122; nearly all stage I (two IIb, one IIc); size 3 to 32 cm (average 12.5 cm); 49% solid and cystic, 37% solid, 14% cystic.
+- Histology of diffuse and follicular patterns with mucin-positive follicular secretions, luteinized granulosa cells with round dark ungrooved nuclei, mitoses under 1 to 32 per 10 HPF (average 7).
+- Of 95 with follow-up (average 5 years), 87 (92%) were alive and free of disease; 7 died of tumor 7 months to 3 years after surgery, including stage I and II cases.
+- Fatal recurrences occurred early (within 3 years) after surgery.
+relevance_to_jgct: Foundational description of JGCT morphology and behavior, the basis of the entity's definition and its association with enchondromatosis.
+conflicts_with:
+- pmid-39863551
+superseded_by: null
+retracted: false
+notes: Abstract only (truncated at 400 words in the source), retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Conflict noted with pmid-39863551 (SEER), which reports far lower survival (59%).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

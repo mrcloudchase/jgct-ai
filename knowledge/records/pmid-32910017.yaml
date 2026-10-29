@@ -1,0 +1,40 @@
+source_id: '32910017'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32910017/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '32910017'
+doi: 10.1097/PAS.0000000000001582
+title: Rare DICER1 and Absent FOXL2 Mutations Characterize Ovarian Juvenile Granulosa Cell Tumors
+journal: The American Journal of Surgical Pathology
+year: 2021
+first_author: Baillard P
+study_type: genomic
+n_jgct_patients: 47
+age_range: null
+alterations:
+- gene: DICER1
+  alteration: RNase IIIb domain mutation
+  frequency: 3/47 (6%)
+  notes: A fourth DICER1-mutant case was reclassified as gynandroblastoma with prominent JGCT component
+- gene: FOXL2
+  alteration: hotspot mutation absent
+  frequency: 0/47
+  notes: Two FOXL2-mutant cases among 50 submitted were reclassified as adult granulosa cell tumors on review
+treatments: []
+presentation: []
+key_findings:
+- Cohort of 50 tumors submitted as JGCT, 47 confirmed on pathology review, tested for FOXL2 and DICER1 mutations.
+- No confirmed JGCT carried a FOXL2 hotspot mutation; the two FOXL2-mutant tumors were reclassified as adult GCT.
+- DICER1 RNase IIIb mutations in 3 of 47 (6%) confirmed JGCT.
+relevance_to_jgct: Establishes FOXL2 mutation absence as a JGCT feature (useful against adult GCT) and quantifies DICER1 mutation as uncommon in JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Prognostic results not reported in abstract.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

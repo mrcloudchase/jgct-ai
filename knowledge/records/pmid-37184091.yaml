@@ -1,0 +1,32 @@
+source_id: '37184091'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37184091/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '37184091'
+doi: 10.1097/PAS.0000000000002049
+title: 'Sclerosis in Sex Cord-Stromal Tumors Other Than the Sclerosing Stromal Tumor: A Report of 70 Cases'
+journal: The American Journal of Surgical Pathology
+year: 2023
+first_author: Devins KM
+study_type: case_series
+n_jgct_patients: 20
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 70 ovarian sex cord-stromal tumors with at least 20% sclerosis, including 20 JGCT and 20 thecomas.
+- 19 of the 20 JGCT showed sclerosis around tumor-cell nodules creating a pseudolobular pattern; 5 JGCT also had prominent staghorn vessels, mimicking sclerosing stromal tumor at low power.
+- Paucicellular sclerosis (20% to 95% of the tumor) often obscured diagnostic features; diagnosis depends on the cellular zones, especially in limited or intraoperative material.
+relevance_to_jgct: Documents sclerosis as a diagnostic pitfall in JGCT, which can mimic sclerosing stromal tumor.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

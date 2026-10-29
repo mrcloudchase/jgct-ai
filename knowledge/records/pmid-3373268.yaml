@@ -1,0 +1,48 @@
+source_id: '3373268'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/3373268/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '3373268'
+doi: 10.1200/JCO.1988.6.6.990
+title: 'Juvenile granulosa cell tumor of the ovary in children: a clinical study of 15 cases'
+journal: Journal of Clinical Oncology
+year: 1988
+first_author: Vassal G
+study_type: case_series
+n_jgct_patients: 15
+age_range: 22 months to 15 years 7 months (median 8 years 7 months)
+alterations: []
+treatments:
+- regimen: Surgery
+  setting: primary, all patients
+  n: 15
+  outcome: 11 alive disease-free at median 6 years
+- regimen: Adjuvant chemotherapy alone
+  setting: adjuvant
+  n: 5
+  outcome: null
+- regimen: Adjuvant radiotherapy plus chemotherapy
+  setting: adjuvant
+  n: 1
+  outcome: null
+presentation:
+- precocious pseudopuberty (6 of 7 under 8 years)
+- virilization (1)
+- tumor rupture (4 of 6 stage III)
+key_findings:
+- Single-institution pediatric series of 15 JGCT (1967 to 1985), 12% of pediatric ovarian tumors there.
+- 'Wollner stage I 6, II 1, III 6 (4 ruptured), IV 1, unstaged 1.'
+- 11 alive and disease-free at median 6 years; 4 relapsed 6 to 17 months after surgery and died, 2 with bone relapse.
+- Authors report a favorable prognosis for low stage treated with surgery; best treatment for extensive or recurrent disease undetermined.
+relevance_to_jgct: Early pediatric oncology series showing early, often fatal relapse in advanced JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Uses Wollner staging, not FIGO.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

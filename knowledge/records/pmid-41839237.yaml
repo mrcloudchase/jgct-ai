@@ -1,0 +1,37 @@
+source_id: '41839237'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41839237/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '41839237'
+doi: 10.1016/j.modpat.2026.100990
+title: Evaluation of DICER1 Immunohistochemistry as a Potential Surrogate for Mutation Status in Ovarian Sex Cord-Stromal Tumors
+journal: Modern Pathology
+year: 2026
+first_author: Němejcová K
+study_type: genomic
+n_jgct_patients: 5
+age_range: null
+alterations:
+- gene: DICER1
+  alteration: no mutation; no DICER1 immunohistochemical expression
+  frequency: 0/5
+  notes: 'Compare SLCT IHC positive 21/38, steroid cell 16/21, adult GCT 4/267'
+treatments: []
+presentation: []
+key_findings:
+- 'Ovarian sex cord-stromal tumors tested for DICER1 by immunohistochemistry and sequencing: 267 adult GCT, 38 SLCT, 5 JGCT, 21 steroid/Leydig cell tumors.'
+- No JGCT showed a DICER1 mutation or DICER1 expression.
+- Using a 10% cutoff, IHC had 90.5% sensitivity and 92.1% specificity for DICER1 mutation overall, best suited to SLCT and adult GCT.
+- In steroid cell tumors DICER1 expression was common but unrelated to mutation.
+relevance_to_jgct: Adds a small series in which JGCT were DICER1 wild-type and IHC-negative, relevant to how often DICER1 drives JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). DICER1 in JGCT varies across small series (0/5 here, 0/7 in pmid-42706059, 2/10 anaplastic JGCT in pmid-41036825); counts too small to call a material conflict.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

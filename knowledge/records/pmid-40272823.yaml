@@ -1,0 +1,68 @@
+source_id: '40272823'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/40272823/
+retrieved_on: '2026-10-29'
+full_text_read: true
+language: en
+pmid: '40272823'
+doi: 10.1002/cncr.35861
+title: 'Testicular and ovarian Juvenile granulosa cell tumors in children and adolescents: Analysis of 113 patients registered to the German Registry for Rare Pediatric Tumors (STEP)'
+journal: Cancer
+year: 2025
+first_author: Schneider DT
+study_type: registry
+n_jgct_patients: 113
+age_range: 'testicular: birth to 12 months (median 16 days); ovarian: birth to 18 years (median 9.8 years)'
+alterations: []
+treatments:
+- regimen: Surgery alone with watch-and-wait (3-monthly follow-up)
+  setting: ovarian, mostly FIGO IA and IC1
+  n: 67
+  outcome: 2 relapses among 65 watch-and-wait patients with complete data, both initially stage IA
+- regimen: PEI (cisplatin 100 mg/m2, etoposide 300 mg/m2, ifosfamide 7500 mg/m2 per cycle), up to 4 cycles, per MAKEI 96
+  setting: adjuvant, recommended for ovarian FIGO IC2, IC3, II, III
+  n: 21
+  outcome: 13 of 18 IC2/IC3 and all 5 II/III received chemotherapy; no relapse in IC2/IC3; 1 relapse in stage II
+- regimen: Orchiectomy (one partial orchiectomy)
+  setting: testicular, all stage I
+  n: 23
+  outcome: no relapse at median 95 months follow-up
+- regimen: LH-RH blockade with buserelin
+  setting: bilateral diffuse testicular JGCT in an infant
+  n: 1
+  outcome: histologically tumor free after 14 months
+- regimen: 'Salvage: surgery plus PEI, BEP, JEB, radiotherapy, high-dose chemotherapy with autologous stem cell transplant, carboplatin/paclitaxel/bevacizumab, regional deep hyperthermia (varied)'
+  setting: relapsed ovarian JGCT
+  n: 4
+  outcome: 2 in second or third complete remission, 2 died of disease
+presentation:
+- 'ovarian: abdominal pain (56%)'
+- 'ovarian: abdominal swelling (42%)'
+- 'ovarian: isosexual precocious puberty (71% of patients under 8 years)'
+- 'ovarian: abnormal vaginal bleeding (28%)'
+- 'ovarian: secondary amenorrhea (15% of patients 8 years and older)'
+- 'ovarian: ovarian torsion (6%)'
+- 'ovarian: hirsutism (4%)'
+- 'testicular: painless scrotal swelling in infancy without hormonal signs'
+- 'ovarian: inhibin B elevated in measured patients (10 to 2284 ng/L in 11 patients), normalizing after resection'
+key_findings:
+- Largest prospective pediatric JGCT cohort reported, 113 patients (89 ovarian, 24 testicular) registered 2001 to 2019 in Germany, Austria and Switzerland with central pathology review and consultation.
+- Testicular JGCT occurred only in the first year of life, were all stage I, and none relapsed after orchiectomy at median 95 months follow-up.
+- 'Ovarian JGCT stage distribution: IA 52 (58%), IC1 14, IC2/IC3 18, II/III 5; no distant or lymph node metastases at diagnosis.'
+- 'Ovarian JGCT 5-year event-free survival 0.95 +/- 0.03 and overall survival 0.97 +/- 0.02 at median 53 months; 4 relapses and 2 deaths.'
+- All four relapses had high mitotic activity (20 to 67 mitoses per 10 HPF); EFS was 1.0 (61/61) with under 20 mitoses per 10 HPF versus 0.85 (24/28) with higher counts (log-rank p = .032); stage was not significantly associated with outcome in this cohort.
+- Three of four relapsing patients had organ-sparing surgery (enucleation or partial ovariectomy); authors suggest organ-sparing surgery in ovarian JGCT be undertaken with caution.
+- Compared with the historical MAKEI cohort (45 patients, 5-year OS 88%, IC2 OS 50%), restricting adjuvant chemotherapy to IC2 or higher was associated with OS 100% in IC2/IC3 and 97% overall.
+relevance_to_jgct: Defines the current European risk-stratification approach (chemotherapy for preoperative rupture or spread, observation for IA and IC1) and identifies mitotic rate and incomplete or organ-sparing surgery as relapse risk factors in ovarian JGCT.
+conflicts_with:
+- pmid-39561630
+- pmid-39863551
+- pmid-40267023
+superseded_by: null
+retracted: false
+notes: Full text read via Europe PMC open access. STEP registry is NCT05773651. The authors frame testicular JGCT as possibly developmental with low malignant potential. Cites EXPeRT/PARTNER consensus recommendations (Pediatr Blood Cancer 2021;68 suppl 4:e29017) and TGM13 registry (Pediatr Blood Cancer 2024;71:e30864).
+confidence: 5
+review_status: draft
+reviewed_by: null
+reviewed_on: null

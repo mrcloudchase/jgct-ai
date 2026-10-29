@@ -1,0 +1,64 @@
+source_id: '42706059'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/42706059/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: zh
+pmid: '42706059'
+doi: 10.3760/cma.j.cn112141-20260128-00076
+title: '[Clinicopathological analysis of 18 cases of ovarian juvenile granulosa cell tumor]'
+journal: Zhonghua Fu Chan Ke Za Zhi
+year: 2026
+first_author: Huang Y
+study_type: case_series
+n_jgct_patients: 18
+age_range: 5 to 30 years (median 14)
+alterations:
+- gene: FOXL2
+  alteration: hotspot wild-type
+  frequency: 0/7 tested
+  notes: null
+- gene: DICER1
+  alteration: hotspot wild-type
+  frequency: 0/7 tested
+  notes: null
+- gene: TP53
+  alteration: nonsense mutation
+  frequency: 1/7 tested
+  notes: In the one recurrent patient, with CDKN2A missense mutation; interpreted as anaplastic JGCT
+- gene: CDKN2A
+  alteration: missense mutation
+  frequency: 1/7 tested
+  notes: Same recurrent patient as the TP53 mutation
+treatments:
+- regimen: Fertility-preserving surgery
+  setting: primary, all FIGO stage I
+  n: 18
+  outcome: 1 recurrence (pelvic and abdominal metastasis at 23 months); median follow-up 75.6 months
+- regimen: Platinum-based adjuvant chemotherapy (BEP in 5, PVB in 1)
+  setting: adjuvant
+  n: 6
+  outcome: null
+presentation:
+- abnormal vaginal bleeding (8/17)
+- abdominal pain and distension (6/17)
+- pelvic mass (3/17)
+- ascites or pelvic effusion (5/18)
+- CA125 above 35 kU/L (7 cases)
+- some tumors purely cystic, a source of misdiagnosis
+key_findings:
+- Single-centre Chinese series of 18 JGCTs (2009 to 2025), all unilateral and FIGO stage I (IA 10, IC 8), median diameter 10 cm.
+- All tumors expressed more than one sex cord-stromal marker and were EMA negative; Ki-67 ranged 5% to 60%.
+- FOXL2 and DICER1 hotspots were wild-type in all 7 tested cases.
+- One patient recurred at 23 months and carried TP53 nonsense and CDKN2A missense mutations, interpreted as anaplastic JGCT.
+- After fertility-preserving surgery, 4 of 6 premenarchal patients had regular menses, 2 patients later gave birth.
+relevance_to_jgct: Recent Asian JGCT series supporting fertility-sparing surgery in stage I and linking recurrence with TP53-mutant anaplastic histology.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Article in Chinese; English abstract retrieved from the PubMed page via WebFetch (model-assisted extraction).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

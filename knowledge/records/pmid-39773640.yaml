@@ -1,0 +1,50 @@
+source_id: '39773640'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39773640/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '39773640'
+doi: 10.1186/s13000-025-01599-1
+title: Complex immunohistochemical and molecular study on 5 cases of ovarian juvenile granulosa cell tumors reveals a consistent alteration in the PI3K/AKT/mTOR signaling pathway
+journal: Diagnostic Pathology
+year: 2025
+first_author: Šafanda A
+study_type: genomic
+n_jgct_patients: 5
+age_range: null
+alterations:
+- gene: AKT1
+  alteration: internal tandem duplication
+  frequency: 2/5
+  notes: null
+- gene: PTEN
+  alteration: loss of protein expression (immunohistochemistry) without mutation, deletion or promoter hypermethylation
+  frequency: all AKT1 wild-type tumors
+  notes: Proposed alternative PI3K/AKT/mTOR activation mechanism
+- gene: TERT
+  alteration: mutation
+  frequency: within 2/5 (TERT and EP400 mutations in two cases)
+  notes: Both cases with TERT/EP400 mutations recurred
+- gene: EP400
+  alteration: mutation
+  frequency: within 2/5
+  notes: Both cases recurred
+treatments: []
+presentation: []
+key_findings:
+- Five ovarian JGCTs studied with 32 immunohistochemical markers and molecular analysis.
+- All expressed calretinin, inhibin A, SF1, FOXL2, CD99, CKAE1/3, ER, PR and AR; p53 wild-type pattern, HER2 negative, PD-L1 negative, mismatch repair intact in all.
+- AKT1 internal tandem duplication in 2 tumors; PTEN protein loss in all AKT1-wild-type tumors without a detectable genetic cause.
+- The two cases with TERT and EP400 mutations both recurred.
+- Authors conclude PI3K/AKT/mTOR activation is consistent in JGCT and may have therapeutic implications.
+relevance_to_jgct: Suggests PI3K/AKT/mTOR pathway activation is near-universal in JGCT via AKT1 duplication or PTEN loss, and links TERT alterations to recurrence.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Open access (PMC11707838); full text not read this run. TERT alteration here is a mutation, while pmid-35031544 reports TERT rearrangements; different mechanisms, not treated as a conflict.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

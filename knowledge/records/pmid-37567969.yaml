@@ -1,0 +1,40 @@
+source_id: '37567969'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37567969/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '37567969'
+doi: 10.1038/s43856-023-00341-6
+title: 'Early-onset gynecological tumors in DNA repair-deficient xeroderma pigmentosum group C patients: a case series'
+journal: Communications Medicine
+year: 2023
+first_author: Yurchenko AA
+study_type: case_series
+n_jgct_patients: 1
+age_range: 11 to 19 years (JGCT patient 19)
+alterations:
+- gene: XPC
+  alteration: germline biallelic inactivation
+  frequency: 4/4 patients
+  notes: Xeroderma pigmentosum group C
+- gene: DICER1
+  alteration: somatic mutation
+  frequency: reported in the tumors (per-tumor counts not in abstract)
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- Four XP-C patients aged 11 to 19 developed five early-onset gynecological tumors, including one ovarian JGCT in a 19-year-old who also had a poorly differentiated stage IA Sertoli-Leydig cell tumor.
+- Tumors carried somatic DICER1 mutations; XP-C ovarian tumors had 4.4 times more single base substitutions than sporadic tissue-matched cancers, with an XP-C-specific signature.
+- Authors recommend considering XP-C status in prevention and treatment and avoided chemotherapy, which is toxic in XP patients.
+relevance_to_jgct: Identifies xeroderma pigmentosum group C as a possible predisposition context for JGCT, with treatment implications because chemotherapy is toxic in XP.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Whether the JGCT itself carried a DICER1 mutation is not stated in the abstract.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,43 @@
+source_id: '33725665'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33725665/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '33725665'
+doi: 10.1016/j.anndiagpath.2021.151721
+title: 'Juvenile granulosa cell tumor of the ovary: A comprehensive clinicopathologic analysis of 15 cases'
+journal: Annals of Diagnostic Pathology
+year: 2021
+first_author: Parikshaa G
+study_type: case_series
+n_jgct_patients: 15
+age_range: mean 17 years
+alterations: []
+treatments:
+- regimen: Unilateral salpingo-oophorectomy without adjuvant chemotherapy
+  setting: primary
+  n: null
+  outcome: null
+- regimen: Hysterectomy with bilateral salpingo-oophorectomy plus adjuvant BEP
+  setting: primary
+  n: null
+  outcome: null
+presentation:
+- abdominal pain and distension (most common)
+- precocious puberty (3 of 5 premenarchal)
+key_findings:
+- JGCT made up 15 of 115 (13%) granulosa cell tumors reported 2011 to 2019; mean age 17, 80% stage I.
+- Tumors were mostly unilateral, solid-cystic, 4 to 20 cm, with macrofollicular architecture in 80% and 1 to 10 mitoses per 10 HPF.
+- Less common features included microcystic and tubulo-cystic patterns, myxoid change, bizarre giant cells, hobnailing and hyaline globules, which can look alarming.
+- Authors note good outcome when diagnosed at an early stage.
+relevance_to_jgct: Describes the morphologic variability of JGCT, a source of diagnostic difficulty.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Abstract gives no outcome numbers or institution country.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,33 @@
+source_id: '41617645'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41617645/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '41617645'
+doi: 10.1177/10935266251414780
+title: 'Sex Cord-Stromal Tumours in Children: A Case Series'
+journal: Pediatric and Developmental Pathology
+year: 2026
+first_author: Okiro P
+study_type: case_series
+n_jgct_patients: null
+age_range: under 16 years
+alterations: []
+treatments: []
+presentation:
+- precocious puberty (common)
+key_findings:
+- Retrospective series of 9 pediatric sex cord-stromal tumors (8 female, 1 male Leydig cell tumor) addressing limited data on these tumors in African children.
+- JGCT was the most prevalent ovarian subtype; precocious puberty was a common presentation.
+- The abstract does not give the JGCT count, treatment, or outcomes.
+relevance_to_jgct: One of few reports of pediatric JGCT from an African population.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). One fetch summary described the setting as a Kenyan hospital but the second did not name a country; treat the country as unconfirmed until the full text is checked.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null

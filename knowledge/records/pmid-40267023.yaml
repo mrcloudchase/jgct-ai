@@ -1,0 +1,39 @@
+source_id: '40267023'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/40267023/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '40267023'
+doi: 10.1002/cncr.35862
+title: 'Ovarian juvenile granulosa cell tumor: A report from the International Ovarian and Testicular Stromal Tumor and International Pleuropulmonary Blastoma/DICER1 Registries'
+journal: Cancer
+year: 2025
+first_author: Harris AK
+study_type: registry
+n_jgct_patients: 70
+age_range: null
+alterations: []
+treatments:
+- regimen: Platinum-based adjuvant chemotherapy (specific regimens not in abstract)
+  setting: adjuvant
+  n: 21
+  outcome: null
+presentation: []
+key_findings:
+- International OTST and PPB/DICER1 Registry cohort of 70 ovarian JGCT diagnosed 2001 to 2024; 57 of 70 (81%) were FIGO 2014 stage I.
+- 21 of 70 (30%) received platinum-based adjuvant chemotherapy.
+- '3-year EFS: stage IA 80.2%, IC1 87.4%, IC2-IC3 63.6%, II-IV 48%.'
+- Every patient with recurrence and known mitotic index had more than 19 mitoses per 10 HPF at diagnosis.
+- Outcomes were worse with FIGO stage IC2 or higher and with more than 19 mitoses per 10 HPF; authors strongly recommend mitotic index assessment for all JGCT.
+relevance_to_jgct: Largest North American registry report on ovarian JGCT; independently identifies high mitotic index (above 19 per 10 HPF) and stage IC2 or higher as adverse factors.
+conflicts_with:
+- pmid-40272823
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction); PMC12305807 is listed but full text was not returned. Conflict with pmid-40272823 on event-free survival by stage (3-year EFS 80.2% in stage IA here vs 48 of 52 stage IA patients relapse-free after observation in STEP) and on whether stage predicts outcome. Both agree on mitotic index above 19 per 10 HPF.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

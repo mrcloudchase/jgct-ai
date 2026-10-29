@@ -1,0 +1,51 @@
+source_id: '39561630'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39561630/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '39561630'
+doi: 10.1016/j.ygyno.2024.11.007
+title: Oncologic and fertility outcomes in patients with juvenile granulosa cell tumor - a retrospective single-centre study
+journal: Gynecologic Oncology
+year: 2025
+first_author: Marino G
+study_type: cohort
+n_jgct_patients: 30
+age_range: median age at onset 21.5
+alterations: []
+treatments:
+- regimen: Fertility-sparing surgery
+  setting: primary
+  n: 26
+  outcome: null
+- regimen: Radical surgery
+  setting: primary
+  n: 4
+  outcome: null
+- regimen: Adjuvant chemotherapy (regimen not stated in abstract)
+  setting: adjuvant
+  n: 6
+  outcome: null
+- regimen: Surveillance only after surgery
+  setting: post-surgical
+  n: 24
+  outcome: null
+presentation: []
+key_findings:
+- Retrospective single-centre series of 30 ovarian JGCT patients treated 1980 to 2024 at IRCCS San Gerardo dei Tintori, Monza, Italy.
+- 'Stage I 24/30 (80%; reported as IA 16, IB 1, IC 7 of 26), stage II 2/30, stage III 4/30.'
+- Fertility-sparing surgery in 26/30 (86.7%); adjuvant chemotherapy in 6/30 (20%), surveillance in 24/30.
+- Three of 30 (10%) relapsed and died of disease despite multimodal therapy; all three had advanced stage at diagnosis.
+- Authors conclude stage I JGCT has a good prognosis while advanced stage carries high relapse and mortality.
+relevance_to_jgct: Adult-centre series with an older median age than pediatric registries, supporting fertility-sparing surgery in early stage and identifying advanced stage as the main adverse factor.
+conflicts_with:
+- pmid-40272823
+superseded_by: null
+retracted: false
+notes: Abstract retrieved from the PubMed page via WebFetch (model-assisted extraction); not open access. Abstract substage counts use a denominator of 26 while stage I is 24/30, an internal inconsistency in the source. Fertility outcomes named in the title are not reported in the abstract. Conflict noted with pmid-40272823 on prognostic weight of stage (here all deaths were advanced stage; there stage was not significantly associated with outcome and 3 of 4 relapses were stage IA).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

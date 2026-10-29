@@ -1,0 +1,50 @@
+source_id: '26076062'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26076062/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '26076062'
+doi: 10.1097/PAS.0000000000000450
+title: 'Juvenile granulosa cell tumors of the testis: a clinicopathologic study of 70 cases with emphasis on its wide morphologic spectrum'
+journal: The American Journal of Surgical Pathology
+year: 2015
+first_author: Kao CS
+study_type: case_series
+n_jgct_patients: 70
+age_range: 30 weeks gestation to 10 years (60 of 67 aged 6 months or younger)
+alterations: []
+treatments:
+- regimen: Gonadectomy
+  setting: primary
+  n: 62
+  outcome: all patients with follow-up free of disease
+- regimen: Wedge excision
+  setting: primary, testis-sparing
+  n: 6
+  outcome: 4 of 6 wedge or biopsy-only patients had follow-up and no evidence of disease
+- regimen: Biopsy only
+  setting: primary
+  n: 2
+  outcome: see wedge excision
+presentation:
+- testicular mass (65%)
+- enlarging testis (25%)
+- elevated serum AFP in 6 of 14 tested, likely physiologic
+- undescended testis (6) or dysgenetic gonads (2)
+- gynecomastia (1)
+key_findings:
+- Seventy testicular JGCTs, nearly all in infants; size 0.5 to 5 cm (median 1.5 cm).
+- Characteristic lobular growth with follicles in 67 cases; wide morphologic spectrum including solid, reticular, regressed and rare patterns that can mimic yolk sac tumor.
+- 'Immunohistochemistry: inhibin 16/18, calretinin 8/9, WT1 6/7, FOXL2 12/12, SF-1 12/12, SOX9 6/11; SALL4 and glypican-3 negative.'
+- All 24 patients with follow-up (median 61 months) had no evidence of disease despite frequent mitoses (37%); authors support testis-sparing surgery where feasible.
+relevance_to_jgct: Largest testicular JGCT pathology series; documents benign behavior and immunohistochemical separation from yolk sac tumor.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

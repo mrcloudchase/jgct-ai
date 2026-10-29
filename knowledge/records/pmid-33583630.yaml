@@ -1,0 +1,45 @@
+source_id: '33583630'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33583630/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '33583630'
+doi: 10.1016/j.ejso.2021.02.003
+title: 'Stage I juvenile granulosa cell tumors of the ovary: A multicentre analysis from the MITO-9 study'
+journal: European Journal of Surgical Oncology
+year: 2021
+first_author: Bergamini A
+study_type: cohort
+n_jgct_patients: 17
+age_range: null
+alterations: []
+treatments:
+- regimen: Fertility-sparing surgery (unilateral salpingo-oophorectomy 11, cystectomy then USO 2, cystectomy alone 2)
+  setting: stage I, primary
+  n: 15
+  outcome: no recurrences at median 80 months (whole cohort)
+- regimen: Laparoscopic surgery
+  setting: stage I, primary
+  n: 7
+  outcome: no recurrences (whole cohort)
+- regimen: Adjuvant chemotherapy (regimen not stated)
+  setting: stage I
+  n: 2
+  outcome: null
+presentation: []
+key_findings:
+- Italian multicentre MITO-9 analysis of 17 stage I ovarian JGCTs.
+- Fertility-sparing surgery in 15 (88%), laparoscopic approach in 7 (41%); 2 received adjuvant chemotherapy.
+- No recurrences at a median follow-up of 80 months.
+- Authors conclude minimally invasive and fertility-sparing surgery appear safe in stage I, the role of cystectomy needs validation, and data do not seem to favor adjuvant chemotherapy over surveillance in stage I.
+relevance_to_jgct: Supports fertility-sparing and minimally invasive surgery without routine adjuvant chemotherapy for stage I JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Note pmid-40272823 found 3 of 4 relapses after organ-sparing surgery (enucleation or partial ovariectomy) in high-mitotic tumors; this cohort had no relapses including 2 cystectomy-only patients. Small numbers; not recorded as a formal conflict.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

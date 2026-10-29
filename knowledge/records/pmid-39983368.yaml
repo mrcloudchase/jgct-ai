@@ -1,0 +1,37 @@
+source_id: '39983368'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39983368/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '39983368'
+doi: 10.1016/j.ijgc.2025.101668
+title: Controversies in the management of ovarian granulosa cell and Sertoli-Leydig cell tumors
+journal: International Journal of Gynecological Cancer
+year: 2025
+first_author: Friedlander ML
+study_type: review
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: c.402C>G missense
+  frequency: almost all adult granulosa cell tumors
+  notes: Described for adult GCT; abstract makes no JGCT-specific statement
+treatments: []
+presentation: []
+key_findings:
+- Narrative review of management controversies in adult and juvenile granulosa cell tumors and Sertoli-Leydig cell tumors, focused mainly on adult granulosa cell tumors.
+- Up to 30% of historical adult GCT diagnoses were reassigned on contemporary review; the FOXL2 c.402C>G mutation improved diagnostic accuracy from 2009.
+- Fertility-sparing surgery is recommended for younger patients with stage 1 sex cord-stromal tumors; the role of adjuvant chemotherapy in high-risk stage I disease is controversial, with conflicting guideline recommendations.
+- Calls for international collaboration, prospective data and randomized trials.
+relevance_to_jgct: Gynecologic-oncology perspective on the limited evidence base shared by JGCT, notably for adjuvant chemotherapy in stage I disease.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from PubMed via WebFetch (model-assisted extraction). The abstract contains no JGCT-specific findings; full text needed for its JGCT section.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null

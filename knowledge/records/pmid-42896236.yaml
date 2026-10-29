@@ -1,0 +1,40 @@
+source_id: '42896236'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/42896236/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '42896236'
+doi: 10.1097/PGP.0000000000001220
+title: Novel Somatic Co-occurrence of IDH1 and TENT5C Mutations in Juvenile Granulosa Cell Tumor With Sertoli Elements Occurring in Ollier Disease
+journal: International Journal of Gynecological Pathology
+year: 2026
+first_author: El Laham N
+study_type: case_report
+n_jgct_patients: 1
+age_range: adult woman (age not stated in abstract)
+alterations:
+- gene: IDH1
+  alteration: p.R132C
+  frequency: 1/1
+  notes: Somatic; patient has Ollier disease
+- gene: TENT5C
+  alteration: mutation (variant not stated in abstract)
+  frequency: 1/1
+  notes: Somatic; authors note TENT5C is not established as a recurrent driver in ovarian SCST
+treatments: []
+presentation: []
+key_findings:
+- Ovarian JGCT with a minor Sertoli-like component in a woman with Ollier disease.
+- Somatic IDH1 R132C co-occurred with a somatic TENT5C mutation.
+- Authors propose TENT5C alteration as a possible additional event alongside IDH1-associated mosaicism.
+relevance_to_jgct: Adds to evidence linking IDH1 R132C mosaicism (Ollier disease) to JGCT and reports a novel co-mutation.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Title from Europe PMC search metadata.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,5 +1,37 @@
 {
  "items": {
+  "10.1186/1687-9856-2013-S1-P80": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "Precocious puberty and ovarian tumors - 2 case reports (Int J Pediatr Endocrinol 2013 suppl, ISPED abstract)",
+   "priority": 3,
+   "source_type": "doi",
+   "status": "pending",
+   "tier": "conference_abstract",
+   "url": "https://doi.org/10.1186/1687-9856-2013-S1-P80"
+  },
+  "10.21203/rs.3.rs-41266/v1": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "Gender dysphoria disrupting treatment of recurrent JGCT in an adolescent: case report (Research Square preprint, 2020)",
+   "priority": 3,
+   "source_type": "doi",
+   "status": "pending",
+   "tier": "preprint",
+   "url": "https://doi.org/10.21203/rs.3.rs-41266/v1"
+  },
+  "10.22541/au.172445613.39123498/v1": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "Secondary ovarian germ cell tumor after Wilms tumor (preprint 2024); EPMC phrase hit, likely not JGCT",
+   "priority": 3,
+   "reason": "Germ cell tumor case; title shows it is not a JGCT source",
+   "source_type": "doi",
+   "status": "skipped",
+   "tier": "preprint",
+   "updated_on": "2026-10-29",
+   "url": "https://doi.org/10.22541/au.172445613.39123498/v1"
+  },
   "1014997": {
    "added_on": "2026-10-29",
    "needs_index_approval": false,
@@ -170,10 +202,12 @@
     "Case Reports",
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-11277661.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Management of recurrent juvenile granulosa cell tumor of the ovary.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/11277661/",
    "year": "2001"
   },
@@ -417,6 +451,24 @@
    "tier": "peer_reviewed",
    "title": "Adult type granulosa cell tumor causing precocious pseudopuberty in a 6 year-old girl.",
    "url": "https://pubmed.ncbi.nlm.nih.gov/12793611/",
+   "year": "2003"
+  },
+  "12805338": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "MAKEI ovarian SCST in children and adolescents (JCO 2003), cited by STEP 2025",
+   "priority": 2,
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "record": "knowledge/records/pmid-12805338.yaml",
+   "source_type": "pmid",
+   "status": "done",
+   "tier": "peer_reviewed",
+   "title": "Ovarian sex cord-stromal tumors in children and adolescents.",
+   "updated_on": "2026-10-29",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12805338/",
    "year": "2003"
   },
   "12808064": {
@@ -2024,10 +2076,12 @@
     "Journal Article",
     "Research Support, Non-U.S. Gov't"
    ],
+   "record": "knowledge/records/pmid-21623383.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Prognostic significance of FOXL2 mutation and mRNA expression in adult and juvenile granulosa cell tumors of the ovary.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/21623383/",
    "year": "2011"
   },
@@ -2458,10 +2512,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-24300529.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Juvenile granulosa cell tumors: immunoreactivity for CD99 and Fli-1 and EWSR1 translocation status: a study of 11 cases.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/24300529/",
    "year": "2014"
   },
@@ -2927,10 +2983,12 @@
     "Journal Article",
     "Multicenter Study"
    ],
+   "record": "knowledge/records/pmid-26076062.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Juvenile granulosa cell tumors of the testis: a clinicopathologic study of 70 cases with emphasis on its wide morphologic spectrum.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/26076062/",
    "year": "2015"
   },
@@ -3043,10 +3101,12 @@
     "Journal Article",
     "Research Support, Non-U.S. Gov't"
    ],
+   "record": "knowledge/records/pmid-26362254.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Molecular analyses of juvenile granulosa cell tumors bearing AKT1 mutations provide insights into tumor biology and therapeutic leads.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/26362254/",
    "year": "2015"
   },
@@ -3728,10 +3788,12 @@
     "Journal Article",
     "Research Support, Non-U.S. Gov't"
    ],
+   "record": "knowledge/records/pmid-30728165.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Outcomes of fertility-sparing surgery in ovarian juvenile granulosa cell tumor.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/30728165/",
    "year": "2019"
   },
@@ -4133,10 +4195,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-32910017.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Rare DICER1 and Absent FOXL2 Mutations Characterize Ovarian Juvenile Granulosa Cell Tumors.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/32910017/",
    "year": "2021"
   },
@@ -4245,10 +4309,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-33583630.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Stage I juvenile granulosa cell tumors of the ovary: A multicentre analysis from the MITO-9 study.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/33583630/",
    "year": "2021"
   },
@@ -4276,10 +4342,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-33725665.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Juvenile granulosa cell tumor of the ovary: A comprehensive clinicopathologic analysis of 15 cases.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/33725665/",
    "year": "2021"
   },
@@ -4291,10 +4359,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-3373268.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Juvenile granulosa cell tumor of the ovary in children: a clinical study of 15 cases.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/3373268/",
    "year": "1988"
   },
@@ -4312,6 +4382,25 @@
    "tier": "peer_reviewed",
    "title": "Case of fetal ovarian juvenile granulosa cell tumor: Complications and management.",
    "url": "https://pubmed.ncbi.nlm.nih.gov/33754426/",
+   "year": "2021"
+  },
+  "33760357": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "EXPeRT/PARTNER consensus recommendations for SCST in children and adolescents (PBC 2021)",
+   "priority": 1,
+   "pubtypes": [
+    "Consensus Statement",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "record": "knowledge/records/pmid-33760357.yaml",
+   "source_type": "pmid",
+   "status": "done",
+   "tier": "guideline",
+   "title": "Consensus recommendations from the EXPeRT/PARTNER groups for the diagnosis and therapy of sex cord stromal tumors in children and adolescents.",
+   "updated_on": "2026-10-29",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33760357/",
    "year": "2021"
   },
   "33789803": {
@@ -4369,10 +4458,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-33904645.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Retrospective analysis of clinicopathological characteristics of 19 ovarian juvenile granulosa cell tumor cases.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/33904645/",
    "year": "2021"
   },
@@ -4527,10 +4618,12 @@
     "Journal Article",
     "Review"
    ],
+   "record": "knowledge/records/pmid-34694430.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Juvenile granulosa cell tumor in pregnancy: case series and literature review.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/34694430/",
    "year": "2022"
   },
@@ -4660,6 +4753,22 @@
    "tier": "peer_reviewed",
    "title": "[Clinical Characterization of Patients with Ovarian Mass Combined with Dysplasia of Secondary Sexual Characteristics].",
    "url": "https://pubmed.ncbi.nlm.nih.gov/35300760/",
+   "year": "2022"
+  },
+  "35338687": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "Comment on EXPeRT/PARTNER SCST consensus (PBC 2022)",
+   "priority": 1,
+   "pubtypes": [
+    "Letter",
+    "Comment"
+   ],
+   "source_type": "pmid",
+   "status": "pending",
+   "tier": "peer_reviewed",
+   "title": "Comment on: Consensus recommendations from the EXPeRT/PARTNER groups for the diagnosis and therapy of sex cord stromal tumors in children and adolescents.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35338687/",
    "year": "2022"
   },
   "35371651": {
@@ -4955,10 +5064,12 @@
     "Journal Article",
     "Research Support, Non-U.S. Gov't"
    ],
+   "record": "knowledge/records/pmid-36813116.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Testicular Juvenile Granulosa Cell Tumors Demonstrate Recurrent Loss of Chromosome 10 and Absence of Molecular Alterations Described in Ovarian Counterparts.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/36813116/",
    "year": "2023"
   },
@@ -5051,10 +5162,12 @@
     "Journal Article",
     "Review"
    ],
+   "reason": "Radiology review of ovarian SCST; abstract does not mention JGCT",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "skipped",
    "tier": "peer_reviewed",
    "title": "Sex Cord-Stromal Tumors of the Ovary.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/37169426/",
    "year": "2023"
   },
@@ -5082,10 +5195,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-37184091.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Sclerosis in Sex Cord-Stromal Tumors Other Than the Sclerosing Stromal Tumor: A Report of 70 Cases.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/37184091/",
    "year": "2023"
   },
@@ -5115,10 +5230,12 @@
     "Journal Article",
     "Research Support, Non-U.S. Gov't"
    ],
+   "record": "knowledge/records/pmid-37324278.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Ovarian juvenile granulosa cell tumors with Ollier's disease in children with IDH1 gene somatic mutation.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/37324278/",
    "year": "2023"
   },
@@ -5177,10 +5294,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-37567969.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Early-onset gynecological tumors in DNA repair-deficient xeroderma pigmentosum group C patients: a case series.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/37567969/",
    "year": "2023"
   },
@@ -5253,10 +5372,12 @@
     "Journal Article",
     "Research Support, Non-U.S. Gov't"
    ],
+   "record": "knowledge/records/pmid-37796616.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Biallelic MAD2L1BP (p31comet) mutation is associated with mosaic aneuploidy and juvenile granulosa cell tumors.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/37796616/",
    "year": "2023"
   },
@@ -5458,10 +5579,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-39215355.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "The role of stathmin expression in the differential diagnosis, prognosis, and potential treatment of ovarian sex cord-stromal tumors.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/39215355/",
    "year": "2024"
   },
@@ -5489,10 +5612,12 @@
    "pubtypes": [
     "Letter"
    ],
+   "reason": "No abstract in PubMed/Europe PMC (letter); full text paywalled; PubMed page served cookie wall",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "unreachable",
    "tier": "peer_reviewed",
    "title": "Ovarian juvenile granulosa cell tumor accompanying Oliver's disease with IDH1 gene somatic mutation: A case study and literature review.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/39271346/",
    "year": "2024"
   },
@@ -5519,10 +5644,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-39561630.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Oncologic and fertility outcomes in patients with juvenile granulosa cell tumor - a retrospective single centre analysis.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/39561630/",
    "year": "2025"
   },
@@ -5566,10 +5693,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-39773640.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Complex immunohistochemical and molecular study on 5 cases of ovarian juvenile granulosa cell tumors reveals a consistent alteration in the PI3K/AKT/mTOR signaling pathway.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/39773640/",
    "year": "2025"
   },
@@ -5582,10 +5711,12 @@
     "English Abstract",
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-39863551.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "[Clinical characteristics and prognosis of ovarian juvenile granulosa cell tumors].",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/39863551/",
    "year": "2025"
   },
@@ -5614,10 +5745,12 @@
     "Journal Article",
     "Review"
    ],
+   "record": "knowledge/records/pmid-39983368.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Controversies in the management of ovarian granulosa cell and Sertoli-Leydig cell tumors.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/39983368/",
    "year": "2025"
   },
@@ -5676,10 +5809,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-40267023.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Ovarian juvenile granulosa cell tumor: A report from the International Ovarian and Testicular Stromal Tumor and International Pleuropulmonary Blastoma/DICER1 Registries.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/40267023/",
    "year": "2025"
   },
@@ -5691,10 +5826,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-40272823.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Testicular and ovarian Juvenile granulosa cell tumors in children and adolescents: Analysis of 113 patients registered to the German Registry for Rare Pediatric Tumors (STEP).",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/40272823/",
    "year": "2025"
   },
@@ -5801,10 +5938,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-41036825.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Anaplastic Juvenile Granulosa Cell Tumor: A Report of 10 Cases of an Unemphasized Variant With Adverse Prognostic Features Characterized by TP53 Inactivation With MYC Family Amplifications.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41036825/",
    "year": "2026"
   },
@@ -5848,10 +5987,12 @@
     "Journal Article",
     "Review"
    ],
+   "record": "knowledge/records/pmid-41243833.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "DICER1 -Associated Gynecologic Neoplasms: An Update and Review.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41243833/",
    "year": "2026"
   },
@@ -5880,10 +6021,12 @@
     "Systematic Review",
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-41340166.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Paediatric Virilizing Ovarian Tumors: A Systematic Review.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41340166/",
    "year": "2026"
   },
@@ -5927,10 +6070,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-41617645.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Sex Cord-Stromal Tumours in Children: A Case Series.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41617645/",
    "year": "2026"
   },
@@ -5943,10 +6088,12 @@
     "Journal Article",
     "Case Reports"
    ],
+   "reason": "No abstract in Europe PMC; Chinese full text paywalled",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "unreachable",
    "tier": "peer_reviewed",
    "title": "[Juvenile granulosa cell tumor with IDH1 gene somatic mutation: report of a case].",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41644436/",
    "year": "2026"
   },
@@ -5990,10 +6137,12 @@
     "Journal Article",
     "Research Support, Non-U.S. Gov't"
    ],
+   "record": "knowledge/records/pmid-41839237.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Evaluation of DICER1 Immunohistochemistry as a Potential Surrogate for Mutation Status in Ovarian Sex Cord-Stromal Tumors.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41839237/",
    "year": "2026"
   },
@@ -6012,6 +6161,23 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/41887253/",
    "year": "2026"
   },
+  "42504512": {
+   "added_on": "2026-10-29",
+   "needs_index_approval": false,
+   "note": "Ovarian SCST in children and adolescents - European Standard Clinical Practice Recommendations (PBC 2026)",
+   "priority": 2,
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "record": "knowledge/records/pmid-42504512.yaml",
+   "source_type": "pmid",
+   "status": "done",
+   "tier": "guideline",
+   "title": "Ovarian Sex Cord Stromal Tumors in Children and Adolescents-The European Standard Clinical Practice Recommendations.",
+   "updated_on": "2026-10-29",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42504512/",
+   "year": "2026"
+  },
   "42706059": {
    "added_on": "2026-10-29",
    "needs_index_approval": false,
@@ -6021,10 +6187,12 @@
     "English Abstract",
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-42706059.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "[Clinicopathological analysis of 18 cases of ovarian juvenile granulosa cell tumor].",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42706059/",
    "year": "2026"
   },
@@ -6067,10 +6235,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-42896236.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Novel Somatic Co-occurrence of IDH1 and TENT5C Mutations in Juvenile Granulosa Cell Tumor With Sertoli Elements Occurring in Ollier Disease.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42896236/",
    "year": "2026"
   },
@@ -6165,10 +6335,12 @@
     "Case Reports",
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-6465418.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Juvenile granulosa cell tumor of the ovary. A clinicopathological analysis of 125 cases.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/6465418/",
    "year": "1984"
   },
@@ -6485,10 +6657,12 @@
     "Case Reports",
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-9038278.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Management of advanced juvenile granulosa cell tumor of the ovary.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/9038278/",
    "year": "1997"
   },
@@ -6579,10 +6753,12 @@
    "pubtypes": [
     "Journal Article"
    ],
+   "record": "knowledge/records/pmid-9190974.yaml",
    "source_type": "pmid",
-   "status": "pending",
+   "status": "done",
    "tier": "peer_reviewed",
    "title": "Juvenile granulosa cell tumors of the ovary in children and adolescents: results from 33 patients registered in a prospective cooperative study.",
+   "updated_on": "2026-10-29",
    "url": "https://pubmed.ncbi.nlm.nih.gov/9190974/",
    "year": "1997"
   },

@@ -1,0 +1,40 @@
+source_id: '33760357'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/33760357/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '33760357'
+doi: 10.1002/pbc.29017
+title: Consensus recommendations from the EXPeRT/PARTNER groups for the diagnosis and therapy of sex cord stromal tumors in children and adolescents
+journal: Pediatric Blood & Cancer
+year: 2021
+first_author: Schneider DT
+study_type: guideline
+n_jgct_patients: null
+age_range: children and adolescents
+alterations: []
+treatments:
+- regimen: Complete resection
+  setting: testicular SCST, virtually all localized
+  n: null
+  outcome: excellent prognosis after complete resection
+- regimen: Cisplatin-based chemotherapy
+  setting: ovarian SCST with tumor spillage or metastases
+  n: null
+  outcome: null
+key_findings:
+- Consensus of the EXPeRT and EU-funded PARTNER groups to harmonize diagnosis and treatment of pediatric testicular and ovarian sex cord-stromal tumors.
+- Management depends on histological differentiation and tumor stage; diagnosis should include reference pathology and, in selected cases, genetic testing for predisposition syndromes such as DICER1, with specific follow-up for carriers.
+- Virtually all testicular SCST are localized with excellent prognosis after complete resection; ovarian SCST prognosis may be worsened by surgical spillage.
+- Stratified adjuvant chemotherapy is recommended for unfavorable risk profiles, with cisplatin-based chemotherapy for ovarian SCST with spillage or metastases; patients should enroll in prospective registries.
+relevance_to_jgct: The 2021 pan-European consensus underpinning pediatric JGCT management in registries such as STEP.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from PubMed via WebFetch (model-assisted extraction); JGCT is not named in the abstract. A 2026 update exists (pmid-42504512). A published comment exists (PMID 35338687, not yet processed). Note STEP 2025 (pmid-40272823) states its own group restricts chemotherapy to preoperative rupture (IC2) or higher, while the abstract here says spillage, which may include intraoperative spillage; full text needed to compare.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

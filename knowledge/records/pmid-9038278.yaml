@@ -1,0 +1,35 @@
+source_id: '9038278'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9038278/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '9038278'
+doi: 10.1006/gyno.1996.4563
+title: Management of advanced juvenile granulosa cell tumor of the ovary
+journal: Gynecologic Oncology
+year: 1997
+first_author: Powell JL
+study_type: case_report
+n_jgct_patients: 2
+age_range: teenagers
+alterations: []
+treatments:
+- regimen: Aggressive debulking and staging with uterus- and contralateral adnexa-sparing surgery, then carboplatin and etoposide
+  setting: FIGO stage III
+  n: 2
+  outcome: short-term disease-free survival in both
+presentation: []
+key_findings:
+- Two teenagers with stage III JGCT were treated with debulking, conservative surgery and carboplatin plus etoposide.
+- Both had short-term disease-free survival; authors call the results encouraging but the best treatment undetermined.
+relevance_to_jgct: Early report of fertility-conserving surgery plus carboplatin/etoposide in advanced JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Follow-up durations not stated. A similarly titled 1993 paper (PMID 8423014) remains in the backlog.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

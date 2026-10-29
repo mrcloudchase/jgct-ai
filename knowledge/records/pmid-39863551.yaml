@@ -1,0 +1,50 @@
+source_id: '39863551'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39863551/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: zh
+pmid: '39863551'
+doi: 10.3760/cma.j.cn112141-20240825-00256
+title: '[Clinical characteristics and prognosis of ovarian juvenile granulosa cell tumors]'
+journal: Zhonghua Fu Chan Ke Za Zhi
+year: 2025
+first_author: Ma X
+study_type: cohort
+n_jgct_patients: 34
+age_range: 1 to 48 years (median 19.5)
+alterations: []
+treatments:
+- regimen: Fertility-sparing surgery
+  setting: stage I
+  n: 15
+  outcome: 16 of 19 stage I patients survived (all stage I treatments combined)
+- regimen: Fertility-sparing versus cytoreductive surgery
+  setting: stage II-III
+  n: 12
+  outcome: survival 1/6 fertility-sparing vs 3/6 cytoreductive (P = 0.546)
+- regimen: Adjuvant or neoadjuvant chemotherapy (regimen not stated)
+  setting: 'stage I 4/19, II 3/4, III 8/8, IV 3/3'
+  n: 18
+  outcome: null
+presentation:
+- unilateral in 33 of 34
+- median maximum diameter 12.4 cm (range 3.5 to 40)
+key_findings:
+- SEER database analysis of 34 ovarian JGCT patients diagnosed 2000 to 2021, median age 19.5 years.
+- 'FIGO stage: I 19 (Ia 10, Ic 9), II 4, III 8, IV 3; lymph node metastasis in 1 of 10 dissected.'
+- 'Overall survival 59% (20/34): stage I 16/19 vs stage II-IV 4/15 (P = 0.002); median survival 126 months.'
+- In a propensity-matched comparison, JGCT survival (59%) was worse than adult GCT (92%), P < 0.001; histology and stage were independent prognostic factors.
+- Authors favor fertility-preserving surgery in stage I and caution against it in stage II-IV.
+relevance_to_jgct: Population-registry outcome data that portray JGCT as more lethal than adult GCT, in contrast with pediatric registry and pathology series.
+conflicts_with:
+- pmid-40272823
+- pmid-6465418
+superseded_by: null
+retracted: false
+notes: Article in Chinese; English abstract retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). The SEER cohort has much more advanced-stage disease (15/34 stage II-IV) than STEP 2025 (5/89) or Young 1984 (3/125 stage II), which may reflect differences in case ascertainment; recorded as a conflict on survival, not resolved.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

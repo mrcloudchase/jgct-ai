@@ -1,0 +1,36 @@
+source_id: '41243833'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41243833/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '41243833'
+doi: 10.1097/PAP.0000000000000515
+title: 'DICER1-Associated Gynecologic Neoplasms: An Update and Review'
+journal: Advances in Anatomic Pathology
+year: 2026
+first_author: Kim HS
+study_type: review
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: DICER1
+  alteration: germline loss-of-function plus somatic hotspot second hit (syndromic); somatic only (sporadic)
+  frequency: null
+  notes: JGCT listed among the less frequent DICER1-associated gynecologic neoplasms
+treatments: []
+presentation: []
+key_findings:
+- Reviews gynecologic tumors arising with germline or somatic DICER1 mutations; embryonal rhabdomyosarcoma and moderately to poorly differentiated Sertoli-Leydig cell tumor are most common.
+- JGCT is listed among less frequent DICER1-associated gynecologic tumors, with gynandroblastoma, adenosarcoma and Sertoli cell tumor.
+- Proposes the umbrella term DICER1-related primitive polyphenotypic neoplasm and recommends genetic testing when characteristic features are seen, to enable surveillance of patients and families.
+relevance_to_jgct: Places JGCT within the DICER1 tumor predisposition spectrum, supporting consideration of DICER1 testing in selected patients.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). The abstract has no JGCT-specific data.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null

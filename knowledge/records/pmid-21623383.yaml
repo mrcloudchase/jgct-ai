@@ -1,0 +1,40 @@
+source_id: '21623383'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21623383/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '21623383'
+doi: 10.1038/modpathol.2011.95
+title: Prognostic significance of FOXL2 mutation and mRNA expression in adult and juvenile granulosa cell tumors of the ovary
+journal: Modern Pathology
+year: 2011
+first_author: D'Angelo E
+study_type: genomic
+n_jgct_patients: 20
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: c.402C>G (p.C134W) absent
+  frequency: 0/18 tested
+  notes: Present in 19/27 (70%) adult GCT
+- gene: FOXL2
+  alteration: high protein/mRNA expression
+  frequency: null
+  notes: In JGCT, higher FOXL2 protein expression associated with worse overall and disease-free survival
+treatments: []
+presentation: []
+key_findings:
+- FOXL2 C402G mutation found in 19 of 27 adult GCT and none of 18 JGCT tested.
+- FOXL2 mRNA and protein expression correlated in both adult and juvenile tumors.
+- In JGCT, higher FOXL2 protein expression was associated with worse overall and disease-free survival; FOXL2 mRNA expression was associated with disease-free survival in both types.
+relevance_to_jgct: Confirms FOXL2 mutation absence in JGCT and proposes FOXL2 expression level as a JGCT prognostic marker.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Mutation analysis covered 27 of 34 adult and 18 of 20 juvenile tumors.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,47 @@
+source_id: '33904645'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33904645/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '33904645'
+doi: 10.1111/jog.14805
+title: Retrospective analysis of clinicopathological characteristics of 19 ovarian juvenile granulosa cell tumor cases
+journal: The Journal of Obstetrics and Gynaecology Research
+year: 2021
+first_author: Ndhlovu E
+study_type: case_series
+n_jgct_patients: 19
+age_range: 0.25 to 28 years (median 8.25)
+alterations: []
+treatments:
+- regimen: Fertility-sparing surgery (cystectomy or ipsilateral salpingo-oophorectomy, with or without omentectomy and lymphadenectomy)
+  setting: primary
+  n: 16
+  outcome: regular menses in reproductive-age patients
+- regimen: Radical surgery with pelvic and para-aortic lymphadenectomy
+  setting: primary
+  n: 3
+  outcome: null
+- regimen: Postoperative adjuvant chemotherapy (regimen not stated)
+  setting: adjuvant
+  n: 12
+  outcome: null
+presentation:
+- abdominal pain (most common)
+- precocious puberty (5 of 10 prepubertal)
+key_findings:
+- Two Wuhan, China centres, 19 ovarian JGCT (1999 to 2019); 18 stage I, 1 stage II.
+- Fertility-sparing surgery in 16; 12 received adjuvant chemotherapy.
+- At median 35 months, 18 alive without recurrence; 1 relapsed and died 32 months after diagnosis.
+- Authors note the value of adjuvant chemotherapy in stage Ic is unknown and favor fertility-sparing surgery in young patients.
+relevance_to_jgct: Chinese two-centre series with favorable stage I outcomes and frequent adjuvant chemotherapy use.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

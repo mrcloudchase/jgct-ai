@@ -1,0 +1,40 @@
+source_id: '42504512'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/42504512/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '42504512'
+doi: 10.1002/1545-5017.70571
+title: Ovarian Sex Cord Stromal Tumors in Children and Adolescents-The European Standard Clinical Practice Recommendations
+journal: Pediatric Blood & Cancer
+year: 2026
+first_author: Schneider DT
+study_type: guideline
+n_jgct_patients: null
+age_range: children and adolescents
+alterations: []
+treatments:
+- regimen: Complete tumor resection with meticulous attention to preventing spillage
+  setting: primary, all ovarian SCST
+  n: null
+  outcome: null
+- regimen: Risk-stratified adjuvant chemotherapy
+  setting: by tumor stage, histological differentiation and mitotic rate (specific stages and regimen not stated in abstract)
+  n: null
+  outcome: null
+key_findings:
+- European standard clinical practice recommendations for pediatric and adolescent ovarian sex cord-stromal tumors (including granulosa cell and Sertoli-Leydig cell tumors), developed within the European Cooperative Study Group for Paediatric Rare Tumours (EXPeRT) initiative from national and international cohort analyses, literature review and an expert consensus conference.
+- Complete resection without spillage is described as the cornerstone of treatment.
+- Adjuvant chemotherapy decisions are to be risk-stratified using stage plus histological differentiation and mitotic rate.
+- Recommends care within cooperative networks with centralized histopathology review, comprehensive genetic testing, multidisciplinary tumor boards and prospective registry enrollment.
+relevance_to_jgct: Most recent European consensus guidance covering pediatric ovarian JGCT management; adds mitotic rate to stage for risk stratification, consistent with the STEP registry findings.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from the PubMed page via WebFetch (model-assisted extraction); full text not open access. JGCT-specific recommendations, stage thresholds for chemotherapy and regimens need the full text. Likely updates pmid-33760357 (2021 EXPeRT/PARTNER consensus); a reviewer should decide whether to mark that record superseded.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

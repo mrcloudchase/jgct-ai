@@ -1,0 +1,49 @@
+source_id: '9190974'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/9190974/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '9190974'
+doi: 10.1006/gyno.1997.4695
+title: 'Juvenile granulosa cell tumors of the ovary in children and adolescents: results from 33 patients registered in a prospective cooperative study'
+journal: Gynecologic Oncology
+year: 1997
+first_author: Calaminus G
+study_type: registry
+n_jgct_patients: 33
+age_range: 6 months to 17.5 years (median 7.6)
+alterations: []
+treatments:
+- regimen: Tumor resection and oophorectomy
+  setting: primary, all patients
+  n: 33
+  outcome: complete resection in 28
+- regimen: Adjuvant combination chemotherapy (regimen not named)
+  setting: FIGO Ia with high mitotic index features
+  n: 1
+  outcome: null
+- regimen: Intensified multidrug chemotherapy including cisplatin-based regimens
+  setting: FIGO Ic to IIIc
+  n: 8
+  outcome: null
+presentation:
+- pseudo-precocious puberty (14/33)
+- pelvic tumor or abdominal distension (6)
+- acute abdomen (3)
+- premenarchal bleeding as only symptom (1)
+key_findings:
+- Prospective German cooperative-study cohort of 33 pediatric ovarian JGCT, median age 7.6 years.
+- 'FIGO stage Ia 20, Ic 8, IIc 4, IIIc 1; complete resection in 28.'
+- Event-free survival 0.75 at 168 months of follow-up.
+- Authors suggest cisplatin-based multidrug chemotherapy may improve results, particularly in advanced stages.
+relevance_to_jgct: Early prospective pediatric JGCT cohort from the German MAKEI group, preceding pmid-12805338 and pmid-40272823.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Likely overlaps with the MAKEI cohort in pmid-12805338.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

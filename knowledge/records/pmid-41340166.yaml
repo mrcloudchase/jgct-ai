@@ -1,0 +1,39 @@
+source_id: '41340166'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41340166/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '41340166'
+doi: 10.1111/cen.70066
+title: 'Paediatric Virilizing Ovarian Tumors: A Systematic Review'
+journal: Clinical Endocrinology
+year: 2026
+first_author: Ravindra S
+study_type: review
+n_jgct_patients: null
+age_range: under 20 years (median 15)
+alterations: []
+treatments: []
+presentation:
+- hirsutism (73.5% of all virilizing tumors)
+- clitoromegaly (68.4%)
+- voice change (60.7%)
+- menstrual irregularity (n = 79)
+- elevated 17-hydroxyprogesterone (70%)
+- elevated DHEAS (18.3%)
+key_findings:
+- PRISMA systematic review of 117 pediatric patients under 20 with virilizing ovarian tumors (PubMed and Google Scholar, English only); median tumor size 6.6 cm, 8 bilateral.
+- JGCT and Sertoli-Leydig cell tumor were the most common types, JGCT most common under 8 years and Sertoli-Leydig over 13 years; the abstract gives no per-type counts.
+- Children under 8 had shorter diagnostic latency and fewer hyperandrogenic signs.
+- Elevated 17-OHP or DHEAS should not exclude a virilizing ovarian tumor; recurrence was rare over a median 1 year of follow-up.
+relevance_to_jgct: Shows JGCT can present with virilization and is the leading virilizing ovarian tumor in young children, a differential relevant to endocrine presentation.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from PubMed via WebFetch (model-assisted extraction). Presentation percentages refer to all virilizing tumors, not JGCT specifically.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

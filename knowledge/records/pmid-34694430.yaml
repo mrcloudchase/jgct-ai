@@ -1,0 +1,48 @@
+source_id: '34694430'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34694430/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '34694430'
+doi: 10.1007/s00404-021-06283-5
+title: 'Juvenile granulosa cell tumor in pregnancy: case series and literature review'
+journal: Archives of Gynecology and Obstetrics
+year: 2022
+first_author: Ndhlovu E
+study_type: case_series
+n_jgct_patients: 4
+age_range: null
+alterations: []
+treatments:
+- regimen: Emergency cesarean section at 38 weeks with tumor surgery
+  setting: tumor rupture in pregnancy
+  n: 1
+  outcome: no recurrence during follow-up
+- regimen: Surgery at full term, further staging surgery in 3
+  setting: pregnancy
+  n: 3
+  outcome: no recurrence during follow-up
+- regimen: Postoperative adjuvant chemotherapy (regimen not stated)
+  setting: adjuvant
+  n: 2
+  outcome: no recurrence during follow-up
+presentation:
+- abdominal pain (2 of 4)
+- incidental finding on ultrasound or at cesarean section (2 of 4)
+- tumor rupture in pregnancy (1 of 4)
+key_findings:
+- Four JGCTs diagnosed during pregnancy, with a literature review.
+- One ruptured tumor required emergency cesarean section at 38 weeks; the others were treated at full term.
+- No recurrence during 13 to 57 months follow-up and no newborn abnormalities.
+- Authors suggest surgery can be delayed to term absent an emergency, and that the value of chemotherapy in FIGO stage I needs further study.
+relevance_to_jgct: Describes JGCT presentation and management during pregnancy, a setting relevant to its young-adult age range.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

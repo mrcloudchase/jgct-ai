@@ -1,0 +1,51 @@
+source_id: '41036825'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41036825/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '41036825'
+doi: 10.1097/PAS.0000000000002469
+title: 'Anaplastic Juvenile Granulosa Cell Tumor: A Report of 10 Cases of an Unemphasized Variant With Adverse Prognostic Features Characterized by TP53 Inactivation With MYC Family Amplifications'
+journal: The American Journal of Surgical Pathology
+year: 2026
+first_author: Boyraz B
+study_type: case_series
+n_jgct_patients: 10
+age_range: 7 to 44 years (median 13)
+alterations:
+- gene: TP53
+  alteration: mutation
+  frequency: 7/7 sequenced
+  notes: The remaining 3 tumors showed aberrant p53 immunohistochemistry (3/3)
+- gene: MYC/MYCN
+  alteration: amplification
+  frequency: 4/10
+  notes: All 4 patients who died of disease had stage II/III tumors with MYC family amplification
+- gene: AKT1
+  alteration: in-frame duplication
+  frequency: 4/10
+  notes: null
+- gene: DICER1
+  alteration: mutation
+  frequency: 2/10
+  notes: null
+treatments: []
+presentation:
+- large tumors, 8.3 to 28 cm (median 21 cm)
+key_findings:
+- Describes 10 anaplastic JGCTs with conventional solid or nodular areas plus effaced areas (median 50% of tumor) of diffuse growth, marked atypia and up to 40 mitoses per 10 HPF.
+- 'FIGO stage: IA 3, IC3 2, II 1, IIIA 3, unknown 1.'
+- TP53 inactivation was found in every tumor (mutation in 7/7 sequenced, aberrant p53 staining in the other 3); MYC or MYCN amplification in 4/10, concentrated in advanced-stage tumors.
+- 'At median 22 months follow-up (9 patients): 4 died of disease (all stage II/III with MYC family amplification), 1 alive with disease (IA), 4 alive and well (IA/IC).'
+- Authors propose anaplastic JGCT be distinguished from conventional JGCT for prognostic reasons and note patients with MYC family amplification might benefit from MYC inhibitors, while stating independence of MYC amplification as a predictor could not be determined.
+relevance_to_jgct: Defines a molecularly distinct, aggressive anaplastic JGCT variant with TP53 inactivation and MYC family amplification, a candidate high-risk subgroup.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract retrieved from the PubMed page via WebFetch (model-assisted extraction); not open access in Europe PMC. Treatment details not in abstract.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

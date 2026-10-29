@@ -1,0 +1,43 @@
+source_id: '37324278'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37324278/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '37324278'
+doi: 10.3389/fendo.2023.1093273
+title: Ovarian juvenile granulosa cell tumors with Ollier's disease in children with IDH1 gene somatic mutation
+journal: Frontiers in Endocrinology
+year: 2023
+first_author: Zhang J
+study_type: case_report
+n_jgct_patients: 1
+age_range: 4 years
+alterations:
+- gene: IDH1
+  alteration: c.394C>T p.R132C
+  frequency: 1/1
+  notes: Found in both the ovarian JGCT and the enchondroma (whole-exome and Sanger sequencing); in vitro R132C inhibited S6 ribosomal protein phosphorylation (mTOR pathway)
+treatments:
+- regimen: Surgical resection
+  setting: primary
+  n: 1
+  outcome: estradiol and prolactin normalized; breast development regressed
+presentation:
+- isosexual precocious puberty (bilateral breast development, vulvar discharge)
+- elevated estradiol and prolactin
+- multiple skeletal deformities with enchondroma (Ollier disease)
+key_findings:
+- A 4-year-old girl with Ollier disease had a right ovarian JGCT presenting with precocious puberty.
+- The same somatic IDH1 R132C variant was present in the JGCT and the enchondroma.
+- Authors suggest generalized mesodermal dysplasia with IDH1 mutation contributes, and recommend regular surveillance of children with Ollier disease.
+relevance_to_jgct: Molecular evidence that IDH1 R132C mosaicism links Ollier disease to JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). Open access (PMC10265673); full text not read this run.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

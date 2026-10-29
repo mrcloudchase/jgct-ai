@@ -1,0 +1,51 @@
+source_id: '36813116'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/36813116/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '36813116'
+doi: 10.1016/j.modpat.2023.100142
+title: Testicular Juvenile Granulosa Cell Tumors Demonstrate Recurrent Loss of Chromosome 10 and Absence of Molecular Alterations Described in Ovarian Counterparts
+journal: Modern Pathology
+year: 2023
+first_author: Collins K
+study_type: genomic
+n_jgct_patients: 18
+age_range: newborn to 5 months (median under 1 month)
+alterations:
+- gene: chromosome 10
+  alteration: monosomy (whole-chromosome loss)
+  frequency: 8/14 (57%) with interpretable copy number
+  notes: Testicular JGCT only
+- gene: GNAS
+  alteration: no variants detected
+  frequency: 0/18
+  notes: GNAS variants are described in ovarian JGCT; absent in testicular
+- gene: AKT1
+  alteration: no variants detected
+  frequency: 0/18
+  notes: AKT1 variants are described in ovarian JGCT; absent in testicular
+- gene: multiple chromosomes
+  alteration: whole-chromosome gains
+  frequency: 2 cases
+  notes: Both with significant spindle cell components
+treatments: []
+presentation:
+- testicular mass in infancy, median 1.8 cm (range 1.3 to 10.5 cm)
+key_findings:
+- Eighteen testicular JGCTs from infants (median age under 1 month) profiled with DNA and RNA sequencing panels.
+- No recurrent single-nucleotide variants and no gene fusions (3 cases with successful RNA sequencing).
+- Recurrent monosomy 10 in 8 of 14 (57%) cases with interpretable copy number data.
+- Testicular JGCT lack the GNAS and AKT1 variants described in ovarian JGCT, suggesting a molecularly distinct tumor.
+- 'Immunohistochemistry: SF-1 11/12, inhibin 6/7, calretinin 3/4, keratins 2/4.'
+relevance_to_jgct: Establishes that testicular and ovarian JGCT differ molecularly, with chromosome 10 loss characterizing testicular tumors.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from the Europe PMC REST API via WebFetch (model-assisted extraction); not open access.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null

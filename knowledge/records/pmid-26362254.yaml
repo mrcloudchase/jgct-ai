@@ -1,0 +1,41 @@
+source_id: '26362254'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26362254/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '26362254'
+doi: 10.1093/hmg/ddv373
+title: Molecular analyses of juvenile granulosa cell tumors bearing AKT1 mutations provide insights into tumor biology and therapeutic leads
+journal: Human Molecular Genetics
+year: 2015
+first_author: Auguste A
+study_type: genomic
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: AKT1
+  alteration: in-frame duplication
+  frequency: over 60%
+  notes: Authors previously showed these duplications are JGCT-specific; one of 8 FOXL2-negative adult GCT (with stromal luteoma) also carried one
+- gene: GNAS
+  alteration: mutation (previously reported)
+  frequency: null
+  notes: Authors propose AKT1 tandem duplications as the best candidate driver when GNAS alterations are absent
+treatments: []
+presentation: []
+key_findings:
+- AKT1 in-frame duplications were present in over 60% of JGCTs studied.
+- Transcriptome sequencing of 4 JGCTs found only private alterations besides AKT1, suggesting AKT1 duplication as the main driver when GNAS is unaltered.
+- Dysregulated genes involved cytokine and hormone signaling and cell division, with evidence of possible dedifferentiation, mediated by a limited set of transcription factors perturbed by AKT1 activation.
+- Commercially available AKT inhibitors modulated the activity of mutated AKT1 forms in vitro, suggesting therapeutic leads.
+relevance_to_jgct: Key study establishing AKT1 in-frame duplication as the dominant JGCT driver and a candidate therapeutic target.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, retrieved from Europe PMC REST API via WebFetch (model-assisted extraction). The abstract does not give the total number of JGCTs studied.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
