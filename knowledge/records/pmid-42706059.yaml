@@ -1,0 +1,47 @@
+source_id: '42706059'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/42706059/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: zh
+pmid: '42706059'
+doi: 10.3760/cma.j.cn112141-20260128-00076
+title: '[Clinicopathological analysis of 18 cases of ovarian juvenile granulosa cell tumor].'
+journal: Zhonghua fu chan ke za zhi
+year: 2026
+first_author: Huang Y
+study_type: case_series
+n_jgct_patients: 18
+age_range: 5-30 years (median 14)
+alterations: []
+treatments:
+- regimen: Fertility-preserving surgery
+  setting: stage I
+  n: 18
+  outcome: null
+- regimen: BEP or PVB
+  setting: adjuvant
+  n: 6
+  outcome: null
+presentation:
+- abnormal vaginal bleeding
+- abdominal pain and distension
+- pelvic mass
+key_findings:
+- 18 JGCT patients, Fudan University Obstetrics and Gynecology Hospital, Feb 2009-Jul 2025; median age 14 years (5-30).
+- 'Presentation (17 first diagnosed there): abnormal vaginal bleeding 8/17, abdominal pain and distension 6/17, pelvic mass 3/17; median tumor diameter 10 cm (5-37); CA125 >35.0 kU/L in 7.'
+- All had fertility-preserving surgery; all FIGO stage I (Ia 10/18, Ic 8/18); 6 received platinum-based adjuvant chemotherapy (5 BEP, 1 PVB).
+- 'Ki-67 index 5%-60%. Abstract states: ''Molecular analysis identified wild-type FOXL2 and DICER1 hotspot mutations in seven cases.'''
+- One recurrent patient had TP53 nonsense and CDKN2A missense mutations, confirming anaplastic JGCT. One patient (1/18) developed pelvic and abdominal metastasis 23 months after surgery (median follow-up 75.6 months).
+- Two patients gave birth after surgery; 4 of 6 premenarchal patients had regular menstruation after surgery.
+relevance_to_jgct: Recent Chinese single-centre series with molecular and fertility follow-up.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Chinese-language article; English abstract read. The molecular sentence is ambiguous (whether DICER1 hotspots were mutated or wild-type in seven cases); copied verbatim.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

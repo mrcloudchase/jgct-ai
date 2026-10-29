@@ -1,0 +1,32 @@
+source_id: '40528632'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/40528632/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '40528632'
+doi: 10.1111/his.15482
+title: 'Assessment and classification of sex cord-stromal tumours of the testis: recommendations from the testicular sex cord-stromal tumour (TESST) group, an Expert Panel of the Genitourinary Pathology Society (GUPS) and International Society of Urological Pathology (ISUP).'
+journal: Histopathology
+year: 2025
+first_author: Acosta AM
+study_type: guideline
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- ISUP/GUPS-sponsored TESST expert panel consensus (first meeting 2024) on classification and management of testicular sex cord-stromal tumours.
+- Notes testicular SCST classification still relies on morphology, with some types (including granulosa cell tumour) defined by resemblance to ovarian counterparts, and that molecular findings have not yet impacted classification.
+relevance_to_jgct: Pathology consensus framework that includes testicular juvenile granulosa cell tumour classification.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; specific JGCT recommendations are in the full text, not retrieved.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

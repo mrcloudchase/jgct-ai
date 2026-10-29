@@ -1,0 +1,42 @@
+source_id: '32561911'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32561911/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '32561911'
+doi: 10.1093/ajcp/aqaa081
+title: Juvenile Granulosa Cell Tumors of the Ovary.
+journal: American journal of clinical pathology
+year: 2020
+first_author: Ye Y
+study_type: case_series
+n_jgct_patients: 7
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: mutation
+  frequency: 0/7
+  notes: null
+- gene: TP53
+  alteration: strong diffuse IHC positivity
+  frequency: 1/7
+  notes: patient died of disease
+treatments: []
+presentation: []
+key_findings:
+- '7 JGCT cases: abdominal distension and pain (5), precocious puberty (1), pelvic mass (1); stage I in 6, stage IV in 1.'
+- 'Rare patterns: reticular-cystic mimicking yolk sac tumor (2), sclerosing-stromal-like (1), pseudopapillary (2), spindle, microcystic, hobnail, rhabdomyoid cells.'
+- No FOXL2 mutation encountered.
+- After median 53 months, only 1 patient, with a strongly diffuse TP53-positive tumor, died of disease; 2 had babies.
+relevance_to_jgct: Pathology series documenting JGCT morphologic mimics and a fatal TP53-positive case.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

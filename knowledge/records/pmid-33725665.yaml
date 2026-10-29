@@ -1,0 +1,36 @@
+source_id: '33725665'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33725665/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '33725665'
+doi: 10.1016/j.anndiagpath.2021.151721
+title: 'Juvenile granulosa cell tumor of the ovary: A comprehensive clinicopathologic analysis of 15 cases.'
+journal: Annals of diagnostic pathology
+year: 2021
+first_author: Parikshaa G
+study_type: case_series
+n_jgct_patients: 15
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- abdominal pain
+- abdominal distension
+- precocious puberty (3)
+key_findings:
+- 15 JGCTs among 115 GCTs (13%) reported 2011-2019 at one Indian center; mean age 17 years.
+- Five patients pre-menarchal, 3 with precocious puberty; abdominal pain and distension most common.
+- Tumors 4 to 20 cm; macrofollicular architecture in 12 (80%); mitotic activity 1 to 10/10HPFs; 12 (80%) stage I.
+relevance_to_jgct: Single-centre pathology series describing histologic spectrum and mimics of JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

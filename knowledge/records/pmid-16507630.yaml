@@ -1,0 +1,42 @@
+source_id: '16507630'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/16507630/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '16507630'
+doi: 10.1210/jc.2005-2710
+title: 'Activating mutations of the stimulatory g protein in juvenile ovarian granulosa cell tumors: a new prognostic factor?'
+journal: The Journal of clinical endocrinology and metabolism
+year: 2006
+first_author: Kalfa N
+study_type: genomic
+n_jgct_patients: 30
+age_range: null
+alterations:
+- gene: GNAS
+  alteration: R201C / R201H activating mutation
+  frequency: 9/30 (30%)
+  notes: Somatic, confined to tumoral granulosa cells; associated with stage Ic or recurrence.
+- gene: GNAI2
+  alteration: Galphai
+  frequency: 0/30
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- 30 children with juvenile ovarian GCT from the malignant germinal tumor protocol of the French Society for Childhood Cancer; nested PCR, laser microdissection, direct sequencing.
+- Galphas (GNAS) activating mutations at hotspot position 201 found in nine patients (30%); R201C and R201H localized exclusively to tumoral granulosa cells, absent from ovarian stroma.
+- 'Patients with a hyperactivated Galphas had significantly more advanced tumors (P < 0.05): seven of them (77.7%) were stage Ic or had a recurrence.'
+- Galphai showed no mutation.
+relevance_to_jgct: First report of recurrent somatic GNAS activating mutations in JGCT and their association with advanced stage or recurrence.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

@@ -1,0 +1,37 @@
+source_id: '26165406'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26165406/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '26165406'
+doi: 10.1097/MPH.0000000000000387
+title: Long-term Remission in a Female With Multiple Relapsed Juvenile Granulosa Cell Tumor.
+journal: Journal of pediatric hematology/oncology
+year: 2015
+first_author: Benesch M
+study_type: case_report
+n_jgct_patients: 1
+age_range: 4.5 years
+alterations: []
+treatments:
+- regimen: Paclitaxel, bevacizumab, thalidomide, pegylated interferon
+  setting: maintenance after second relapse
+  n: 1
+  outcome: third CR 6 years after second relapse
+presentation: []
+key_findings:
+- 4 1/2-year-old with stage IA ovarian JGCT received 4 courses of chemotherapy after complete resection because of high mitotic index, high microvessel density, blood vessel invasion.
+- Para-aortic lymph node relapse at one year treated with surgery, local radiotherapy, conventional and high-dose chemotherapy; paratracheal lymph node relapse 7 months later treated with surgery and radiotherapy.
+- Then adjuvant antiangiogenic treatment (paclitaxel, bevacizumab, thalidomide, pegylated interferon) for 2 years; in third complete remission 6 years after second relapse.
+relevance_to_jgct: Documents a multiply relapsed stage IA high-mitotic JGCT with long-term remission after multimodal and antiangiogenic therapy.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Likely the same patient as patient 2 in the STEP series (pmid-40272823, Table 6); not verified.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

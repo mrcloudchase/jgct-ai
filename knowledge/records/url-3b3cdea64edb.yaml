@@ -1,0 +1,36 @@
+source_id: 3b3cdea64edb
+source_type: url
+source_tier: organization
+source_url: https://www.cancer.gov/types/ovarian/hp/child-ovarian-treatment-pdq
+retrieved_on: '2026-10-29'
+full_text_read: true
+language: en
+pmid: null
+doi: null
+title: 'Childhood Ovarian Cancer Treatment (PDQ) - Health Professional Version: Childhood Juvenile Granulosa Cell Tumors section'
+journal: National Cancer Institute PDQ Pediatric Treatment Editorial Board
+year: 2025
+first_author: null
+study_type: review
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- PDQ states juvenile granulosa cell tumor is the most common sex cord-stromal tumor subtype in girls younger than 18 (median age 7.6 years; range birth to 17.5 years) and represents about 5% of ovarian tumors in children and adolescents.
+- 'Risk factors listed: reported in children with Ollier disease and Maffucci syndrome.'
+- 'Presentation listed: precocious puberty (most common; estrogen secretion), abdominal pain, abdominal mass, ascites.'
+- States as many as 90% of children have FIGO stage I disease, usually curable with unilateral salpingo-oophorectomy alone.
+- States patients with spontaneous rupture or malignant ascites (FIGO IC2, IC3), stages II-IV, or tumors with high mitotic activity have a poorer prognosis and require chemotherapy; cisplatin-based regimens used with some success in adjuvant and recurrent settings.
+- Notes US patients may be registered in the International Ovarian and Testicular Stromal Tumor Registry and that European PARTNER/EXPeRT recommendations exist; recommendations harmonized between registries.
+relevance_to_jgct: US National Cancer Institute's physician-oriented summary of pediatric JGCT management.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: 'Page ''Updated: March 3, 2025''. Fetched as raw HTML with curl and converted to text (verbatim). PDQ is an editorial-board evidence summary, not a society guideline, so tier organization.'
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

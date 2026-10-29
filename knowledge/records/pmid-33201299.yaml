@@ -1,0 +1,32 @@
+source_id: '33201299'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33201299/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '33201299'
+doi: 10.1007/s00120-020-01391-7
+title: '[Juvenile granulosa cell tumor-Testicular tumor of the very young : Report of three cases and contemporary recommendations].'
+journal: Der Urologe. Ausg. A
+year: 2021
+first_author: Haider M
+study_type: case_series
+n_jgct_patients: 3
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Three cases of testicular JGCT with recommendations for diagnosis and treatment.
+- Authors describe it as a benign lesion requiring surgical treatment, with no metastases or recurrences described in the literature.
+relevance_to_jgct: German urology report on testicular JGCT management.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

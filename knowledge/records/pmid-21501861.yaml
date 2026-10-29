@@ -1,0 +1,33 @@
+source_id: '21501861'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21501861/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '21501861'
+doi: 10.1016/j.ygyno.2011.03.024
+title: 'Ovarian sex cord-stromal tumors, pleuropulmonary blastoma and DICER1 mutations: a report from the International Pleuropulmonary Blastoma Registry.'
+journal: Gynecologic oncology
+year: 2011
+first_author: Schultz KA
+study_type: registry
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Among 296 kindreds including 325 children with PPB, three children had both PPB and Sertoli-Leydig/Sertoli cell tumors.
+- 'Among family members of PPB patients: six ovarian sex cord-stromal tumors, including one juvenile granulosa cell tumor.'
+- Germline DICER1 mutations in four of six OSCST patients from PPB kindreds and two of three OSCST children without PPB history.
+relevance_to_jgct: Places JGCT (rarely) within the DICER1/pleuropulmonary blastoma familial tumor spectrum.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract-level record; open-access full text exists (PMC3138876) but was not read in detail this run. Germline DICER1 status of the single JGCT patient not stated in abstract.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

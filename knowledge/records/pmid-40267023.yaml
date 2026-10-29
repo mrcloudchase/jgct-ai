@@ -1,0 +1,80 @@
+source_id: "40267023"
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/40267023/
+retrieved_on: "2026-10-29"
+full_text_read: true
+language: en
+pmid: "40267023"
+doi: 10.1002/cncr.35862
+title: "Ovarian juvenile granulosa cell tumor: A report from the International Ovarian and Testicular Stromal Tumor and International Pleuropulmonary Blastoma/DICER1 Registries."
+journal: Cancer
+year: 2025
+first_author: Harris AK
+study_type: registry
+n_jgct_patients: 70
+age_range: "1 day-38 years (median 10 years)"
+alterations:
+  - gene: AKT1
+    alteration: in-frame duplication
+    frequency: "3 patients (1 at diagnosis, 2 at recurrence); 10 tumors sequenced at diagnosis, 5 at recurrence"
+    notes: Limited, heterogeneous sequencing subset (supplemental table 3).
+  - gene: GNAS
+    alteration: p.R201C
+    frequency: "2 tumors"
+    notes: null
+  - gene: TERT
+    alteration: promoter variant
+    frequency: "2 tumors"
+    notes: null
+  - gene: TP53
+    alteration: variants
+    frequency: "4 patients"
+    notes: null
+  - gene: DICER1
+    alteration: somatic RNase IIIb hotspot variant
+    frequency: "1 tumor"
+    notes: "Tumor histologically described as anaplastic juvGCT with mitotic index 73 per 10 HPF; germline status unknown; patient died of juvGCT."
+treatments:
+  - regimen: Adjuvant platinum-based chemotherapy (81%, 17/21 bleomycin, etoposide, platinum)
+    setting: adjuvant, after resection
+    n: 21
+    outcome: "Effect of chemotherapy could not be analyzed (sample size, confounding)."
+  - regimen: Surgery only
+    setting: primary
+    n: 49
+    outcome: "Among low-risk stages: 16 surgery-only patients with low MI had no recurrence; 18 surgery-only patients with high MI had 5 recurrences, 3 deaths."
+presentation:
+  - "abdominal pain 54% (35/65)"
+  - "abdominal distention 45% (29/65)"
+  - "precocious puberty 26% (17/65)"
+  - "secondary amenorrhea 21% (7/34)"
+  - "virilization 12% (8/65)"
+  - "elevated inhibin B 90% (38/42)"
+  - "elevated inhibin A 65% (22/34)"
+  - "elevated CA125 48% (20/42)"
+  - "elevated total testosterone 43% (9/21)"
+  - "elevated AFP 4% (2/46)"
+key_findings:
+  - "70 patients with ovarian juvGCT diagnosed 2001-2024; central pathology review in 80% (56/70)."
+  - "Stage: IA 36% (25/70, three IX), IC1 29% (20/70), IC2-IC3/ICX 17% (12/70), II-IV 14% (10/70); only 14/70 (20%) had complete FIGO staging."
+  - "Median tumor size 12.0 cm (range 4.6-30.0 cm); 97% unilateral."
+  - "Recurrence in 14 patients, median time to recurrence 8.5 months (range 3-32); 93% (13/14) within two years. Eight patients died, all from recurrent juvGCT."
+  - "3-year EFS 73.2% and 3-year OS 91.7% for all patients. 3-year EFS stage IA 80.2%, IC1 87.4%, IC2-IC3 63.6%, II-IV 48.0% (p=.05)."
+  - "High mitotic index (>19 per 10 HPF): 3-year EFS 55.5% vs 100.0% for low/intermediate MI (p<.01). All 13 recurrent patients with known MI had high MI at diagnosis; no deaths with low/intermediate MI."
+  - "Two stage IA/IX patients with high MI and no adjuvant chemotherapy died of recurrent juvGCT at 64 and 69 months."
+  - "Among low-risk surgery-only patients, tumor dimension (HR 1.13 per cm, p=.03) and MI as continuous variable (HR 1.15, p=.02) associated with recurrence."
+  - "JuvGCT was not detected in any sampled lymph node; malignant peritoneal washings were not seen without rupture or spread beyond the ovary."
+  - "Inhibin B was elevated at recurrence in 60% (3/5) of patients with elevated inhibin B at diagnosis."
+  - "Authors strongly recommend MI assessment for all juvGCTs; suggest adjuvant chemotherapy for low-stage, high-MI tumors could be considered individually, and tumor testing for targetable alterations in higher-risk or recurrent disease."
+relevance_to_jgct: "Largest international registry series of ovarian JGCT with central mitotic index review; establishes mitotic index >19/10 HPF as the strongest prognostic factor and reports stage-specific outcomes."
+conflicts_with:
+  - pmid-40272823
+superseded_by: null
+retracted: false
+notes: "Stage IC2-IC3 3-year EFS 63.6% here contrasts with no recurrences among stage IC2/IC3 patients in the German STEP registry (pmid-40272823). Both find all recurrences in high-MI tumors. Authors note FIGO staging is not validated in juvGCT. Text fetched as PMC XML via NCBI efetch (PMC12305807)."
+confidence: 5
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

@@ -1,0 +1,53 @@
+source_id: '26137586'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26137586/
+retrieved_on: '2026-10-29'
+full_text_read: true
+language: en
+pmid: '26137586'
+doi: 10.1016/j.ebiom.2015.03.002
+title: A Hot-spot of In-frame Duplications Activates the Oncoprotein AKT1 in Juvenile Granulosa Cell Tumors.
+journal: EBioMedicine
+year: 2015
+first_author: Bessière L
+study_type: genomic
+n_jgct_patients: 16
+age_range: girls under 15 years
+alterations:
+- gene: AKT1
+  alteration: in-frame tandem duplication in exon 3 (pleckstrin-homology domain)
+  frequency: '>60% (9 of 16 by gel; 10 duplications sequenced)'
+  notes: Somatic status confirmed in 2 with peritumoral DNA.
+- gene: AKT1
+  alteration: point mutations at conserved residues (e.g., Q79K-W80R in cis, E91N, M458I, T21I, P348S)
+  frequency: 10 tumors
+  notes: 14 of 16 tumors had putative AKT1 driver alterations in total.
+- gene: GNAS
+  alteration: R201 hotspot
+  frequency: 0/16 (not detected)
+  notes: null
+- gene: PIK3CA
+  alteration: exons 9, 18, 20
+  frequency: 0/7
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- 16 histologically proven JGCTs in girls under 15 years (Necker-Enfants Malades Paris and Montpellier repositories, 1994-2014).
+- In-frame tandem duplications in exon 3 of AKT1, affecting the pleckstrin-homology domain, were found in more than 60% of tumors (10 duplications; all but two different); somatic status proven for the two with peritumoral DNA available.
+- AKT1 point mutations altering highly conserved residues were identified in 10 tumors (somatic status confirmed for seven); tumors without duplications often carried two or more point mutations. In total, 14 out of 16 JGCTs harbored putative driver alterations of AKT1.
+- No GNAS R201 mutation was found in this cohort; PIK3CA exons 9, 18, 20 were unmutated in 7 tumors; no AKT2 exon 3 duplications.
+- Duplications were not found in 10 adult GCTs, 15 colorectal carcinomas, or 59 NCI cell lines.
+- Duplicated AKT1 proteins localized almost exclusively at the plasma membrane, showed strong S473 phosphorylation and FOXO3a repression insensitive to serum deprivation; phospho-AKT confirmed on tumor sections.
+- Authors propose AKT1 alterations as driver events, useful for molecular diagnosis, and note PI3K-AKT-mTOR inhibitors as a targeted therapy perspective.
+relevance_to_jgct: Foundational genomic study identifying AKT1 in-frame duplications as the major recurrent driver alteration in ovarian JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text via Europe PMC (PMC4485906). Cohort overlaps the French groups that reported GNAS mutations in 30% (pmid-16507630); this cohort had none.
+confidence: 5
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

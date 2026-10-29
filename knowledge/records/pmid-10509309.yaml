@@ -1,0 +1,37 @@
+source_id: '10509309'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/10509309/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '10509309'
+doi: null
+title: Trisomy 12 in juvenile granulosa cell tumor of the ovary during pregnancy. A report of two cases.
+journal: The Journal of reproductive medicine
+year: 1999
+first_author: Tanyi J
+study_type: case_report
+n_jgct_patients: 2
+age_range: null
+alterations:
+- gene: chromosome 12
+  alteration: trisomy
+  frequency: 2/2
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- Two JGCTs diagnosed and treated during pregnancy; both delivered normal infants.
+- Trisomy 12 as a single chromosomal abnormality in both tumors.
+- Both confined to the ovary; conservative surgery; no recurrence at 18 and 53 months.
+relevance_to_jgct: Reports trisomy 12 in JGCT and successful pregnancy outcomes.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

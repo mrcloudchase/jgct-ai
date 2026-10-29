@@ -1,0 +1,35 @@
+source_id: '35353158'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35353158/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '35353158'
+doi: 10.5858/arpa.2021-0385-OA
+title: 'Cystic Granulosa Cell Tumors of the Ovary: An Analysis of 80 Cases of an Often Diagnostically Challenging Entity.'
+journal: Archives of pathology & laboratory medicine
+year: 2022
+first_author: Boyraz B
+study_type: case_series
+n_jgct_patients: 56
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- androgenic manifestations (16 JGCT)
+key_findings:
+- '80 cystic GCTs: 24 AGCT and 56 JGCT; average age 22 years for JGCT (range 3 to 83 overall).'
+- Androgenic manifestations in 19 of 43 with clinical information (16 JGCT).
+- All >8 cm (average 17 cm); invagination of epithelium into cyst walls a key diagnostic feature (45 JGCTs); 14 JGCTs had moderate to severe bizarre atypia.
+- Main differential diagnosis is follicle cyst.
+relevance_to_jgct: Describes the cystic JGCT variant, often androgenic and easily misdiagnosed as a follicle cyst.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

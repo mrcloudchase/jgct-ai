@@ -1,0 +1,33 @@
+source_id: 599767ff9c45
+source_type: url
+source_tier: database
+source_url: https://clinicaltrials.gov/study/NCT01970696
+retrieved_on: '2026-10-29'
+full_text_read: true
+language: en
+pmid: null
+doi: null
+title: International Ovarian & Testicular Stromal Tumor Registry (NCT01970696)
+journal: null
+year: 2011
+first_author: null
+study_type: registry
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Observational registry, recruiting, start 2011-12-08, sponsor Children's Hospitals and Clinics of Minnesota; estimated enrollment 500; last update posted 2026-10-23.
+- 'Eligibility: all patients with a suspected gonadal stromal tumor or similar tumor, any age; international enrollment encouraged; most participants expected to be under age 20.'
+- 'Collects clinical and biologic data; current work studies DICER1 and miRNA expression in ovarian stromal tumors. Primary outcome: DICER1 mutations in ovarian and testicular stromal tumors.'
+relevance_to_jgct: The international registry (IOTSTR) open to JGCT patients of any age; source of the 70-patient series pmid-40267023.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Fetched via ClinicalTrials.gov API v2. Tier database = trial-registry entry, not a registry report.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

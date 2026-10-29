@@ -1,0 +1,51 @@
+source_id: '39773640'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39773640/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '39773640'
+doi: 10.1186/s13000-025-01599-1
+title: Complex immunohistochemical and molecular study on 5 cases of ovarian juvenile granulosa cell tumors reveals a consistent alteration in the PI3K/AKT/mTOR signaling pathway.
+journal: Diagnostic pathology
+year: 2025
+first_author: Šafanda A
+study_type: genomic
+n_jgct_patients: 5
+age_range: null
+alterations:
+- gene: AKT1
+  alteration: internal tandem duplication
+  frequency: 2/5
+  notes: null
+- gene: TERT
+  alteration: mutation
+  frequency: "Two other cases exhibited mutations in TERT and EP400 (verbatim; per-gene split not stated)"
+  notes: both recurred
+- gene: EP400
+  alteration: mutation
+  frequency: see TERT
+  notes: null
+- gene: PTEN
+  alteration: loss of protein expression (IHC)
+  frequency: all AKT1-wild-type tumors
+  notes: no genetic mechanism found
+treatments: []
+presentation: []
+key_findings:
+- Five JGCTs studied with 32 IHC markers, DNA NGS and PTEN methylation analysis.
+- All expressed calretinin, inhibin A, SF1, FOXL2, CD99, CKAE1/3, ER, PR, AR; all p53 wild-type pattern, HER2 negative, PD-L1 negative, MMR intact.
+- AKT1 internal tandem duplication in two tumors; two others had TERT and EP400 mutations and both developed recurrence.
+- All AKT1-wild-type tumors showed immunohistochemical PTEN loss without PTEN mutation, deletion, or promoter hypermethylation.
+relevance_to_jgct: Supports PI3K/AKT/mTOR pathway activation as the common feature of JGCT, including via PTEN loss in AKT1-wild-type tumors.
+conflicts_with:
+- pmid-17430735
+superseded_by: null
+retracted: false
+notes: Open access (PMC11707838); full text not read this run. FOXL2 IHC positive in all 5 tumors, contrasting with absent FOXL2 expression in 10/26 JGCTs in pmid-17430735.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

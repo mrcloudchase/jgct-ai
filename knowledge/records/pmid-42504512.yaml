@@ -1,0 +1,34 @@
+source_id: '42504512'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/42504512/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '42504512'
+doi: 10.1002/1545-5017.70571
+title: Ovarian Sex Cord Stromal Tumors in Children and Adolescents-The European Standard Clinical Practice Recommendations.
+journal: Pediatric blood & cancer
+year: 2026
+first_author: Schneider DT
+study_type: guideline
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- European Cooperative Study Group for Paediatric Rare Tumours (EXPeRT) standard clinical practice recommendations for pediatric ovarian sex cord-stromal tumors, based on cohort analyses, literature review, and expert consensus conference.
+- Complete tumor resection is the cornerstone of treatment, with meticulous attention to preventing tumor spillage.
+- Adjuvant chemotherapy decisions are risk-stratified by tumor stage plus histological differentiation and mitotic rate.
+- Recommends treatment within cooperative networks with centralized histopathology review, comprehensive genetic testing, multidisciplinary tumor board, and prospective registry enrollment.
+relevance_to_jgct: Current European pediatric consensus recommendations covering ovarian JGCT management.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; detailed JGCT-specific recommendations are in the full text, which was not retrieved (no open-access copy found this run).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract
