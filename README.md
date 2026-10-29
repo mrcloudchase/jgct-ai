@@ -1,68 +1,38 @@
 # jgct-ai
 
-A comprehensive, centralized knowledge base on juvenile granulosa cell tumor (JGCT), built and kept current by a headless Claude Code run that receives the same prompt every month, reads this repository as its memory, does the next slice of research, and opens a pull request for human review.
+A knowledge base on juvenile granulosa cell tumor (JGCT), built from nothing and kept current by a headless Claude Code run that receives the same prompt once a month, reads this repository as its memory, does the next slice of research, and opens a pull request for human review.
 
-JGCT is a rare ovarian sex cord-stromal tumor that occurs mostly in children and young women. A few hundred papers mention it. The largest molecular study covers 31 tumors. Knowledge about it is scattered across journals, conference abstracts, registries, guidelines, and databases that nobody has pulled together. This repository pulls it together.
+JGCT is a rare ovarian sex cord-stromal tumor of children and young women. What is known about it is scattered across a few hundred papers, conference abstracts, registries, guidelines, and databases. This repository exists to pull that together into one honest, sourced place.
 
-> **Disclaimer:** Nothing here is medical advice. Records describe what sources report. The genomic lookups generate hypotheses for discussion with a treating oncologist. Every AI-written record is a draft until a human has checked it against its source.
+> **Disclaimer:** Nothing here is medical advice. Records describe what sources report. Every AI-written record is a draft until a human has checked it against its source.
 
 ## How it works
 
-```
-monthly cron ──▶ scripts/research.sh ──▶ claude -p prompts/research.md ──▶ edits knowledge/ and state/
-                       │                                                            │
-                       └── validate, build indexes, commit, open PR ◀───────────────┘
-                                                │
-                                     human review and merge to main
-```
+The repository starts with four things and nothing else:
 
-- **The prompt never changes.** It is `prompts/research.md`: research all sources on JGCT, organize them into this knowledge base, take into account what is already here.
-- **The repository is the memory.** `state/ledger.json` records every source processed. `state/backlog.json` is the to-do list. `state/runs/` holds each run's report. `knowledge/` is the base itself.
-- **The procedure is a skill.** `.claude/skills/research-sweep/SKILL.md` is the step-by-step method. `CLAUDE.md` holds the standing rules. `sources/index.md` says where to look. `sources/credibility.md` says how to rate what it finds.
-- **The script owns git.** The model cannot run git or gh. The script validates every record against the schema, rebuilds the generated indexes, commits to a dated branch, and opens one pull request whose body is the run report.
-- **Humans own main.** Branch protection requires a pull request and a reviewer. Merging is the review.
-- **Starting from empty works.** The first runs work through the backlog until it is empty. Later runs find only what is new. Same prompt, same procedure.
-
-## Layout
-
-| Path | Contents |
+| File | What it is |
 |---|---|
-| `knowledge/records/` | One YAML record per source, in `knowledge/schema/record.schema.json` |
-| `knowledge/INDEX.md`, `ALTERATIONS.md`, `TREATMENTS.md` | Generated from records |
-| `knowledge/SUMMARY.md` | Narrative synthesis, rewritten each run, every fact cited to a record |
-| `sources/` | Source index and credibility rubric |
-| `state/` | Ledger, backlog, run reports |
-| `tools/` | Monitor, Europe PMC, genomic lookup, extractor, validator, ledger, index builder |
-| `scripts/research.sh` | The sweep runner |
-| `prompts/research.md` | The fixed prompt |
-| `.claude/` | Settings with the domain allow-list, and the research-sweep skill |
+| `prompts/research.md` | The task. Never changes. |
+| `CLAUDE.md` | What the project is and how to work. Never changes between runs. |
+| `knowledge/schema/record.schema.json` | The shape of a record. |
+| `scripts/research.sh` and `.github/workflows/research.yml` | The monthly launcher. |
 
-## Running it
+On the first of each month the workflow runs the launcher. The launcher starts Claude Code with the prompt and a dollar cap. Claude Code reads what is already here, finds and reads sources, writes records, builds the indexes it needs to orient next time, writes whatever tools it needs and keeps them in `tools/`, and then creates a branch, commits, pushes, and opens a pull request requesting review from the maintainer. Main is protected. Merging is the review.
 
-**In GitHub Actions.** Add an `ANTHROPIC_API_KEY` repository secret. The `Research sweep` workflow runs on the first of each month and can be triggered by hand with a dollar cap and model choice. The `Literature monitor` workflow runs weekly, costs almost nothing, and opens an issue when something new appears.
+The first run starts from an empty base and builds. Every later run extends. The repository grows like memory.
 
-**Locally.**
+## Running it by hand
+
+Trigger the `Research run` workflow under Actions with a dollar cap. Or locally:
 
 ```bash
-pip install -r requirements.txt
-npm install -g @anthropic-ai/claude-code
-export ANTHROPIC_API_KEY=...
-DRY_RUN=1 MAX_BUDGET_USD=5 scripts/research.sh   # commits to a local branch, no push, no PR
+export ANTHROPIC_API_KEY=... GH_TOKEN=...
+MAX_BUDGET_USD=10 scripts/research.sh
 ```
 
-**Tools on their own.** No API key needed for any of these.
+## Reviewing a run
 
-```bash
-python3 tools/genomics/gct_lookup.py               # public cBioPortal and CIViC snapshot
-python3 tools/monitor/monitor.py --dry-run         # new PubMed papers and trials
-python3 tools/europepmc.py search '"juvenile granulosa cell tumor"' --preprints
-python3 tools/ledger.py status
-python3 tools/validate.py && python3 tools/build_index.py
-```
-
-## Reviewing a sweep
-
-Open the pull request. The body ranks additions by confidence, lowest first. For each record, open the source and check the fields. Fix anything wrong in the branch. Merge when satisfied. To mark a record as human-verified, set `review_status: reviewed` and `reviewed_by`; a sweep will never edit it again except to link conflicts.
+Open the pull request. The body is the run's own report: what it added, with its confidence in each record, lowest first; what it could not reach; where the literature disagrees; what it suggests changing. Open sources, fix what is wrong, merge. Suggested changes to `CLAUDE.md` or the schema are yours to make by a normal commit; the run cannot edit them.
 
 ## Licenses
 

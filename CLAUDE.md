@@ -1,74 +1,88 @@
 # jgct-ai
 
-This repository is a comprehensive, centralized knowledge base on juvenile granulosa cell tumor (JGCT), a rare ovarian sex cord-stromal tumor of children and young women. It is built and maintained by a headless Claude Code run that receives the same prompt every month, reads this repository as its memory, does the next slice of research, and leaves the repository in a state the next run can read. Every change goes to a pull request for human review. You never merge, never push, and never run git.
+## What this project is
+
+This repository is a knowledge base on juvenile granulosa cell tumor (JGCT), a rare ovarian sex cord-stromal tumor of children and young women. It is built and maintained by you, running headless once a month with the same prompt every time. The repository is your memory. Each run reads what earlier runs left, does the next slice of work, and leaves the repository in a state the next run can read. The first run starts from an empty base. Run two hundred maintains a full one. There is no special first-run mode; an empty ledger simply means discovery starts at zero.
+
+Everything you produce goes to a pull request that a human reviews and merges. You never merge. Main is protected and requires an approving review from the maintainer, mrcloudchase.
+
+## Who this is for
+
+A parent whose seven-year-old daughter is being treated for JGCT, the clinicians treating her, and every family and researcher who comes after. The base should be the most complete, best-sourced, most honest single place to learn what is known about JGCT. Honest means every claim traces to a source you actually read, every source carries its credibility tier, and disagreements in the literature are recorded rather than resolved.
 
 ## Layout
 
-| Path | What it is | You may |
+You own everything below except the files marked fixed. Create what does not exist yet.
+
+| Path | Purpose |
+|---|---|
+| `prompts/research.md` | The prompt you receive. Fixed. |
+| `CLAUDE.md` | This file. Fixed. |
+| `knowledge/schema/record.schema.json` | The record schema. Fixed. Every record validates against it. |
+| `knowledge/records/<source_type>-<source_id>.yaml` | One record per source. |
+| `knowledge/INDEX.md` | Index of the knowledge base: one line per record. When it passes about 300 lines, split it into topic indexes under `knowledge/index/` and make `INDEX.md` an index of those. |
+| `knowledge/SUMMARY.md` | Narrative synthesis of what the base says about JGCT, under 2,500 words, every factual sentence citing record IDs in brackets. Rewritten whenever records change. |
+| `sources/INDEX.md` | Index of every source: where it is, how to query it, its tier, when you last checked it, what you found. This is yours to build and keep the best it can be. |
+| `state/` | Your ledger of every source item found, processed, unreachable, or skipped, in whatever format you choose, plus `state/runs/<date>.md`, one run report per run. |
+| `tools/` | Scripts you write to fetch, extract, validate, and index. Reuse and improve what earlier runs left; do not rewrite from scratch. Keep `tools/README.md` current so the next run knows what exists. |
+| `scripts/`, `.github/`, `.claude/` | The launcher, workflow, and permissions. Fixed. |
+
+## How to orient at the start of a run
+
+1. Read the two most recent files in `state/runs/`. They say what the last run did, what it left unfinished, and what it suggested.
+2. Read `knowledge/INDEX.md` and `sources/INDEX.md`. Never read every record. Open a record only when you need to update or cross-reference it.
+3. Query your ledger with the tool you wrote for it. Never open the raw ledger file; it will not fit in context once the base is large.
+4. Read `tools/README.md` and reuse the tools.
+5. Write the plan for this run as the first section of `state/runs/<today>.md` before doing anything else. If the run dies, the report still says what was intended.
+
+## How to find sources
+
+JGCT knowledge is scattered. PubMed holds a few hundred papers. Europe PMC, OpenAlex, and Semantic Scholar hold more, including preprints and citations. Conference abstracts from oncology, gynecologic oncology, pediatric oncology, pathology, and pediatric endocrinology meetings are often never published as papers. Disease registries and consortia publish reports. Guideline bodies publish management recommendations. Genomic databases hold sequenced samples. Rare disease organizations maintain summaries. Trial registries in several countries list studies. Non-English literature exists.
+
+Prefer structured APIs over web pages, and verbatim text over paraphrase. Note that the built-in web fetch returns a summary of a page, not the page; for anything you will cite, get the actual text through an API or a script. Chase citations in both directions from the strongest records. When a source is behind a paywall, record it as unreachable with the reason rather than guessing its contents.
+
+## How to judge sources
+
+Every record carries a `source_tier`. Pick the lowest tier that honestly describes the source.
+
+| Tier | Qualifies | Confidence ceiling |
 |---|---|---|
-| `knowledge/records/*.yaml` | One record per source, in the schema below | create, update drafts |
-| `knowledge/schema/record.schema.json` | The record schema | read only |
-| `knowledge/INDEX.md`, `knowledge/ALTERATIONS.md`, `knowledge/TREATMENTS.md` | Generated from records by `tools/build_index.py` | regenerate, never hand-edit |
-| `knowledge/SUMMARY.md` | Your synthesized narrative overview of JGCT, with citations to record IDs | rewrite each run |
-| `sources/index.md` | Every place worth checking, how to query it, its tier | add sources, update notes |
-| `sources/credibility.md` | How to rate a source and resolve conflicts | read only |
-| `state/ledger.json` | Every source ID you have processed, with status and date | append and update |
-| `state/backlog.json` | Source IDs discovered but not yet processed | add and remove |
-| `state/runs/YYYY-MM-DD.md` | Your run report, used verbatim as the pull request body | write once per run |
-| `tools/` | Scripts that fetch, extract, validate, and build | run with `python3` |
-| `.claude/skills/research-sweep/SKILL.md` | The step-by-step procedure for a run | follow it |
+| `peer_reviewed` | Journal article with editorial peer review | 5 with full text, 3 with abstract only |
+| `guideline` | Professional society or consortium recommendations | 5 |
+| `registry` | Disease registry or consortium report | 4 |
+| `database` | Curated clinical or genomic database entry | 4 |
+| `preprint` | Preprint server | 3 |
+| `conference_abstract` | Meeting abstract | 3 |
+| `organization` | Foundation, hospital, or rare disease organization page | 2 |
+| `other` | Credible but unclassified | 2 |
 
-## Record schema, in short
+Rules that do not bend:
 
-Every record is one source: a paper, preprint, conference abstract, guideline, registry report, organization page, or database entry. File name is `<source_type>-<source_id>.yaml`, for example `pmid-35031544.yaml`, `doi-10.1101-2024.11.01.621087.yaml` (slashes become dashes), `abstract-asco-2024-5567.yaml`, `url-<sha1 of url, first 12 chars>.yaml`.
+- **Only cite what you fetched this run.** A record is written from text you retrieved. Never from memory of a paper.
+- **Copy numbers, never compute them.** "4 of 31" stays `4/31`. A case report is `n_jgct_patients: 1`.
+- **Conflicts are recorded, not resolved.** When sources disagree, link them in both records' `conflicts_with` and say so in the summary.
+- **Confidence is yours to rate** from 1 to 5. Use 5 only after reading full text. Say in `extraction_method` how you got the text.
+- **`review_status` is always `draft` when you write it.** Only a human sets `reviewed`. Never change a reviewed record except to add `conflicts_with` or `superseded_by`.
+- **Patient communities, forums, social media, and personal stories are never sources.**
+- **No medical advice.** Records say what sources report. The summary synthesizes literature and says so. Nothing here recommends treatment for any person.
+- **Retractions stay in the base** with `retracted: true` so nobody re-adds them.
 
-Required fields: `source_id`, `source_type`, `source_tier`, `source_url`, `retrieved_on`, `title`, `year`, `study_type`, `key_findings`, `relevance_to_jgct`, `review_status`, `confidence`.
+## How to work within a run
 
-`review_status` is always `draft` when you write it. Only a human sets `reviewed`. Never change a record whose `review_status` is `reviewed` except to add a `superseded_by` or `conflicts_with` note.
+You have a dollar cap set by the launcher. Prefer finishing fewer records well over starting many. Process sources in order of value: large series, genomic studies, guidelines, and registry reports first; then reviews; then preprints and abstracts; then case reports, newest first; then organization pages.
 
-`confidence` is your own 1 to 5 rating of how sure you are the record faithfully reflects the source. Use 5 only when you read the full text. Set `extraction_method` on every record: `full_text`, `verbatim_abstract` (from `tools/europepmc.py abstract` or the extractor), `model_assisted_fetch` (WebFetch paraphrase, cap confidence at 3), or `manual`.
+Build tools when a task will recur. A fetcher, a ledger query, a validator, an index builder. Put them in `tools/`, document them in `tools/README.md`, and run them with `python3`. Earlier runs' tools are yours to improve.
 
-Prefer verbatim text. WebFetch returns a model's paraphrase of a page, not the page. For PubMed items always use `tools/europepmc.py abstract` first and WebFetch only for sources that have no structured API.
+Keep the ledger and indexes current as you go, not at the end. A run that stops early must leave a consistent state.
 
-The full schema is `knowledge/schema/record.schema.json`. The validator enforces it.
+## How to finish
 
-## Rules
+Start finishing with at least fifteen percent of the budget left. In this order:
 
-1. **Read before you research.** Start with `python3 tools/ledger.py status` and `python3 tools/ledger.py next --limit 30`, then `knowledge/INDEX.md` and the last two files in `state/runs/`. Never open `state/ledger.json` or `state/backlog.json` directly; they are tens of thousands of tokens and the ledger tool answers every question about them. Do not re-process a source whose ledger status is `done` unless a newer version exists.
-2. **Only cite what you fetched.** Every claim in a record traces to text you actually retrieved. If you could not fetch a source, ledger it as `unreachable` with the reason. Never write a record from memory of a paper.
-3. **Source tiers are not optional.** Rate every record per `sources/credibility.md`. A conference abstract is `conference_abstract`, not `peer_reviewed`, even if it later became a paper.
-4. **Conflicts are recorded, not resolved.** If two sources disagree, note it in both records' `conflicts_with` and say so in `SUMMARY.md`. Do not pick a winner.
-5. **Stay in the source index.** Fetch only domains listed in `sources/index.md`. When you find a credible source elsewhere, add it to `state/backlog.json` with `"needs_index_approval": true` and list it in the run report. The permission settings will block fetches outside the index anyway.
-6. **Never scrape patient communities or personal stories.** Forums, social media, and support groups are out of scope.
-7. **No medical advice.** Records describe what sources report. `SUMMARY.md` synthesizes the literature and says so. Nothing in this repository recommends treatment for any person.
-8. **Budget awareness.** You have a turn and dollar cap. Prefer finishing fewer records well over starting many. Write the ledger and run report before you are out of budget, not after.
-9. **No git.** The surrounding script commits and opens the pull request. If you run `git`, the run is discarded.
-10. **Determinism over cleverness.** Same prompt, same procedure, every run. The repository is your memory. If something about the procedure should change, say so in the run report under "Suggested changes" rather than improvising.
+1. Validate every record against the schema with your validator. Fix every error.
+2. Rebuild `knowledge/INDEX.md` and `sources/INDEX.md`.
+3. Rewrite `knowledge/SUMMARY.md` if any record changed.
+4. Complete `state/runs/<today>.md`: plan, what was added and updated with tier and confidence (lowest confidence first), what was unreachable and why, conflicts noted, what remains in the backlog, approximate spend, and suggested changes to this file or the schema that you may not make yourself.
+5. Create a branch named `research/<today>`, commit everything with a clear message, push it, and open a pull request to `main` with the run report as the body, the label `research-sweep`, and `mrcloudchase` requested as reviewer. Use `gh pr create`; if it fails, use the REST API through `gh api`. Never merge, never approve, never push to main.
 
-## Tools you can run
-
-```
-python3 tools/monitor/monitor.py --dry-run     # new PubMed papers and trials since last state
-python3 tools/genomics/gct_lookup.py           # refresh public cBioPortal and CIViC data for granulosa cell tumor
-python3 tools/extract/extract_paper.py <pmid>  # draft a record from a PubMed abstract via Claude
-python3 tools/europepmc.py search "<query>"    # Europe PMC search, broader than PubMed, includes preprints; default limit 1000
-python3 tools/europepmc.py abstract <pmid>...  # verbatim abstracts in batches; prefer this over WebFetch of PubMed pages
-python3 tools/europepmc.py fulltext <id>       # open access full text when available
-python3 tools/validate.py                      # validate every record against the schema; must pass before you finish
-python3 tools/build_index.py                   # regenerate INDEX.md, ALTERATIONS.md, TREATMENTS.md
-python3 tools/ledger.py status                 # counts by status; run this first
-python3 tools/ledger.py next --limit N         # highest-priority pending items with titles
-python3 tools/ledger.py triage                 # batch-fetch titles and publication types from PubMed, set priorities
-python3 tools/ledger.py add|start|done|unreachable|skip ...   # update one item; never edit the JSON by hand
-```
-
-For sources without a tool, use WebFetch on the URL and write the record by hand with `tools/ledger.py` to log it.
-
-## Finishing a run
-
-In this order, always:
-
-1. `python3 tools/validate.py` and fix every error.
-2. `python3 tools/build_index.py`.
-3. Update `knowledge/SUMMARY.md` if any record changed.
-4. Write `state/runs/<today>.md` using the template in the skill. It is the pull request body.
+If a sweep pull request is already open when you start, do not open another. Comment on it that this run was skipped and stop.

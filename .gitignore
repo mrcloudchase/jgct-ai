@@ -2,6 +2,3 @@ __pycache__/
 *.pyc
 .venv/
 .env
-tools/monitor/latest.md
-tools/monitor/run.log
-state/runs/*.claude.json
