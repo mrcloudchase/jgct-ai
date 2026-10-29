@@ -19,7 +19,7 @@ You run this procedure every time. Same steps, same order. The repository is you
 Goal: make the backlog complete, not to process it yet.
 
 1. `python3 tools/monitor/monitor.py --dry-run` for new PubMed papers and ClinicalTrials.gov trials.
-2. `python3 tools/europepmc.py search '"juvenile granulosa cell tumor" OR "juvenile granulosa cell tumour"'` and the same with `SRC:PPR` for preprints.
+2. `python3 tools/europepmc.py search '"juvenile granulosa cell tumor" OR "juvenile granulosa cell tumour"' > state/epmc-search.json`, then `python3 tools/ledger.py add-batch state/epmc-search.json` to add every unseen hit (JGCT-titled hits get priority 2, full-text-only matches priority 3). Repeat with `--preprints`. Delete the search file when done.
 3. For every source in `sources/index.md` of type `sweep`, follow its "how to query" note. Society abstract sites: search their abstract archive for the phrase. Registries and organizations: fetch the listed pages and look for publications or updates newer than the ledger's last visit.
 4. Citation chasing: for each record with `confidence >= 4` added in the last run, use Europe PMC's citations endpoint to find papers that cite it. Add unseen ones to the backlog.
 5. Add every new source ID to `state/backlog.json` with `python3 tools/ledger.py add <source_type> <source_id> <url> [--tier T] [--needs-index-approval]`.
@@ -33,7 +33,7 @@ Work the backlog in the order `tools/ledger.py next` gives, and stop when the va
 For each item:
 
 1. `python3 tools/ledger.py start <source_id>`.
-2. Fetch the source. PubMed items: `python3 tools/extract/extract_paper.py <pmid>` writes a draft from the abstract; then try `python3 tools/europepmc.py fulltext <pmid>` and, if full text exists, read it and improve the record. Set `confidence` to 5 only if you read the full text. Non-PubMed items: WebFetch, then write the YAML by hand per the schema.
+2. Fetch the source. PubMed items, in batches of up to 10: `python3 tools/europepmc.py abstract <pmid> <pmid> ...` for verbatim abstracts, then write each record (or run `python3 tools/extract/extract_paper.py <pmid>` when an API key is present and you want a first draft). Then try `python3 tools/europepmc.py fulltext <pmid>` for priority 1 items and, if full text exists, read it and improve the record. Set `confidence` to 5 and `extraction_method: full_text` only if you read the full text. Non-PubMed items: WebFetch, write the YAML by hand, and set `extraction_method: model_assisted_fetch`.
 3. Cross-reference: if the record reports a gene alteration, check `knowledge/ALTERATIONS.md` for existing entries and set `conflicts_with` where numbers disagree materially.
 4. `python3 tools/ledger.py done <source_id> --record <file>` or `python3 tools/ledger.py unreachable <source_id> --reason "<why>"`.
 

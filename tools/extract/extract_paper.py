@@ -104,7 +104,7 @@ def main() -> None:
     record = {
         "source_id": meta["pmid"], "source_type": "pmid", "source_tier": "peer_reviewed",
         "source_url": f"https://pubmed.ncbi.nlm.nih.gov/{meta['pmid']}/", "retrieved_on": date.today().isoformat(),
-        "full_text_read": False, "language": "en",
+        "full_text_read": False, "language": "en", "extraction_method": "verbatim_abstract",
         "pmid": meta["pmid"], "doi": meta["doi"], "title": meta["title"], "journal": meta["journal"],
         "year": meta["year"], "first_author": meta["first_author"],
         **rec.model_dump(),

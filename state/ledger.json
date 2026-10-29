@@ -2,6 +2,7 @@
  "items": {
   "10.1186/1687-9856-2013-S1-P80": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "Precocious puberty and ovarian tumors - 2 case reports (Int J Pediatr Endocrinol 2013 suppl, ISPED abstract)",
    "priority": 3,
@@ -12,6 +13,7 @@
   },
   "10.21203/rs.3.rs-41266/v1": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "Gender dysphoria disrupting treatment of recurrent JGCT in an adolescent: case report (Research Square preprint, 2020)",
    "priority": 3,
@@ -22,6 +24,7 @@
   },
   "10.22541/au.172445613.39123498/v1": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "Secondary ovarian germ cell tumor after Wilms tumor (preprint 2024); EPMC phrase hit, likely not JGCT",
    "priority": 3,
@@ -34,6 +37,7 @@
   },
   "1014997": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -50,6 +54,7 @@
   },
   "10358266": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -65,6 +70,7 @@
   },
   "10509309": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -81,6 +87,7 @@
   },
   "10688023": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -98,6 +105,7 @@
   },
   "10742079": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -114,6 +122,7 @@
   },
   "10823140": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -129,6 +138,7 @@
   },
   "10836607": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -145,6 +155,7 @@
   },
   "10891723": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -162,6 +173,7 @@
   },
   "10925635": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -179,6 +191,7 @@
   },
   "11014571": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -195,6 +208,7 @@
   },
   "11277661": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -213,6 +227,7 @@
   },
   "11329568": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -228,6 +243,7 @@
   },
   "11503097": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -244,6 +260,7 @@
   },
   "11531301": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -260,6 +277,7 @@
   },
   "11696779": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -275,6 +293,7 @@
   },
   "11776205": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -291,6 +310,7 @@
   },
   "11936727": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -309,6 +329,7 @@
   },
   "11938428": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -325,6 +346,7 @@
   },
   "11990313": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -342,6 +364,7 @@
   },
   "12004856": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -359,6 +382,7 @@
   },
   "12165898": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -375,6 +399,7 @@
   },
   "12411036": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -390,6 +415,7 @@
   },
   "12448366": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -407,6 +433,7 @@
   },
   "12462106": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -423,6 +450,7 @@
   },
   "12757681": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -439,6 +467,7 @@
   },
   "12793611": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -455,6 +484,7 @@
   },
   "12805338": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "MAKEI ovarian SCST in children and adolescents (JCO 2003), cited by STEP 2025",
    "priority": 2,
@@ -473,6 +503,7 @@
   },
   "12808064": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -489,6 +520,7 @@
   },
   "12823914": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -506,6 +538,7 @@
   },
   "12893354": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -523,6 +556,7 @@
   },
   "12910419": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -539,6 +573,7 @@
   },
   "1299522": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -556,6 +591,7 @@
   },
   "1300967": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -573,6 +609,7 @@
   },
   "1362810": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -589,6 +626,7 @@
   },
   "1464093": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -606,6 +644,7 @@
   },
   "14660284": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -622,6 +661,7 @@
   },
   "1466394": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -639,6 +679,7 @@
   },
   "14665372": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -655,6 +696,7 @@
   },
   "14674109": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -671,6 +713,7 @@
   },
   "15076304": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -687,6 +730,7 @@
   },
   "15123101": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -704,6 +748,7 @@
   },
   "15160508": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -720,6 +765,7 @@
   },
   "15192945": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -735,6 +781,7 @@
   },
   "15198302": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -751,6 +798,7 @@
   },
   "1526522": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -767,6 +815,7 @@
   },
   "15295395": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -783,6 +832,7 @@
   },
   "15490488": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -799,6 +849,7 @@
   },
   "15498394": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -815,6 +866,7 @@
   },
   "15502809": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -832,6 +884,7 @@
   },
   "1553918": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -849,6 +902,7 @@
   },
   "15693901": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -865,6 +919,7 @@
   },
   "15864389": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -881,6 +936,7 @@
   },
   "15880717": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -896,6 +952,7 @@
   },
   "16050568": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -913,6 +970,7 @@
   },
   "16163598": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -929,6 +987,7 @@
   },
   "16167924": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -945,6 +1004,7 @@
   },
   "16222477": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -960,6 +1020,7 @@
   },
   "16256182": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -976,6 +1037,7 @@
   },
   "1634146": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -991,6 +1053,7 @@
   },
   "1638506": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1008,6 +1071,7 @@
   },
   "16516278": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1024,6 +1088,7 @@
   },
   "16537089": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1039,6 +1104,7 @@
   },
   "1655284": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1056,6 +1122,7 @@
   },
   "16613252": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1073,6 +1140,7 @@
   },
   "1669232": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1090,6 +1158,7 @@
   },
   "16821059": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1106,6 +1175,7 @@
   },
   "16915782": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1123,6 +1193,7 @@
   },
   "16957416": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1139,6 +1210,7 @@
   },
   "1699867": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1155,6 +1227,7 @@
   },
   "16998935": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1171,6 +1244,7 @@
   },
   "17009609": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1187,6 +1261,7 @@
   },
   "17406141": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1203,6 +1278,7 @@
   },
   "1756711": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1219,6 +1295,7 @@
   },
   "17581419": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1234,6 +1311,7 @@
   },
   "17624097": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1251,6 +1329,7 @@
   },
   "17652550": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1268,6 +1347,7 @@
   },
   "1765908": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1283,6 +1363,7 @@
   },
   "17661024": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1299,6 +1380,7 @@
   },
   "17718142": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1315,6 +1397,7 @@
   },
   "17849133": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1331,6 +1414,7 @@
   },
   "17885484": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1346,6 +1430,7 @@
   },
   "17983492": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1362,6 +1447,7 @@
   },
   "18008216": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1378,6 +1464,7 @@
   },
   "18028383": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1394,6 +1481,7 @@
   },
   "18301054": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1409,6 +1497,7 @@
   },
   "18313118": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1425,6 +1514,7 @@
   },
   "18548396": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1441,6 +1531,7 @@
   },
   "18721930": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1457,6 +1548,7 @@
   },
   "18760677": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1473,6 +1565,7 @@
   },
   "19058207": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1489,6 +1582,7 @@
   },
   "19106661": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1506,6 +1600,7 @@
   },
   "19119048": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1522,6 +1617,7 @@
   },
   "19162310": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1537,6 +1633,7 @@
   },
   "19225930": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1553,6 +1650,7 @@
   },
   "19346888": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1569,6 +1667,7 @@
   },
   "1951843": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1584,6 +1683,7 @@
   },
   "19524286": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1600,6 +1700,7 @@
   },
   "19539204": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1615,6 +1716,7 @@
   },
   "19546054": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1631,6 +1733,7 @@
   },
   "19573898": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1647,6 +1750,7 @@
   },
   "19576820": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1664,6 +1768,7 @@
   },
   "1963878": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1680,6 +1785,7 @@
   },
   "19696617": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1696,6 +1802,7 @@
   },
   "1989922": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1712,6 +1819,7 @@
   },
   "19995209": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1728,6 +1836,7 @@
   },
   "20105593": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1745,6 +1854,7 @@
   },
   "20371195": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1762,6 +1872,7 @@
   },
   "20395670": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1778,6 +1889,7 @@
   },
   "20445412": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1794,6 +1906,7 @@
   },
   "2048938": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1812,6 +1925,7 @@
   },
   "20592370": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1828,6 +1942,7 @@
   },
   "20629323": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1844,6 +1959,7 @@
   },
   "2066013": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1861,6 +1977,7 @@
   },
   "20693978": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -1878,6 +1995,7 @@
   },
   "20715666": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1894,6 +2012,7 @@
   },
   "20850634": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1911,6 +2030,7 @@
   },
   "20875070": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -1927,6 +2047,7 @@
   },
   "21040368": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1942,6 +2063,7 @@
   },
   "21176530": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1957,6 +2079,7 @@
   },
   "21217523": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1973,6 +2096,7 @@
   },
   "21256573": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -1988,6 +2112,7 @@
   },
   "21358338": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2004,6 +2129,7 @@
   },
   "21378549": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2020,6 +2146,7 @@
   },
   "21488154": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2037,6 +2164,7 @@
   },
   "21501861": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2054,6 +2182,7 @@
   },
   "21552888": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2069,6 +2198,7 @@
   },
   "21623383": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2087,6 +2217,7 @@
   },
   "21841464": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2103,6 +2234,7 @@
   },
   "2196546": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2120,6 +2252,7 @@
   },
   "2198463": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2136,6 +2269,7 @@
   },
   "21993272": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2151,6 +2285,7 @@
   },
   "22088573": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2168,6 +2303,7 @@
   },
   "22088653": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2184,6 +2320,7 @@
   },
   "22226215": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2201,6 +2338,7 @@
   },
   "22244428": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2217,6 +2355,7 @@
   },
   "22271884": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2234,6 +2373,7 @@
   },
   "22353374": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2250,6 +2390,7 @@
   },
   "2239315": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2266,6 +2407,7 @@
   },
   "22511424": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2281,6 +2423,7 @@
   },
   "22742556": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2296,6 +2439,7 @@
   },
   "2302039": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2312,6 +2456,7 @@
   },
   "23029311": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2328,6 +2473,7 @@
   },
   "23150859": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2345,6 +2491,7 @@
   },
   "23217189": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2361,6 +2508,7 @@
   },
   "2332212": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2377,6 +2525,7 @@
   },
   "23348906": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2393,6 +2542,7 @@
   },
   "23370648": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2408,6 +2558,7 @@
   },
   "23424695": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2423,6 +2574,7 @@
   },
   "23519754": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2439,6 +2591,7 @@
   },
   "2359966": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2456,6 +2609,7 @@
   },
   "23733594": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2474,6 +2628,7 @@
   },
   "23776871": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2490,6 +2645,7 @@
   },
   "24198925": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2506,6 +2662,7 @@
   },
   "24300529": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2523,6 +2680,7 @@
   },
   "24304499": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2538,6 +2696,7 @@
   },
   "2435268": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2554,6 +2713,7 @@
   },
   "24371683": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2569,6 +2729,7 @@
   },
   "2439713": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2585,6 +2746,7 @@
   },
   "2444685": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2600,6 +2762,7 @@
   },
   "24455600": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2615,6 +2778,7 @@
   },
   "2456656": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2631,6 +2795,7 @@
   },
   "24606464": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2647,6 +2812,7 @@
   },
   "24656706": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2663,6 +2829,7 @@
   },
   "2471350": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2678,6 +2845,7 @@
   },
   "2474244": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2694,6 +2862,7 @@
   },
   "24783102": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2710,6 +2879,7 @@
   },
   "24785740": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2725,6 +2895,7 @@
   },
   "24959454": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2741,6 +2912,7 @@
   },
   "25053523": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2758,6 +2930,7 @@
   },
   "25148497": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2774,6 +2947,7 @@
   },
   "25165122": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2791,6 +2965,7 @@
   },
   "25204485": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2807,6 +2982,7 @@
   },
   "25266542": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2823,6 +2999,7 @@
   },
   "25362018": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2839,6 +3016,7 @@
   },
   "25440719": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2854,6 +3032,7 @@
   },
   "25440720": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2869,6 +3048,7 @@
   },
   "25478362": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2884,6 +3064,7 @@
   },
   "25656930": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -2900,6 +3081,7 @@
   },
   "25788847": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -2915,6 +3097,7 @@
   },
   "25828390": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2930,6 +3113,7 @@
   },
   "25844550": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2945,6 +3129,7 @@
   },
   "26033501": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2961,6 +3146,7 @@
   },
   "26034868": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2976,6 +3162,7 @@
   },
   "26076062": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -2994,6 +3181,7 @@
   },
   "26123103": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3010,6 +3198,7 @@
   },
   "26135561": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3027,6 +3216,7 @@
   },
   "26137586": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3044,6 +3234,7 @@
   },
   "26165406": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3060,6 +3251,7 @@
   },
   "26169919": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3077,6 +3269,7 @@
   },
   "26206391": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3094,6 +3287,7 @@
   },
   "26362254": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3112,6 +3306,7 @@
   },
   "26389276": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3127,6 +3322,7 @@
   },
   "26389315": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3142,6 +3338,7 @@
   },
   "26500075": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3157,6 +3354,7 @@
   },
   "27042471": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3173,6 +3371,7 @@
   },
   "27047664": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3188,6 +3387,7 @@
   },
   "27057263": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3204,6 +3404,7 @@
   },
   "27104151": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3220,6 +3421,7 @@
   },
   "27372158": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3236,6 +3438,7 @@
   },
   "27569101": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3252,6 +3455,7 @@
   },
   "2757305": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3268,6 +3472,7 @@
   },
   "27628838": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3284,6 +3489,7 @@
   },
   "27702598": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3299,6 +3505,7 @@
   },
   "27843515": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3315,6 +3522,7 @@
   },
   "27897024": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3331,6 +3539,7 @@
   },
   "28040149": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3347,6 +3556,7 @@
   },
   "28123736": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3362,6 +3572,7 @@
   },
   "28144098": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3378,6 +3589,7 @@
   },
   "28154722": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3395,6 +3607,7 @@
   },
   "28331810": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3411,6 +3624,7 @@
   },
   "28420520": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3427,6 +3641,7 @@
   },
   "28501984": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3443,6 +3658,7 @@
   },
   "28652991": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3459,6 +3675,7 @@
   },
   "29037807": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3477,6 +3694,7 @@
   },
   "2909044": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3494,6 +3712,7 @@
   },
   "2910225": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3509,6 +3728,7 @@
   },
   "29175835": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3526,6 +3746,7 @@
   },
   "29198337": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3542,6 +3763,7 @@
   },
   "29275930": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3558,6 +3780,7 @@
   },
   "29290327": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3574,6 +3797,7 @@
   },
   "29409506": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3590,6 +3814,7 @@
   },
   "29546931": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3606,6 +3831,7 @@
   },
   "2964926": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3621,6 +3847,7 @@
   },
   "29660837": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3636,6 +3863,7 @@
   },
   "29923976": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3652,6 +3880,7 @@
   },
   "30011982": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3667,6 +3896,7 @@
   },
   "30123871": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3683,6 +3913,7 @@
   },
   "30275002": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3699,6 +3930,7 @@
   },
   "3028928": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3715,6 +3947,7 @@
   },
   "30358638": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3732,6 +3965,7 @@
   },
   "30500284": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3748,6 +3982,7 @@
   },
   "30547828": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3765,6 +4000,7 @@
   },
   "30659330": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3781,6 +4017,7 @@
   },
   "30728165": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3799,6 +4036,7 @@
   },
   "30772079": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3815,6 +4053,7 @@
   },
   "30796991": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3831,6 +4070,7 @@
   },
   "30911605": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3847,6 +4087,7 @@
   },
   "30965205": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3863,6 +4104,7 @@
   },
   "30992313": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3879,6 +4121,7 @@
   },
   "31162286": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3894,6 +4137,7 @@
   },
   "31409083": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3909,6 +4153,7 @@
   },
   "31582893": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -3924,6 +4169,7 @@
   },
   "3176932": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3940,6 +4186,7 @@
   },
   "3178427": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -3957,6 +4204,7 @@
   },
   "31789679": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3973,6 +4221,7 @@
   },
   "31846265": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -3988,6 +4237,7 @@
   },
   "31846269": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4003,6 +4253,7 @@
   },
   "31871849": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4019,6 +4270,7 @@
   },
   "32030006": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4034,6 +4286,7 @@
   },
   "3209455": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4050,6 +4303,7 @@
   },
   "3211812": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4066,6 +4320,7 @@
   },
   "32144835": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4081,6 +4336,7 @@
   },
   "32341591": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4097,6 +4353,7 @@
   },
   "32561911": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4113,6 +4370,7 @@
   },
   "32610388": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4128,6 +4386,7 @@
   },
   "32745618": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4144,6 +4403,7 @@
   },
   "32751726": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4159,6 +4419,7 @@
   },
   "32782216": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4174,6 +4435,7 @@
   },
   "32815828": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4189,6 +4451,7 @@
   },
   "32910017": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4206,6 +4469,7 @@
   },
   "33201299": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4222,6 +4486,7 @@
   },
   "33241170": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4238,6 +4503,7 @@
   },
   "33323862": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4253,6 +4519,7 @@
   },
   "33362514": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4269,6 +4536,7 @@
   },
   "33371855": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4286,6 +4554,7 @@
   },
   "33560080": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4303,6 +4572,7 @@
   },
   "33583630": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4320,6 +4590,7 @@
   },
   "33621150": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4336,6 +4607,7 @@
   },
   "33725665": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4353,6 +4625,7 @@
   },
   "3373268": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4370,6 +4643,7 @@
   },
   "33754426": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4386,6 +4660,7 @@
   },
   "33760357": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "EXPeRT/PARTNER consensus recommendations for SCST in children and adolescents (PBC 2021)",
    "priority": 1,
@@ -4405,6 +4680,7 @@
   },
   "33789803": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4420,6 +4696,7 @@
   },
   "3383118": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4436,6 +4713,7 @@
   },
   "33849266": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4452,6 +4730,7 @@
   },
   "33904645": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4469,6 +4748,7 @@
   },
   "34169133": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4485,6 +4765,7 @@
   },
   "34285730": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4501,6 +4782,7 @@
   },
   "34286167": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4517,6 +4799,7 @@
   },
   "34306284": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4533,6 +4816,7 @@
   },
   "34411449": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4549,6 +4833,7 @@
   },
   "34469331": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4564,6 +4849,7 @@
   },
   "34487069": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4580,6 +4866,7 @@
   },
   "34674583": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4596,6 +4883,7 @@
   },
   "34688077": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4611,6 +4899,7 @@
   },
   "34694430": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4629,6 +4918,7 @@
   },
   "34902562": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4644,6 +4934,7 @@
   },
   "35031544": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4663,6 +4954,7 @@
   },
   "35049372": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4680,6 +4972,7 @@
   },
   "35156876": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4695,6 +4988,7 @@
   },
   "35165855": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4711,6 +5005,7 @@
   },
   "35296906": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4727,6 +5022,7 @@
   },
   "35300053": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4742,6 +5038,7 @@
   },
   "35300760": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4757,6 +5054,7 @@
   },
   "35338687": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "Comment on EXPeRT/PARTNER SCST consensus (PBC 2022)",
    "priority": 1,
@@ -4773,6 +5071,7 @@
   },
   "35371651": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4789,6 +5088,7 @@
   },
   "35395117": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4804,6 +5104,7 @@
   },
   "35437273": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4820,6 +5121,7 @@
   },
   "35466733": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4836,6 +5138,7 @@
   },
   "35715160": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4852,6 +5155,7 @@
   },
   "35778792": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -4868,6 +5172,7 @@
   },
   "35848651": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4884,6 +5189,7 @@
   },
   "35927968": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4900,6 +5206,7 @@
   },
   "35942608": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4916,6 +5223,7 @@
   },
   "35944993": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4932,6 +5240,7 @@
   },
   "35968204": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4947,6 +5256,7 @@
   },
   "3597846": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4963,6 +5273,7 @@
   },
   "36112066": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -4979,6 +5290,7 @@
   },
   "36208031": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -4994,6 +5306,7 @@
   },
   "36247268": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5010,6 +5323,7 @@
   },
   "36420590": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5026,6 +5340,7 @@
   },
   "36647328": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5042,6 +5357,7 @@
   },
   "36748172": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5057,6 +5373,7 @@
   },
   "36813116": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5075,6 +5392,7 @@
   },
   "36869369": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5091,6 +5409,7 @@
   },
   "36992983": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5107,6 +5426,7 @@
   },
   "37052631": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5122,6 +5442,7 @@
   },
   "3712163": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5138,6 +5459,7 @@
   },
   "37151162": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5155,6 +5477,7 @@
   },
   "37169426": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5173,6 +5496,7 @@
   },
   "37169445": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5189,6 +5513,7 @@
   },
   "37184091": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5206,6 +5531,7 @@
   },
   "37248399": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5222,6 +5548,7 @@
   },
   "37324278": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5241,6 +5568,7 @@
   },
   "3740351": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5257,6 +5585,7 @@
   },
   "37483405": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5272,6 +5601,7 @@
   },
   "37493465": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5288,6 +5618,7 @@
   },
   "37567969": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5305,6 +5636,7 @@
   },
   "37634867": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5320,6 +5652,7 @@
   },
   "37650316": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5335,6 +5668,7 @@
   },
   "37668387": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5350,6 +5684,7 @@
   },
   "37749997": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5365,6 +5700,7 @@
   },
   "37796616": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5383,6 +5719,7 @@
   },
   "37840846": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5399,6 +5736,7 @@
   },
   "38282900": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5415,6 +5753,7 @@
   },
   "3835552": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5432,6 +5771,7 @@
   },
   "38513413": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5448,6 +5788,7 @@
   },
   "38575475": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5464,6 +5805,7 @@
   },
   "3863589": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5480,6 +5822,7 @@
   },
   "38879834": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5496,6 +5839,7 @@
   },
   "38942037": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5511,6 +5855,7 @@
   },
   "39022116": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5526,6 +5871,7 @@
   },
   "39098546": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5542,6 +5888,7 @@
   },
   "39161564": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5558,6 +5905,7 @@
   },
   "39169716": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5573,6 +5921,7 @@
   },
   "39215355": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5590,6 +5939,7 @@
   },
   "39231752": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5606,6 +5956,7 @@
   },
   "39271346": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5623,6 +5974,7 @@
   },
   "39486125": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5638,6 +5990,7 @@
   },
   "39561630": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5655,6 +6008,7 @@
   },
   "3971998": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5671,6 +6025,7 @@
   },
   "3976984": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5687,6 +6042,7 @@
   },
   "39773640": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5704,6 +6060,7 @@
   },
   "39863551": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5722,6 +6079,7 @@
   },
   "39877787": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5738,6 +6096,7 @@
   },
   "39983368": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5756,6 +6115,7 @@
   },
   "39993522": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5772,6 +6132,7 @@
   },
   "40076617": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5788,6 +6149,7 @@
   },
   "40234276": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5803,6 +6165,7 @@
   },
   "40267023": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5820,6 +6183,7 @@
   },
   "40272823": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5837,6 +6201,7 @@
   },
   "40288095": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5852,6 +6217,7 @@
   },
   "40390890": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5868,6 +6234,7 @@
   },
   "4061731": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5885,6 +6252,7 @@
   },
   "40815979": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5900,6 +6268,7 @@
   },
   "40901169": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5916,6 +6285,7 @@
   },
   "41035579": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5932,6 +6302,7 @@
   },
   "41036825": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5949,6 +6320,7 @@
   },
   "41112815": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -5965,6 +6337,7 @@
   },
   "41237900": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -5980,6 +6353,7 @@
   },
   "41243833": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -5998,6 +6372,7 @@
   },
   "41338896": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6014,6 +6389,7 @@
   },
   "41340166": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6032,6 +6408,7 @@
   },
   "41367860": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6048,6 +6425,7 @@
   },
   "41416308": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6064,6 +6442,7 @@
   },
   "41617645": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6081,6 +6460,7 @@
   },
   "41644436": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6099,6 +6479,7 @@
   },
   "41654424": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6114,6 +6495,7 @@
   },
   "41797949": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6130,6 +6512,7 @@
   },
   "41839237": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6148,6 +6531,7 @@
   },
   "41887253": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6163,6 +6547,7 @@
   },
   "42504512": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "Ovarian SCST in children and adolescents - European Standard Clinical Practice Recommendations (PBC 2026)",
    "priority": 2,
@@ -6180,6 +6565,7 @@
   },
   "42706059": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6198,6 +6584,7 @@
   },
   "42727615": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6213,6 +6600,7 @@
   },
   "42887639": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6229,6 +6617,7 @@
   },
   "42896236": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6246,6 +6635,7 @@
   },
   "42927143": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6262,6 +6652,7 @@
   },
   "509394": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6278,6 +6669,7 @@
   },
   "6175237": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6294,6 +6686,7 @@
   },
   "6263992": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6310,6 +6703,7 @@
   },
   "6365306": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6328,6 +6722,7 @@
   },
   "6465418": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6346,6 +6741,7 @@
   },
   "6548120": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6362,6 +6758,7 @@
   },
   "6624445": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6378,6 +6775,7 @@
   },
   "7240858": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6395,6 +6793,7 @@
   },
   "7731938": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6410,6 +6809,7 @@
   },
   "7774848": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6427,6 +6827,7 @@
   },
   "8116801": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6443,6 +6844,7 @@
   },
   "8154078": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6458,6 +6860,7 @@
   },
   "8247952": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6474,6 +6877,7 @@
   },
   "8293741": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6489,6 +6893,7 @@
   },
   "8308995": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6504,6 +6909,7 @@
   },
   "8372023": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6521,6 +6927,7 @@
   },
   "8423014": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6538,6 +6945,7 @@
   },
   "8427250": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6554,6 +6962,7 @@
   },
   "8540611": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6569,6 +6978,7 @@
   },
   "8598334": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6584,6 +6994,7 @@
   },
   "8602303": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6600,6 +7011,7 @@
   },
   "8884354": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6616,6 +7028,7 @@
   },
   "8969738": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6634,6 +7047,7 @@
   },
   "9025845": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6650,6 +7064,7 @@
   },
   "9038278": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6668,6 +7083,7 @@
   },
   "9090524": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6684,6 +7100,7 @@
   },
   "9134041": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6699,6 +7116,7 @@
   },
   "9143029": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6715,6 +7133,7 @@
   },
   "9165470": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6731,6 +7150,7 @@
   },
   "9165474": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6747,6 +7167,7 @@
   },
   "9190974": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6764,6 +7185,7 @@
   },
   "9237180": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6779,6 +7201,7 @@
   },
   "9253627": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6794,6 +7217,7 @@
   },
   "9289669": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6810,6 +7234,7 @@
   },
   "9343289": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6826,6 +7251,7 @@
   },
   "9416696": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6842,6 +7268,7 @@
   },
   "9421080": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6859,6 +7286,7 @@
   },
   "9553819": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6875,6 +7303,7 @@
   },
   "9560834": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6891,6 +7320,7 @@
   },
   "9623521": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6907,6 +7337,7 @@
   },
   "9688187": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6923,6 +7354,7 @@
   },
   "9704306": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6939,6 +7371,7 @@
   },
   "9712426": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 2,
@@ -6955,6 +7388,7 @@
   },
   "9773806": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,
@@ -6971,6 +7405,7 @@
   },
   "9777570": {
    "added_on": "2026-10-29",
+   "jgct_in_title": false,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 1,
@@ -6987,6 +7422,7 @@
   },
   "9810398": {
    "added_on": "2026-10-29",
+   "jgct_in_title": true,
    "needs_index_approval": false,
    "note": "phrase search backlog",
    "priority": 4,

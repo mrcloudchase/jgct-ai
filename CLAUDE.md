@@ -26,7 +26,9 @@ Required fields: `source_id`, `source_type`, `source_tier`, `source_url`, `retri
 
 `review_status` is always `draft` when you write it. Only a human sets `reviewed`. Never change a record whose `review_status` is `reviewed` except to add a `superseded_by` or `conflicts_with` note.
 
-`confidence` is your own 1 to 5 rating of how sure you are the record faithfully reflects the source. Use 5 only when you read the full text.
+`confidence` is your own 1 to 5 rating of how sure you are the record faithfully reflects the source. Use 5 only when you read the full text. Set `extraction_method` on every record: `full_text`, `verbatim_abstract` (from `tools/europepmc.py abstract` or the extractor), `model_assisted_fetch` (WebFetch paraphrase, cap confidence at 3), or `manual`.
+
+Prefer verbatim text. WebFetch returns a model's paraphrase of a page, not the page. For PubMed items always use `tools/europepmc.py abstract` first and WebFetch only for sources that have no structured API.
 
 The full schema is `knowledge/schema/record.schema.json`. The validator enforces it.
 
@@ -49,7 +51,8 @@ The full schema is `knowledge/schema/record.schema.json`. The validator enforces
 python3 tools/monitor/monitor.py --dry-run     # new PubMed papers and trials since last state
 python3 tools/genomics/gct_lookup.py           # refresh public cBioPortal and CIViC data for granulosa cell tumor
 python3 tools/extract/extract_paper.py <pmid>  # draft a record from a PubMed abstract via Claude
-python3 tools/europepmc.py search "<query>"    # Europe PMC search, broader than PubMed, includes preprints
+python3 tools/europepmc.py search "<query>"    # Europe PMC search, broader than PubMed, includes preprints; default limit 1000
+python3 tools/europepmc.py abstract <pmid>...  # verbatim abstracts in batches; prefer this over WebFetch of PubMed pages
 python3 tools/europepmc.py fulltext <id>       # open access full text when available
 python3 tools/validate.py                      # validate every record against the schema; must pass before you finish
 python3 tools/build_index.py                   # regenerate INDEX.md, ALTERATIONS.md, TREATMENTS.md
