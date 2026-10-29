@@ -5,6 +5,7 @@
   python3 tools/ledger.py add <source_type> <source_id> <url> [--tier T] [--priority N] [--needs-index-approval] [--note TEXT]
   python3 tools/ledger.py next [--limit N]          # highest-priority pending items, newest first within a priority
   python3 tools/ledger.py triage                    # batch-fetch PubMed titles and publication types; set priorities
+  python3 tools/ledger.py add-batch <search.json> [--priority N] [--note TEXT]   # add every unseen hit from europepmc.py search output
   python3 tools/ledger.py start <source_id>
   python3 tools/ledger.py done <source_id> --record knowledge/records/<file>.yaml
   python3 tools/ledger.py unreachable <source_id> --reason TEXT
@@ -35,6 +36,7 @@ def save(p: Path, d: dict) -> None:
     p.write_text(json.dumps(d, indent=1, sort_keys=True) + "\n")
 
 
+JGCT_TITLE = re.compile(r"juvenile[- ]granulosa|juvenile[- ]type granulosa|\bJGCT\b", re.I)
 PRIORITY_1_TITLE = re.compile(r"genom|sequenc|mutation|methylat|molecular|cohort|series|registry|outcome|survival|"
                               r"prognos|classification|guideline|consensus|management|multicent|retrospective|"
                               r"\b\d{2,3} (cases|patients|tumou?rs)\b", re.I)
@@ -43,6 +45,8 @@ PRIORITY_1_TITLE = re.compile(r"genom|sequenc|mutation|methylat|molecular|cohort
 def triage(items: dict) -> int:
     """Fetch title, year and publication types for every PubMed item lacking a title, then set priority."""
     import requests
+    for v in items.values():
+        v["jgct_in_title"] = bool(JGCT_TITLE.search(v.get("title") or ""))
     pmids = [k for k, v in items.items() if v["source_type"] == "pmid" and not v.get("title")]
     for i in range(0, len(pmids), 200):
         chunk = pmids[i:i + 200]
@@ -58,6 +62,7 @@ def triage(items: dict) -> int:
             it["title"] = d.get("title", "")
             it["year"] = (d.get("pubdate") or "")[:4]
             it["pubtypes"] = d.get("pubtype", [])
+            it["jgct_in_title"] = bool(JGCT_TITLE.search(it["title"]))
             pt = " ".join(it["pubtypes"]).lower()
             if "case reports" in pt and not PRIORITY_1_TITLE.search(it["title"]):
                 it["priority"] = 4
@@ -86,6 +91,10 @@ def main() -> None:
     a.add_argument("--priority", type=int)
     a.add_argument("--needs-index-approval", action="store_true")
     a.add_argument("--note", default="")
+    ab = sub.add_parser("add-batch")
+    ab.add_argument("file")
+    ab.add_argument("--priority", type=int, default=3)
+    ab.add_argument("--note", default="Europe PMC search hit")
     n = sub.add_parser("next")
     n.add_argument("--limit", type=int, default=20)
     for cmd in ("start", "done", "unreachable", "skip"):
@@ -115,6 +124,29 @@ def main() -> None:
             "priority": args.priority if args.priority is not None else PRIORITY_DEFAULT.get(args.tier, 5),
             "status": "pending", "added_on": today, "needs_index_approval": args.needs_index_approval, "note": args.note,
         }
+    elif args.cmd == "add-batch":
+        hits = json.loads(Path(args.file).read_text())
+        added = 0
+        for h in hits:
+            pmid, doi = h.get("pmid"), h.get("doi")
+            if pmid:
+                key, stype, url, tier = pmid, "pmid", f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/", "peer_reviewed"
+            elif doi:
+                key, stype, url, tier = doi, "doi", f"https://doi.org/{doi}", "preprint" if h.get("source") == "PPR" else "peer_reviewed"
+            else:
+                continue
+            if key in items:
+                continue
+            title = h.get("title") or ""
+            items[key] = {"source_type": stype, "url": url, "tier": tier, "title": title, "year": str(h.get("year") or ""),
+                          "jgct_in_title": bool(JGCT_TITLE.search(title)),
+                          "priority": 2 if JGCT_TITLE.search(title) else args.priority,
+                          "status": "pending", "added_on": today, "needs_index_approval": False, "note": args.note}
+            added += 1
+        save(LEDGER, ledger)
+        sync_backlog(ledger)
+        print(f"added {added} new items from {len(hits)} hits")
+        return
     elif args.cmd == "triage":
         n = triage(items)
         save(LEDGER, ledger)
@@ -127,7 +159,7 @@ def main() -> None:
         return
     elif args.cmd == "next":
         pend = [(k, v) for k, v in items.items() if v["status"] == "pending" and not v.get("needs_index_approval")]
-        pend.sort(key=lambda kv: (kv[1]["priority"], -int(kv[1].get("year") or 0), kv[1]["added_on"]))
+        pend.sort(key=lambda kv: (kv[1]["priority"], not kv[1].get("jgct_in_title"), -int(kv[1].get("year") or 0), kv[1]["added_on"]))
         print("priority\ttype\tid\tyear\ttier\ttitle\turl")
         for k, v in pend[: args.limit]:
             print(f"{v['priority']}\t{v['source_type']}\t{k}\t{v.get('year', '')}\t{v['tier']}\t{(v.get('title') or '')[:100]}\t{v['url']}")
