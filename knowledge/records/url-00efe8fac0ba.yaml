@@ -1,0 +1,33 @@
+source_id: 00efe8fac0ba
+source_type: url
+source_tier: database
+source_url: https://clinicaltrials.gov/study/NCT05773651
+retrieved_on: '2026-10-29'
+full_text_read: true
+language: en
+pmid: null
+doi: null
+title: Rare Tumours in Children and Adolescents (STEP 2.0) registry (NCT05773651)
+journal: null
+year: 2023
+first_author: null
+study_type: registry
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Observational registry of rare solid tumors in children and adolescents, recruiting, start 2023-01-11, sponsor University Hospital Tuebingen; estimated enrollment 10000.
+- 'Eligibility: rare solid tumor diagnosed from the neonatal period to 18 years, not registered in another GPOH study or registry; young adults may register on request.'
+- 'Primary outcome: event-free survival.'
+relevance_to_jgct: German STEP registry that collects pediatric JGCT cases; source of the 113-patient series pmid-40272823.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Fetched via ClinicalTrials.gov API v2.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

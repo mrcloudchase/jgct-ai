@@ -1,0 +1,35 @@
+source_id: '12910419'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/12910419/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '12910419'
+doi: 10.1007/s00428-003-0869-0
+title: Ovarian sex cord-stromal tumors--a clinicopathological study of 72 cases from the Kiel Pediatric Tumor Registry.
+journal: Virchows Archiv
+year: 2003
+first_author: Schneider DT
+study_type: registry
+n_jgct_patients: 48
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 72 pediatric ovarian SCSTs over 20 years in the Kiel registry; JGCT (n=48) the most frequent subtype.
+- FIGO Ia 39, Ic 17, II 3, III 1 (60 with complete data).
+- JGCT mean mitotic activity 9.8 mitoses/10 HPF, significantly higher than other subtypes (2.7/10 HPF, P=0.001).
+- Vimentin 52/52, cytokeratin 27/33, inhibin 19/20 positive.
+- '10-year EFS 0.88 +/- 0.05 (38/43); <20 vs >=20 mitoses/10 HPF: EFS 1.0 vs 0.48 +/- 0.05 (P=0.0001).'
+relevance_to_jgct: Pathology registry study first quantifying the >=20 mitoses/10 HPF threshold as prognostic in pediatric ovarian SCST (mostly JGCT).
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: EFS and mitotic analysis are for all OSCST, of which 48/72 were JGCT.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

@@ -1,0 +1,43 @@
+source_id: '39561630'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39561630/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '39561630'
+doi: 10.1016/j.ygyno.2024.11.007
+title: Oncologic and fertility outcomes in patients with juvenile granulosa cell tumor - a retrospective single centre analysis.
+journal: Gynecologic oncology
+year: 2025
+first_author: Marino G
+study_type: case_series
+n_jgct_patients: 30
+age_range: null
+alterations: []
+treatments:
+- regimen: Fertility-sparing surgery
+  setting: primary
+  n: 26
+  outcome: null
+- regimen: Adjuvant chemotherapy
+  setting: adjuvant
+  n: 6
+  outcome: null
+presentation: []
+key_findings:
+- 30 ovarian JGCT patients treated at IRCCS San Gerardo dei Tintori, Monza, 1980-2024; median age at onset 21.5.
+- 80.0% (24/30) stage I (16/26 IA, 1/26 IB, 7/26 IC), 6.7% (2/30) stage II, 13.3% (4/30) stage III.
+- Fertility-sparing surgery in 86.7% (26/30); radical surgery in 13.3% (4/30).
+- Adjuvant chemotherapy in 20.0% (6/30); 80.0% (24/30) surveillance only.
+- Three of thirty (10.0%) relapsed and died of disease; all had advanced stage at diagnosis.
+relevance_to_jgct: Adult/adolescent-focused single-centre series showing good prognosis in stage I and poor outcome in advanced stage.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract states fertility outcomes were analysed but gives no fertility figures.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

@@ -1,0 +1,33 @@
+source_id: '22187960'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/22187960/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '22187960'
+doi: 10.1056/NEJMoa1102903
+title: Recurrent somatic DICER1 mutations in nonepithelial ovarian cancers.
+journal: The New England journal of medicine
+year: 2012
+first_author: Heravi-Moussavi A
+study_type: genomic
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- DICER1 RNase IIIb domain mutations in 30 of 102 nonepithelial ovarian tumors (29%), predominantly Sertoli-Leydig cell tumors (26 of 43, 60%).
+- Mutations restricted to codons encoding metal-binding sites of RNase IIIb; somatic in all 16 samples with germline DNA available.
+- Mutant DICER1 had reduced RNase IIIb but retained RNase IIIa activity.
+relevance_to_jgct: Landmark paper establishing somatic DICER1 hotspot mutations in ovarian SCST, the basis for DICER1 testing in JGCT differential diagnosis.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract does not give the number of JGCTs tested or mutated.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

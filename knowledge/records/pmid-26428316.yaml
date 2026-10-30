@@ -1,0 +1,33 @@
+source_id: '26428316'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26428316/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '26428316'
+doi: 10.1038/modpathol.2015.115
+title: A survey of DICER1 hotspot mutations in ovarian and testicular sex cord-stromal tumors.
+journal: Modern pathology
+year: 2015
+first_author: Conlon N
+study_type: genomic
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- DICER1 hotspot mutations in 20 of 32 (63%) ovarian Sertoli-Leydig cell tumors (80% p.E1705K), 2/5 gynandroblastomas, 5/8 ovarian Sertoli cell tumors.
+- No DICER1 mutations in 15 testicular sex cord-stromal tumors.
+- Two DICER1 wild-type gynandroblastomas had FOXL2 p.C134W in both components.
+relevance_to_jgct: 'Context for JGCT differential diagnosis: DICER1 hotspots mark Sertoli-lineage tumors; absent in testicular SCST.'
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract does not state whether testicular JGCTs were among the 15 testicular SCSTs or give JGCT counts.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

@@ -1,0 +1,36 @@
+source_id: 68575db179a7
+source_type: url
+source_tier: database
+source_url: https://clinicaltrials.gov/study/NCT01042522
+retrieved_on: '2026-10-29'
+full_text_read: true
+language: en
+pmid: null
+doi: null
+title: Randomized Phase II Trial of Paclitaxel and Carboplatin vs. BEP for Advanced Stage and Recurrent Chemonaive Sex Cord-Stromal Tumors of the Ovary (NCT01042522, GOG)
+journal: null
+year: 2010
+first_author: null
+study_type: trial
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments:
+- regimen: Paclitaxel + carboplatin vs BEP
+  setting: advanced or recurrent chemonaive ovarian SCST (adults)
+  n: 63
+  outcome: results not posted in fetched record fields
+presentation: []
+key_findings:
+- 'Randomized phase II GOG Foundation trial: Arm I paclitaxel + carboplatin vs Arm II bleomycin, etoposide, cisplatin; primary outcome progression-free survival; actual enrollment 63; status UNKNOWN (last update 2022-01-25).'
+- 'Eligibility: age 18 years or older; histologically confirmed ovarian stromal tumors including granulosa cell tumor; newly diagnosed stage IIA-IV within eight weeks of surgery or chemonaive recurrent disease.'
+relevance_to_jgct: Only randomized chemotherapy trial identified for ovarian sex cord-stromal tumors; adults only, so pediatric JGCT patients were not eligible.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Fetched via ClinicalTrials.gov API v2; results section not examined. Does not specify juvenile vs adult GCT.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

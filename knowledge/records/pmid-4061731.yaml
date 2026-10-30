@@ -1,0 +1,34 @@
+source_id: '4061731'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/4061731/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '4061731'
+doi: 10.1097/00000478-198510000-00005
+title: Juvenile granulosa cell tumor--another neoplasm associated with abnormal chromosomes and ambiguous genitalia. A report of three cases.
+journal: The American journal of surgical pathology
+year: 1985
+first_author: Young RH
+study_type: case_series
+n_jgct_patients: 3
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- ambiguous genitalia
+- undescended gonad
+key_findings:
+- Three infants aged 3 months or younger with abnormal karyotypes and ambiguous genitalia had gonadal JGCTs.
+- Two had mixed gonadal dysgenesis; two tumors arose in undescended testes and one in an undescended gonad of uncertain nature.
+relevance_to_jgct: Links JGCT to disorders of sex development / abnormal karyotype.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

@@ -1,0 +1,33 @@
+source_id: '41237900'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41237900/
+retrieved_on: '2026-10-29'
+full_text_read: false
+language: en
+pmid: '41237900'
+doi: 10.1016/j.mcpro.2025.101466
+title: Deciphering the Impact of AKT1 Pathogenic Variants in Juvenile Granulosa Cell Tumors Using a Drosophila Model.
+journal: Molecular & cellular proteomics
+year: 2025
+first_author: Veitia RA
+study_type: other
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Transgenic Drosophila expressing WT AKT1 and four JGCT pathogenic variants.
+- Mutant AKT1 increased wing surface and reduced trichome density (larger cells); in ovarian follicular cells mutant AKT1 associated with plasma membrane and caused morphological abnormalities and increased cell size.
+- Proteomics showed changes in glycolysis and Rho GTPase signaling; transcriptomics showed gain of function for a subset of genes but weaker activation of others than WT AKT1.
+relevance_to_jgct: Model-organism functional study of JGCT AKT1 variants.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

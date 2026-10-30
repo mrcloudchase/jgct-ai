@@ -1,0 +1,33 @@
+source_id: 7c7ae0b05976
+source_type: url
+source_tier: database
+source_url: https://api.orphacode.org/EN/ClinicalEntity/orphacode/99915/Definition
+retrieved_on: '2026-10-29'
+full_text_read: true
+language: en
+pmid: null
+doi: null
+title: Orphanet ORPHA:99915 Malignant granulosa cell tumor of the ovary
+journal: null
+year: 2026
+first_author: null
+study_type: database_entry
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Orphanet has no separate entity for juvenile granulosa cell tumor (approximate-name searches for 'granulosa' and 'juvenile granulosa' on 2026-10-29 returned only ORPHA:99915).
+- ORPHA:99915 definition describes a tumor occurring in peri- and post-menopausal women with a slow natural history and tendency to late relapse, i.e. the adult type.
+- 'Synonyms: Granulosa cell cancer; Granulosa cell malignant tumor.'
+relevance_to_jgct: Documents that the main rare-disease nomenclature does not distinguish JGCT, relevant for families searching rare disease resources.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Fetched via Orphanet ORPHAcode API (entity date 2026-07-02).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text
