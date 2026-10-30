@@ -2,13 +2,14 @@ source_id: 7c7ae0b05976
 source_type: url
 source_tier: database
 source_url: https://api.orphacode.org/EN/ClinicalEntity/orphacode/99915/Definition
-retrieved_on: '2026-10-29'
-full_text_read: true
+retrieved_on: '2026-10-30'
+full_text_source: https://api.orphacode.org/EN/ClinicalEntity/orphacode/99915/Definition
 language: en
 pmid: null
 doi: null
+pmcid: null
 title: Orphanet ORPHA:99915 Malignant granulosa cell tumor of the ovary
-journal: null
+journal: Orphanet
 year: 2026
 first_author: null
 study_type: database_entry
@@ -17,18 +18,20 @@ n_jgct_patients: null
 age_range: null
 alterations: []
 treatments: []
-presentation: []
+presentation:
+- abnormal vaginal bleeding
+- abdominal pain and distension
 key_findings:
-- Orphanet has no separate entity for juvenile granulosa cell tumor (approximate-name searches for 'granulosa' and 'juvenile granulosa' on 2026-10-29 returned only ORPHA:99915).
-- ORPHA:99915 definition describes a tumor occurring in peri- and post-menopausal women with a slow natural history and tendency to late relapse, i.e. the adult type.
-- 'Synonyms: Granulosa cell cancer; Granulosa cell malignant tumor.'
-relevance_to_jgct: Documents that the main rare-disease nomenclature does not distinguish JGCT, relevant for families searching rare disease resources.
+- Orphanet API (definition endpoint, entry dated 2026-07-02) defines ORPHA:99915 as a rare malignant sex cord stromal tumor of the ovary arising from granulosa cells, occurring in peri- and post-menopausal women.
+- 'Stated presentation: abnormal vaginal bleeding, abdominal pain and distension; the tumor is frequently unilateral and estrogen secreting.'
+- 'Stated natural history: slow, with a tendency to relapse long after the initial diagnosis.'
+- The definition describes the adult-type granulosa cell tumor; juvenile granulosa cell tumor is not mentioned in this entry.
+relevance_to_jgct: Describes the adult-type malignant ovarian granulosa cell tumor (peri/post-menopausal women); it is not a JGCT definition and serves only as a contrast to JGCT.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Fetched via Orphanet ORPHAcode API (entity date 2026-07-02).
-confidence: 3
+notes: The API endpoint returned only the one-paragraph definition (ORPHAcode, Definition, Date); the whole response was read. Other Orphanet fields (epidemiology, genes) were not retrieved from this endpoint.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

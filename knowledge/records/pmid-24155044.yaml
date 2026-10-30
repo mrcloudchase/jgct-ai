@@ -1,0 +1,44 @@
+source_id: '24155044'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24155044/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4693637
+language: en
+pmid: '24155044'
+doi: 10.1002/pbc.24825
+pmcid: PMC4693637
+title: Neoplastic causes of abnormal puberty.
+journal: Pediatr Blood Cancer
+year: 2014
+first_author: Wendt S
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: 3.5 and 6.8 years at cancer diagnosis
+alterations: []
+treatments:
+- regimen: not specified in detail (outcome only); GnRH agonist given for presumed idiopathic central PP before tumor found in patient 17
+  setting: ovarian JGCT with precocious puberty
+  n: 2
+  outcome: both complete response (CR)
+presentation:
+- precocious puberty
+- pubarche and ovarian mass (age 3.5)
+- central-type PP picture with enlarged ovarian follicles, no response to GnRH analog (age 6.8)
+key_findings:
+- 'St. Jude Children''s Research Hospital review (1975-Oct 2011): 24 of 13,615 children with neoplasms (0.18%; 16 male, 8 female) had precocious puberty (PP) at or within 60 days of presentation; brain tumors 12, adrenocortical carcinoma 5, hepatoblastoma 4, other 3 (including 2 ovarian JGCT and 1 Leydig cell tumor).'
+- 'Two patients had ovarian JGCT (Table I): patient 19, a girl aged 3.5 years (PP noted at 3 years, 6 months before diagnosis) with pubarche and an ovarian mass, endocrine testing done before diagnosis, outcome complete response; patient 17, a girl aged 6.8 years (PP at 5.8 years, 12 months before diagnosis) with central-type PP picture, ''benign'' enlarged ovarian follicles and no response to GnRH analog, outcome CR.'
+- Patient 17 was treated with a GnRH agonist for presumed idiopathic central PP before the gonadal tumor was found; the lesion was initially interpreted as benign. The authors note secondary central PP induced by persistently high sex hormones can mask the underlying tumor in gonadal neoplasms.
+- Time from PP onset to tumor diagnosis was median 6 months (range 0-48) across all 24; signs of PP were misinterpreted or underappreciated in half of the cohort, and 16 of 24 had PP signs for 3 months or more before the tumor diagnosis.
+- In the authors' pathophysiology grouping, JGCT falls under proliferative process with excessive sex hormone production (estradiol; first decade of life; endocrine abnormalities more frequent in younger patients); 8 of 24 patients were in this group (3 gonadal, 5 adrenocortical carcinoma).
+- The authors recommend that a final diagnosis of idiopathic PP not be made before assessment of the hypothalamic-pituitary-gonadal axis and appropriate tumor markers/imaging of gonads and adrenals, and give a diagnostic algorithm (Fig. 2) including malignancy.
+relevance_to_jgct: Documents two JGCT patients presenting with precocious puberty in a pediatric cancer center series and illustrates diagnostic delay or misclassification as idiopathic central PP; the rest of the series is non-JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Study is of neoplasm-associated PP in general; JGCT data limited to Table I rows 17 and 19 and short text mentions. Treatment details for the JGCT patients are not reported beyond cancer outcome (CR). Patient 17's age at diagnosis 6.8 y is above typical infantile JGCT range.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

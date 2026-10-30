@@ -1,0 +1,48 @@
+source_id: 10.4103/cjhr.cjhr_39_20
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.4103/cjhr.cjhr_39_20
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ovid.com/jnls/chri/fulltext/10.4103/cjhr.cjhr_39_20~hormone-secreting-juvenile-granulosa-cell-tumor-of-the-ovary
+language: en
+pmid: null
+doi: 10.4103/cjhr.cjhr_39_20
+pmcid: null
+title: Hormone Secreting Juvenile Granulosa Cell Tumor of the Ovary in an Infant Presenting with Massive Ascites and Precocious Pseudopuberty
+journal: CHRISMED Journal of Health and Research
+year: 2021
+first_author: Bhosale M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 3 months
+alterations: []
+treatments:
+- regimen: Left oophorectomy with preservation of the left fallopian tube after hemodynamic stabilization; ~900 cc ascites drained; no adjuvant therapy reported
+  setting: primary surgery
+  n: 1
+  outcome: asymptomatic, tumor-free and meeting milestones at 1 year
+presentation:
+- abdominal distension (girth 48 cm) with respiratory distress
+- fever, feeding intolerance
+- whitish vaginal discharge, protruding vaginal mucosa
+- breast development Tanner B2
+- massive blood-tinged ascites
+key_findings:
+- A 3-month-old girl presented with 10 days of abdominal distension, fever, feeding intolerance and vaginal discharge, with tachypnea, breast development (Tanner B2) and protruding vaginal mucosa (isosexual pseudo-precocious puberty).
+- Hemoglobin 9 g%; AFP and beta-hCG normal; CA-125 160 units/ml; LDH 1000 IU/L. CT showed an enhancing solid-cystic mass of 5.2 x 5.7 x 6.3 cm and free abdominal fluid without lymphadenopathy.
+- Laparotomy drained about 900 cc blood-tinged ascitic fluid and found a 7 x 6 x 6.5 cm solid-cystic left ovarian mass with a small capsular rent (preoperative rupture); uterus, right ovary and other organs normal.
+- Left oophorectomy preserving the fallopian tube was performed (to preserve future fertility); one or two episodes of vaginal bleeding occurred 24 h after surgery, explained by authors as hormone withdrawal.
+- 'Histology: diffuse and macrofollicular growth of round to oval cells with prominent nucleoli; IHC diffuse inhibin and vimentin, focal calretinin positivity.'
+- The authors staged the case FIGO IC although ascitic fluid showed no malignant cells.
+- At 1 year the child was asymptomatic, tumor-free and meeting age-appropriate milestones; authors stress long-term follow-up and IHC for diagnosis, and claim this is probably the youngest JGCT with precocious puberty reported.
+- 'Discussion cites Young et al. (125 ovarian JGCTs): rupture in 13 (11%), ascites in 11 (9%), isosexual pseudoprecocity in 82% of prepubertal patients.'
+relevance_to_jgct: Infant ovarian JGCT with ruptured tumor, massive ascites and precocious pseudopuberty, treated by fertility-sparing surgery alone.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Full text obtained from the Ovid journal page (open access). The 'youngest case' claim is the authors' own. Authors use 'oophorectomy' with tube preserved.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

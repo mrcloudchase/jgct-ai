@@ -1,0 +1,44 @@
+source_id: '34680597'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34680597/
+retrieved_on: '2026-10-30'
+full_text_source: PMC8533212
+language: en
+pmid: '34680597'
+doi: 10.3390/biomedicines9101481
+pmcid: PMC8533212
+title: 'The Role of Omics Approaches to Characterize Molecular Mechanisms of Rare Ovarian Cancers: Recent Advances and Future Perspectives.'
+journal: Biomedicines
+year: 2021
+first_author: Subbannayya Y
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: GSP (GNAS)
+  alteration: mutation (listed as 'GSP mutation' in the review's Table 2)
+  frequency: 30% (as stated in review Table 2; no primary source or cohort size given in the text)
+  notes: juvenile granulosa
+- gene: AKT1
+  alteration: listed as characteristic genomic alteration of juvenile granulosa tumors
+  frequency: null
+  notes: no frequency given
+treatments: []
+presentation: []
+key_findings:
+- Narrative review of genomic, transcriptomic, proteomic and metabolomic (omics) studies in rare ovarian cancers; JGCT appears only briefly, as part of the granulosa cell tumor discussion and in Table 2.
+- The review describes granulosa cell tumors as malignant sex cord-stromal tumors constituting about 5% of ovarian malignancies, of two types (adult and juvenile), and that traditional chemotherapy has limited effect in advanced or recurrent disease; GOG264 (NCT01042522, BEP vs carboplatin-paclitaxel) is cited as ongoing.
+- Table 2 lists juvenile granulosa cell tumor genomic alterations as 'GSP mutation (30%), AKT1', contrasting adult granulosa (FOXL2 402C>G missense, >95%, called pathognomonic) and Sertoli-Leydig (DICER1, 90%, including germline). No primary citation or sample size for the JGCT figure is given in the text.
+- 'Transcriptomics: the review states that a study performing RNA-Seq of juvenile granulosa cell tumors found genes in cytokine/hormone signaling and cell division-related processes differentially regulated (no numbers given).'
+- The authors conclude that omics approaches, especially integrated multi-omics, could help define molecular subtypes, biomarkers and therapies for rare ovarian cancers, and that standardization is needed before clinical use.
+relevance_to_jgct: Secondary review of omics in rare ovarian cancers; the JGCT content is limited to a Table 2 entry (GSP mutation 30%, AKT1), one sentence on JGCT RNA-Seq, and general granulosa tumor background.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Review without primary patient data; JGCT molecular statements are uncited summaries (GSP/GNAS 30% not traceable within the text). 'GSP mutation' is the review's term. Journal and first author not stated in the retrieved full text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

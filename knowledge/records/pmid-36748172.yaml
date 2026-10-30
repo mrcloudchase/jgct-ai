@@ -2,11 +2,12 @@ source_id: '36748172'
 source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/36748172/
-retrieved_on: '2026-10-29'
-full_text_read: false
+retrieved_on: '2026-10-30'
+full_text_source: https://journals.viamedica.pl/ginekologia_polska/article/download/GP.a2022.0107/69174
 language: en
 pmid: '36748172'
 doi: 10.5603/GP.a2022.0107
+pmcid: null
 title: 'Juvenile granulosa cell tumor: 20 years'' experience of a Tertiary Center.'
 journal: Ginekologia polska
 year: 2022
@@ -14,22 +15,45 @@ first_author: Hamzaoğlu Canbolat K
 study_type: case_series
 tumor_site: ovary
 n_jgct_patients: 5
-age_range: null
+age_range: 9 to 25 years (ages 9, 16, 16, 15, 25)
 alterations: []
-treatments: []
+treatments:
+- regimen: Fertility-preserving surgery (cystectomy, unilateral salpingo-oophorectomy with staging, or tumorectomy) in all 5
+  setting: primary
+  n: 5
+  outcome: Median follow-up 60 months (range 12-96); 2/5 recurred (at 12 and 48 months); all in remission at last follow-up; no deaths
+- regimen: Paclitaxel plus carboplatin, 3 cycles
+  setting: Patient 3, after recurrence (stage IA primary; recurrent tumor final histology gynandroblastoma)
+  n: 1
+  outcome: No evidence of disease at 49 months after secondary surgery
+- regimen: Cisplatin plus etoposide, 6 cycles
+  setting: Patient 5, stage IC2 after primary surgery
+  n: 1
+  outcome: Recurrence 48 months after primary surgery (isolated 10 cm left ovarian mass), resected without residual disease; no evidence of disease at 12 months after second surgery
+- regimen: No adjuvant chemotherapy
+  setting: 3 patients (stage IA x2, and stage IC1 who refused recommended chemotherapy)
+  n: 3
+  outcome: No recurrence at 96, 12 and 24 months respectively
 presentation:
-- abdominal swelling
+- abdominal swelling in all 5
+- menstrual irregularity in 3 (patients 2, 3, 4)
+- urinary incontinence (patient 5)
+- unilateral adnexal mass, 3 right and 2 left
+- preoperative tumor rupture with free fluid in 1
 key_findings:
-- Five JGCT patients 2000-2020; one premenarcheal; all presented with abdominal swelling and unilateral adnexal mass.
-- FIGO IA 3, IC1 1, IC2 1; two received adjuvant chemotherapy.
-- Median follow-up 60 months; recurrence in two patients who were reoperated; no deaths.
-relevance_to_jgct: Small Turkish single-centre series.
+- Retrospective series of 5 JGCT patients (2000-2020, one center, Istanbul) after excluding 3 of 8 with missing records or follow-up; ages 9, 16, 16, 15 and 25; one premenarchal girl (age 9) without precocious puberty signs; none had high estradiol and none were obese (BMI 17.8-24).
+- All had abdominal swelling and a unilateral adnexal mass without signs of metastasis; tumor sizes 14, 11, 24, 30 and 19 cm; CA-125 high in 3 (373, 44 and 135 U/mL as tabulated), serum AMH high (23 ng/mL, normal 0.05-11) in one patient; inhibin and calretinin positive in all.
+- 'FIGO stage: 3 patients IA, 1 IC1 (intraoperative rupture), 1 IC2 (preoperative rupture with free fluid). All underwent fertility-preserving surgery; 2 patients received adjuvant chemotherapy.'
+- 'Histology: multiloculated cystic tumors with solid areas, no Call-Exner bodies in any, mitoses 7-44 per 10 HPF; one patient had focal striking atypia; pseudopapillary and trabecular patterns in one.'
+- 'Median follow-up 60 months (range 12-96); recurrence in 2/5 (40%): Patient 3 (stage IA) recurred at 12 months as a 10 cm mass in the contralateral ovary with final histology gynandroblastoma, treated with surgery plus 3 cycles paclitaxel-carboplatin, no evidence of disease at 49 months; Patient 5 (stage IC2, had 6 cycles cisplatin-etoposide) recurred at 48 months, resected, no evidence of disease at 12 months.'
+- All patients were in remission at last follow-up and none died of disease. Four patients had mitotic index above 10/10 HPF and 3 of them did not recur, so the authors saw no correlation between mitotic index and relapse; the only vimentin-positive patient recurred.
+- Authors conclude JGCT should be considered in a young patient with a unilateral adnexal mass with benign features and that recurrence is not uncommon even though stage IA prognosis is good.
+relevance_to_jgct: Small institutional series showing 2/5 recurrences (12 and 48 months), including one recurrence of stage IA disease, with all patients alive in remission.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: null
-confidence: 2
+notes: 'Abstract says 5 patients (and ''one of whom was premenarcheal''); methods state 8 were identified and 3 excluded for lost follow-up. Inconsistencies: Patient 3''s follow-up appears as 84 months in Table 1 while the text gives 49 months after secondary surgery; recurrent tumor in Patient 3 had final histopathology of gynandroblastoma, not JGCT, which the authors still count as a JGCT recurrence. The text states mean age 17 years, which was not recomputed here; the authors also say only one patient was over 20 years. Discussion statements on stage distribution (88% IA, 2% IB, 8% IC, 3% II), 5-year survival in advanced stage 25-50%, and recurrence timing are literature citations, not data from this series. The mitotic index for Patient 3 is unspecified.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

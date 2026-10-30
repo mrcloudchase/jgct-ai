@@ -1,0 +1,46 @@
+source_id: 10.14260/jemds/2018/676
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.14260/jemds/2018/676
+retrieved_on: '2026-10-30'
+full_text_source: https://www.jemds.com/data_pdf/jovita-meena-june-25-.pdf
+language: en
+pmid: null
+doi: 10.14260/jemds/2018/676
+pmcid: null
+title: A 20 years' experience on granulosa cell tumour
+journal: Journal of Evolution of Medical and Dental Sciences
+year: 2018
+first_author: Martin PJM
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: JGCT patients aged 14 and 21 years (relapsed-patient table)
+alterations: []
+treatments:
+- regimen: Fertility-sparing surgery, then EP (etoposide-cisplatin)
+  setting: relapsed JGCT, stage Ia, 10 cm, age 14
+  n: 1
+  outcome: progressed at 7 months in pelvis; died at 7 months
+- regimen: Fertility-sparing surgery, 2 cycles chemotherapy
+  setting: relapsed JGCT, stage IIIc, age 21
+  n: 1
+  outcome: defaulted; lost to follow-up
+presentation:
+- 'whole series: abdominal pain 40%, menorrhagia 33%, postmenopausal bleeding 24%, palpable mass 20%, precocious puberty 2%'
+key_findings:
+- Retrospective multi-institution review from Chennai, India (records 1993/1995-2015) of 126 patients with ovarian granulosa cell tumour, mostly adult type; 34 relapsed patients are tabulated individually.
+- 'Only two JGCT patients appear in the relapse table: a 14-year-old with stage Ia, 10 cm JGCT treated with fertility-sparing surgery who progressed at 7 months (pelvis), received EP and died at 7 months; and a 21-year-old with stage IIIc JGCT, fertility-sparing surgery, relapse in the pelvis, 2 cycles of chemotherapy, then lost to follow-up.'
+- Of the 126 patients, 3% were aged under 10 and 3% aged 10-19 years; precocious puberty was reported in 2% of the series.
+- 'Whole-series findings (mainly adult GCT): 84-85 had complete staging, 41 incomplete surgery, 7-10 fertility-sparing surgery; patients with complete surgery and adjuvant chemotherapy did not relapse; of 34 relapsed patients, 19 survived; relapse was more frequent with tumour >9-10 cm, spill and advanced stage.'
+- Authors' discussion states juvenile type occurs in younger patients with increased recurrence risk and poorer prognosis, cites FOXL2 mutation in 97% of adult and 10% of juvenile type, and says adjuvant chemotherapy yields complete, long-lasting response in children with stage Ic JGCT with a high mitotic index (>20/HPF); these are literature statements, not results of this series.
+- Authors conclude chemotherapy has a compelling role in advanced, inoperable and metastatic cases, with tumour spill or rupture, certain variants such as JGCT, and tumours >10 cm (abstract says >9 cm).
+relevance_to_jgct: Largely an adult-type GCT series; contributes 2 individually described relapsed JGCT cases (one fatal at 7 months) and literature statements. JGCT numbers in the whole series are not reported.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Internally inconsistent: premenopausal 53 (42%) vs 58 in the table; study period 1993 vs 1995-2015; complete staging 84 vs 85; fertility-sparing 7 vs 10; cut-off ''>9 cm'' in abstract vs ''>10 cm'' in conclusion; histology column mixes AGCT, SCST, JGCT and ''androgen secreting''. The text states chemotherapy benefit without a formal comparison reported for JGCT.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: registry
 source_url: https://pubmed.ncbi.nlm.nih.gov/21501861/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC3138876
 language: en
 pmid: '21501861'
 doi: 10.1016/j.ygyno.2011.03.024
+pmcid: PMC3138876
 title: 'Ovarian sex cord-stromal tumors, pleuropulmonary blastoma and DICER1 mutations: a report from the International Pleuropulmonary Blastoma Registry.'
 journal: Gynecologic oncology
 year: 2011
@@ -14,42 +15,39 @@ first_author: Schultz KA
 study_type: registry
 tumor_site: ovary
 n_jgct_patients: 2
-age_range: jGCT at 2 and 16 years
+age_range: JGCT diagnosed at 2 and 16 years
 alterations:
 - gene: DICER1
-  alteration: germline c.3073G>T; p.Glu1025X
-  frequency: listed for 1 juvenile granulosa cell tumor patient (Table 2)
-  notes: 'same variant listed for a gynandroblastoma patient; text: the two sisters without PPB family history carried a DICER1 mutation (one jGCT, one gynandroblastoma). Germline status of the second jGCT (case 8) not reported.'
-- gene: DICER1
-  alteration: germline loss-of-function mutations (all OSCST)
-  frequency: 6 of 8 patients with germline DICER1 testing
-  notes: null
+  alteration: germline heterozygous loss-of-function variants in OSCST patients (including c.3073G>T p.Glu1025X in a patient with jGCT; same variant in a gynandroblastoma patient)
+  frequency: 6/8 OSCST patients with germline DNA tested (all OSCST types combined); 4/6 OSCST from PPB kindreds and 2/3 OSCST patients with no PPB history
+  notes: Results aggregated by the authors to prevent disclosure; Table 2 lists one jGCT with p.Glu1025X, one gynandroblastoma with p.Glu1025X and another with p.V1260fs, and SLCTs with E503X, C748fs, a splice site variant; one SLCT had an intronic variant of uncertain significance. Which specific jGCT patient was tested is not stated.
 treatments:
-- regimen: surgery
-  setting: jGCT, age 2, second-degree relative of PPB patient (case 8)
+- regimen: Surgery alone
+  setting: jGCT age 2 years (second-degree relative of PPB patient, case 8)
   n: 1
-  outcome: NED, 33 years
-- regimen: surgery, chemotherapy
-  setting: jGCT, age 16, no PPB family history; nodular thyroid hyperplasia and lung cyst (case 11)
+  outcome: no evidence of disease, 33 years
+- regimen: Surgery and chemotherapy
+  setting: jGCT age 16 years with nodular thyroid hyperplasia and lung cyst, no PPB family history (case 11)
   n: 1
-  outcome: NED, 1.5 years
+  outcome: no evidence of disease, 1.5 years
 presentation:
-- lung cyst found on staging chest CT (case 11, likely occult cystic PPB)
-- nodular thyroid hyperplasia (case 11)
+- jGCT age 2 years in a relative of a PPB patient
+- jGCT age 16 years with nodular thyroid hyperplasia and lung cyst on staging chest CT
 key_findings:
-- 'Among 325 patients from 296 families with PPB enrolled in the IPPBR, 9 patients or close relatives had an OSCST: seven Sertoli-Leydig tumors, one juvenile granulosa cell tumor and one gynandroblastoma (the pathology section classifies these as five SLCT, two Sertoli cell tumors, one jGCT and one gynandroblastoma).'
-- 'Three additional OSCST cases without PPB family history were referred for suspected genetic predisposition: two sisters (one jGCT at 16 with a lung cyst, one gynandroblastoma) and one SLCT.'
-- 'Table 1 lists two jGCTs: case 8 (second-degree relative of a PPB patient, diagnosed at 2 years, surgery only, NED at 33 years) and case 11 (16 years, NTH and lung cyst, surgery plus chemotherapy, NED at 1.5 years).'
-- Germline DICER1 mutations were found in 6 of 8 patients with germline samples; Table 2 lists c.3073G>T; p.Glu1025X in the juvenile granulosa cell tumor patient and in a gynandroblastoma patient.
-- Authors conclude germline DICER1 mutations may occur in OSCST including SLCT, juvenile granulosa cell tumor and gynandroblastoma when clinical presentation suggests predisposition; a lung cyst or PPB-related tumor in a patient or relative with OSCST should suggest germline DICER1 mutation.
-- All OSCST patients were alive without evidence of disease at last follow-up (family members at median 20.5 years, range 13-45 years).
-relevance_to_jgct: Registry evidence placing (rare) juvenile granulosa cell tumor within the DICER1/pleuropulmonary blastoma familial tumor spectrum, including a germline DICER1 nonsense variant in a jGCT patient.
+- 'Search of the International PPB Registry (325 children with PPB from 296 kindreds) found 9 OSCST in PPB probands or relatives: 5 Sertoli-Leydig cell tumors, 2 Sertoli cell tumors, 1 juvenile granulosa cell tumor and 1 gynandroblastoma; plus 3 additional OSCST patients (SLCT, jGCT, gynandroblastoma) from families without PPB but with suspected genetic predisposition.'
+- 'Only two jGCT patients are described: case 8, diagnosed at age 2 years, a second-degree relative of a PPB patient, treated by surgery, no evidence of disease at 33 years; and case 11, diagnosed at age 16 years, with nodular thyroid hyperplasia and a lung cyst, sister of a girl with gynandroblastoma (case 12, age 16), treated with surgery and chemotherapy, no evidence of disease at 1.5 years.'
+- Germline DNA was available for 8 of 12 patients and 6 of 8 had a DICER1 mutation, including patients with Sertoli-Leydig tumor, juvenile granulosa cell tumor and gynandroblastoma; the jGCT mutation listed is c.3073G>T (p.Glu1025X), identical to one found in a gynandroblastoma (the two sisters).
+- Ages at diagnosis of Sertoli/SLCT tumors in PPB patients (6, 8, 13 years) and relatives (4, 7, 15, 32 years) were younger than sporadic SLCT (mean 25 years, as cited); ovarian tumor ages in family members were 2, 4, 7, 15, 18 and 32 years (median 11).
+- All family members with OSCST were alive without disease at median 20.5 years (range 13-45) after the ovarian diagnosis; numbers were too small to draw prognostic conclusions.
+- Four OSCST patients had nodular thyroid hyperplasia; the authors conclude that ovarian OSCST are a manifestation of the familial PPB/DICER1 syndrome (extending to jGCT and gynandroblastoma), may be the first presentation of DICER1 mutation in a family, and that a lung cyst or PPB-related tumor in an OSCST patient or family should prompt consideration of DICER1 testing.
+- The authors note that juvenile granulosa cell tumors have been described with Ollier disease and Maffucci syndrome (citing literature) and that the prevalence of germline DICER1 mutations in OSCST in general cannot be determined from this group.
+relevance_to_jgct: Early registry evidence linking jGCT (and gynandroblastoma) to germline DICER1 mutations in familial pleuropulmonary blastoma syndrome, though only two jGCT patients are reported.
 conflicts_with: []
+overlaps_with:
+- url-f623903cbc28
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC3138876) on 2026-10-30. Tier registry per CLAUDE.md (International PPB Registry report). The abstract-based version of this record counted one jGCT; the full-text tables show two jGCTs (one in a PPB kindred, one in a non-PPB family), so n_jgct_patients was corrected to 2. Authors aggregated some genetic results to prevent disclosure, so per-patient germline status is only partly reported. Ages are from Table 1.
-confidence: 4
+notes: Registry report; only 2 of 12 OSCST patients had jGCT, so findings are mainly about SLCT. Genetic results are aggregated by the authors so a patient-level jGCT genotype for case 8 is unknown. The same family/sisters (cases 11 and 12) may be reported again in later DICER1 or OSCST series.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

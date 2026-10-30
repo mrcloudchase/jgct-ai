@@ -3,39 +3,41 @@ source_type: url
 source_tier: conference_abstract
 source_url: https://doi.org/10.1007/s00428-019-02631-8#PS-16-002
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC7103147
 language: en
 pmid: null
 doi: 10.1007/s00428-019-02631-8
+pmcid: PMC7103147
 title: 'Testicular juvenile granulosa cell tumour: a case report in a newborn (ECP 2019 abstract PS-16-002)'
-journal: Virchows Archiv 2019 (31st European Congress of Pathology abstracts)
+journal: Virchows Archiv (ECP 2019 supplement)
 year: 2019
-first_author: Barona García L
+first_author: Barona Garcia L
 study_type: case_report
 tumor_site: testis
 n_jgct_patients: 1
 age_range: 10 days
 alterations: []
 treatments:
-- regimen: radical inguinal orchiectomy
+- regimen: Right radical inguinal orchiectomy
   setting: neonatal testicular JGCT
   n: 1
-  outcome: not reported
+  outcome: no complications; no follow-up reported
 presentation:
-- scrotal mass
-- testicular enlargement
+- enlarged descended right testis, smooth and firm
+- slightly increased alpha-fetoprotein
+- multicystic mass with internal vascular flow replacing the testis on scrotal ultrasound
 key_findings:
-- Neonate 10 days of age with an enlarged descended right testis; alpha-fetoprotein slightly increased; ultrasound showed a multicystic mass with internal vascular flow replacing the testicle.
-- Right radical inguinal orchiectomy; 2.2 x 1.5 x 1.0 cm mass with multiple cysts.
-- Tumour cells positive for inhibin, WT1 and calretinin; negative for panCK, AFP, CD30, CD117, PLAP, D2-40 and OCT3/4.
-- 'Authors: JGCT ''is the most common testicular tumour in infants < 6 months''; main differential is yolk sac tumour.'
-relevance_to_jgct: Neonatal testicular JGCT with immunoprofile; notes differential with yolk sac tumour when AFP is raised.
+- Neonate aged 10 days with an enlarged descended right testis, smooth and firm; alpha-fetoprotein slightly increased; scrotal ultrasound showed a multicystic mass with internal vascular flow replacing the testis.
+- 'Right radical inguinal orchiectomy without complications. Gross: 2.2 x 1.5 x 1.0 cm gray-white ovoid mass with multiple cysts of light yellow glistening fluid.'
+- 'Histology: follicles of varying size lined by bland oval to round cells in single and multiple layers with basophilic luminal fluid; fibrous stroma with actin-positive spindle cells around follicles.'
+- 'IHC: tumour cells positive for inhibin, WT1 and calretinin; negative for panCK, AFP, CD30, CD117, PLAP, D2-40 and OCT3/4; diagnosis juvenile granulosa cell tumour.'
+- Authors state JGCT is the most common testicular tumour in infants younger than 6 months, with few reported cases; its importance lies in the differential with yolk sac tumour and other sex cord-stromal tumours.
+relevance_to_jgct: Neonatal testicular JGCT with a slightly raised AFP and a full IHC panel (inhibin, WT1, calretinin positive; AFP, OCT3/4 negative).
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Verbatim from Europe PMC full text PMC7103147 (Virchows Arch supplement, doi 10.1007/s00428-019-02631-8), abstract PS-16-002. AFP in neonates is physiologically high; the abstract does not give a value.
-confidence: 2
+notes: Whole abstract read from the supplement text (PMC7103147). No follow-up or karyotype reported. AFP elevation is stated as slight with no value.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

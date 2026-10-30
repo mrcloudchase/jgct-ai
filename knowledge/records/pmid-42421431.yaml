@@ -3,40 +3,45 @@ source_type: pmid
 source_tier: guideline
 source_url: https://pubmed.ncbi.nlm.nih.gov/42421431/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC13551126
 language: en
 pmid: '42421431'
 doi: 10.1111/his.70207
-title: 'A novel classification of testicular sex cord-stromal tumours from the Testicular Sex Cord-Stromal Tumour (TESST) group: a collaboration of the Genitourinary Pathology Society (GUPS) and the International Society of Urological Pathology (ISUP).'
+pmcid: PMC13551126
+title: 'A novel classification of testicular sex cord-stromal tumours from the Testicular Sex Cord-Stromal Tumour (TESST) group: a collaboration of the Genitourinary Pathology Society (GUPS) and the International Society of Urological Pathology (ISUP).'
 journal: Histopathology
 year: 2026
 first_author: Acosta AM
 study_type: guideline
 tumor_site: testis
 n_jgct_patients: null
-age_range: null
+age_range: 'testicular JGCT: >90% within first year of life'
 alterations:
 - gene: chromosome 10
-  alteration: monosomy
-  frequency: ~60%
-  notes: testicular JGCT; cited from prior studies
+  alteration: monosomy 10
+  frequency: ~60% of testicular JGCT
+  notes: stated as recurrent finding
+- gene: AKT1/GNAS
+  alteration: alterations described in ovarian JGCT
+  frequency: not identified in testicular JGCT
+  notes: null
 treatments: []
-presentation: []
+presentation:
+- largely infantile; hormonally inactive
 key_findings:
-- Expert pathology group (TESST, GUPS/ISUP) proposes a hierarchical classification of testicular sex cord-stromal tumours (group, category, entity, histological pattern).
-- '''Juvenile granulosa cell tumour'' of the testis is renamed ''benign juvenile granulosa cell tumour''.'
-- 'Rationale: unlike ovarian JGCT, testicular tumours are largely infantile (>90% occur within the first year of life), hormonally inactive and have not been reported in adult patients.'
-- Molecular alterations described in ovarian JGCT have not been identified in testicular counterparts, which instead show monosomy 10 as a recurrent finding (~60%).
-- Testicular JGCTs appear to be invariably indolent and cured by surgical resection; authors state they do not require aggressive treatment or long-term follow-up after complete resection.
-- Authors note a subset of ovarian JGCTs shows malignant clinical behaviour, so shared terminology may lead to overtreatment of testicular cases.
-relevance_to_jgct: Expert consensus classification formally separating testicular JGCT (benign, infantile, monosomy 10) from ovarian JGCT.
-conflicts_with:
-- pmid-18313118
+- 'Consensus classification of testicular sex cord-stromal tumours (TSCSTs) by the 30-member TESST group (GUPS and ISUP), developed through consensus activities in 2023-2025 including meetings in Baltimore (March 2024) and Boston (March 2025); hierarchical tiers: group, category, entity, histological pattern.'
+- '''Juvenile granulosa cell tumour'' of the testis is renamed ''benign juvenile granulosa cell tumour'' within the category granulosa cell tumours (defined as a benign, largely infantile testicular sex cord tumour closely resembling ovarian juvenile GCT).'
+- 'Rationale: testicular JGCT is largely infantile (>90% in the first year of life), hormonally inactive, not reported in adults; molecular alterations of ovarian JGCT have not been identified in testicular counterparts, which show monosomy 10 (~60%); testicular JGCT appears invariably indolent and cured by surgical resection.'
+- The descriptor 'benign' is meant to avoid overtreatment and excessive work-up because a subset of the more common ovarian JGCT shows malignant behaviour; authors state benign testicular JGCT does not require aggressive treatment or long-term follow-up after complete resection.
+- 'Other changes: Sertoli cell tumour NOS becomes ''usual type''; inflammatory and nested testicular sex cord tumour (EWSR1::ATF1) is a new malignant entity; FH-deficient Leydig cell tumour and spindle cell gonadal stromal tumour are new entities; testicular Sertoli-Leydig cell tumour provisionally included (a DICER1 RNase IIIb hotspot mutation reported in one case).'
+- 'Limitations stated: relies on limited datasets, limited molecular validation for some entities, considerable interobserver variability, some entities provisional.'
+relevance_to_jgct: Formal expert-consensus nomenclature that separates benign infantile testicular JGCT from ovarian JGCT, relevant to counselling and to avoiding overtreatment of testicular cases.
+conflicts_with: []
+overlaps_with:
+- pmid-41384702
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC13551126). Expert-consensus classification proposal, not a formal clinical management guideline; tiered guideline as a professional society (GUPS/ISUP) consensus. Monosomy 10 figure is cited from earlier work (see pmid-36813116). States testicular JGCT has not been reported in adults; pmid-18313118 reports a testicular JGCT in an adult (linked 2026-10-30).
-confidence: 4
+notes: Classification paper without patient data; JGCT statements are cited from other sources. Companion to the TESST review/white paper (pmid-41384702, same group). Source tier guideline kept (consensus classification).
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

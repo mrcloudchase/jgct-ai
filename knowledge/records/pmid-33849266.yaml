@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/33849266/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC8900080
 language: en
 pmid: '33849266'
 doi: 10.4274/jcrpe.galenos.2021.2021.0039
+pmcid: PMC8900080
 title: Precocious Pseudo-puberty in a Two-year-old Girl, Presenting with Bilateral Ovarian Enlargement and Progressing to Unilateral Juvenile Granulosa Cell Tumour.
 journal: Journal of clinical research in pediatric endocrinology
 year: 2022
@@ -17,46 +18,44 @@ n_jgct_patients: 1
 age_range: 2.17 years
 alterations:
 - gene: GNAS
-  alteration: no mutation detected
+  alteration: Hot spots R201H, R201C, Q227L not found
   frequency: 0/1
-  notes: null
+  notes: PCR and restriction digestion of tumor DNA from paraffin
 - gene: AKT1
-  alteration: no mutation in exon 3
+  alteration: Exon 3 (hot spot) no somatic mutation
   frequency: 0/1
-  notes: exon 3 hotspot only; in-frame duplications elsewhere not assessed per abstract
+  notes: Semi-nested PCR and Sanger sequencing; DNA of poor quality; whole-gene sequencing not done
 - gene: FOXL2
-  alteration: no mutation detected
+  alteration: C134W not found
   frequency: 0/1
-  notes: null
+  notes: Used to exclude adult granulosa cell tumor
 treatments:
-- regimen: tamoxifen 20 mg daily
-  setting: initial medical therapy for presumed ovarian PPP
+- regimen: Tamoxifen 20 mg daily for 7 weeks, then urgent laparotomy with left oophorectomy and annexectomy for torsion
+  setting: FIGO stage IA, capsule intact, tumor 850 g
   n: 1
-  outcome: progression after seven weeks
-- regimen: excision of left ovarian tumour
-  setting: primary, FIGO IA
-  n: 1
-  outcome: follow-up not stated in abstract
+  outcome: Immediate regression of pubertal signs and metrorrhagia; prepubertal and well at last review aged 8.1 years (about 6 years after surgery)
 presentation:
-- precocious pseudo-puberty
-- breast development
-- rapid growth
-- bilateral ovarian enlargement
-- menorrhagia
+- breast development and rapid growth over 3 months
+- height +2.6 SD, bone age 5.0 years at chronological age 2.2
+- Tanner B3P2A1
+- single cafe-au-lait patch
+- bilateral enlarged multicystic ovaries then unilateral tumor
+- menorrhagia on tamoxifen
 key_findings:
-- Girl aged 2.17 years with three months of breast development and rapid growth; Tanner B3P2A1; single cafe au lait patch; bone age 5 years.
-- Bilaterally enlarged multicystic ovaries (76 mL left, 139 mL right); suppressed LH/FSH; estradiol 130 pg/mL; tamoxifen 20 mg daily started.
-- After seven weeks, progression with menorrhagia, estradiol 184 pg/mL; right ovary now normal (1.8 mL) and a large left solid/cystic tumour (850 g) excised.
-- Histology JGCT FIGO stage IA.
-- Tumour DNA showed no mutation in GNAS, exon 3 of AKT1, or FOXL2.
-- Authors describe bilateral ovarian activity progressing to unilateral JGCT as novel and raise a possible relationship with McCune-Albright syndrome.
-relevance_to_jgct: Informative for differential diagnosis of ovarian precocious pseudo-puberty (MAS vs JGCT) and for a JGCT negative for GNAS, AKT1 exon 3 and FOXL2.
+- 'Girl aged 2.17 years with 3 months of breast development and rapid growth: height 94 cm (+2.6 SD), Tanner B3P2A1, bone age 5.0 years, one 3 cm cafe-au-lait patch; LH/FSH suppressed (LH basal/peak 0.43/0.18, FSH <0.1/<0.1 mIU/mL) with estradiol 130 pg/mL (prepubertal <20).'
+- Ultrasound showed bilaterally enlarged multicystic ovaries (left 76 mL, right 139 mL estimated), pubertal uterus; MAS work-up (calcium, phosphate, IGF-1, cortisol, thyroid, bone scintigraphy) was normal.
+- Tamoxifen 20 mg daily started at 2.3 years; after 7 weeks height increased 4 cm, breast stage B3-4, menorrhagia, bone age 6.5 years, estradiol 184 pg/mL with gonadotrophins still suppressed.
+- Repeat imaging showed a vascular solid-cystic left ovarian tumor (US 10x8x6 cm; MRI 12x10x5 cm) with a normal right ovary (1.83 mL); AFP, hCG and CEA normal, CA-125 slightly raised at 43 IU/mL; inhibin B assay not available.
+- 'A week later torsion required urgent laparotomy with left oophorectomy and annexectomy: tumor 850 g, capsule intact, negative peritoneal lavage; FIGO stage IA.'
+- 'Histology: nodular tumor with fibrous septae, necrotic foci, abundant pale eosinophilic cytoplasm, rare nuclear grooves and mitoses, reticulin around groups of cells, no follicles, pseudopapillae or Call-Exner bodies; strongly positive for inhibin B; AFP and CD30 negative.'
+- Tumor DNA was negative for GNAS hot spots, AKT1 exon 3 hot spot and FOXL2 C134W; after surgery signs regressed immediately, at 5.7 years she was prepubertal with normal ultrasound and at 8.1 years remained prepubertal with mildly elevated basal LH and prepubertal estradiol.
+- Authors call the progression from bilateral ovarian enlargement to unilateral JGCT a novel observation, cannot confirm or exclude McCune-Albright syndrome, and cite AKT1 duplications in 10/16 JGCT and GNAS mutations in 9/30 JGCT from other studies.
+relevance_to_jgct: Molecularly negative (GNAS, AKT1 exon 3, FOXL2) JGCT preceded by bilateral cystic ovarian enlargement; informs the uncertain relationship of JGCT with McCune-Albright signaling.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC8900080 not read).
-confidence: 3
+notes: Estradiol in the cited paper is quoted in pg/mL; detection limit stated as <10 ng/mL (likely pg/mL, as printed). The figure legend for Fig 2 says 'right ovary' while text says left. Authors calculated ovarian volumes from ultrasound dimensions with assumptions; these are estimates. Possible MAS not excluded. The authors' gene-expression comparison (GEO dataset, B-Raf enrichment) is exploratory.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

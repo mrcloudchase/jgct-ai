@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/27047664/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC4815277
 language: en
 pmid: '27047664'
 doi: 10.1530/EDM-16-0006
+pmcid: PMC4815277
 title: Juvenile granulosa cell tumour of the ovary presenting with hyperprolactinaemic amenorrhoea and galactorrhoea.
 journal: Endocrinology, diabetes & metabolism case reports
 year: 2016
@@ -17,29 +18,28 @@ n_jgct_patients: 1
 age_range: 16 years
 alterations: []
 treatments:
-- regimen: right salpingo-oophorectomy
-  setting: primary, FIGO 1A
+- regimen: Right salpingo-oophorectomy
+  setting: FIGO stage IA JGCT
   n: 1
-  outcome: hormones normalized; two pregnancies; normal hormones at 2 years
+  outcome: estradiol (821 pmol/l) and prolactin (327 mIU/l) normal at 2 years; conceived 6 months after surgery, healthy child, second pregnancy at time of writing; defaulted from endocrine follow-up
 presentation:
-- secondary amenorrhoea
-- galactorrhoea
-- hyperprolactinaemia
-- elevated oestradiol
-- elevated inhibin B
+- 9 months secondary amenorrhea
+- 2 months bilateral galactorrhea
+- hyperprolactinemia
+- no signs of androgen excess
 key_findings:
-- 16-year-old with 9-month secondary amenorrhoea and 2-month bilateral galactorrhoea.
-- Serum prolactin 7081 mIU/l, LH <0.1 U/l, FSH <0.1 U/l, oestradiol 7442 pmol/l, inhibin B 2735 ng/l; pituitary MRI showed enlarged pituitary without adenoma.
-- 4.8 cm right ovarian mass; right salpingo-oophorectomy; JGCT FIGO 1A; tumor immunohistochemistry negative for prolactin.
-- Oestrogen and prolactin normalized after surgery; she conceived 6 months after surgery and gave birth; at 2 years oestradiol 821 pmol/l and prolactin 327 mIU/l; pregnant with second child at time of writing.
-- Authors postulate hyperprolactinaemia was caused by oestrogenic stimulation of pituitary lactotrophs.
-relevance_to_jgct: First reported JGCT presenting with oestrogen-driven hyperprolactinaemia; shows inhibin B as a marker and preserved fertility after unilateral surgery.
+- 16-year-old woman (menarche at 14) with 9 months of secondary amenorrhea and 2 months of bilateral galactorrhea; no headache or visual symptoms.
+- 'Labs: prolactin 7081 mIU/l (negative macroprolactin screen), LH and FSH <0.1 U/l, estradiol 7442 pmol/l, beta-hCG undetectable, testosterone 2.0 nmol/l (borderline), SHBG >200 nmol/l, IGF1 low 129 ug/l, inhibin B 2735 ng/l (ref <341), inhibin A 79.7 ng/l, CA125 20 U/ml and AFP 1.21 ug/l normal.'
+- 'Imaging: pituitary MRI showed an enlarged anterior pituitary without micro- or macroadenoma; abdominal MRI showed a 4.8 cm right ovarian mass with no metastatic disease.'
+- Right salpingo-oophorectomy; histology JGCT FIGO stage IA with mostly luteinised cells and scattered irregular follicular spaces; prolactin immunohistochemistry negative.
+- Estrogen and prolactin normalized after surgery; the patient conceived 6 months post-surgery and had a healthy child; estradiol 821 pmol/l and prolactin 327 mIU/l at 2 years.
+- Authors postulate hyperprolactinemia resulted from estrogenic stimulation of pituitary lactotrophs (state analogous to pregnancy) rather than tumor prolactin secretion, and claim this is the first report of such a mechanism in JGCT; they cite 5-year survival 90-95% in stage I and 25-50% in advanced stage.
+relevance_to_jgct: Documents an uncommon endocrine presentation of JGCT (estrogen-driven hyperprolactinemia mimicking prolactinoma) with fertility preserved after unilateral salpingo-oophorectomy.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text via PMC4815277. Patient defaulted from endocrine follow-up after surgery.
-confidence: 4
+notes: Single case; prognosis figures and literature comparisons are quoted from cited sources. Patient lost to endocrine follow-up, so oncologic follow-up is limited (hormonal profile at 2 years via GP).
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

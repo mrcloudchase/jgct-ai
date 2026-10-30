@@ -1,0 +1,46 @@
+source_id: 10.4236/jct.2013.48165
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.4236/jct.2013.48165
+retrieved_on: '2026-10-30'
+full_text_source: https://content.scirp.org/pdf/jct_2013102912172702.pdf
+language: en
+pmid: null
+doi: 10.4236/jct.2013.48165
+pmcid: null
+title: Investigation of the Cause of Precocious Puberty in an 8-Year-Old Girl Ended up in Juvenile Granulosa and Theca Cell Tumor of the Ovary
+journal: Journal of Cancer Therapy
+year: 2013
+first_author: Ordooei M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 8 years
+alterations: []
+treatments:
+- regimen: Laparoscopic resection, then BEP (bleomycin, etoposide, cisplatin) x3; at relapse complete resection (left oophorectomy, appendectomy, bowel and peritoneal resection) and BEP continued (2 more courses)
+  setting: stage IIIC (stated at relapse); initial surgery laparoscopic
+  n: 1
+  outcome: Relapse after the third BEP course; lung metastases; died 6 months after diagnosis
+presentation:
+- breast enlargement (Tanner III) followed about 5 months later by vaginal bleeding; no pubic or axillary hair
+- large palpable left abdomino-pelvic mass, painless
+- advanced bone age (about 12 years)
+- height 142 cm, weight 34 kg
+key_findings:
+- 'Case report from Yazd, Iran: 8-year-old girl with isosexual precocious puberty (Tanner III breasts, then vaginal bleeding after about 5 months) and a large left abdomino-pelvic mass.'
+- 'Labs: FSH 0.2 and LH 1.9 IU/l (prepubertal range), estradiol 120.9 pg/ml (reference 6-27), LDH 1040 U/l (up to 580), CA 125 469 U/ml (up to 35), inhibin A 320 pg/ml (<2.2); CA 19-9, CEA, beta-hCG and AFP normal; bone age about 12 years.'
+- 'Imaging: ultrasound showed a lobulated echogenic solid mass of 4 cm in the left abdomen with free fluid; contrast CT showed a 20 x 11 cm multiloculated cystic mass with marked septation, initially suggesting ovarian cystadenoma or mucinous cystadenoma.'
+- Laparoscopic resection; histopathology and ascites cytology confirmed juvenile granulosa (and theca) cell tumor with high mitotic activity, wide necrosis, calcification and bizarre nuclei; IHC positive for CD99, BCL2, progesterone receptor and cytokeratin AE1/AE3.
+- BEP chemotherapy was started; after the third course the tumor relapsed with abdominal pain and a huge mass; complete resection (left oophorectomy, appendectomy, bowel and peritoneum), uterus, right ovary and tube preserved; stage equivalent to IIIC; BEP continued.
+- After the second additional BEP course status deteriorated, lung metastases were detected, and the patient died 6 months after diagnosis; estradiol had fallen and breast size regressed with treatment before relapse.
+- 'Authors'' conclusion: because functional cysts are far more common than neoplastic masses in childhood, malignancies may be underdiagnosed, and attention to clinical features with early investigation may allow earlier diagnosis and better prognosis; they cite stage as the most important prognostic factor.'
+relevance_to_jgct: Fatal advanced-stage JGCT presenting as precocious puberty with high inhibin A and CA 125, showing relapse after 3 BEP cycles.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Text is internally inconsistent about timing: abstract says relapse after chemotherapy; discussion says surgery twice and 5 courses of BEP; stage IIIC is given at relapse, not at initial diagnosis, although the abstract says diagnosed at IIIC. The authors'' background statement that juvenile type has poor prognosis compared with adult type contrasts with other sources.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

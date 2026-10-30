@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/36647328/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC9867898
 language: en
 pmid: '36647328'
 doi: 10.12659/AJCR.938249
+pmcid: PMC9867898
 title: A 12-Year-Old Girl with Juvenile Granulosa Cell Tumor of the Ovary, Presenting with Adolescent Hyperprolactinemia, Galactorrhea, and Amenorrhea.
 journal: The American journal of case reports
 year: 2023
@@ -17,28 +18,29 @@ n_jgct_patients: 1
 age_range: 12 years
 alterations: []
 treatments:
-- regimen: resection of ovarian mass
-  setting: primary, stage 1A
+- regimen: Exploratory laparotomy with en bloc left salpingo-oophorectomy; omental biopsy and peritoneal washings; no chemotherapy
+  setting: primary surgery
   n: 1
-  outcome: outcome not stated in abstract
+  outcome: Uneventful recovery, discharged hospital day 4, well at 2-week clinic follow-up (no longer follow-up reported)
 presentation:
-- secondary amenorrhea
-- galactorrhea
-- hyperprolactinemia
-- abdominal pain
-- pelvic mass
+- secondary amenorrhea (menarche at 10, irregular for 2 years)
+- intermittent left lower abdominal pain for 2-3 months
+- galactorrhea with prolactin 70.5 ng/mL
+- incidental large pelvic mass; obesity
 key_findings:
-- 12-year-old girl with secondary amenorrhea and intermittent abdominal pain; incidental large pelvic mass on ultrasound.
-- Galactorrhea and hyperprolactinemia on examination.
-- Ovarian mass 15.0x9.0x18.8 cm resected; JGCT stage 1A.
-- Authors note JGCT may present with amenorrhea rather than precocious puberty in this age group.
-relevance_to_jgct: Unusual endocrine presentation (hyperprolactinemia, galactorrhea) of adolescent JGCT.
+- 12-year-old obese girl (menarche at 10, no regular menses for 2 years) with intermittent left lower abdominal pain and bilateral galactorrhea; prolactin 70.5 ng/mL (normal 4.8-23.3) with total beta-hCG <0.6; initial working diagnosis was anterior pituitary hyperfunction.
+- 'Ultrasound showed an incidental large left pelvic mass (heterogeneous, predominantly solid); Doppler showed no torsion. CT: heterogeneously enhancing, partially necrotic cystic-solid mass about 15.0 x 9.0 x 18.8 cm arising from the left adnexa, abutting the uterine fundus without invasion and partially compressing the IVC and common iliac veins.'
+- En bloc left salpingo-oophorectomy; resected mass weighed 1425 g, confined to the ovary with intact capsule, no surface tumor or lymphovascular invasion; omental biopsy and peritoneal washings negative.
+- 'Pathology: JGCT, FIGO stage 1A; immunohistochemistry positive for inhibin and calretinin. No precocious puberty or overt hyperestrogenism.'
+- Discharged on hospital day 4 and doing well at 2 weeks; no chemotherapy given.
+- 'Authors'' literature statements: GCT incidence 0.4-1.7 per 100,000 women, JGCT about 5% of GCTs, median JGCT age 8-17 years; stage I 5-year survival 90-95% but GCTs can recur 20-30 years later; tumor rupture in 10%; prognostic factors include stage, size, BMI and failure to resect en bloc.'
+- The authors conclude JGCT can present with amenorrhea rather than precocious puberty and should be in the differential for young girls with abdominal pain and hormonal irregularity.
+relevance_to_jgct: Unusual JGCT presentation with hyperprolactinemia, galactorrhea and secondary amenorrhea and a very large (1425 g) stage IA tumor.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC9867898 not read).
-confidence: 2
+notes: Title/abstract call her 12 years old; the conclusion calls her 'pre-pubertal' although she had menarche at 10 years. Follow-up limited to 2 weeks. Galactorrhea-JGCT link is described by authors as underreported; no mechanism established.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

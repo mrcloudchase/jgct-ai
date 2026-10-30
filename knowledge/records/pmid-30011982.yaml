@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/30011982/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC6166011
 language: en
 pmid: '30011982'
 doi: 10.4132/jptm.2018.06.28
+pmcid: PMC6166011
 title: 'Ovarian Gynandroblastoma with a Juvenile Granulosa Cell Tumor Component in a Postmenopausal Woman: A Case Report and Literature Review.'
 journal: Journal of pathology and translational medicine
 year: 2018
@@ -17,25 +18,28 @@ n_jgct_patients: 1
 age_range: 71 years
 alterations: []
 treatments:
-- regimen: total abdominal hysterectomy with bilateral salpingo-oophorectomy
-  setting: primary
+- regimen: Total abdominal hysterectomy with bilateral salpingo-oophorectomy; no adjuvant therapy reported
+  setting: primary surgery
   n: 1
-  outcome: outcome not reported in abstract
+  outcome: No recurrence or metastasis at 2 years of follow-up (text also says 26 months)
 presentation:
-- abdominal pain
-- multilocular cystic ovarian mass
+- acute right lower quadrant / right upper quadrant abdominal pain (abstract says right upper quadrant)
+- 13 cm multilocular cystic right ovarian mass
+- no estrogenic or androgenic symptoms
 key_findings:
-- 71-year-old woman with right upper quadrant abdominal pain; 13-cm multilocular cystic mass in the right ovary.
-- Total abdominal hysterectomy with bilateral salpingo-oophorectomy.
-- Solid component showed both Sertoli-Leydig cell and juvenile granulosa cell differentiation, diagnosed as gynandroblastoma.
-- Authors state only six cases of gynandroblastoma with a JGCT component had been reported in the English literature; this is the first in an elderly patient.
-relevance_to_jgct: Rare mixed sex cord-stromal tumor containing a JGCT component, here in a postmenopausal woman; relevant to the morphologic spectrum of JGCT.
+- 71-year-old postmenopausal woman (G6P4, menopause at 53) with acute right lower quadrant abdominal pain; CT and ultrasound showed a large multiloculated cystic mass of about 13 cm in the right ovary; no endocrine symptoms; CA 19-9 19.48 U/mL and CA125 7.45 U/mL were normal.
+- Preoperative diagnosis was torsion of the right ovarian tumor; total abdominal hysterectomy and bilateral salpingo-oophorectomy were performed.
+- 'Gross: 13.0 x 7.5 x 6.5 cm multilocular cyst with serosanguinous fluid and a 3.7 x 1.8 cm solid yellowish mass; uterus, tubes and left ovary unremarkable.'
+- 'Histology: tumor was 40% juvenile granulosa cell tumor (nodular growth, follicles with mucin-like basophilic secretions, round to oval nuclei with open chromatin, no striking atypia, no Call-Exner bodies) and 60% well-differentiated Sertoli-Leydig cell tumor, diagnosed as gynandroblastoma.'
+- Both components were positive for calretinin and inhibin and negative for EMA. The tumor was stage I without extra-ovarian involvement; no recurrence during 2 years of follow-up.
+- Authors report this as the first gynandroblastoma with a JGCT component in an elderly patient; they cite 6 of 28 reported gynandroblastomas in English literature having a JGCT component, all in premenopausal women aged 15 to 39 years.
+- 'Literature statements by the authors: about 97% of JGCTs occur in the first three decades; about 30% of JGCTs reported to harbor the gsp oncogene and 60% an AKT1 mutation; somatic DICER1 hot-spot mutations in about 60% of Sertoli-Leydig tumors; FOXL2 C134W is typical of adult GCT. No molecular testing was done on this case.'
+relevance_to_jgct: Rare gynandroblastoma with JGCT component in a 71-year-old, illustrating JGCT-like histology well outside the usual age range; not a pure JGCT.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only. Gynandroblastoma, not pure JGCT; included because of the JGCT component.
-confidence: 3
+notes: 'Not a pure JGCT: mixed gynandroblastoma (40% JGCT, 60% Sertoli-Leydig). Internal inconsistencies: abstract says right upper quadrant pain while case text says right lower quadrant; follow-up is stated as two years and as 26 months. Figure legend for Fig 3 describes nuclei as lacking grooves ''characteristic of adult GCT'' (wording appears reversed). The molecular statements (gsp 30%, AKT1 60%) are the authors'' citations, not their own data.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

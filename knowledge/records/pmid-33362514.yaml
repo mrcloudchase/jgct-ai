@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/33362514/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC7747049
 language: en
 pmid: '33362514'
 doi: 10.1159/000510810
+pmcid: PMC7747049
 title: 'Gender Dysphoria Disrupting the Course of Treatment of a Recurrent Juvenile Granulosa Cell Tumor in an Adolescent Female: A Case Report.'
 journal: Case reports in oncology
 year: 2020
@@ -17,33 +18,35 @@ n_jgct_patients: 1
 age_range: 17 years
 alterations: []
 treatments:
-- regimen: laparoscopic enucleation of ovarian tumor
-  setting: primary, FIGO IA
+- regimen: Laparoscopic enucleation of left ovarian tumor (2018)
+  setting: initial treatment, FIGO IA
   n: 1
-  outcome: ipsilateral recurrence at 9 months
-- regimen: unilateral salpingo-oophorectomy with staging
-  setting: recurrence, FIGO IA
+  outcome: recurrence 7 cm in left ovary at 9 months
+- regimen: Unilateral salpingo-oophorectomy with staging
+  setting: recurrence, FIGO IA relapse
   n: 1
-  outcome: adjuvant chemotherapy recommended but declined; long-term follow-up not reported
+  outcome: testosterone fell to 4.87 nmol/L two days after surgery; patient declined recommended adjuvant chemotherapy; no later follow-up reported
 presentation:
+- irregular menses from age 15
 - hirsutism
-- irregular menses
-- elevated testosterone
 - insulin resistance
+- hypothyroidism
+- psoriasis
+- abdominal obesity
+- left ovarian mass 7 cm at recurrence
 key_findings:
-- Patient with hypothyroidism, insulin resistance, psoriasis and hirsutism from age 15; laparoscopic enucleation of a left ovarian tumor in 2018, FIGO IA.
-- At 9 months follow-up, a 7 cm recurrent tumor in the left ovary; testosterone and insulin elevated; E2 750 pg/mL, CA-125 27.96 U/mL, AFP 3.2 kU/L.
-- At 17 years, unilateral removal of the adnexa with staging after multidisciplinary consultations (patient requested hysterectomy and bilateral salpingo-oophorectomy; parental consent not granted).
-- Two days after surgery total testosterone declined to 4.87 nmol/L; pathology confirmed unilateral FIGO IA relapse of JGCT; IHC alpha-inhibin, CD99, calretinin positive.
-- Patient declined the recommended adjuvant chemotherapy.
-- Authors suggest the androgen-secreting tumor may have influenced gender dysphoria.
-relevance_to_jgct: Recurrence after ovarian-sparing enucleation (cystectomy) of stage IA JGCT; androgen-secreting JGCT.
+- A 17-year-old girl had menarche at 12, irregular menses and hormonal/dermatological problems from age 15 (hypothyroidism, insulin resistance, psoriasis, hirsutism), and underwent laparoscopic enucleation of a left ovarian tumor in 2018, diagnosed as FIGO IA folliculoma.
+- At 9 months, ultrasound and MRI showed a 7 cm left ovarian tumor suggesting recurrence; she was painless with markers in normal range (AFP 3.2 kU/L, CA-125 27.96 U/mL, HE4 36.7 pmol/L, hCG 2 mIU/mL, estradiol 750 pg/mL, FSH 10.7, LH 12.9 mIU/mL) except testosterone 14.96 nmol/L (reference 0.17-2.81) and insulin 19.7 uU/mL.
+- Histology showed granular cells with central nuclear atypia, common mitoses, large eosinophilic cytoplasm, follicular structures and no Call-Exner bodies; IHC positive for alpha-inhibin, CD99 and calretinin.
+- The patient requested hysterectomy with bilateral salpingo-oophorectomy and disclosed gender dysphoria; parents refused consent; after psychological, psychiatric and endocrine consultations she accepted unilateral removal of the adnexa with staging, confirming a unilateral FIGO IA relapse of JGCT.
+- Testosterone declined to 4.87 nmol/L two days post-operatively; the patient declined adjuvant chemotherapy that had been recommended and scheduled because of recurrent disease; gender dysphoria diagnostics were ongoing and oocyte cryopreservation was being considered.
+- The authors state that most JGCTs secrete estradiol and only several androgen-secreting cases are reported; they suggest the androgen-secreting tumor may have affected gender dysphoria, say the recommended treatment for recurrent JGCT is hysterectomy with bilateral salpingo-oophorectomy but fertility-sparing surgery was chosen in this young patient, and suggest postponing any sex-change process 5 years after surgery.
+relevance_to_jgct: Rare case of recurrent androgen- and insulin-secreting JGCT after enucleation alone in an adolescent, illustrating recurrence after non-radical surgery and ethical/fertility issues in management.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via PMC7747049. A Research Square preprint of this report exists (doi:10.21203/rs.3.rs-41266/v1). The initial 2018 lesion was reported as 'folliculoma'.
-confidence: 4
+notes: Tumor called 'folliculoma' in the text; histology and IHC match JGCT per authors. Initial enucleation (tumorectomy) preceded recurrence at 9 months, consistent with the general concern about ovarian-sparing excision. Estradiol is listed as 750 pg/mL, within the quoted reference range. Insulin units in Table 1 are garbled in the source. Staging 'FIGO IA' for the recurrence is the authors' wording. Authors' statement about the recommended treatment and 5-year delay cites other sources.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

@@ -1,0 +1,47 @@
+source_id: '35437273'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35437273/
+retrieved_on: '2026-10-30'
+full_text_source: https://ricerca.uniba.it/bitstream/11586/428718/2/1-s2.0-S1048891X24008296-main.pdf
+language: en
+pmid: '35437273'
+doi: 10.1136/ijgc-2021-003241
+pmcid: null
+title: 'Fertility sparing surgery in sex-cord stromal tumors: oncological and reproductive outcomes.'
+journal: International Journal of Gynecological Cancer
+year: 2022
+first_author: Bergamini A
+study_type: review
+tumor_site: ovary
+n_jgct_patients: 26
+age_range: null
+alterations: []
+treatments:
+- regimen: Fertility-sparing surgery (unilateral adnexectomy preferred over cystectomy)
+  setting: early-stage JGCT, literature pooled
+  n: 26
+  outcome: 11/26 (42.3%) pregnancies among JGCT patients treated conservatively; 23/26 (88.5%) in articles specifying attempts to conceive (as stated for granulosa cell tumors)
+- regimen: Adjuvant carboplatin-paclitaxel x6 (standard per ESGO/SIOPE) or BEP x4
+  setting: JGCT stage IC2/IC3 and advanced
+  n: null
+  outcome: Guideline recommendation as summarised by the review
+presentation: []
+key_findings:
+- 'Narrative literature review (PubMed 1994 to July 2021, English) on oncological and reproductive outcomes after fertility-sparing surgery in sex cord stromal tumors: obstetrical outcomes in 255 patients (132 granulosa cell tumors: 98 adult, 26 juvenile, 8 unspecified) and oncological outcomes in 900 patients from 12 publications.'
+- 'Pregnancy after fertility-sparing surgery: 44 of 132 (33%) granulosa cell tumor patients; juvenile 11/26 (42.3%) versus adult 28/98 (28.6%); in articles stating patients tried to conceive the rate was 88.5% (23/26). The authors attribute the JGCT advantage to younger age and lower relapse and chemotherapy rates.'
+- 'JGCT presentation per review: abdominal distension or pain, rarely torsion, hyperestrogenism (pseudo-precocious puberty with thelarche and vaginal bleeding; irregular menses in adolescents), rare virilization; JGCT is ~5% of granulosa cell tumors; most early stage with survival >90% with surgery alone, advanced stage 25-50% 5-year survival.'
+- 'A multicenter study cited (Bergamini 2021, MITO-9) of 17 stage I JGCT: 2 radical, 15 conservative (11 unilateral adnexectomy, 2 cystectomy then adnexectomy, 2 cystectomy alone); no relapses; 6 pregnancies with a 100% live-birth rate in 15 conservatively treated patients.'
+- 'Table 2 lists JGCT series comparing conservative and radical surgery: Wu 2016 (8 JGCT, all conservative, 74 months median follow-up, 75% survival), Zhao 2019 (6 JGCT, 100%), Bergamini 2021 (17 JGCT, 100%).'
+- 'ESGO/SIOPE 2020 recommendations as summarised: unilateral oophorectomy preferred to cystectomy/tumorectomy in stage IA; surgery alone is an option in stage IC1; stage IC2/IC3 and advanced or high-risk (rupture, many mitoses) need adjuvant treatment, standard carboplatin plus paclitaxel for six cycles, BEP for four cycles an option with more toxicity; endometrial thickness to be assessed in asymptomatic patients.'
+- Authors conclude that unilateral salpingo-oophorectomy with peritoneal staging is the preferred approach for early-stage sex cord stromal tumors; evidence for ultraconservative surgery (cystectomy) in JGCT and for advanced JGCT is limited, and transplantation of cryopreserved ovarian tissue is not recommended.
+relevance_to_jgct: Review pooling published JGCT fertility-sparing surgery and pregnancy data (26 JGCT with obstetrical data) and summarising ESGO/SIOPE guidance.
+conflicts_with: []
+overlaps_with:
+- pmid-21998762
+superseded_by: null
+retracted: false
+notes: 'Review pooling published series and case reports; patient overlap with the included primary reports (e.g. Lee 2011, Bergamini 2021 MITO-9, Wu 2016, Zhao 2019, Powell 2014) is certain. Internal inconsistency: Table 1 lists 10 JGCT patients from Lee 2011 with 4 pregnancies, whereas Lee et al. report 11 JGCT; the abstract gives adult-type pregnancy rate as 28.5% and the discussion as 28/98 (28.6%). The full text was a publisher PDF from an institutional repository.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

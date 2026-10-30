@@ -1,0 +1,55 @@
+source_id: '40985487'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/40985487/
+retrieved_on: '2026-10-30'
+full_text_source: PMC12531126
+language: en
+pmid: '40985487'
+doi: 10.1002/path.6472
+pmcid: PMC12531126
+title: Tracing metastatic spread in pediatric solid tumors using copy number and targeted deep sequencing.
+journal: The Journal of Pathology
+year: 2025
+first_author: Andersson N
+study_type: genomic
+tumor_site: null
+n_jgct_patients: 1
+age_range: null
+alterations:
+- gene: AKT1
+  alteration: segmental gain of 14q including AKT1 (stem/truncal)
+  frequency: 1/1
+  notes: authors cite prior work that all JGCT have AKT1 duplication or activating mutation
+- gene: MYC
+  alteration: amplification at 8q24 (subclonal, >8 copies)
+  frequency: 1/1
+  notes: plus an amplified 2q31 region without a known oncogene
+- gene: RBM10
+  alteration: exonic nonsynonymous point mutation in one metastasis
+  frequency: 1/1
+  notes: no truncal somatic mutations found by targeted deep sequencing
+- gene: AR
+  alteration: exonic nonsynonymous point mutation in one metastasis (a different peritoneal metastasis)
+  frequency: 1/1
+  notes: two point mutations in total, in two different metastases
+treatments: []
+presentation:
+- relapsed and widely metastatic JGCT (atypical for the tumor type)
+key_findings:
+- Swedish single-center study (diagnosed 2000-2020) of whole-genome copy number profiling (OncoScan SNP array) on 171 samples from 17 children with neuroblastoma (8), Wilms tumor (7) or gonadal tumors (2), with targeted deep sequencing (300-gene panel) of 64 samples from 8 patients; only one patient (GT1) had juvenile granulosa cell tumor.
+- 'GT1: a JGCT with relapse and widespread metastasis despite the usually favorable prognosis; 19 samples from primary and metastatic sites (including liver and several peritoneal sites) were analysed.'
+- Targeted sequencing of GT1 found no truncal somatic point mutations; only RBM10 and AR mutations in two different metastases; copy number analysis showed a complex landscape with 135 unique CNAs.
+- GT1 showed a segmental 14q gain including AKT1 in the stem, which the authors say confirms the reported AKT1 duplication/mutation in JGCT, plus a subclonal MYC amplification (8q24) and an amplified 2q31 region with no known oncogene.
+- GT1 showed later, polyphyletic and polyclonal metastatic spread at several time points after local relapse and intermetastatic spread from liver metastases to two peritoneal sites; the authors say this is the first demonstration of intermetastatic spread in these tumors.
+- Many small gains (<5 Mbp) were present in all GT1 samples and were enriched for serine-type endopeptidase inhibitor genes (18 genes) with 233 genes in lost segments linked to serine metabolism, which the authors suggest as a possible driver of aggressiveness.
+- Across the cohort, 11 of 17 patients showed earlier metastatic spread, and intermetastatic spread occurred in 8 of 9 patients with metastases at two or more sites, including GT1; distant metastases had lower genomic diversity than primary tumors.
+relevance_to_jgct: Single metastatic JGCT case with multiregional genomics (AKT1 gain, MYC amplification, intermetastatic spread); other tumors in the cohort are not JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Only one JGCT (GT1); the second gonadal tumor (GT3) is an intracranial germ cell tumor. Age, sex, primary site and treatment of GT1 are given only in a figure and supplementary files, not in the main text, so they are not recorded. Genomic findings are from one patient and cannot be generalised.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

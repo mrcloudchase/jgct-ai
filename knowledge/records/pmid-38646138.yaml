@@ -1,0 +1,42 @@
+source_id: '38646138'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/38646138/
+retrieved_on: '2026-10-30'
+full_text_source: PMC11032080
+language: en
+pmid: '38646138'
+doi: 10.11604/pamj.2024.47.58.38324
+pmcid: PMC11032080
+title: 'Granulosa cell tumor of the ovary: a series of 6 cases.'
+journal: The Pan African medical journal
+year: 2024
+first_author: da Costa REAR
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: JGCT patient 13 years (series 13-65 years)
+alterations: []
+treatments:
+- regimen: Unilateral salpingo-oophorectomy, contralateral ovarian biopsy, peritoneal lavage cytology
+  setting: JGCT stage Ia, 8 cm
+  n: 1
+  outcome: alive without disease at 58 months; no adjuvant therapy described
+presentation:
+- 'JGCT case: no symptoms at diagnosis; pelvic ultrasound requested elsewhere to investigate menstrual cycle alteration found an 8 cm heterogeneous right adnexal lesion'
+key_findings:
+- 'Retrospective chart review of 6 GCT patients (2011-2022) from a private oncology clinic in Teresina, Brazil: 5 adult-type and 1 juvenile; mean age 47 years; mean tumor size 11 cm; 5 stage Ia and 1 stage III.'
+- 'JGCT case (case 1): a 13-year-old (post-pubertal) with an 8 cm right ovarian mass, stage Ia; MRI showed an 8 cm right adnexal lesion with neoplastic appearance.'
+- 'JGCT immunohistochemistry: positive for cytokeratin, calretinin, Melan-A/Mart-1 and vimentin; negative for EMA, CD99, inhibin and WT-1 (the adult-type case 5 was FOXL2, calretinin, inhibin and WT1 positive).'
+- 'JGCT treatment: unilateral salpingo-oophorectomy with contralateral ovarian biopsy and peritoneal lavage cytology; alive without disease at 58 months. Inhibin B was measured in 4 patients including case 1 and was not elevated in any; AMH was not measured.'
+- The one death was the stage III adult-type patient (suboptimal cytoreduction), who died of progression at 126 months; overall 5/6 (83%) alive and free of disease at mean follow-up of 62.7 months.
+- 'Authors'' discussion (literature, not series results): 80% of juvenile-type cases occur before age 20 and 45.5% before puberty; JGCT typically symptomatic, with precocious puberty from estrogen secretion; fertility-sparing surgery in JGCT is described as associated with higher recurrence odds if staging is inadequate.'
+relevance_to_jgct: A single post-pubertal JGCT case (13 years, stage Ia) with unusual IHC (inhibin negative) in a mostly adult GCT series.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Case 1 is described as asymptomatic but was found because of menstrual cycle alteration. Discussion says the recurrence occurred 23 months after diagnosis and death 103 months after recurrence for the stage III patient, while the Results give death at 126 months after diagnosis. Journal and first author not in retrieved text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,46 @@
+source_id: 10.18203/2320-1770.ijrcog20200395
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.18203/2320-1770.ijrcog20200395
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ijrcog.org/index.php/ijrcog/article/download/7343/5276
+language: en
+pmid: null
+doi: 10.18203/2320-1770.ijrcog20200395
+pmcid: null
+title: Juvenile granulosa cell tumour in the third trimester of pregnancy
+journal: International Journal of Reproduction, Contraception, Obstetrics and Gynecology
+year: 2020
+first_author: Gaughran J
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 26 years
+alterations: []
+treatments:
+- regimen: Elective caesarean section with right salpingo-oophorectomy, omental and uterine serosa biopsies, peritoneal washings
+  setting: 37 weeks of pregnancy, stage IA
+  n: 1
+  outcome: live fetus delivered without complication; no adjuvant therapy; at first follow-up inhibin normal (<9.8 pg/ml) and CT without residual disease; planned 10-year follow-up
+presentation:
+- 'incidental: enlarged polycystic right ovary (85 cc) on 20-week anomaly scan; no interval care until 37 weeks'
+- 'at 37 weeks: solid right adnexal mass 139 x 107 x 105 mm with cystic areas, colour score 3'
+- pregnancy 13 weeks incidental fundal fibroid 88 x 77 x 61 mm
+key_findings:
+- 26-year-old nulliparous woman (BMI 31) in her first pregnancy; enlarged polycystic right ovary (85 cc) was seen at the 20-week scan, but she missed follow-up and re-presented at 37 weeks with a 139 x 107 x 105 mm solid mass with cystic areas, moderate Doppler flow, footling breech and a fetus at the 5th centile.
+- Non-contrast MRI showed a 13 x 7.5 cm complex right adnexal mass with hemorrhage and no restricted diffusion, read as a presumed benign process such as torsion, conflicting with the malignant-appearing ultrasound.
+- 'Pre-operative markers: inhibin B 3220 pg/ml (reference 0-341), AFP 44.5 kIU/L (0-5.8), LDH 307 U/L (135-214), CA-125 55 kU/L (0-35), CA 15-3 18 kU/L (normal).'
+- 'Caesarean section with right salpingo-oophorectomy, omental and uterine serosa biopsies and washings: 790 g tumor with extensive infarction and hemorrhage; omental and ligament biopsies and washings negative; no capsular breach; viable tumor cells at a uterine serosa adhesion site.'
+- 'Histology: sheets of round-to-oval cells with eosinophilic or clear vacuolated cytoplasm, follicle-like spaces, easily found mitoses; IHC diffuse inhibin, CD56, pancytokeratin and SMA; focal calretinin, S100 and MNF116; PAX8, WT1, GATA3, EMA and CD10 negative.'
+- Difficult classification (differential pregnancy luteoma, GCT, Sertoli-Leydig tumor); expert review (McCluggage) favored juvenile granulosa cell tumor because of architecture and intermediate-size follicles; MDT diagnosis stage IA JGCT.
+- 'Follow-up: inhibin B normal at <9.8 pg/ml and CT without disease at first review; 3-monthly inhibin for the first year and 10-year follow-up planned.'
+- Authors discuss diagnostic difficulty in pregnancy, MRI limits, that pregnancy produces disorderly cell arrangement, edema and luteinization not usually seen in non-pregnant JGCT, and note chemotherapy is not usually given in stage IA.
+relevance_to_jgct: JGCT detected in the third trimester of pregnancy in an adult (26 years), with marked inhibin B elevation and mildly raised AFP; illustrates diagnostic challenge and fertility-preserving surgery.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Short follow-up reported (first follow-up only). Diagnosis relied on expert opinion; luteoma considered less likely. Elevated AFP and sheets of luteinized cells reflect the pregnancy setting per authors' discussion.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,49 @@
+source_id: '27104151'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/27104151/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4838576
+language: en
+pmid: '27104151'
+doi: 10.5653/cerm.2016.43.1.1
+pmcid: PMC4838576
+title: Insights into granulosa cell tumors using spontaneous or genetically engineered mouse models.
+journal: Clin Exp Reprod Med
+year: 2016
+first_author: Kim SY
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: AKT1
+  alteration: in-frame duplications within the pleckstrin homology domain
+  frequency: '>60% of JGCT patients (cited)'
+  notes: ref 23 in the review
+- gene: GNAS (G alpha s)
+  alteration: activating R201C and R201H mutations
+  frequency: null
+  notes: discovered in JGCT patients (cited, ref 22)
+- gene: FOXL2
+  alteration: C134W (written C402G in the text) mutation not found in JGCT; loss of FOXL2 expression observed in aggressive JGCT
+  frequency: mutation in 95% of adult-type GCT, absent in JGCT
+  notes: cited
+treatments: []
+presentation: []
+key_findings:
+- Review of spontaneous and genetically engineered mouse models of granulosa cell tumor (GCT); it contains no patient cohort data.
+- 'Background stated by the review: GCT is about 5% of ovarian tumors; 43% of patients recur and 80% of those die of disease (cited); JGCT occurs from infancy through puberty and has malignant potential; JGCT cells are round, non-grooved, luteinized with hyperchromatic nuclei and follicle-like spaces.'
+- 'Molecular statements: the FOXL2 mutation seen in 95% of adult GCT has not been found in JGCT, and loss of FOXL2 expression was observed in aggressive JGCT; activating GNAS R201C/R201H mutations were found in JGCT patients; in-frame AKT1 pleckstrin-homology-domain duplications were found in more than 60% of JGCT patients.'
+- 'SWR/Bm mice are the spontaneous JGCT model: about 1% of inbred females develop malignant JGCT at about 8 weeks, tumors secrete high inhibin and estrogen, metastasize on serial transplantation, and are modified by Gct loci (Gct1 on chromosome 4 essential, responsive to DHEA).'
+- Smad1/Smad5 double conditional knockout in granulosa cells (Amhr2-cre) gives 100% GCT penetrance with a phenotype resembling human JGCT, 80% peritoneal/lymphatic metastasis by 8 months and very high inhibin-alpha and AMH; Smad1/5/4 triple knockout delays tumors and prevents metastasis, implicating TGF-beta/SMAD signaling in JGCT. Bmpr1a/1b double knockout mice have similar tumors (up to 40% at 8 and up to 90% at 16 months).
+- Other models (Inha-null, SV40 T-antigen, LH-beta, Wnt/beta-catenin, ER-beta, Foxo1/3/Pten, oocyte PIK3CA) are discussed mostly as adult-type or unclassifiable GCT; Foxo1/3 knockouts are proposed as an adult GCT model. The authors conclude models need reassessing against human histopathology, pathways and recurrence.
+relevance_to_jgct: Preclinical review; relevant for JGCT molecular genetics (AKT1, GNAS, FOXL2 absence) and for the SWR and Smad1/5 mouse models of JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Human mutation frequencies are cited from other papers and not verified here. The text writes the FOXL2 mutation as C402G in one place and C134W in another (C402G is the cDNA name of the same variant, p.C134W).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

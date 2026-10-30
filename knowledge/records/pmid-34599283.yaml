@@ -1,0 +1,45 @@
+source_id: '34599283'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34599283/
+retrieved_on: '2026-10-30'
+full_text_source: PMC8695383
+language: en
+pmid: '34599283'
+doi: 10.1038/s41379-021-00905-8
+pmcid: PMC8695383
+title: 'DICER1 tumor predisposition syndrome: an evolving story initiated with the pleuropulmonary blastoma.'
+journal: 'Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc'
+year: 2022
+first_author: González IA
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: DICER1
+  alteration: germline loss-of-function plus somatic RNase IIIb hotspot mutation (DICER1 syndrome mechanism)
+  frequency: 'in gynandroblastomas with juvenile granulosa cell component: 3 of 16 had a hotspot mutation; 10 of 26 gynandroblastomas tested overall (38%)'
+  notes: data cited from other studies; none had FOXL2 mutation in the 16-case cohort
+- gene: FOXL2
+  alteration: none detected in 16 gynandroblastomas, 10 of which had a juvenile granulosa cell component
+  frequency: 0/16
+  notes: cited
+treatments: []
+presentation: []
+key_findings:
+- Pathology-focused review of DICER1 tumor predisposition syndrome (PPB and extrapulmonary tumors); JGCT is mentioned only in the ovarian sex cord-stromal tumor and gynandroblastoma sections.
+- The review states ovarian sex cord-stromal tumors are about 5% of primary ovarian neoplasms and can present in adolescence and young adulthood or earlier, as in juvenile granulosa cell tumor; they may show hormonal signs including hirsutism, virilization, menstrual changes or precocious pseudopuberty, and are also associated with Peutz-Jeghers and Ollier-Maffucci syndromes.
+- Sertoli-Leydig cell tumor is the most common ovarian tumor in DICER1 syndrome (International Ovarian and Testicular Stromal Tumor Registry data cited); juvenile granulosa cell tumor, yolk sac tumor, teratoma and mixed germ cell tumors are listed as other ovarian tumors reported with DICER1 mutations but, compared with SLCT, 'may represent coincidences' because increased risk for germ cell tumors in DICER1 carriers is uncertain.
+- 'Gynandroblastoma (SLCT component with adult or juvenile granulosa cell pattern): one case among 325 ovarian sex cord-stromal tumors from 296 PPB families; in a cohort of 16 gynandroblastomas (age 14-80 years, median 24.5) the granulosa component had juvenile features in 10 (62.5%), three cases had a DICER1 hotspot mutation (all with moderately to poorly differentiated SLCT plus juvenile granulosa component) and none had FOXL2 mutation; 10 of 26 gynandroblastomas tested (38%) had RNase IIIb hotspot mutations.'
+- 'Recommendations quoted: DICER1 testing and genetic counseling when gynandroblastoma, especially with intermediate or poorly differentiated SLCT, is found; pelvic ultrasound every 6 to 12 months until at least age 40 years in carriers (general DICER1 surveillance, not specific to JGCT).'
+- No JGCT patient counts, outcomes or DICER1 frequency in JGCT are reported.
+relevance_to_jgct: 'DICER1 review with only passing JGCT content: JGCT listed as a possible but uncertain DICER1-associated ovarian tumor; useful mainly for the juvenile granulosa component of gynandroblastoma and the DICER1/FOXL2 findings there.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Author-stated opinion that JGCT may be a coincidental finding in DICER1 carriers. JGCT is not a defined entity in the review's Table 1 of DICER1-associated neoplasms. Only the ovarian sections were relevant; the rest of the review (PPB, kidney, thyroid, CNS) is out of scope.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

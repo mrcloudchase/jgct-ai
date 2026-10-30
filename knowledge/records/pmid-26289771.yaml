@@ -1,0 +1,47 @@
+source_id: '26289771'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/26289771/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4699873
+language: en
+pmid: '26289771'
+doi: 10.1007/s10689-015-9831-y
+pmcid: PMC4699873
+title: 'Ovarian tumors related to intronic mutations in DICER1: a report from the international ovarian and testicular stromal tumor registry.'
+journal: Fam Cancer
+year: 2016
+first_author: Schultz KA
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: 10 to adolescence (two patients)
+alterations:
+- gene: DICER1
+  alteration: germline intronic c.5096-12G>A (NM_177438.2), duplicating the six-base splice site at the intron 23/exon 24 junction; predicted 10-base intron inclusion, frameshift p.Asp1699AlaFS*8 disrupting RNase IIIb
+  frequency: 2 patients (both Sertoli-Leydig cell tumor)
+  notes: Not found in SNP databases, 1000 Genomes, other published series or other OTST/PPB Registry samples
+- gene: DICER1
+  alteration: somatic RNase IIIb hotspot missense in each ovarian tumor (p.Asp1709Asn, p.Glu1813Asp, p.Asp1709Val)
+  frequency: all tumors sequenced
+  notes: Patient 1 sarcoma also had TP53 p.Val274Asp
+treatments: []
+presentation:
+- 'Patient 1: dysuria and pelvic pressure (undifferentiated ovarian sarcoma, age 10); amenorrhea and raised testosterone 4 years later (SLCT)'
+key_findings:
+- Two young women with ovarian Sertoli-Leydig cell tumor (SLCT) carried the same novel germline DICER1 intronic variant c.5096-12G>A; no patient in the report had a juvenile granulosa cell tumor.
+- 'Patient 1: undifferentiated ovarian sarcoma at age 10 (inhibin negative; lacked JGCT features; treated with vincristine, actinomycin D, cyclophosphamide), then FIGO IIA SLCT in the other ovary 4 years later (6 cycles cisplatin, etoposide, bleomycin); alive and well 15 years after the first and 12 years after the second diagnosis.'
+- 'Patient 2: adolescent with SLCT plus lung cyst and thyroid nodule; alive and well more than 1 year after diagnosis.'
+- Each ovarian tumor carried the germline variant plus a tumor-specific somatic RNase IIIb mutation (two-hit pattern); TP53 mutated only in the sarcoma.
+- 'Preliminary OTST Registry data cited: 20 individuals with ovarian SLCT tested positive for germline DICER1 mutations, 5 with splice-site base substitutions (these 2 plus 3 canonical splice-site); earlier registry data cited germline DICER1 mutations in 48% of SLCT.'
+- Authors state that DICER1 mutations remain a risk for metachronous ovarian tumors beyond the usual 2-5 year surveillance window and recommend surveillance imaging (usually ultrasound) and genetic counseling.
+- Authors conclude germline DICER1 mutations should be suspected in patients with SLCT, and also in patients with juvenile granulosa cell tumor, gynandroblastoma or any ovarian stromal tumor or sarcoma with a personal or family history of nodular thyroid disease or other DICER1 conditions; somatic tumor testing is the most sensitive way to detect DICER1 mutations.
+relevance_to_jgct: JGCT appears only as an authors' statement that germline DICER1 testing should be considered in JGCT and other ovarian stromal tumors with DICER1-related personal or family history; no JGCT patient or JGCT sequencing result is reported.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Study patients had SLCT and an undifferentiated sarcoma, not JGCT (n_jgct_patients 0). The JGCT recommendation is an expert statement in the Conclusion, not derived from JGCT data in this report.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

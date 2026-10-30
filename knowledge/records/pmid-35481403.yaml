@@ -1,0 +1,42 @@
+source_id: '35481403'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35481403/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10284372
+language: en
+pmid: '35481403'
+doi: 10.1080/19396368.2022.2057258
+pmcid: PMC10284372
+title: 'Sex chromosome DSD individuals with mosaic 45,X0 and aberrant Y chromosomes in 46,XY cells: distinct gender phenotypes and germ cell tumour risks(§).'
+journal: Systems biology in reproductive medicine
+year: 2022
+first_author: Vogt PH
+study_type: genomic
+tumor_site: testis
+n_jgct_patients: 1
+age_range: neonate/infant (JGCT diagnosed after birth; gonadal tissue at 1 month)
+alterations:
+- gene: Y chromosome (dicentric, 45,X/46,XY mosaic)
+  alteration: aberrant Y chromosome in a 45,X/46,XY mosaic karyotype (patient GBY137)
+  frequency: 1 of 22 DSD patients had JGCT
+  notes: Y breakpoint at distal Yq11 (AZFc region); karyotype detail for GBY137 is in Supplementary Table S1, not in main text
+treatments: []
+presentation:
+- JGCT of the left testis diagnosed after birth in a patient reared male with 45,X/46,XY DSD
+key_findings:
+- The paper maps Y-chromosome breakpoints in 22 individuals with 45,X/46,XY sex chromosome DSD (11 reared male, 11 female) and studies OCT3/4 and the GBY proteins DDX3Y, TSPY and UTY by IHC in gonadal sections; it is a germ cell tumor risk study, not a JGCT study.
+- One patient (GBY137, reared male, prepubertal, gonadectomized) had a juvenile granulosa cell tumor in the left testis diagnosed after birth; right testis sections were not available.
+- In the GBY137 left testis (1 month postnatal) only single germ cells expressed OCT3/4, but all three GBY candidate proteins (DDX3Y, TSPY, UTY) were expressed, and most germ cells showed a germ cell neoplasia in situ (GCNIS) phenotype.
+- Strong AMH staining on the same sections marked immature Sertoli cells, which the authors take to confirm that the JGCT tumor cells originate from immature Sertoli cells (citing Kao et al.); the authors describe JGCT as benign and 1-5% of prepubertal testis tumors (cited).
+- The authors propose that the GBY candidate proteins indicate tumor risk only when OCT3/4 marks pluripotent germ cells, and note GBY137 as a possible exception (low OCT3/4 but strong GBY protein expression with GCNIS).
+- Gender rearing did not depend on the Y breakpoint site or the proportion of 45,X cells; 13 of 22 patients had dicentric Y structures.
+relevance_to_jgct: Contains a single testicular JGCT in a 45,X/46,XY DSD infant with IHC (AMH, GBY proteins, OCT3/4) data; supports association of JGCT with sex chromosome DSD and Y-chromosome abnormalities. All other content concerns germ cell tumor risk.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT diagnosis was from the clinic (diagnosed after birth); the paper does not itself report the clinical histology, stage or follow-up. Detailed clinical data are in a supplementary table not read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,60 @@
+source_id: '40815979'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/40815979/
+retrieved_on: '2026-10-30'
+full_text_source: PMC12614905
+language: en
+pmid: '40815979'
+doi: 10.1016/j.ijgc.2025.102018
+pmcid: PMC12614905
+title: Survival outcomes in patients with recurrent mixed sex cord-stromal tumors of the ovary.
+journal: 'International journal of gynecological cancer : official journal of the International Gynecological Cancer Society'
+year: 2025
+first_author: Tahan E
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 14
+age_range: mixed-tumor cohort median age at diagnosis 35 years (range 12-74); first recurrence median 38 (16-81)
+alterations:
+- gene: FOXL2
+  alteration: c.C402G
+  frequency: 'mixed tumors tested (11/16): 1/4 adult+juvenile GCT, 1/4 adult GCT+SLCT, 1/3 juvenile GCT+SLCT'
+  notes: pathognomonic of adult GCT; background cites it in ~95% of AGCT
+- gene: DICER1
+  alteration: mutation
+  frequency: 1 adult GCT+SLCT tumor positive; 0 of the juvenile GCT+SLCT tested
+  notes: null
+- gene: AKT1
+  alteration: no mutations identified
+  frequency: 0 of tested mixed tumors
+  notes: background cites AKT1 duplications in >60% of JGCT
+treatments:
+- regimen: Platinum/taxane, BEP, letrozole upfront; platinum/taxane, BEP, leuprolide, tamoxifen, doxorubicin-ifosfamide-vincristine at recurrence (mixed tumors)
+  setting: upfront and first recurrence
+  n: 16
+  outcome: 'mixed cohort: upfront surgery+systemic 62%; first recurrence surgery alone 4, surgery+systemic 11, systemic alone 1'
+- regimen: Uniform histology cohort (97 AGCT, 14 JGCT, 11 SLCT) systemic therapy at first recurrence
+  setting: first recurrence
+  n: 122
+  outcome: surgery alone 22 (18%), surgery+systemic 75 (61.5%), systemic only 18 (14.7%); common agents carboplatin-paclitaxel (34), BEP (13), aromatase inhibitors (10)
+presentation: []
+key_findings:
+- 'Retrospective cohort from the MD Anderson Rare Gynecologic Malignancy Registry (2000-March 2025): 50 mixed ovarian sex cord-stromal tumors identified; 22 excluded (15 no follow-up, 7 diagnosed before 2000); 28 analyzed, 16 with documented recurrence and 12 without (recurrence rate 57%).'
+- 'Recurrent mixed tumors (n=16): 6 adult plus juvenile GCT, 4 juvenile GCT plus Sertoli-Leydig cell tumor (SLCT), 6 adult GCT plus SLCT; 12 of 16 were FIGO stage I and 4 stage II at diagnosis; median time to first relapse 27.25 months.'
+- 'Comparators from the same registry with recurrent uniform histology: 97 adult GCT, 14 juvenile GCT, 11 SLCT.'
+- 'Median PFS-2 (from first recurrence) and OS (months): adult+juvenile GCT 8.7 and 83.8; pure JGCT 8.9 (95% CI 3.8-43.1) and 32.2 (20.3-NR); pure AGCT 21.2 and 181.9; juvenile GCT+SLCT 12.5 and 74.0.'
+- 'Adult+juvenile GCT vs pure AGCT: PFS-2 p=.03, OS p=.01 in the table and results text (the abstract states p=.001). Adult+juvenile GCT vs pure JGCT: PFS-2 p=.7, OS p=.8 (no difference).'
+- 'Juvenile GCT+SLCT vs pure JGCT: PFS-2 12.5 vs 8.9 months (p=1.00), OS 74.0 vs 32.2 months (p=.62); vs pure SLCT PFS-2 p=.55, OS p=.08.'
+- 'Molecular testing in 11/16 mixed tumors: FOXL2 c.C402G in 1/4, 1/4 and 1/3 of the three combinations; one adult GCT+SLCT had a DICER1 mutation; no AKT1 mutation in any tested tumor.'
+- Authors conclude recurrent adult+juvenile GCT may behave like JGCT (more aggressive than uniform AGCT) at recurrence, and caution that mixed tumors do not share the genetic identity of their components; sample too small for generalizable conclusions.
+- 'Background (cited): recurrent JGCT behaves more aggressively than recurrent AGCT, with death 7 to 36 months after initial treatment in prior reports; 5-year survival 97% for stage I JGCT.'
+relevance_to_jgct: Provides recurrence survival for 14 pure recurrent JGCT (registry comparator) and for 10 mixed tumors with a juvenile component, with molecular testing; JGCT recurrence after first relapse has short PFS-2 (median 8.9 months) and OS (32.2 months).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Registry-based; most patients had initial surgery elsewhere; component percentages of mixed tumors unknown. Abstract gives OS p=.001 for AGCT vs AGCT+JGCT while Results and Table 3 give p=.01. Uniform JGCT cohort is 14 recurrent patients (OS CI upper bound not reached). Age-specific (pediatric vs adult) JGCT breakdown not given.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,50 @@
+source_id: '35848651'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35848651/
+retrieved_on: '2026-10-30'
+full_text_source: PMC9383022
+language: en
+pmid: '35848651'
+doi: 10.4103/aam.aam_93_20
+pmcid: PMC9383022
+title: Ovarian cell tumor in a child with neurofibromatosis type 1.
+journal: Annals of African medicine
+year: 2022
+first_author: Qutub LM
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 6 years
+alterations:
+- gene: NF1
+  alteration: clinical diagnosis by NIH criteria (>6 cafe-au-lait macules, axillary freckling, family history); no molecular testing described
+  frequency: 1 patient
+  notes: family pedigree autosomal dominant
+treatments:
+- regimen: Right oophorectomy
+  setting: 6-year-old with NF1, 9 x 6.5 x 5 cm, 150 g multicystic mass
+  n: 1
+  outcome: cytology showed no malignant cells; no follow-up reported
+presentation:
+- 3 weeks of bilateral breast enlargement (Tanner 2)
+- vaginal bleeding 2 days before presentation
+- abdominal pain and distention
+- 7 x 7 cm right lower quadrant mass
+- no pubic or axillary hair; bone age equal to chronological age
+key_findings:
+- 6-year-old girl with clinically diagnosed neurofibromatosis type 1 (more than six cafe-au-lait macules, axillary freckling, affected relatives) presented with 3 weeks of bilateral breast enlargement followed by vaginal bleeding, abdominal pain and distention.
+- 'Examination: Tanner breast stage 2, no pubic or axillary hair, hard nontender 7 x 7 cm right lower quadrant mass; bone age matched chronological age.'
+- 'CT: well-defined heterogeneous solid right ovarian mass 7.8 x 7.4 x 6.2 cm with uterus stretched superiorly and thickened endometrium.'
+- 'Hormones consistent with pseudo-precocious puberty: LH 0.04 mIU/L, FSH 2.17 IU/L, estradiol 152.72 pmol/L (ref 26-125), inhibin B >1300 pg/mL (ref 0-18); beta-hCG, AFP and CEA normal.'
+- Right ovary removed (150 g, 9 x 6.5 x 5 cm, solid multicystic); histology predominantly JGCT type with variable follicles filled with eosinophilic fluid; cytology without malignant cells. No immunohistochemistry reported, no stage or follow-up given.
+- Authors state they found no prior reported case of JGCT associated with NF1 and that isosexual pseudo-precocious puberty from JGCT is not the usual presentation in NF1 (where central precocious puberty is common).
+relevance_to_jgct: Case of prepubertal JGCT causing pseudo-precocious puberty in a child with NF1; high inhibin B; authors report no earlier JGCT-NF1 case. Association is a single observation.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Title says 'Ovarian Cell Tumor'; the text diagnoses JGCT. Histology is described as 'predominant features of JGCT type'. No IHC, staging or follow-up; NF1 not confirmed molecularly. Journal and first author not in retrieved text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -32,7 +32,7 @@ MAX_BUDGET_USD=10 scripts/research.sh
 
 ## Reviewing a run
 
-Open the pull request. The body is the run's own report: what it added, with its confidence in each record, lowest first; what it could not reach; where the literature disagrees; what it suggests changing. Open sources, fix what is wrong, merge. Suggested changes to `CLAUDE.md` or the schema are yours to make by a normal commit; the run cannot edit them.
+Open the pull request. The body is the run's own report: what it added and from which full text, what it could not read in full and why, where the literature disagrees, and what it suggests changing. Open sources, fix what is wrong, merge. Suggested changes to `CLAUDE.md` are yours to make by a normal commit; the run cannot edit it. The schema is maintained by the runs.
 
 ## Licenses
 

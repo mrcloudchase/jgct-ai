@@ -1,0 +1,43 @@
+source_id: 10.4103/tofj.tofj_8_17
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.4103/tofj.tofj_8_17
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ovid.com/jnls/oftj/fulltext/10.4103/tofj.tofj_8_17~outcome-of-fertility-preserving-surgery-for-ovarian
+language: en
+pmid: null
+doi: 10.4103/tofj.tofj_8_17
+pmcid: null
+title: Outcome of fertility-preserving surgery for ovarian malignancy in young women
+journal: The Onco Fertility Journal
+year: 2018
+first_author: Ashraf MA
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 25 years (JGCT patient)
+alterations: []
+treatments:
+- regimen: Left ovariotomy (unilateral oophorectomy) then 4 cycles of BEP
+  setting: fertility-sparing surgery, upstaged because of rupture
+  n: 1
+  outcome: Two live births (one after infertility treatment, one spontaneous), no recurrence to date
+presentation:
+- acute abdominal pain
+- ascites
+- ruptured ovarian cyst on ultrasound
+key_findings:
+- Three-case report (immature teratoma, juvenile cystic granulosa cell tumor, dysgerminoma) of fertility-sparing surgery followed by chemotherapy in young women.
+- 'JGCT case (Mrs. C, 25 years, married): acute abdominal pain with ascites; ultrasound suggested ruptured ovarian cyst (2009); laparotomy and left ovariotomy; histopathology juvenile cystic granulosa cell tumor; capsule rupture led to upstaging.'
+- She received four cycles of BEP (bleomycin, etoposide, cisplatin), did not conceive for 4 years (husband had oligospermia), conceived on the second clomiphene cycle with antioxidants, delivered by cesarean for fetal distress, and had a second spontaneous pregnancy 2 years later.
+- All three women achieved pregnancy and had normal children; there was no recurrence to date and the authors conclude tumor spill or capsule rupture should not prompt radical surgery in women wishing to preserve fertility.
+- Authors state juvenile GCT is rarer than adult GCT and usually presents as a predominantly solid mass; BEP is the most widely used regimen for germ cell tumors, whose duration has no consensus.
+relevance_to_jgct: One JGCT patient with ruptured tumor treated with fertility-sparing surgery plus BEP and two later pregnancies; chemotherapy choice follows a germ cell regimen.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Table 1 (summary table) was not captured in the retrieved Ovid page; findings come from the case text. Follow-up length is not stated ('till date'). The tumor stage is not stated; the text says she was upstaged. The conclusions apply to three different tumors and do not isolate JGCT.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

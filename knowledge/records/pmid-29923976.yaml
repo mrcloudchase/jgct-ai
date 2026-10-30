@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/29923976/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC6023667
 language: en
 pmid: '29923976'
 doi: 10.1097/MD.0000000000010916
+pmcid: PMC6023667
 title: 'A rare case report of ovarian juvenile granulosa cell tumor with massive ascites as the first sign, and review of literature: Case report and review of literature.'
 journal: Medicine
 year: 2018
@@ -17,27 +18,28 @@ n_jgct_patients: 1
 age_range: 19 years
 alterations: []
 treatments:
-- regimen: left oophorectomy, right salpingo-oophorectomy, omental and peritoneal biopsies, then 6 courses nedaplatin + paclitaxel liposome
-  setting: primary, stage IC
+- regimen: Left oophorectomy plus right salpingo-oophorectomy with omental and peritoneal biopsies (no lymph node dissection), then 6 courses nedaplatin + paclitaxel liposome
+  setting: Stated FIGO stage IC with malignant ascites; ruptured right-sided tumor
   n: 1
-  outcome: complete remission at 6-month follow-up
+  outcome: CA-125 normalized, ascites resolved; no recurrence or metastasis at 6 months
 presentation:
-- massive ascites
-- abdominal distention
-- elevated CA125
+- 1 week of progressive painless abdominal distention
+- massive ascites (about 1200 mL straw-colored)
+- markedly raised serum and ascitic CA125
+- no hormonal symptoms; regular menses since menarche at 12
 key_findings:
-- 19-year-old woman with progressive painless abdominal distention for 1 week and massive ascites; serum and ascites CA125 markedly elevated, other markers normal.
-- Ascites cytology negative; CT showed a left adnexal teratoma and a right solid-cystic lesion; about 1200 mL ascites drained; right tumor capsule ruptured and omental/peritoneal nodules seen.
-- Left oophorectomy and right salpingo-oophorectomy with omental and peritoneal biopsies.
-- Immunohistochemistry positive for inhibin-a, CD99, vimentin, calretinin; Ki-67 >5%; stage IC.
-- Six courses of adjuvant nedaplatin and paclitaxel liposome; CA-125 normalized and complete remission without residual tumor at 6-month follow-up.
-relevance_to_jgct: Reports massive ascites with high CA125 as the first sign of JGCT in a young woman, treated with surgery and platinum-taxane chemotherapy.
+- A 19-year-old woman presented with a week of painless progressive abdominal distention and shifting dullness; ascites was exudative with cytology negative for malignancy; serum and ascitic CA125 were markedly raised while AFP, CEA, CA19-9, CA15-3 and beta-hCG were normal and sex hormones were unremarkable.
+- Ultrasound and CT showed massive ascites, a 50 x 40 mm well-marginated left adnexal lesion read as teratoma, and an enlarged right ovary with a 50 x 50 mm solid-cystic lesion; no lymphadenopathy or infiltration.
+- At laparoscopic exploration about 1200 mL clear ascites was drained, the right tumor had a ruptured capsule with irregular cauliflower surface, and the omentum and peritoneum had several corn-like nodules; a left oophorectomy and right salpingo-oophorectomy with omental and peritoneal biopsies were performed.
+- Frozen section suggested sex cord-stromal tumor; histology showed nodules of ovoid and polygonal pale eosinophilic or clear cells and irregular follicles with pseudopapillary projections; immunohistochemistry positive for inhibin-alpha, CD99, vimentin and calretinin, negative for AE1/AE3, EMA, SMA, Melan-A and CD10; Ki-67 >5%.
+- The authors classified the case as FIGO stage IC on the basis of malignant ascites only; she received 6 courses of nedaplatin and liposomal paclitaxel and at 6 months CA-125 was normal, ascites resolved and no recurrence was seen.
+- The authors conclude that advanced-stage JGCT with massive ascites should be considered in young girls, CA125 and estradiol with imaging may alert to JGCT, but diagnosis depends on histology and immunohistochemistry; the discussion cites platinum-based chemotherapy response rates of 63% to 80% and states no evidence supports radiation or hormonal therapy.
+relevance_to_jgct: JGCT presenting with massive ascites and raised CA125 without endocrine symptoms in a 19-year-old; treated with platinum-taxane adjuvant therapy; only 6 months of follow-up.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text via PMC6023667. The histology description sentence is worded identically to Ashnagar 2013 [pmid-23424695]; the case details differ. Short follow-up. Concurrent contralateral teratoma.
-confidence: 4
+notes: 'Internal inconsistencies: the staging as IC is based on ''malignant ascites'' although ascites cytology was negative and the omental/peritoneal biopsy results are not reported; the caption says nuclei lack grooves while the discussion mentions Call-Exner bodies and atypia; a left-sided lesion read as ''teratoma'' on CT was removed but its histology is not described; the abstract''s ''estradiol raised'' conclusion conflicts with the text stating sex hormones were unremarkable. Follow-up only 6 months. The age of 19 is above the pediatric range.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

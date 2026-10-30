@@ -1,0 +1,51 @@
+source_id: '33560080'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/33560080/
+retrieved_on: '2026-10-30'
+full_text_source: https://repository.up.ac.za/server/api/core/bitstreams/b3a26404-d5f4-447c-af50-4676bae2fa7f/content
+language: en
+pmid: '33560080'
+doi: 10.1097/MPH.0000000000002076
+pmcid: null
+title: 'Sex Cord Stromal Tumors in Children and Adolescents: A First Report by The South African Children''s Cancer Study Group (1990-2015).'
+journal: J Pediatr Hematol Oncol
+year: 2021
+first_author: Hendricks M
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 13
+age_range: JGCT 8-162 months (from Table 1); cohort 0-172 months
+alterations: []
+treatments:
+- regimen: Surgery alone (no chemotherapy)
+  setting: 12 of 23 SCST patients received no chemotherapy, 11 of them FIGO stage 1
+  n: 12
+  outcome: one stage 3A patient without chemotherapy was a long-term survivor
+- regimen: JEb (carboplatin, etoposide, bleomycin) x6 patients; BEP x3; PEb x1; hybrid PEb/JEb x1; MMT8 vincristine/dactinomycin x1
+  setting: platinum-based chemotherapy for stage 1C and above, all SCST
+  n: 11
+  outcome: 2 hearing losses from cisplatin; stage 3 JGCT relapsed after 6 courses of JEb; stage 4 JGCT relapsed after 6 courses of BEP and died before second-line therapy
+presentation:
+- abdominopelvic mass 26.1%
+- abdominal pain and distension 17% each
+- precocious puberty 13.0% (all under 5 years)
+- vaginal bleeding 13.0%
+- virilization in one girl
+key_findings:
+- 'Retrospective national multicentre series (9 South African paediatric oncology units, Jan 1990-Dec 2015) of 23 children up to 16 years with biopsy-proven sex cord stromal tumors (SCST): 3 male, 20 female; 13 JGCT (56.5%), 9 Sertoli-Leydig cell tumors, 1 thecoma. All 13 JGCT were ovarian.'
+- From the patient table, the 13 JGCT were stage 1 in 9, stage 3 in 2 and stage 4 in 2; JGCT ages ranged 8 to 162 months; elevated estradiol in 3 JGCT, LDH in 2, AFP in 1; at last report 10 JGCT were alive disease free, 1 was lost to follow-up and 2 (stage 3 and stage 4) died of disease.
+- 'Across all 23 patients: stage I 14 (60.9%), II 2 (8.7%), III 5 (21.7%), IV 2 (8.7%); upfront resection in 21 (91.3%) with 17 complete resections and 4 incomplete, no surgical morbidity or mortality; no radiotherapy; remission in 21/23 (91.3%).'
+- 'Three patients relapsed and none were salvaged: one stage 2 SLCT, one stage 3 JGCT (primary resection, 6 courses JEb, relapse after chemotherapy, incompletely resectable) and one stage 4 JGCT (good initial response to BEP, recurrence after 6 courses, died before second-line therapy).'
+- 5-year OS 82.1% (95% CI 65.5-100%) and 5-year EFS 83.8% (95% CI 68.6-100%) for the whole SCST cohort; no JGCT-specific survival estimate is given. Only underweight-for-age significantly affected OS and EFS (P<0.0001); age, stage, histology, socioeconomic status and chemotherapy type were not predictive; the authors call the nutrition finding tenuous given small numbers.
+- 'Chemotherapy was not standardized: 12 patients had none; carboplatin-based JEb was used in 6 as an outpatient option because cisplatin was given only as inpatient; 2 of the cisplatin-treated patients had documented hearing loss; GFR and audiology assessment were infrequent and not standardized; DICER1 testing was not available.'
+- Authors compare with MAKEI (EFS 87%, OS 88% in 62 non-testicular SCST) and the French TGM-95 study (5-year EFS 85%, OS 94%) and conclude outcomes were similar despite varied treatment; they call for national harmonized protocols and registry reporting of rare tumors.
+relevance_to_jgct: First African national cohort of paediatric SCST; JGCT is the largest subgroup (13/23), providing stage and outcome data from a resource-limited setting, though survival is reported for the pooled SCST cohort.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Tier set to registry because the data come from a national study-group collation (South African Children's Tumour Registry acknowledged). The abstract says 3 patients were lost to follow-up whereas Table 1 shows 2 'Lost' and the text says 2 girls were lost (18 of 23 had documented follow-up). Text says 21 primary resections but 17 + 4 incomplete; the text reports mean estradiol '11,1134 IU/L' (typo). JGCT counts per stage/outcome were counted by this record's author from Table 1. Possible small overlap with other SCST reports cited in the paper (MAKEI, TGM-95) is not expected.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

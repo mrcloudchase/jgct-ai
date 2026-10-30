@@ -1,0 +1,43 @@
+source_id: '38515195'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/38515195/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10958921
+language: en
+pmid: '38515195'
+doi: 10.1186/s13023-024-03101-4
+pmcid: PMC10958921
+title: Clinicopathological features and surgical procedures of adnexal masses with abdominal pain in pediatric and adolescent patients.
+journal: Orphanet J Rare Dis
+year: 2024
+first_author: Liu Q
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: series median 14.5 years
+alterations: []
+treatments:
+- regimen: Surgery followed by adjuvant chemotherapy (regimen not specified for JGCT)
+  setting: juvenile granulosa cell tumors and malignant steroid cell tumor
+  n: 4
+  outcome: Outcomes not reported for JGCT individually
+presentation:
+- Series presented with adnexal mass and abdominal pain; JGCT-specific presentation not given
+key_findings:
+- Retrospective Peking Union Medical College Hospital cohort (2012-2019) of 212 pediatric and adolescent patients with an adnexal mass and abdominal pain; torsion in 78 (36.8%).
+- 'Sex cord-stromal tumors were 7 of 212 (3.3%): 4 juvenile granulosa cell tumors, 1 malignant steroid cell tumor and 2 moderately differentiated Sertoli-Leydig cell tumors.'
+- The text states juvenile granulosa tumors and malignant steroid cell tumors received adjuvant chemotherapy after surgery; regimens, stages and outcomes are not given per tumor type.
+- Among 14 complex lesions suspected malignant on ultrasound, 6 were malignant germ cell tumors and 3 were sex cord-stromal tumors.
+- Table 4 lists one granulosa cell tumor in the torsion group managed by adnexectomy with omentum resection and biopsy.
+- Malignant germ cell tumors (8/212) were treated with 3-6 cycles of PEB/PEV; tumor markers were elevated in 26 of 105 patients tested.
+- Factors associated with torsion on multivariate analysis were mass over 5 cm (OR 4.134), acute onset pain (OR 15.911) and persistent or recurrent pain (OR 24.150).
+relevance_to_jgct: Only a count of JGCT (4 of 212 patients with painful adnexal masses) and a statement of adjuvant chemotherapy; no JGCT outcomes. Useful as hospital-series frequency data for a Chinese pediatric gynecology center.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract odds-ratio labels for acute pain and persistent pain are swapped relative to Table 5 in the Results text (Table 5 gives acute onset OR 15.911 and persistent/recurrent pain OR 24.150 in multivariate analysis). The Table 4 'granulosa cell tumor' entry is not specified as juvenile.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

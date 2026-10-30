@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/41367860/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC12682638
 language: en
 pmid: '41367860'
 doi: 10.3389/fonc.2025.1634166
+pmcid: PMC12682638
 title: 'Management of ovarian granulosa cell tumor in childhood: a case report and recommendations for a multidisciplinary approach.'
 journal: Frontiers in oncology
 year: 2025
@@ -14,44 +15,53 @@ first_author: Arnaboldi SMC
 study_type: review
 tumor_site: ovary
 n_jgct_patients: 94
-age_range: index case 10 months; reviewed cases 0-17 years (mean 7.2)
-alterations: []
+age_range: 'case: 10 months; literature review: mean 7.2 years (range 0-17)'
+alterations:
+- gene: (genetic testing)
+  alteration: NGS overgrowth-syndrome panel and PTEN MLPA negative in the index case
+  frequency: 0/1
+  notes: Done because of macrocephaly; DICER1, PTEN and other overgrowth genes are part of such panels per the authors' context
 treatments:
-- regimen: left salpingo-oophorectomy with omental and peritoneal biopsies and peritoneal washing; no adjuvant chemotherapy
-  setting: index case, FIGO/WHO IA
+- regimen: Left salpingo-oophorectomy with omental/peritoneal biopsies and washing; no adjuvant chemotherapy
+  setting: index case, FIGO IA (pT1apNx)
   n: 1
-  outcome: no evidence of recurrence 15 months after diagnosis
-- regimen: adjuvant chemotherapy
-  setting: reviewed FIGO/WHO II-IV cases
+  outcome: no evidence of recurrence 15 months after diagnosis; inhibin B normalized
+- regimen: Adjuvant chemotherapy
+  setting: literature review, FIGO/WHO II-IV with stage reported
+  n: 19
+  outcome: 78.9% of 19 received adjuvant chemotherapy; 81.2% of 16 with follow-up alive at mean 4.4 years (range 0.6-14)
+- regimen: Surgery, mostly without chemotherapy
+  setting: literature review, FIGO/WHO I
+  n: 47
+  outcome: 95.7% of 47 alive at last follow-up
+- regimen: Cisplatin-based PEB or PEI, 4 cycles (6 if metastatic) as recommended by EXPeRT/PARTNER
+  setting: advanced/relapsed disease (cited recommendation)
   n: null
-  outcome: 78.9% of 19 patients with stage II-IV received adjuvant chemotherapy
-- regimen: no adjuvant chemotherapy
-  setting: reviewed FIGO/WHO IC2 cases
-  n: null
-  outcome: three out of five IC2 patients did not receive adjuvant chemotherapy and were alive at follow-up (3-8 years)
+  outcome: no prospective data; authors note no superiority of either regimen in adults
 presentation:
-- 'index case: bilateral breast enlargement (Tanner B3PH1A1), estrogenized genitalia and clitoromegaly; estradiol 195 pg/mL, testosterone 1.64 ng/mL, suppressed gonadotropins; elevated inhibin B'
-- isosexual precocious puberty in 43/57 (75.4%) reviewed girls aged <=8 years
-- heterosexual precocious puberty in 20/57 (35.1%) girls aged <=8 years
-- menstrual irregularities in 11/27 (40.7%) post-pubertal patients
-- any abdominal symptoms 53/94 (56.4%); acute abdomen due to tumor rupture 5/94 (5.3%)
+- peripheral precocious puberty (thelarche, estrogenized genitalia, clitoromegaly)
+- abdominal pain, distension, mass
+- menstrual irregularities in post-pubertal patients
+- acute abdomen from rupture
+- ascites
+- Meigs syndrome
 key_findings:
-- Case report of a 10-month-old girl with an estrogen- and androgen-secreting left ovarian jGCT, FIGO/WHO IA, treated with salpingo-oophorectomy without chemotherapy; inhibin B normalized after surgery; no recurrence at 15 months; overgrowth NGS panel and PTEN MLPA negative.
-- 'Systematic review of 94 pediatric jGCT cases (<18 years) from 65 articles: mean age 7.2 years (range 0-17); 15 (15.9%) infants, 42 (44.7%) aged 1-8 years.'
-- 71.2% of 66 patients with known stage had FIGO/WHO I disease; 95.7% of 47 stage I patients were alive at last follow-up; overall 92.7% of 69 patients alive (mean follow-up 4.8 years); 81.2% of 16 advanced-stage patients alive (mean follow-up 4.4 years).
-- 17.0% of the 94 patients relapsed and 43.7% of these died of disease; mean time to recurrence 1.4 years (range 0.12-8 years); contralateral ovarian tumor in 4.3% at median 2.3 years.
-- 21/94 (22.3%) had a genetic or systemic condition, including Ollier disease 14 and Maffucci syndrome 1; also single cases of DICER1 syndrome, Li-Fraumeni plus PTEN hamartoma tumor syndrome, Beckwith-Wiedemann, NF1, tuberous sclerosis, ovotesticular DSD.
-- Inhibin A/B and AMH were constantly elevated preoperatively in published cases where measured; authors recommend follow-up every 3 months during the first 3 years with markers if elevated preoperatively (AMH, inhibin A/B, estradiol, testosterone) and pelvic/abdominal ultrasound.
-- Authors question adjuvant chemotherapy for FIGO IC2 (recommended by EXPeRT/PARTNER) because three of five IC2 patients in the review did not receive it and were alive at 3-8 years; cisplatin-based PEB or PEI, four cycles (six if metastatic), is cited for advanced disease.
-- Central precocious puberty secondary to sex-steroid exposure developed in 2 reviewed girls; authors advise avoiding hormone replacement therapy immediately after surgery because sex steroids serve as tumor markers.
-relevance_to_jgct: Case report plus systematic review of 94 pediatric jGCTs with presentation, stage, relapse, survival and genetic-syndrome frequencies, and a multidisciplinary (oncology, endocrinology, gynecology/surgery, genetics) management flowchart.
+- 'Index case: a 10-month-old girl with bilateral breast enlargement (Tanner B3PH1A1), estrogenized genitalia, clitoromegaly and macrocephaly; estradiol 195 pg/mL, testosterone 1.64 ng/mL with FSH and LH <0.3 mIU/mL; elevated inhibin B; ultrasound 48 x 38 mm and MRI 56 x 34 x 46 mm solid pelvic mass; histology jGCT, capsule intact, pT1apNx, FIGO/WHO IA; no adjuvant chemotherapy; no recurrence at 15 months; overgrowth NGS panel and PTEN MLPA negative.'
+- 'The authors'' PubMed review (search December 2024; 46 selected articles, 65 after reference screening) identified 94 pediatric jGCT cases (<18 years): mean age 7.2 years (range 0-17); 15 (15.9%) infants, 42 (44.7%) aged 1-8 years, 37 (39.4%) older than 8; 27 (28.7%) post-pubertal.'
+- 'Presentation in 57 patients aged <=8 years: isosexual precocious puberty 43 (75.4%), vaginal bleeding 18 (31.6%), heterosexual precocious puberty 20 (35.1%; pubarche 29.8%, clitoromegaly 8.8%); in 27 post-pubertal patients menstrual irregularities 11 (40.7%). Among all 94: abdominal mass 32 (34.0%), pain 17 (18.1%), distension 15 (15.9%), ascites 8 (8.5%), acute abdomen from rupture 5 (5.3%), Meigs syndrome 2 (2.1%).'
+- 'Inhibin A/B and AMH were reported as constantly elevated before surgery in previously published jGCT cases; estradiol and testosterone may serve as tumor markers when elevated preoperatively. Two ultrasound patterns are described: solid heterogeneous, and multilocular ''Swiss cheese''.'
+- 'Stage: 71.2% of 66 patients with stage specified were FIGO/WHO I; 95.7% of 47 FIGO I patients were alive at last follow-up; 78.9% of 19 stage II-IV patients received adjuvant chemotherapy; overall 92.7% of 69 patients with outcome data alive (mean follow-up 4.8 years, range 0.2-18); 81.2% of 16 advanced-stage patients alive (mean 4.4 years); 24.6% of 69 had follow-up <1.5 years.'
+- Three of five FIGO IC2 patients in the review received no adjuvant chemotherapy and were alive at 3-8 years follow-up, although EXPeRT/PARTNER recommends adjuvant chemotherapy for IC2 and IC3.
+- Relapse occurred in 17.0% of 94 patients (mean time to relapse 1.4 years, range 0.12-8) and 43.7% of those relapsing died of disease; 4.3% developed a contralateral ovarian tumor (median 2.3 years, range 0.12-7); the authors state up to 10% may develop a contralateral metachronous tumor.
+- 'Genetic or systemic conditions were found in 21 (22.3%) of 94: Ollier disease 14, Maffucci syndrome 1, ovotesticular DSD 1, DICER1 syndrome 1, Beckwith-Wiedemann 1, Li-Fraumeni plus PTEN hamartoma tumor syndrome 1, NF1 1, tuberous sclerosis 1. Both the DICER1 and the LFS/PHTS patient died of tumor. Secondary malignancy occurred in 6 (6.4%), including 2 contralateral metachronous jGCT.'
+- 'Recommendations summarized (as authors'' recommendations from EXPeRT/PARTNER and ESGO/SIOPE sources): fertility-sparing unilateral salpingo-oophorectomy for stage I with staging inspection, tumorectomy not generally recommended, no debulking in disseminated disease except palliative, PEB or PEI 4 cycles (6 if metastatic) for advanced disease, follow-up every 3 months for the first 3 years, and genetic counselling; authors propose multidisciplinary flowcharts for diagnosis and follow-up.'
+relevance_to_jgct: Pediatric-focused synthesis and 94-case literature review of juvenile granulosa cell tumor providing pooled presentation, stage, relapse and syndrome-association figures plus a multidisciplinary management flowchart.
 conflicts_with:
 - pmid-42504512
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: 'Full text read via Europe PMC (PMC12682638) on 2026-10-30. n_jgct_patients is the 94 literature cases in the systematic review (the index case is described separately); these published cases overlap with case reports elsewhere in the base, so do not sum. Survival percentages are from case reports with publication bias and short follow-up (24.6% of 69 had <1.5 years). Conflict: authors call adjuvant chemotherapy for FIGO IC2 jGCT ''questionable'', whereas the European standard clinical practice recommendations (pmid-42504512) recommend adjuvant cisplatin-based chemotherapy for IC2 jGCT.'
-confidence: 4
+notes: 'The index case report has an internal laterality inconsistency: MRI described a right iliac fossa mass ''originating from the contralateral ovary'' and the figure legend says right pelvic mass originating from the left adnexa, while surgery was a left salpingo-oophorectomy. n_jgct_patients is the 94 literature cases (the index case is additional). Supplementary Tables S1-S5 and Supplementary Figure S1 were not in the text; figures were not available. Review percentages use varying denominators; its cases come from case reports (publication bias). Likely overlap with other case reports in the knowledge base cited in the review.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

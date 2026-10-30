@@ -1,0 +1,262 @@
+#!/usr/bin/env python3
+"""Find and fetch the full text of a source, save it as plain text, report where it came from.
+
+  python3 -I tools/fulltext.py locate <id> [<id> ...]   # OA lookup only: Europe PMC + Unpaywall; one JSON line per id
+  python3 -I tools/fulltext.py get <id> [--url URL]     # fetch full text to state/cache/fulltext/<stem>.txt
+
+<id> is pmid:<n>, doi:<doi>, or a bare PMID. `get` tries, in order:
+  1. PMC XML from Europe PMC (fullTextXML), then NCBI PMC efetch          -> full_text_source "PMC<id>"
+  2. Unpaywall OA locations (PDF or landing HTML), then the DOI landing page -> full_text_source "<url>"
+  3. --url, if given (a PDF or HTML page you located yourself); tried first
+  --accept saves the --url text even if the length/section heuristic says it is not full text
+  (for non-English articles or short complete items such as a conference abstract page)
+It prints `FULLTEXT_SOURCE <value>`, `TEXT <path>`, `CHARS <n>` on success, or `NO_FULLTEXT <routes tried>`.
+The text keeps section headings, paragraphs, table rows and figure captions (PMC XML), or the
+page text of a PDF (pypdf). A result is only full text if you then read it and it contains the
+article body; abstract-only landing pages are refused by a length/heading heuristic but check anyway.
+
+Downloads are untrusted: run with `python3 -I`; raw files go to state/cache/ (gitignored).
+"""
+import io, json, os, re, site, sys, time, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+from html.parser import HTMLParser
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+CACHE = os.path.join(ROOT, "state", "cache", "fulltext")
+EPMC = "https://www.ebi.ac.uk/europepmc/webservices/rest/"
+EU = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+MAIL = os.environ.get("UNPAYWALL_EMAIL", "jgct-ai-research@example.org")
+UA = "Mozilla/5.0 (X11; Linux x86_64) jgct-ai/1.0 (research knowledge base; mailto:%s)" % MAIL
+
+
+def get(url, tries=2, binary=False, timeout=60):
+    last = None
+    for i in range(tries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                data = r.read()
+                ctype = r.headers.get("Content-Type", "")
+                return (data if binary else data.decode("utf-8", "replace")), ctype, r.geturl()
+        except Exception as e:
+            last = e
+            if getattr(e, "code", None) in (401, 403, 404, 410):
+                break
+            time.sleep(2 + 2 * i)
+    raise last
+
+
+def norm(i):
+    i = i.strip()
+    if i.isdigit():
+        return "pmid", i
+    k, v = i.split(":", 1)
+    return k, v
+
+
+def epmc_meta(kind, val):
+    q = f"EXT_ID:{val} AND SRC:MED" if kind == "pmid" else f'DOI:"{val}"'
+    try:
+        r = json.loads(get(EPMC + "search?format=json&resultType=core&query=" + urllib.parse.quote(q))[0])
+        res = r["resultList"]["result"]
+        return res[0] if res else {}
+    except Exception:
+        return {}
+
+
+def unpaywall(doi):
+    try:
+        return json.loads(get(f"https://api.unpaywall.org/v2/{urllib.parse.quote(doi)}?email={MAIL}")[0])
+    except Exception as e:
+        return {"error": str(e)}
+
+
+def locate(i):
+    kind, val = norm(i)
+    m = epmc_meta(kind, val)
+    doi = val if kind == "doi" else m.get("doi")
+    out = {"id": i, "pmid": m.get("pmid") or (val if kind == "pmid" else None), "doi": doi, "pmcid": m.get("pmcid"),
+           "isOpenAccess": m.get("isOpenAccess"), "inEPMC": m.get("inEPMC"), "inPMC": m.get("inPMC"), "oa_urls": []}
+    if doi:
+        u = unpaywall(doi)
+        for loc in u.get("oa_locations") or []:
+            for k in ("url_for_pdf", "url_for_landing_page", "url"):
+                if loc.get(k) and loc[k] not in out["oa_urls"]:
+                    out["oa_urls"].append(loc[k])
+        out["unpaywall_is_oa"] = u.get("is_oa")
+    for f in (m.get("fullTextUrlList") or {}).get("fullTextUrl", []):
+        if f.get("availabilityCode") in ("OA", "F", "Free") and f.get("url") not in out["oa_urls"]:
+            out["oa_urls"].append(f["url"])
+    return out
+
+
+def xtext(el):
+    return re.sub(r"\s+", " ", "".join(el.itertext())).strip() if el is not None else ""
+
+
+def pmc_text(x):
+    root = ET.fromstring(x)
+    body = root.find(".//body")
+    if body is None:
+        return None
+    out = []
+    t = root.find(".//article-meta//article-title")
+    out.append("# " + xtext(t))
+    ab = root.find(".//article-meta/abstract")
+    if ab is not None:
+        out.append("\n## Abstract\n" + xtext(ab))
+    skip = set()
+    for el in body.iter():
+        if el in skip:
+            continue
+        if el.tag == "title":
+            out.append("\n## " + xtext(el))
+        elif el.tag == "p":
+            out.append(xtext(el))
+        elif el.tag == "table-wrap":
+            out.append("\n[TABLE] " + xtext(el.find("label")) + " " + xtext(el.find("caption")))
+            for tr in el.findall(".//tr"):
+                out.append(" | ".join(xtext(td) for td in tr))
+            for f in el.findall(".//table-wrap-foot"):
+                out.append("[TABLE FOOT] " + xtext(f))
+            skip.update(el.iter())
+        elif el.tag == "fig":
+            out.append("\n[FIGURE] " + xtext(el.find("label")) + " " + xtext(el.find("caption")))
+            skip.update(el.iter())
+    for tw in root.findall(".//back//table-wrap") + root.findall(".//floats-group//table-wrap"):
+        out.append("\n[TABLE] " + xtext(tw.find("label")) + " " + xtext(tw.find("caption")))
+        for tr in tw.findall(".//tr"):
+            out.append(" | ".join(xtext(td) for td in tr))
+    for f in root.findall(".//floats-group//fig"):
+        out.append("\n[FIGURE] " + xtext(f.find("label")) + " " + xtext(f.find("caption")))
+    return "\n".join(out)
+
+
+class _H(HTMLParser):
+    BLOCK = {"p", "div", "br", "li", "tr", "h1", "h2", "h3", "h4", "h5", "section", "table", "figcaption"}
+
+    def __init__(self):
+        super().__init__(); self.parts = []; self.skip = 0
+
+    def handle_starttag(self, tag, a):
+        if tag in ("script", "style", "nav", "header", "footer", "noscript"):
+            self.skip += 1
+        if tag in self.BLOCK:
+            self.parts.append("\n")
+        if tag in ("td", "th"):
+            self.parts.append(" | ")
+
+    def handle_endtag(self, tag):
+        if tag in ("script", "style", "nav", "header", "footer", "noscript") and self.skip:
+            self.skip -= 1
+
+    def handle_data(self, d):
+        if not self.skip:
+            self.parts.append(d)
+
+
+def html_text(h):
+    p = _H(); p.feed(h)
+    t = "".join(p.parts)
+    return re.sub(r"\n\s*\n+", "\n\n", re.sub(r"[ \t]+", " ", t)).strip()
+
+
+def pdf_text(b):
+    try:
+        import pypdf
+    except ImportError:
+        sys.path.append(site.getusersitepackages())
+        import pypdf
+    r = pypdf.PdfReader(io.BytesIO(b))
+    return "\n".join(f"\n[PAGE {n + 1}]\n" + (p.extract_text() or "") for n, p in enumerate(r.pages))
+
+
+def looks_full(t):
+    """Heuristic: body-length text with at least two typical section words."""
+    if not t or len(t) < 6000:
+        return False
+    s = t.lower()
+    return sum(w in s for w in ("introduction", "case report", "case presentation", "discussion", "methods", "results", "references", "conclusion")) >= 2
+
+
+def fetch_url(u):
+    data, ctype, final = get(u, binary=True)
+    if data[:4] == b"%PDF" or "pdf" in ctype:
+        return pdf_text(data), final
+    h = data.decode("utf-8", "replace")
+    # follow citation_pdf_url meta if the page offers one and the HTML itself is thin
+    t = html_text(h)
+    if not looks_full(t):
+        m = re.search(r'<meta[^>]+name="citation_pdf_url"[^>]+content="([^"]+)"', h) or re.search(r'content="([^"]+)"[^>]+name="citation_pdf_url"', h)
+        if m:
+            d2, c2, f2 = get(urllib.parse.urljoin(final, m.group(1)), binary=True)
+            if d2[:4] == b"%PDF":
+                return pdf_text(d2), f2
+    return t, final
+
+
+def save(stem, text, src):
+    os.makedirs(CACHE, exist_ok=True)
+    p = os.path.join(CACHE, stem + ".txt")
+    open(p, "w").write(text)
+    print("FULLTEXT_SOURCE", src); print("TEXT", os.path.relpath(p, ROOT)); print("CHARS", len(text))
+    return 0
+
+
+def get_full(i, url=None, accept=False):
+    kind, val = norm(i)
+    stem = (kind + "-" + val).replace("/", "_")
+    tried = []
+    if url:
+        try:
+            t, final = fetch_url(url)
+            if looks_full(t) or (accept and t):
+                return save(stem, t, url)
+            tried.append(f"{url}: too short/not body ({len(t or '')} chars)")
+        except Exception as e:
+            tried.append(f"{url}: {e}")
+    loc = locate(i)
+    pmc = loc.get("pmcid")
+    if pmc:
+        for name, u in (("epmc", EPMC + pmc + "/fullTextXML"), ("ncbi", EU + "efetch.fcgi?db=pmc&id=" + pmc.replace("PMC", ""))):
+            try:
+                x = get(u)[0]
+                t = pmc_text(x)
+                if t and len(t) > 2500:
+                    return save(stem, t, pmc)
+                tried.append(f"{name} {pmc}: no body")
+            except Exception as e:
+                tried.append(f"{name} {pmc}: {e}")
+    else:
+        tried.append("no PMCID")
+    urls = loc["oa_urls"] + ([f"https://doi.org/{loc['doi']}"] if loc.get("doi") else [])
+    for u in urls:
+        if "europepmc.org" in u or "ncbi.nlm.nih.gov/pmc" in u:
+            continue
+        try:
+            t, final = fetch_url(u)
+            if looks_full(t):
+                return save(stem, t, final if final.startswith("http") else u)
+            tried.append(f"{u}: not full text ({len(t or '')} chars)")
+        except Exception as e:
+            tried.append(f"{u}: {str(e)[:80]}")
+    print("NO_FULLTEXT", " ; ".join(tried))
+    return 1
+
+
+if __name__ == "__main__":
+    if len(sys.argv) < 3:
+        print(__doc__); sys.exit(2)
+    cmd, args = sys.argv[1], sys.argv[2:]
+    if cmd == "locate":
+        for a in args:
+            print(json.dumps(locate(a)), flush=True)
+    elif cmd == "get":
+        url = None
+        accept = "--accept" in args
+        if accept:
+            args.remove("--accept")
+        if "--url" in args:
+            k = args.index("--url"); url = args[k + 1]; del args[k:k + 2]
+        sys.exit(get_full(args[0], url, accept))
+    else:
+        print(__doc__); sys.exit(2)

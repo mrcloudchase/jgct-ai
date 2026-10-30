@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/39877787/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC11772895
 language: en
 pmid: '39877787'
 doi: 10.7759/cureus.76546
+pmcid: PMC11772895
 title: 'A Rare Case of Juvenile Granulosa Cell Tumor in a Premenarchal Female: Clinical Presentation, Diagnosis, and Management.'
 journal: Cureus
 year: 2024
@@ -17,23 +18,29 @@ n_jgct_patients: 1
 age_range: 4.5 years
 alterations: []
 treatments:
-- regimen: fertility-sparing unilateral salpingo-oophorectomy
-  setting: primary
+- regimen: Left salpingo-oophorectomy en bloc with the mass via Pfannenstiel incision; no adjuvant chemotherapy
+  setting: pT1a (TNM/UICC)
   n: 1
-  outcome: no recurrence after one year
+  outcome: Symptoms resolved, estradiol and 17-OHP normalized; no recurrence at 1 year
 presentation:
-- precocious puberty
+- 2 weeks of sudden pubic hair growth and breast enlargement (gonadotropin-independent precocious puberty)
+- pubertal-sized uterus 10.81 x 5.96 x 11.46 cm
+- large mixed solid-cystic left ovarian mass with Doppler flow
 key_findings:
-- 4.5-year-old girl with precocious puberty and a left ovarian JGCT confirmed by imaging and histopathology.
-- Fertility-sparing unilateral salpingo-oophorectomy; no recurrence after one year of follow-up.
-- Authors state the role of adjuvant chemotherapy in advanced cases remains unclear.
-relevance_to_jgct: Typical prepubertal ovarian JGCT with precocious puberty treated by surgery alone.
-conflicts_with: []
+- A 4.5-year-old girl had 2 weeks of pubic hair and breast development; estradiol was 294.70 pg/ml (reference <27), testosterone 1.330 ng/ml (<0.250), 17-OHP 5.23 ng/ml (<1.00), DHEA-S 0.467 ug/ml (normal), FSH <0.30 and LH <0.02 mIU/ml (gonadotropin-independent); AFP and beta-hCG normal.
+- Ultrasound showed a pubertal-type uterus (387 cm3) and an 11.45 x 5.13 x 8.38 cm mixed cystic-solid left ovarian mass with blood flow; MRI confirmed a large multilocular mass from L3 to S1 without evidence of invasion.
+- Left salpingo-oophorectomy en bloc was performed; peritoneal fluid and washings were cytologically negative; histology showed predominantly solid and follicular growth, hemorrhagic necrosis without capsular disruption, moderate nuclear atypia and a mitotic index of 0-4 per 40x field (6-15 per 10 HPF).
+- Tumor cells were positive for calretinin, CD99, CD56, inhibin, SF1, SMA and AE1/AE3 and negative for EMA and synaptophysin; stage was pT1a (TNM/UICC).
+- At 1 year there was no recurrence, precocious puberty features had resolved, estradiol and 17-OHP normalized, and LH/FSH remained prepubertal.
+- The discussion states approximately 90% of JGCTs are FIGO stage I with 5-year disease-free survival 90-100%, contralateral involvement is rare (3%), BEP is the commonest adjuvant regimen for stage IC-IV, ESMO advises BEP for stage IC while ESGO suggests surgery alone may suffice for IC1 and chemotherapy for IC2/IC3; these are literature statements by the authors.
+- The authors list recurrence risk factors from the literature as nuclear pleomorphism, mitoses >4/10 HPF, rupture, residual disease and FOXL2 mutation expression, and state no analogous genetic driver has been linked to JGCT (AGCT has FOXL2).
+relevance_to_jgct: Prepubertal stage I ovarian JGCT with gonadotropin-independent precocious puberty and elevated testosterone and 17-OHP, cured by fertility-sparing surgery.
+conflicts_with:
+- pmid-39773640
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC11772895 not read). Stage not stated in abstract.
-confidence: 2
+notes: The statement that JGCT lacks a recognized genetic driver is the authors'; no molecular testing was done. Mitotic counts given in two units in the paper. Follow-up only 1 year. The discussion's claim of 'FOXL2 mutation expression' as recurrence risk is as printed.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

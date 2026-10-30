@@ -1,0 +1,49 @@
+source_id: '41263790'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41263790/
+retrieved_on: '2026-10-30'
+full_text_source: PMC12891927
+language: en
+pmid: '41263790'
+doi: 10.1111/his.70048
+pmcid: PMC12891927
+title: 'Adult granulosa cell tumours of the testis analogous to ovarian counterparts are exceptionally rare: analysis of a multicentric series and review of the literature.'
+journal: Histopathology
+year: 2026
+first_author: Ricci C
+study_type: genomic
+tumor_site: testis
+n_jgct_patients: 0
+age_range: adult series 22-71 years
+alterations:
+- gene: FOXL2
+  alteration: p.Cys134Trp
+  frequency: 0/12 sequenced testicular AGCTs; 2/29 bona fide testicular AGCTs including the literature
+  notes: Hallmark of ovarian adult GCT
+- gene: CTNNB1
+  alteration: p.Ser37Phe, p.Gly34Arg, p.Gln322_Trp338delinsArg
+  frequency: 3/12 sequenced testicular AGCTs
+  notes: Panel also covered DICER1, FH, KIT and MED12; no DICER1 variants reported
+- gene: KIT / MED12
+  alteration: KIT p.Gly565Val and MED12 p.Asp1118Asn (variants of uncertain significance)
+  frequency: 1/12
+  notes: Judged unlikely relevant
+treatments: []
+presentation:
+- Testicular mass, hydrocele or gynecomastia in adults
+key_findings:
+- Twenty testicular adult granulosa cell tumors (AGCT) from nine institutions (22-71 years, median 43.5) were sequenced; 12/20 yielded results, none with FOXL2 p.Cys134Trp.
+- Three of 12 had pathogenic or likely pathogenic CTNNB1 alterations; 8/12 were wild-type for all panel genes (panel included DICER1).
+- One CTNNB1 wild-type tumor showed areas of AGCT and foci with juvenile granulosa cell tumor-like morphology (follicles/cysts lined by small ovoid cells) with a cystic component; this is the only juvenile-like finding in the series.
+- In the literature, only 2/29 bona fide testicular AGCTs carried FOXL2 p.Cys134Trp; the authors conclude most testicular tumors classified as AGCT are not analogous to ovarian AGCT and AGCT is a diagnosis of exclusion in the testis.
+- 'Follow-up: one patient developed metastases, four others with follow-up had no recurrence (48 and 54 months for two).'
+relevance_to_jgct: Adult testicular granulosa-like tumors; included for the single tumor with JGCT-like morphology and the DICER1/CTNNB1 results. No JGCT patients (n_jgct_patients 0) and no pediatric data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Series is of adult-type tumors; the JGCT-like foci are a morphologic observation in one case with no molecular alteration. 8/20 tumors failed sequencing from poor DNA quality.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

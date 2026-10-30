@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/26327951/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC4546709
 language: fr
 pmid: '26327951'
 doi: 10.11604/pamj.2015.21.114.6453
+pmcid: PMC4546709
 title: '[Juvenile granulosa tumor of the ovary: report of a case].'
 journal: The Pan African medical journal
 year: 2015
@@ -17,27 +18,31 @@ n_jgct_patients: 1
 age_range: 8 years
 alterations: []
 treatments:
-- regimen: left adnexectomy
-  setting: primary
+- regimen: Left adnexectomy (salpingo-oophorectomy); no chemotherapy or radiotherapy per multidisciplinary meeting
+  setting: 8-year-old girl with 25 x 20 cm tumor and serohemorrhagic effusion
   n: 1
-  outcome: uneventful surveillance; duration not stated
+  outcome: uneventful postoperative course; clinical and radiological follow-up (chest X-ray, abdominal ultrasound) without particularities; duration not stated
 presentation:
-- abdominal mass
-- pelvic pain
-- abdominal distension
-- weight loss
+- 15 days of paroxysmal pelvic pain
+- increasing abdominal volume
+- unquantified weight loss
+- painless hard abdominopelvic mass about 25 x 20 cm
+- collateral venous circulation
+- no signs of hormone hypersecretion
+- small intraperitoneal effusion
 key_findings:
-- 8-year-old girl with 15 days of pelvic pain, abdominal enlargement and weight loss; abdominopelvic mass about 25 x 20 cm without signs of hormone hypersecretion.
-- AFP and beta-HCG normal; multiseptated cystic mass on ultrasound and CT; small peritoneal effusion.
-- Left adnexectomy; histology and immunostaining consistent with JGCT, strong vimentin positivity.
-- Multidisciplinary meeting decided no chemotherapy or radiotherapy; uneventful clinical and radiological surveillance.
-relevance_to_jgct: Pediatric JGCT without endocrine signs presenting as a very large cystic mass, treated by surgery alone.
+- An 8-year-old girl without history had about 15 days of moderate paroxysmal pelvic pain, increasing abdominal volume and weight loss; examination found a hard, ill-defined, painless abdominopelvic mass of about 25 x 20 cm with collateral venous circulation and no signs of hypersecretion.
+- Ultrasound showed a very large cystic multiseptated abdominopelvic mass occupying almost the whole abdomen with small intraperitoneal effusion, no deep lymph nodes and no liver involvement; CT showed a multiseptated cystic left supravesical mass.
+- Alpha-fetoprotein and beta-hCG were normal; inhibin and estradiol are not reported for the patient.
+- Surgery found a 25 x 20 cm tumor of the left ovary with serohemorrhagic effusion; pathology with immunostaining supported juvenile granulosa cell tumor (strong vimentin positivity); FIGO stage is not stated.
+- Left adnexectomy was performed; a multidisciplinary meeting decided that neither chemotherapy nor radiotherapy was necessary; periodic clinical and radiological follow-up was unremarkable.
+- The authors state in the discussion (citing literature) that JGCT is about 5% of ovarian tumors in children and adolescents, 80% occur under 20 years and 50% under 10 years, unilateral in 97% with average size 12.5 cm, 5-year survival is 92%, adjuvant chemotherapy is reserved for recurrence, and poor prognostic factors are large size, ascites and capsular rupture.
+relevance_to_jgct: Case of a very large non-secreting JGCT in a school-age child managed by unilateral adnexectomy alone.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text in French via PMC4546709. Stage and follow-up duration not stated.
-confidence: 3
+notes: Original text is in French and was read in French. Immunohistochemistry other than vimentin (e.g. inhibin) is not reported; FIGO stage, follow-up duration and histologic details (mitoses) are not given. The introduction calls JGCT 'malignant tumors' while also 'low malignant potential'. Review statements in the Discussion are citations from other sources.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

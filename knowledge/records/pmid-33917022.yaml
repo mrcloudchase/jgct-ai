@@ -1,0 +1,51 @@
+source_id: '33917022'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33917022/
+retrieved_on: '2026-10-30'
+full_text_source: PMC8067678
+language: en
+pmid: '33917022'
+doi: 10.3390/ijms22083822
+pmcid: PMC8067678
+title: Could MicroRNAs Be Useful Tools to Improve the Diagnosis and Treatment of Rare Gynecological Cancers? A Brief Overview.
+journal: Int J Mol Sci
+year: 2021
+first_author: Di Fiore R
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: miR-17 family / FOXL2
+  alteration: reduced miR-17 family expression indirectly increased FOXL2 mRNA in a comparison of adult- and juvenile-type granulosa cell tumor
+  frequency: null
+  notes: cited study [71], cell-line based
+- gene: miR-10a
+  alteration: upregulated in granulosa cell tumor; promotes tumor development via PTEN-AKT/Wnt
+  frequency: null
+  notes: granulosa cell tumor, type not specified
+- gene: miR-126
+  alteration: downregulated; tumor suppressor via EGFL7/PI3K-AKT
+  frequency: null
+  notes: granulosa cell tumor, type not specified
+treatments: []
+presentation: []
+key_findings:
+- Narrative review of microRNA (miRNA) data in rare gynecological cancers (annual incidence <6 per 100,000 women); the review reports no new data.
+- Granulosa cell tumors are described as about 5% of malignant ovarian tumors, with two distinct types, adult-type and juvenile granulosa cell tumor, but the authors state that most data refer to adult-type tumors; the review gives no JGCT-specific patient numbers or outcomes.
+- Testing for the C134W FOXL2 mutation is described as helpful for diagnosing adult-type tumors; it is not presented as a JGCT marker.
+- A comparative study cited by the review of miRNA regulation of FOXL2 in adult- versus juvenile-type granulosa cell tumors showed that reduction of the miR-17 family indirectly increased FOXL2 mRNA expression; through miRNA profiling, juvenile- and adult-derived cell lines were biologically distinct, which the authors say still needs to be addressed in vivo.
+- Cited work by Tu et al. reported that miR-10a promotes granulosa cell tumor development via the PTEN-AKT/Wnt axis and that miR-126 is a tumor suppressor in granulosa cell tumor via EGFL7; granulosa cell tumor type (adult or juvenile) is not specified in the review.
+- Cheng et al. (cited) validated six miRNAs (miR-29c-3p, miR-138-5p, miR-184, miR-204-5p, miR-328-3p, miR-501-3p) as markers for subtype classification in ovarian granulosa cell tumors; low miR-138-5p correlated with early stage and low miR-184 with recurrence in early-stage adult-type tumors.
+- DICER1 RNase IIIb domain mutations are described as common in non-epithelial ovarian tumors, with Sertoli-Leydig tumors highly characteristic of DICER1 syndrome; no JGCT DICER1 data are given.
+- For advanced or recurrent granulosa cell tumor the review states traditional chemotherapy has limited effectiveness and mentions the GOG264 trial (NCT01042522) of carboplatin/paclitaxel versus BEP in sex cord-stromal tumors.
+relevance_to_jgct: 'Low-yield, indirect: a review of rare gynecological cancers in which JGCT appears only within the granulosa cell tumor section, with one cited miRNA/FOXL2 cell-line comparison of juvenile versus adult types. Useful only as a pointer to preclinical miRNA work.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Secondary review; JGCT-specific content is limited to a few sentences relying on cited primary studies not read in this run. Granulosa cell tumor miRNA data (miR-10a, miR-126) do not state adult or juvenile type.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

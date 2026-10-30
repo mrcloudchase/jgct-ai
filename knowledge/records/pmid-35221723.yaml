@@ -1,0 +1,50 @@
+source_id: '35221723'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35221723/
+retrieved_on: '2026-10-30'
+full_text_source: PMC8864408
+language: en
+pmid: '35221723'
+doi: 10.2147/CMAR.S350457
+pmcid: PMC8864408
+title: 'Oncological Prognosis and Fertility Outcomes of Different Surgical Extents for Malignant Ovarian Sex-Cord Stromal Tumors: A Narrative Review.'
+journal: Cancer management and research
+year: 2022
+first_author: Li J
+study_type: review
+tumor_site: ovary
+n_jgct_patients: 3
+age_range: 5 to 33 years in the three tabulated JGCT case reports
+alterations: []
+treatments:
+- regimen: Unilateral salpingo-oophorectomy (USO) with or without omentectomy/debulking, then carboplatin-paclitaxel at relapse (stage IIIB JGCT case cited in text)
+  setting: fertility-sparing surgery, advanced stage
+  n: 1
+  outcome: relapse 55 months after first surgery; second debulking plus carboplatin/paclitaxel; no relapse at 30 months
+- regimen: Six cycles of nedaplatin plus paclitaxel liposome after USO (stage IC JGCT, age 19, massive ascites)
+  setting: adjuvant
+  n: 1
+  outcome: no recurrence at 6 months
+presentation:
+- isosexual precocious puberty (5-year-old; inhibin A 538 ng/L, inhibin B >977 ng/L)
+- massive ascites (19-year-old, stage IC)
+- JGCT with Maffucci syndrome in pregnancy (33-year-old, stage IA)
+key_findings:
+- Narrative review of PubMed literature from January 2011 to December 2021 on surgical extent in malignant ovarian sex-cord stromal tumors (MOSCSTs); the authors identified 12 large retrospective studies and 18 case reports. Most data concern adult granulosa cell tumor (AGCT); JGCT-specific data are sparse.
+- 'Three JGCT case reports are tabulated: a 5-year-old with isosexual precocious puberty, a 14x10x16 cm abdominopelvic mass, inhibin A 538 ng/L, inhibin B >977 ng/L and NSE 87.2 ug/L (stage I, oophorectomy plus omentectomy; later cystectomy for a contralateral benign mucinous cystadenoma; no recurrence 2 years after the second surgery); a 33-year-old with JGCT and Maffucci syndrome in pregnancy (stage IA, USO); and a 19-year-old with massive ascites (stage IC, USO then 6 cycles of nedaplatin plus paclitaxel liposome, no recurrence at 6 months).'
+- 'The review states that fertility-sparing surgery could be considered for young women with high-stage JGCT: one stage IIIB JGCT patient treated with USO, omentectomy and debulking relapsed 55 months after first surgery, then had second debulking plus carboplatin and paclitaxel and had no relapse in 30 months of follow-up. Management of advanced disease should be decided by a multidisciplinary team.'
+- For JGCT with high-risk features (germline PTEN, p53 overexpression), USO with complete staging may have a better prognosis than USO alone, but the cited study had only eight patients; another report found p53 overexpression not associated with outcome.
+- A cited multicenter retrospective study reported a pregnancy rate after fertility-sparing surgery of about 16.7% in AGCT and about 36.4% in JGCT patients.
+- JGCT and Sertoli-Leydig cell tumor are described as the most common subtypes of sex-cord stromal tumor diagnosed in pregnancy; the review cites 48 gestational MSCST cases up to 2017 and SCST as 10-20% of ovarian malignancies diagnosed in pregnancy.
+- Isolated case reports and small case series are cited as suggesting that chemotherapy can achieve long-term remission in recurrent JGCT. Ollier disease and Maffucci syndrome are stated to be associated with an increased risk of JGCT.
+- 'General conclusions (all MOSCSTs): USO-only seems feasible in early-stage fertility-desiring patients, cystectomy-only should be avoided; fertility-sparing surgery with staging is described as feasible in advanced stage; lymphadenectomy can be omitted when nodes are not suspicious; endometrial evaluation is advised for patients over 40 or with bleeding; chemotherapy benefit remains controversial (BEP most used; GOG randomized trial of carboplatin-paclitaxel vs BEP cited); long-term follow-up is essential.'
+relevance_to_jgct: Review of surgical extent and fertility outcomes for malignant ovarian sex-cord stromal tumors, predominantly AGCT; JGCT appears in three tabulated case reports and a few cited statements on advanced-stage fertility-sparing surgery, pregnancy rates and chemotherapy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Narrative review; JGCT counts are only the three tabulated case reports (plus one stage IIIB case cited in text). First author not stated in the extracted full text. Case-report data are second-hand summaries of other publications.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

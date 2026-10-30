@@ -3,33 +3,40 @@ source_type: url
 source_tier: conference_abstract
 source_url: https://doi.org/10.1007/s00247-013-2675-4#076
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC3679720
 language: en
 pmid: null
 doi: 10.1007/s00247-013-2675-4
+pmcid: PMC3679720
 title: A rare congenital benign testis tumour in a newborn (ESPR 2013 abstract 076)
-journal: Pediatric Radiology 2013 (ESPR 50th Annual Meeting abstracts)
+journal: Pediatric Radiology (ESPR 2013 supplement)
 year: 2013
-first_author: Czerwińska K
+first_author: Czerwinska K
 study_type: case_report
 tumor_site: testis
 n_jgct_patients: 1
-age_range: newborn
+age_range: newborn (ultrasound on day 2 of life)
 alterations: []
-treatments: []
+treatments:
+- regimen: Surgical resection; oncological observation afterwards
+  setting: congenital testicular JGCT
+  n: 1
+  outcome: child remains under oncological observation (no outcome detail given)
 presentation:
-- scrotal mass
+- left scrotal mass from the day of birth
+- well-defined large complex cystic mass with significant septal blood flow on Doppler
 key_findings:
-- Full-term newborn with a left scrotal mass from birth; ultrasound on day 2 showed a well-defined, large, complex cystic mass with significant septal blood flow.
-- Surgical resection; histology juvenile granulosa cell tumour; karyotype normal; serum tumour markers not elevated per authors.
-- Authors describe JGCT as 'a benign, rarely diagnosed subset of testicular sex-stromal tumours' with most cases in the first 6 months of life, and associated with chromosome X abnormalities.
-relevance_to_jgct: Neonatal testicular JGCT with cystic ultrasound appearance.
+- Full-term newborn admitted for a left scrotal mass present from birth; testicular ultrasound on day 2 showed a well-defined, large, complex cystic mass with significant septal blood flow on Doppler.
+- Serum tumour markers and karyotype were examined; tumour markers were not elevated and the karyotype was normal.
+- After surgical resection, histology showed juvenile granulosa cell tumour (JGCT).
+- The authors state that testicular JGCT is a benign, rarely diagnosed subset of testicular sex-stromal tumours, most cases occurring in the first 6 months of life, typically as a painless unilateral scrotal mass, hormonally inactive without raised serum markers, and associated with chromosome X abnormalities (not found in this case).
+- The child stays under oncological observation; authors conclude JGCT of the testis should be considered in the differential of scrotal masses in newborns and note that 75% of prepubertal testis tumours are benign.
+relevance_to_jgct: Neonatal testicular JGCT case with imaging features (complex cystic mass with septal flow), normal markers and normal karyotype.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Verbatim from Europe PMC full text PMC3679720 (Pediatr Radiol supplement, doi 10.1007/s00247-013-2675-4), poster abstract 076. 'Benign' characterization is the authors'.
-confidence: 2
+notes: Whole abstract (Purpose, Methods, Results, Conclusions) read from the supplement text. Abstract gives no histologic detail, stage or follow-up duration. Supplement text from PMC3679720.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

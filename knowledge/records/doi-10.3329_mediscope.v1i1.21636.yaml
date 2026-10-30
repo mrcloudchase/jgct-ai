@@ -1,0 +1,43 @@
+source_id: 10.3329/mediscope.v1i1.21636
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.3329/mediscope.v1i1.21636
+retrieved_on: '2026-10-30'
+full_text_source: https://www.banglajol.info/index.php/MEDISCOPE/article/download/21636/14865
+language: en
+pmid: null
+doi: 10.3329/mediscope.v1i1.21636
+pmcid: null
+title: Juvenile granulosa cell ovarian tumor- a rare presentation
+journal: Mediscope
+year: 2014
+first_author: Saha E
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 14 years
+alterations: []
+treatments:
+- regimen: Exploratory laparotomy, staging, right salpingo-oophorectomy; referred to oncologist, no chemotherapy described
+  setting: FIGO stage IC (capsule rupture), fertility-sparing
+  n: 1
+  outcome: healthy with no recurrence at time of reporting (duration not stated)
+presentation:
+- 5 days of acute abdominal pain and abdominal distension
+- initially suspected gut perforation
+- multilobulated cystic right ovarian mass 11.5 x 7 cm with moderate ascites on ultrasound
+key_findings:
+- 14-year-old previously healthy girl with regular menses presented with 5 days of acute abdominal pain and gross distension; clinically suspected gut perforation. No palpable lump, mildly anemic.
+- 'Ultrasound: multilobulated cystic mass about 11.5 x 7 cm in the right ovarian region with moderate peritoneal fluid; plain abdominal X-ray normal.'
+- At laparotomy about 3 L of yellowish watery mucous fluid escaped; 12 x 7 cm multilobulated cystic right ovarian mass with a ruptured capsule, no peritoneal seedlings or enlarged nodes; peritoneal fluid cytology negative; staging done and right salpingo-oophorectomy performed (no frozen-section facility).
+- Histopathology confirmed JGCT (immature nuclei, atypia, high mitotic rate); final FIGO stage IC; referred to an oncologist and healthy without recurrence at time of reporting (duration not stated). No tumor markers or immunohistochemistry reported.
+- 'Discussion cites literature: JGCT about 5% of granulosa cell tumors; 97% of patients under 30; about 90% FIGO stage I at presentation with 5-year survival 90-100%; stage II 55-75% and stage III-IV 22-50%; ascites in about 10% and rupture at presentation in 10%; cisplatin-based multidrug regimens used in advanced or recurrent disease; inhibin for monitoring.'
+relevance_to_jgct: Case of adolescent JGCT presenting as acute abdomen with ruptured capsule and ascites, stage IC, treated by fertility-sparing surgery.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Text inconsistency: abstract mentions an ''ipsilateral'' salpingo-oophorectomy and the discussion text cites stage survival figures from other sources (not this case). Follow-up duration not given; no inhibin or IHC. Year taken from the article citation (Mediscope 2014;1(1)), ledger lists 2015. Cited survival figures are second-hand.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,54 @@
+source_id: '32485873'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32485873/
+retrieved_on: '2026-10-30'
+full_text_source: PMC7353025
+language: en
+pmid: '32485873'
+doi: 10.3390/cancers12061398
+pmcid: PMC7353025
+title: 'Molecular Pathways and Targeted Therapies for Malignant Ovarian Germ Cell Tumors and Sex Cord-Stromal Tumors: A Contemporary Review.'
+journal: Cancers
+year: 2020
+first_author: Maoz A
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: AKT1
+  alteration: duplication/activation
+  frequency: about 60% of JGCT (Table 1); over 60% harbored an AKT1 duplication in a small study of 16 patients (cited)
+  notes: cited from other studies
+- gene: GNAS
+  alteration: mutations (gsp)
+  frequency: about 30% of JGCT; approximately 30% in a cohort of thirty patients (cited)
+  notes: GNAS encodes the Gs-alpha subunit coupled to FSH receptor signaling
+- gene: IDH1/IDH2
+  alteration: germline/mosaic, in Ollier disease and Maffucci syndrome
+  frequency: rare
+  notes: Ollier disease and Maffucci syndrome associated with increased risk of JGCT
+- gene: FOXL2
+  alteration: C134W
+  frequency: uncommon in JGCT (versus up to 97% of adult GCT)
+  notes: cited
+treatments: []
+presentation: []
+key_findings:
+- Review of the molecular landscape and targeted therapies of malignant ovarian germ cell tumors and sex cord-stromal tumors (SCST); non-epithelial ovarian tumors are 8-10% of ovarian malignancies and SCST about 2% of ovarian malignancies in the USA.
+- 'Table 1 lists JGCT alterations: AKT1 duplication/activation (about 60%), GNAS mutations (about 30%), and rare germline IDH1/2 in Ollier disease and Maffucci syndrome; the text cites about 30% GNAS in a cohort of thirty patients and over 60% AKT1 duplication in a study of 16 patients.'
+- FOXL2 C134W is almost ubiquitous in adult GCT (up to 97%) but uncommon in JGCT; the review says GCT subtypes make up over 70% of SCSTs, with JGCT forming the majority of SCSTs in children and adolescents.
+- The review states Ollier disease and Maffucci syndrome are associated with increased risk of JGCT, and that SCSTs commonly secrete inhibin, estradiol, testosterone and AMH, causing virilization, menstrual changes or precocious puberty.
+- 'US SCST stage distribution (all SCSTs, not JGCT-specific): stage I 69%, II 12%, III 14%, IV 5%, with five-year cause-specific survival 98%, 84%, 61% and 41% and 88% overall; chemotherapy for SCST includes BEP, EP and carboplatin-paclitaxel (a randomized phase II trial is comparing carboplatin-paclitaxel with BEP, NCT01042522).'
+- Targeted therapy data are mostly for adult GCT (bevacizumab, anastrozole, leuprolide, aromatase inhibitors, CYP17 inhibitors) and none is specific to JGCT; the review notes only 12 interventional trials involving SCSTs on clinicaltrials.gov.
+- The review concludes that molecular characterization should be built into prospective trials in these rare tumors and that targeted candidates have been tested mainly in male germ cell tumors without encouraging results.
+relevance_to_jgct: Contemporary review whose JGCT content is the molecular profile (AKT1, GNAS, IDH in Ollier/Maffucci, low FOXL2) and the statement that no JGCT-specific targeted therapy data exist. No patient-level JGCT data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: All JGCT frequencies are cited from other studies (small cohorts of 16 and 30). The review's Table 1 and text on AKT1 differ slightly in wording (about 60% vs over 60%).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

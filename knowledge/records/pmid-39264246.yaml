@@ -3,38 +3,39 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/39264246/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC11705613
 language: en
 pmid: '39264246'
 doi: 10.1158/1078-0432.CCR-24-1098
+pmcid: PMC11705613
 title: Update on Recommendations for Cancer Screening and Surveillance in Children with Genomic Instability Disorders.
-journal: 'Clinical cancer research : an official journal of the American Association for Cancer Research'
+journal: Clinical cancer research
 year: 2024
 first_author: Nakano Y
 study_type: review
 tumor_site: both
-n_jgct_patients: null
+n_jgct_patients: 2
 age_range: null
 alterations:
-- gene: MAD2L1BP
-  alteration: biallelic germline mutation
-  frequency: 2 siblings
-  notes: cited from primary report pmid-37796616
+- gene: MAD2L1B (as printed; spindle assembly checkpoint gene)
+  alteration: biallelic germline variants causing mosaic variegated aneuploidy (MVA) in two consanguineous siblings
+  frequency: 2 siblings with JGCT (ovary and testis); a third unrelated affected individual had no cancer
+  notes: Review states other genetic risk factors in the siblings cannot be excluded (cited report, ref 84)
 treatments: []
 presentation: []
 key_findings:
-- AACR 2023 Childhood Cancer Predisposition Workshop review of genomic instability disorders including mosaic variegated aneuploidy (MVA).
-- Genes reported to cause MVA include BUB1B, CEP57, TRIP13 and more recently CENATAC, SLF2, SMC5 and MAD2L1B.
-- The two reported siblings of consanguineous parents with biallelic mutations in MAD2l1B developed juvenile granulosa cell tumors of the ovary and testis, respectively.
-- A third unrelated affected individual did not develop cancer, and other (modifying) genetic cancer risk factors in the siblings cannot be excluded.
-- A convincing increased childhood cancer risk is described only for MVA1 and MVA3.
-relevance_to_jgct: Expert-workshop review that cites the MAD2L1BP sibling JGCT report and frames the association cautiously.
+- This is a review of the 2023 AACR Childhood Cancer Predisposition Workshop update on cancer screening and surveillance for children with recessive genomic instability disorders (ataxia telangiectasia, Nijmegen breakage syndrome, Bloom syndrome, Rothmund-Thomson syndrome, telomere biology disorders, Fanconi anemia, xeroderma pigmentosum, mosaic variegated aneuploidy); it is not specific to JGCT.
+- 'The only JGCT-specific statement is in the mosaic variegated aneuploidy section: two siblings of consanguineous parents with biallelic mutations in MAD2L1B (as printed in the text) developed juvenile granulosa cell tumors of the ovary and testis, respectively, while a third unrelated affected individual did not develop cancer and other modifying genetic cancer risk factors in the siblings cannot be excluded.'
+- For MVA the review reports a convincing childhood cancer risk only for MVA1 (BUB1B; Wilms tumor, rhabdomyosarcoma, MDS/AML/ALL) and MVA3 (TRIP13; predominantly Wilms tumor); none of 15 individuals with MVA2 (CEP57) described in the literature developed cancer.
+- The recommendation for MVA is awareness of tumor signs and renal ultrasound every 3 months from birth to age 7 (supporting SIOP-Europe Host Genome Working Group recommendations) with regular clinical review for rhabdomyosarcoma; no JGCT-specific surveillance is recommended.
+- For xeroderma pigmentosum the review lists skin, oral, ocular, central nervous system and hematological malignancies (AML risk with XPC variants) and recommends dermatological exam every 3 months and ophthalmologic and oral exam at least twice yearly; it does not mention JGCT in the XP section.
+- The review states that heterozygous carriers of recessive genomic-instability genes are not recommended for childhood surveillance.
+relevance_to_jgct: Points to biallelic MAD2L1B-related mosaic variegated aneuploidy as a possible rare predisposition associated with JGCT in two siblings (ovary and testis); evidence is a single sibling pair, and the review makes no JGCT-specific surveillance recommendation.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC11705613). JGCT content is a single passage citing the primary report (pmid-37796616). Text spells the gene 'MAD2L1B'/'MAD2l1B'; primary report uses MAD2L1BP.
-confidence: 3
+notes: 'JGCT is mentioned once in the full text. The gene is printed ''MAD2L1B'' in the text (MAD2L1BP is the official symbol of the gene encoding p31comet; this is a point for the reviewer to verify against the cited source, not stated in this review). Related XP-associated JGCT case: pmid-41035579 (the XP section of this review does not mention it).'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

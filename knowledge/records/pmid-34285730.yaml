@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/34285730/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC8278142
 language: en
 pmid: '34285730'
 doi: 10.1016/j.radcr.2021.06.006
+pmcid: PMC8278142
 title: Juvenile granulosa cell tumor diagnosed in 6-month-old infant with precocious puberty.
 journal: Radiology case reports
 year: 2021
@@ -17,24 +18,26 @@ n_jgct_patients: 1
 age_range: 6 months
 alterations: []
 treatments:
-- regimen: surgical resection (left ovarian mass)
-  setting: primary
+- regimen: Left oophorectomy with surgical staging and peritoneal washings (left fallopian tube spared)
+  setting: primary surgery
   n: 1
-  outcome: not reported in abstract
+  outcome: Histology JGCT; peritoneal washings negative; no follow-up reported
 presentation:
-- precocious puberty
-- mixed cystic-solid pelvic mass
+- 'precocious puberty since birth: breast buds Tanner II, pubic hair Tanner III, axillary hair, vaginal discharge, acne'
+- accelerated growth (weight and length >99th percentile)
 key_findings:
-- 6-month-old female with precocious puberty.
-- Large mixed cystic and solid mass with internal solid enhancement and restricted diffusion, arising from the left ovary at surgery.
-- Histopathology confirmed JGCT; includes literature review of imaging characteristics.
-relevance_to_jgct: Infant JGCT with imaging description.
+- 6-month-old girl referred for precocious puberty with breast buds, hyperpigmented areolas, axillary hair, Tanner III pubic hair, vaginal discharge, and acne.
+- Estradiol 668 pg/mL (normal <=25), estrone 36 pg/mL (normal <15), testosterone 90.51 ng/dL (normal 1.2-62.0), LDH 1107.0 U/L (normal 163-452).
+- 'Ultrasound: heterogeneous cystic and solid adnexal mass 9.0 x 7.5 x 5.5 cm with internal vascularity; post-pubertal uterus and thickened endometrium. MRI: mixed cystic and solid lesion 9.4 x 5.2 x 8.0 cm with enhancing solid component showing restricted diffusion.'
+- Intraoperatively the mass arose from the left ovary (although imaging had placed it in the right lower quadrant and left ovary was not visualized); left oophorectomy with staging was done, and peritoneal washings were negative.
+- Histology of the solid component was JGCT; the cystic component was edematous ovarian tissue, which the authors hypothesize reflects estrogen stimulation akin to ovarian hyperstimulation syndrome or hyperreactio luteinalis.
+- 'Literature statements by the authors: JGCT are about 3%-7% of ovarian neoplasms, about 82% of prepubertal patients present with precocious puberty, more than 90% are FIGO stage I at diagnosis, and stage I disease responds well to unilateral salpingo-oophorectomy.'
+relevance_to_jgct: Infantile JGCT with marked estrogen excess; documents imaging features and an edematous-ovary hypothesis for the cystic component.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC8278142 not read). An erratum exists (pmid:39022116, PMC466968); its OA text contained only a patient-consent statement, suggesting the correction added that statement.
-confidence: 2
+notes: Text says left oophorectomy with a large mass in the right lower quadrant on MRI, with uterus deviated to the right; no outcome or follow-up duration reported. No IHC or molecular data reported.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

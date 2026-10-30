@@ -1,0 +1,45 @@
+source_id: '22964636'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/22964636/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3525720
+language: en
+pmid: '22964636'
+doi: 10.1038/onc.2012.392
+pmcid: PMC3525720
+title: BMP-specific SMADs function as novel repressors of PDGFA and modulate its expression in ovarian granulosa cells and tumors.
+journal: Oncogene
+year: 2013
+first_author: Tripurani SK
+study_type: other
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: null
+alterations:
+- gene: PDGFA / PDGFRA / PDGFRB
+  alteration: mRNA expression (RT-PCR)
+  frequency: expressed in 75% (3 of 4) human JGCTs
+  notes: PDGFB not expressed in JGCT samples
+- gene: SMAD1/SMAD5
+  alteration: low expression in COV434 vs HEK293T; knockdown raises PDGFA
+  frequency: null
+  notes: mouse Smad1/5 dKO model phenocopies human JGCT
+treatments: []
+presentation: []
+key_findings:
+- Laboratory study (mouse granulosa cells, Smad1/5 double conditional knockout tumors, human COV434 cell line, four archived human JGCT samples from Texas Children's Hospital tissue bank). Not a clinical study.
+- In Smad1/5 dKO mouse tumors and peritoneal metastases, qPCR showed significant upregulation of Pdgfa, Pdgfb and Vegfa, but not Vegfb, versus wild-type granulosa cells; the model develops highly vascularized, hemorrhagic, metastatic tumors resembling human JGCT.
+- Knockdown of SMAD1 and SMAD5 raised PDGFA, but not PDGFB or VEGF, in mouse granulosa cells and in COV434 (a juvenile human granulosa cell tumor-derived line; about 2-fold PDGFA increase); the effect did not depend on BMP receptor signaling (dorsomorphin plus BMP7 did not change Pdgfa).
+- ChIP showed SMAD1/5 binding to the proximal human PDGFA promoter (three-fold enrichment); reporter assays showed SMAD1/5 repress promoter activity and antagonize Sp1 by reducing Sp1 occupancy; mutating the SMAD1/5 site abolished repression. Two-hybrid assays showed no direct SMAD1/5-Sp1 interaction.
+- In four human JGCTs (T1-T4), PDGFA, PDGFRA and PDGFRB transcripts were detected in 75% and PDGFB was not expressed; most tumors expressed BMP receptors, ligands (BMP4, BMP7) and SMAD1/SMAD5 transcripts, though functional status was unknown.
+- The authors propose that PDGFA upregulation after BR-SMAD loss is an early step in JGCT development and suggest PDGF pathway expression could make JGCT or its recurrences a candidate for tyrosine kinase inhibitor treatment; this is speculation with no treatment data.
+relevance_to_jgct: Mechanistic evidence on BMP/SMAD1/5 loss and PDGFA in a mouse model resembling JGCT and in 4 human JGCT specimens; no clinical outcomes.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Preclinical. The four human JGCT samples (RT-PCR only) are the only patient material; the 75% figure is 3/4. Journal, first author and DOI are not stated in the fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

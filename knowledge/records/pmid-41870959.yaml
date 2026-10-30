@@ -1,0 +1,40 @@
+source_id: '41870959'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41870959/
+retrieved_on: '2026-10-30'
+full_text_source: PMC13093285
+language: en
+pmid: '41870959'
+doi: 10.1002/2056-4538.70087
+pmcid: PMC13093285
+title: 'Folate receptor alpha (FRα) expression in tubo-ovarian and endometrial tumors: a study of 923 cases.'
+journal: The journal of pathology. Clinical research
+year: 2026
+first_author: Töltési I
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: null
+alterations:
+- gene: FOLR1 (FRalpha protein)
+  alteration: immunohistochemistry, VENTANA FOLR1 CDx (positive = 2+/3+ in >=75% tumor cells)
+  frequency: JGCT 0/4 positive; adult GCT 0/249; Sertoli-Leydig 0/35; fibroma/thecoma 0/50
+  notes: H-score 0 in all four JGCTs
+treatments: []
+presentation: []
+key_findings:
+- 'Tissue-microarray immunohistochemistry study of 923 tubo-ovarian and endometrial tumors (796 tubo-ovarian, 127 endometrial) with the VENTANA FOLR1 CDx assay; sex cord-stromal tumors numbered 338: 249 adult GCT, 4 JGCT, 35 Sertoli-Leydig tumors and 50 fibromas/thecomas.'
+- All 4 JGCTs were FRalpha negative (0/4; range and H-score 0). All other sex cord-stromal tumors were also negative (AGCT 0/249, SLT 0/35, F/T 0/50).
+- 'FRalpha positivity was highest in serous tumors: HGSC 47/104 (45%), LGSC 22/87 (25%), endometrial serous carcinoma 3/27 (11%), serous borderline tumor 3/30 (10%); endometrioid 1/47 and clear cell 1/86 ovarian carcinomas positive; mucinous tumors negative.'
+- The authors state that sex cord-stromal tumors were analyzed for the first time in this series and that FRalpha-targeted therapy (mirvetuximab soravtansine, approved for platinum-resistant HGSC) has only been studied in HGSC; no role for it in JGCT is shown.
+relevance_to_jgct: 'Minor: negative FRalpha immunohistochemistry in 4 JGCTs within a large series that is otherwise about epithelial tumors; no clinical data for the JGCT cases.'
+conflicts_with: []
+overlaps_with:
+- pmid-39215355
+superseded_by: null
+retracted: false
+notes: Publication year taken from the PMC ID range and the study text (R version dated 2025-06-13); the fetched text does not show the year, so 2026 is an inference. Four JGCTs only; no clinical data. Journal, first author and DOI not stated in the fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

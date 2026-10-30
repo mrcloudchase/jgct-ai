@@ -3,12 +3,13 @@ source_type: url
 source_tier: database
 source_url: https://www.ncbi.nlm.nih.gov/books/NBK196157/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: https://www.ncbi.nlm.nih.gov/sites/books/NBK196157/
 language: en
-pmid: '24761742'
+pmid: null
 doi: null
+pmcid: null
 title: DICER1-Related Tumor Predisposition (GeneReviews, NBK196157)
-journal: GeneReviews (University of Washington, Seattle)
+journal: GeneReviews (NCBI Bookshelf)
 year: 2026
 first_author: Schultz KAP
 study_type: database_entry
@@ -17,32 +18,40 @@ n_jgct_patients: null
 age_range: null
 alterations:
 - gene: DICER1
-  alteration: germline or somatic (biallelic) pathogenic variants
-  frequency: rare in JGCT (qualitative)
-  notes: Chapter states JGCT, especially anaplastic, may be associated with DICER1
-treatments: []
+  alteration: germline loss-of-function pathogenic variant plus somatic RNase IIIb hot-spot missense variant (codons 1705, 1709, 1713, 1809, 1810, 1813)
+  frequency: JGCT is stated to be rarely associated with DICER1 (Table 2); up to 60% of SLCT or gynandroblastoma have DICER1
+  notes: JuvGCT, especially anaplastic juvGCT, may be associated with DICER1; sporadic juvenile granulosa cell tumor frequently contains biallelic somatic DICER1 variants not in the germline
+- gene: FOXL2
+  alteration: not detected in well-differentiated SLCT (stated alongside DICER1)
+  frequency: null
+  notes: Mentioned only for well-differentiated SLCT, not JGCT
+treatments:
+- regimen: Surgery with staging (usually unilateral salpingo-oophorectomy, peritoneal washings, avoid rupture); fertility-sparing for most; adjuvant platinum-based chemotherapy by histology and stage
+  setting: ovarian sex cord-stromal tumors incl. juvGCT
+  n: null
+  outcome: 'Consensus (EXPeRT/PARTNER): adjuvant chemotherapy for juvGCT higher than stage IC1; for SLCT higher than stage IA; PEB/BEP and PEI most common in children; some adults received paclitaxel/carboplatin'
 presentation:
-- abdominal pain
-- abdominal distention or mass
-- precocious puberty
-- secondary amenorrhea
-- virilization
+- 'Juvenile granulosa cell tumor: abdominal pain, distention or mass'
+- precocious puberty, secondary amenorrhea or virilization
+- inhibin A, inhibin B, CA125 and testosterone may be raised; AFP rarely raised (typically <500 ng/mL in sex cord-stromal tumors)
 key_findings:
-- Clinical features table lists, under female reproductive tract, 'Ovarian sex cord-stromal tumors (e.g., Sertoli-Leydig cell tumor [moderately and poorly differentiated], gynandroblastoma, juvenile granulosa cell tumor [especially if anaplasia and/or high mitotic index])' as features suggestive of DICER1-related tumor predisposition.
-- 'Penetrance table: ovarian sex cord-stromal tumors ~10%; ''Up to 60% of persons w/SLCT or gynandroblastoma have DICER1. Juvenile granulosa cell tumor is rarely assoc w/DICER1.'''
-- '''JuvGCT, especially anaplastic juvGCT, may be associated with DICER1.'' Presentation may include abdominal pain, distention or mass; precocious puberty, secondary amenorrhea, or virilization; markers variable (inhibin A, inhibin B, CA125, testosterone); inhibin B may be elevated at diagnosis and with recurrence.'
-- '''JuvGCT generally have a favorable prognosis if identified at stage 1A or 1C1, though high mitotic index, anaplastic features, or higher-stage tumors are associated with a worse prognosis.'''
-- '''The World Health Organization (WHO) classifies juvGCT as having borderline malignant potential. However, malignant behavior has been described in older children and adolescents and those with higher-stage tumors or tumors with higher mitotic index.'''
-- 'Management section: EXPeRT/PARTNER consensus ''suggest adjuvant chemotherapy for all children and adolescents with higher than stage IC1 disease''; ''High mitotic index (MI >=20 per 10 high power field) is a strong predictor of worse prognosis''; adjuvant chemotherapy for high MI but low-stage disease ''could be considered on an individual basis.'''
-- Sporadic juvenile granulosa cell tumor (and other DICER1-spectrum tumors) occurring alone 'frequently contain biallelic somatic pathogenic variants in DICER1 that may not be present in the germline'; JGCT 'rarely' may secrete AFP, typically <500 ng/mL with sex cord-stromal tumors.
-- 'Surveillance in DICER1 carriers: pelvic ultrasound for gynecologic tumors in females every six months until at least age 40 years; pelvic ultrasound described as more sensitive than biochemical surveillance.'
-relevance_to_jgct: Expert-authored, peer-reviewed NCBI GeneReviews chapter (Schultz KAP et al., International PPB/DICER1 and OTST Registries) placing JGCT within the DICER1 tumor spectrum as a rare association, stronger for anaplastic or high-mitotic-index JGCT, and restating EXPeRT/PARTNER adjuvant-therapy thresholds.
+- GeneReviews chapter (initial posting 2014-04-24, last update 2026-03-25) on DICER1-related tumor predisposition; more than 1,500 individuals with a germline DICER1 pathogenic variant identified from literature and unpublished International PPB/DICER1 Registry and NIH Natural History Study data; population prevalence estimated at 1 in 6,099 to 8,416.
+- Juvenile granulosa cell tumor (juvGCT) is listed among ovarian sex cord-stromal tumors that should prompt DICER1 consideration, 'especially if anaplasia and/or high mitotic index'; Table 2 states 'Juvenile granulosa cell tumor is rarely assoc w/DICER1', whereas about 10% of DICER1 carriers develop ovarian sex cord-stromal tumors and up to 60% of persons with SLCT or gynandroblastoma have DICER1.
+- 'JuvGCT, especially anaplastic juvGCT, ''may be associated with DICER1'' (Baillard 2021, Onder 2021, Boyraz 2026 cited). Presentation: abdominal pain, distention or mass; precocious puberty, secondary amenorrhea or virilization; markers variable (inhibin A, inhibin B, CA125, testosterone); inhibin B may be elevated at diagnosis and at recurrence.'
+- 'Prognosis of juvGCT: generally favorable at stage 1A or 1C1; high mitotic index, anaplastic features or higher stage are associated with worse prognosis; WHO classifies juvGCT as borderline malignant potential, but malignant behavior is described in older children, adolescents and those with higher-stage or higher mitotic index tumors.'
+- 'Treatment: surgical resection with staging per modified FIGO (NCCN); no formal lymph node dissection of normal-appearing nodes; fertility-sparing surgery recommended for most girls and young women; avoid tumor rupture (timing of rupture should be documented). Treatment regimens were mainly studied in granulosa cell tumors and are usually platinum-based; clinical trials are lacking.'
+- 'EXPeRT/PARTNER consensus (Schneider 2021) as summarized: adjuvant chemotherapy for all children and adolescents with juvGCT higher than stage IC1; high mitotic index (MI >=20 per 10 high-power fields) strongly predicts worse prognosis and recurrence in low-stage high-MI cases has been reported, so adjuvant chemotherapy for high MI but low stage may be considered individually.'
+- 'Preoperative work-up when an ovarian sex cord-stromal tumor is suspected: testosterone, AFP, inhibin A and B, estradiol to find a usable tumor marker; abdominopelvic CT or MRI; baseline chest CT reasonable. SLCT and rarely juvGCT may secrete AFP, leading to consideration of immature teratoma or yolk sac tumor; markers may or may not be elevated at recurrence.'
+- Gynandroblastoma usually has both SLCT and juvGCT components; gynandroblastoma with SLCT and follicular differentiation mimicking juvGCT is considered better classified as SLCT and is associated with DICER1.
+- 'Surveillance for DICER1 carriers (female reproductive tract incl. juvGCT): symptom review every 6 months or at each visit and pelvic ultrasound every 6 months from diagnosis until at least age 40 years (95% of SLCT diagnosed before 40; shared decision after 40); pelvic ultrasound judged more sensitive than biochemical surveillance. Other schedules: chest radiograph, chest CT at 3 and 30 months, thyroid US every 3 years from age 8, abdominal US every 6 months to age 8 then annually to 12.'
+- 'Testing: DICER1 diagnosis requires a heterozygous germline pathogenic/likely pathogenic variant (sequence analysis detects >90%, deletion/duplication analysis <10%); tumor tissue testing for somatic DICER1 variants may suggest a germline variant but biallelic somatic variants have been found without germline variants; about 10% of de novo carriers are mosaic. Cascade testing of first-degree relatives recommended; newborns of at-risk families tested before 4 months.'
+- 'Penetrance is reduced and age dependent: in 102 non-proband carriers 5.3% had a neoplasm by age 10 years and 19.3% by age 50 (females 26.5%, males 10.2%). Ovarian sex cord-stromal tumors present most often in the reproductive years (95% before age 40). Contralateral metachronous SLCT reported in nearly 20% at ten years in DICER1-related SLCT.'
+relevance_to_jgct: Authoritative clinical-genetics chapter placing JGCT within the DICER1 spectrum as a rare and mainly anaplastic or high-mitotic-index association, and giving DICER1 testing, pelvic ultrasound surveillance and adjuvant chemotherapy thresholds relevant to JGCT.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Bookshelf HTML is behind a reCAPTCHA for curl; full chapter text obtained verbatim from the NCBI literature archive (https://ftp.ncbi.nlm.nih.gov/pub/litarch/ca/84/gene_NBK1116.tar.gz, member gene_NBK1116/pp-blastoma.nxml). Chapter initial posting 2014-04-24, last update 2026-03-25 (nxml pub-history); PubMed PMID 24761742 (book record). Summary also cross-checked against the PubMed efetch abstract. Citation markers in the text were stripped, so the cited primary sources are not linked here. The DICER1 association of JGCT stated here is qualitative ('rarely'); see pmid records on DICER1 in JGCT for numbers.
-confidence: 4
+notes: Read via the NCBI /sites/books/ mirror because the standard Bookshelf URL returned a reCAPTCHA challenge. Chapter cites Harris 2025, Schneider 2025 and Boyraz 2026 for JGCT outcome; those articles were not read for this record. Management is mostly about DICER1-related tumors (PPB etc.); only the JGCT/sex cord-stromal parts are captured here.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

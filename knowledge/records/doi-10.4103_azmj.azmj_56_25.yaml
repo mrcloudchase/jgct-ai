@@ -1,0 +1,36 @@
+source_id: 10.4103/azmj.azmj_56_25
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.4103/azmj.azmj_56_25
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ovid.com/jnls/aamj/fulltext/10.4103/azmj.azmj_56_25~diagnostic-accuracy-of-ultrasound-and-tumors-markers-in
+language: en
+pmid: null
+doi: 10.4103/azmj.azmj_56_25
+pmcid: null
+title: Diagnostic accuracy of ultrasound and tumors markers in diagnosis of complex ovarian cysts in adolescent, histopathological correlation
+journal: Al-Azhar Assiut Medical Journal
+year: 2025
+first_author: El saedy EKH
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: Series mean age 18.9 +/- 1.3 years
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Prospective cohort of 300 patients (described as adolescents; mean age 18.9 +/- 1.3 years, 83.3% married) with ovarian cysts at Al-Azhar University Hospital (Assiut); 252 (84%) simple and 48 (16%) complex cysts on ultrasound, mean size 8.42 +/- 2.87 cm.
+- Histopathology of the complex cysts included 27 dermoid cysts, 7 endometriomas, 8 serous cystadenomas, 3 mucinous cystadenomas, 2 immature teratomas and 1 juvenile granulosa cell tumor (2% of the complex cysts).
+- The single JGCT was detected by ultrasound and by tumor markers (reported detection 1/1, 100%); no clinical details, stage, treatment or outcome of this patient are given.
+- 'Overall ultrasound sensitivity and specificity were 87% and 84% in the text (Table 6: 87% and 79.5%), tumor markers 84% and 80%, combined ultrasound plus markers sensitivity 89.6% and specificity 83.3%.'
+- Markers measured included beta-hCG, LDH, CA-125, AFP, inhibin, estrogen and testosterone; the authors conclude that ultrasound is the first-line tool and that adding tumor markers helps exclude malignancy.
+relevance_to_jgct: Marginal. Diagnostic-accuracy study of ovarian cysts in young women in which one JGCT is counted among 48 complex cysts; no patient-level JGCT data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Internal inconsistencies: specificity of ultrasound 84% (text/abstract) vs 79.5% (Table 6); symptom table is for N=48 not 300; the cohort is called adolescent but mean age is 18.9 years with 83.3% married. The paper''s background states juvenile granulosa cell tumor is about 50% of malignant sex cord-stromal cancers in this age group (cited, not derived from the study data). Full text read from the Ovid page (full_text_source is that URL).'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

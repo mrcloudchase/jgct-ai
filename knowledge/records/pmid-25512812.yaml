@@ -1,0 +1,37 @@
+source_id: '25512812'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25512812/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4265712
+language: en
+pmid: '25512812'
+doi: 10.4111/kju.2014.55.12.789
+pmcid: PMC4265712
+title: Overview of pediatric testicular tumors in Korea.
+journal: Korean journal of urology
+year: 2014
+first_author: Chung JM
+study_type: review
+tumor_site: testis
+n_jgct_patients: null
+age_range: Almost only in the first year of life, most in the first 6 months (per review)
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Narrative review of pediatric testicular tumors with Korean registry data (studies of 2004 and 2011); incidence 1.6 (0.5 to 2) per 100,000 boys under 15 and 0.98 per 100,000 children in Korea.
+- Gonadal stromal tumors are stated to be rare in children; Leydig cell tumors and juvenile granulosa cell tumors are described as universally benign in children.
+- JGCT (testicular) occurs almost only in the first year of life, most in the first 6 months; light microscopy resembles ovarian JGCT; chromosomal mosaicism, structural Y-chromosome abnormalities and ambiguous genitalia are common, so chromosomal analysis is advised.
+- The review states JGCT may be treated by orchiectomy or tumor enucleation without metastatic evaluation or adjuvant therapy.
+- In the Korean registries germ cell tumors were 88.7% (1997-2001; yolk sac 41.8%, teratoma 35.7%) and 79.1% (2002-2008; yolk sac 29.4%, teratoma 39.2%); about 75% of prepubertal testicular tumors are benign.
+- Testis-sparing surgery is advocated for benign tumors with normal AFP; RPLND and radiotherapy play very limited roles.
+relevance_to_jgct: Pediatric testicular tumor review; only a short statement on testicular JGCT, with no JGCT patient counts.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Review; JGCT statements are citations of earlier work (Ross and Kay, Shukla and others). Authors and journal not stated in the retrieved text. The text itself is internally inconsistent about whether about 75% of prepubertal tumors are malignant or benign (it cites one report of 75% malignant versus recent reports of about 75% benign).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

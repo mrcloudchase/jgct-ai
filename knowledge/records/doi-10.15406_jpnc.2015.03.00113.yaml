@@ -1,0 +1,45 @@
+source_id: 10.15406/jpnc.2015.03.00113
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.15406/jpnc.2015.03.00113
+retrieved_on: '2026-10-30'
+full_text_source: https://medcraveonline.com/JPNC/JPNC-03-00113.pdf
+language: en
+pmid: null
+doi: 10.15406/jpnc.2015.03.00113
+pmcid: null
+title: Ascites as a Sole Presentation of Juvenile Granulosa Cell Tumor
+journal: Journal of Pediatrics and Neonatal Care
+year: 2015
+first_author: Dhaiban M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 2 years
+alterations: []
+treatments:
+- regimen: Exploratory laparotomy, drainage of 1 L ascites, left salpingo-oophorectomy; no adjuvant therapy
+  setting: FIGO stage IA
+  n: 1
+  outcome: well at 3 months; urinary retention resolved; long-term follow-up planned
+presentation:
+- 2 months of urinary retention, painful micturition, abdominal distention with mild pain
+- massive ascites with positive fluid thrill and shifting dullness
+- no precocious puberty (normal breast and genitalia)
+key_findings:
+- 2-year-old girl (consanguineous parents; two earlier siblings died at 3 months and 2 years of unknown causes) with 2 months of urinary retention and gradual abdominal distention; no signs of precocious puberty.
+- 'Ultrasound: 11.5 x 6.7 cm mixed solid-cystic pelvic mass with gross ascites; CT: heterogeneous solid-cystic mass (11 x 8.1 x 7.5 cm) arising from the left adnexa without calcification, ascites, no lymphadenopathy. AFP and beta-hCG normal.'
+- Left salpingo-oophorectomy with 1 L ascites drained; ascitic fluid cytology negative for malignant cells; tumor 1.3 kg, capsule intact; staged FIGO IA; bone scan and chest radiograph normal.
+- 'Histology: diffuse sheets and macrofollicular pattern, polygonal cells, atypical nuclei without grooves, mitoses more than 10/10 HPF, focal luteinization, consistent with JGCT; IHC positive for inhibin and CD99, negative for EMA, CD117 and AFP.'
+- 'Outcome: well at 3 months; no adjuvant chemotherapy given; long-term follow-up planned because of late recurrence risk.'
+- Authors claim this is the first reported JGCT stage IA with massive ascites and tumor-cell-negative ascitic fluid; they note ascites occurs in about 10% of JGCT, usually with advanced stage or rupture, and cite another case (age 13, stage IC) with massive ascites.
+- Authors state (citing literature) that JGCT is about 5% of granulosa cell tumors, stage IA is treated by unilateral salpingo-oophorectomy alone, 5-year survival is up to 90% for stage IA, and late recurrence requires lifelong follow-up.
+relevance_to_jgct: Case of pediatric JGCT presenting with massive ascites and urinary retention rather than precocious puberty, stage IA, with IHC.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Follow-up is only 3 months. The 'first case in literature' claim is the authors' own. Cited literature statements (survival, ascites frequency) are background, not data from this patient. Pakistani case; the reference to Ashnagar et al. concerns a separate case (not overlapping).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

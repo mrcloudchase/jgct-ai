@@ -1,0 +1,45 @@
+source_id: '28652991'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/28652991/
+retrieved_on: '2026-10-30'
+full_text_source: PMC5470563
+language: en
+pmid: '28652991'
+doi: 10.4322/acr.2014.006
+pmcid: PMC5470563
+title: Granulosa cell tumor of the testis in a newborn.
+journal: Autopsy and Case Reports
+year: 2014
+first_author: Claros OR
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: newborn (21 hours at surgery)
+alterations: []
+treatments:
+- regimen: Right inguinal orchiectomy at 21 hours of age
+  setting: primary surgery
+  n: 1
+  outcome: no evidence of disease or testicular/scrotal complaints at 4 years
+presentation:
+- enlarged, irregular, asymmetric right testis found at first neonatal examination
+- no endocrine features
+- left testis descended, normal external genitalia
+key_findings:
+- A term (40 weeks, 3040 g) newborn boy had an enlarged right testis at the first post-delivery examination; ultrasound showed a heterogeneous solid mass without retroperitoneal lymphadenopathy.
+- Serum AFP was 97,819 ng/mL (considered within the normal range for gestational age and birth weight) and total hCG was 31.4 mIU/mL (reference <5), the mild hCG elevation being interpreted by the authors as a false positive.
+- 'Right inguinal orchiectomy at 21 hours of age: a 3.0 x 2.0 x 1.5 cm solid, light-brown, sharply defined tumor replacing most of the testicular parenchyma with focal follicle-like cysts; epididymis and rete testis displaced but not involved; no necrosis, no invasion of tunica albuginea, nerves or vessels; margins free.'
+- 'Histology showed lobulated solid areas of large cells with hyperchromatic nuclei and visible nucleoli, with frequent mitoses and apoptoses; IHC: diffuse vimentin, focal calretinin and inhibin positive; negative for beta-hCG, AFP and cytokeratins, which excluded yolk sac tumor (the main differential).'
+- Follow-up at 4 years showed a healthy child with no testicular or scrotal complaints; no adjuvant therapy was given.
+- 'Literature statements cited by the authors: JGCT is 1.2% of prepubertal testis tumors and the most common testicular neoplasm in the first 6 months of life; 48 cases had been compiled up to 2002; Y-chromosome abnormalities in about 20% of cases; clinical features are an asymptomatic mass without endocrine signs; orchiectomy is the treatment of choice and testis-sparing enucleation is possible after frozen section.'
+- The authors regard testicular JGCT as universally benign with an excellent prognosis and consider AFP and hCG useless as tumor markers for it.
+relevance_to_jgct: Case report of congenital testicular JGCT with IHC profile, marker values and 4-year follow-up after orchiectomy alone.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Authors call JGCT 'universally benign' (their statement, supported only by one case plus literature). Stage and karyotype not reported.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

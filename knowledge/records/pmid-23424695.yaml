@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/23424695/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC3570947
 language: en
 pmid: '23424695'
 doi: 10.1155/2013/386725
+pmcid: PMC3570947
 title: 'Massive ascites as the only sign of ovarian juvenile granulosa cell tumor in an adolescent: a case report and a review of the literature.'
 journal: Case reports in oncological medicine
 year: 2013
@@ -17,28 +18,28 @@ n_jgct_patients: 1
 age_range: 13 years
 alterations: []
 treatments:
-- regimen: left salpingo-oophorectomy + omentectomy, then 4 cycles carboplatin, bleomycin, etoposide, vinblastine
-  setting: primary, stage IC with residual tumor
+- regimen: Left salpingo-oophorectomy and bilateral omentectomy, then 4 cycles of adjuvant chemotherapy (text names carboplatin, bleomycin, etoposide, vinblastine; discussion says '4 courses of ICE')
+  setting: primary surgery plus adjuvant for residual tumor on postoperative imaging and raised postoperative inhibin
   n: 1
-  outcome: complete remission at 18 months
+  outcome: Complete remission without residual tumor at 18-month follow-up; normal imaging after chemotherapy started
 presentation:
-- massive ascites
-- abdominal distention
-- elevated inhibin
+- progressive painless abdominal distension for about 2 months
+- massive ascites (about 10 L transudate evacuated)
+- premenarchal; no precocious puberty
 key_findings:
-- 13-year-old premenarchal girl with progressive painless abdominal distention for about two months and massive ascites.
-- CT showed a multiseptated cystic left ovarian mass; beta-hCG, AFP, CEA, CA 19-9 and CA-125 normal; about 10 liters of transudate ascites evacuated; cytology negative.
-- Left salpingo-oophorectomy and omentectomy; immunohistochemistry positive for calretinin, inhibin and CD99; FIGO stage IC.
-- Serum inhibin was not measured before surgery; it was increased when measured immediately after surgery; postoperative imaging showed residual pelvic tumor.
-- Four cycles of adjuvant carboplatin, bleomycin, etoposide and vinblastine; complete remission at 18-month follow-up.
-- Menarche began shortly after surgery.
-relevance_to_jgct: Reports massive ascites as the only manifestation of JGCT and onset of menarche after tumor removal.
+- 13-year-old premenarchal girl with 2 months of progressive painless abdominal distension and massive ascites as the only manifestation; no signs of hormonal excess.
+- 'Ultrasound: cystic lesion with few septations 70 x 64 mm arising from the left adnexa, right ovary also enlarged with a 36 mm cystic lesion; CT: multilocular thick-walled cystic mass from left ovary with large ascites.'
+- beta-hCG, AFP, CEA, CA 19-9 and CA-125 were normal; inhibin was not measured preoperatively but was increased immediately after surgery.
+- 'Surgery: left salpingo-oophorectomy and bilateral omentectomy; about 10 L of transudate ascites evacuated, ascitic cytology negative. Tumor 9 x 5 x 3.5 cm, multilocular cystic with papillary projections.'
+- 'Histology: JGCT with ovoid and polygonal pale cells, irregular follicles, pseudopapillary projections; IHC positive for calretinin, inhibin and CD99. Chest CT and bone survey unremarkable. Staged FIGO IC (surface projections; negative ascitic cytology).'
+- Because of residual tumor on postoperative imaging and inhibin level, 4 cycles of adjuvant chemotherapy were given; patient was in complete remission at 18 months. Menarche began about 10 days after surgery.
+- Authors state that to their knowledge massive ascites as the only clinical manifestation of JGCT had not been reported. They cite platinum-based chemotherapy response rates of 63% to 80% in advanced or recurrent disease and 5-year survival for stage I GCT above 90% (as low as 75% in some reports).
+relevance_to_jgct: Atypical JGCT presentation (massive ascites without hormonal signs) in an adolescent, with inhibin as a marker and 18-month remission after surgery plus 4 cycles of chemotherapy.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text via PMC3570947. The abstract says serum inhibin was increased; full text clarifies it was measured immediately after surgery, not before.
-confidence: 4
+notes: 'Internal inconsistency: the case text names carboplatin, bleomycin, etoposide, vinblastine whereas the discussion says ''ICE'' (4 courses). Stage IC assigned on surface projections although ascitic cytology was negative. Right ovary had a 36 mm cyst on ultrasound; its fate is not described.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

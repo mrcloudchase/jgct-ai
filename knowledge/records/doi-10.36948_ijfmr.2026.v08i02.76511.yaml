@@ -1,0 +1,45 @@
+source_id: 10.36948/ijfmr.2026.v08i02.76511
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.36948/ijfmr.2026.v08i02.76511
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ijfmr.com/papers/2026/2/76511.pdf
+language: en
+pmid: null
+doi: 10.36948/ijfmr.2026.v08i02.76511
+pmcid: null
+title: 'Adolescent Girl with a Left Adnexal Solid-Cystic Mass-Granulosa Cell Tumor: A Case Report'
+journal: International Journal for Multidisciplinary Research (IJFMR)
+year: 2026
+first_author: Rundla SR
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years
+alterations: []
+treatments:
+- regimen: Left salpingo-oophorectomy with peritoneal fluid sampling, pelvic lymph node sampling, omental biopsy, endometrial sampling
+  setting: primary, fertility-sparing
+  n: 1
+  outcome: FIGO stage IA; uneventful postoperative course; no adjuvant therapy described; follow-up duration not reported
+presentation:
+- one year of intermittent lower abdominal pain, worse over 2 months
+- firm non-tender left lower abdominal mass
+- no menstrual irregularity or hormonal symptoms
+- minimal ascites (about 50 mL)
+key_findings:
+- A 15-year-old girl had a year of intermittent lower abdominal pain and a firm, non-tender left lower abdominal mass; no menstrual irregularity or other hormonal symptoms.
+- Ultrasound and CECT showed an 8 x 10 cm heterogeneous solid-cystic left adnexal mass without peritoneal deposits, lymphadenopathy or significant ascites.
+- AFP, beta-hCG, LDH and CA-125 were normal; inhibin B and AMH were not measured.
+- At laparotomy about 50 mL of straw-colored ascitic fluid and an 8 x 10 cm left ovarian mass were found; frozen section suggested juvenile granulosa cell tumor.
+- Left salpingo-oophorectomy with staging procedures was done; final histopathology confirmed JGCT confined to the ovary, FIGO stage IA (follicle-like structures).
+- Recovery was uneventful; regular clinical, imaging and hormonal follow-up was advised. Authors conclude that GCT should be considered in adolescent adnexal masses even without hormonal symptoms or raised markers, and that fertility-sparing surgery gives excellent outcomes in early stage with prolonged follow-up needed.
+relevance_to_jgct: Adolescent stage IA JGCT presenting without endocrine symptoms and with normal conventional tumor markers.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Title says granulosa cell tumor; text and abstract specify juvenile type. No IHC reported, no follow-up interval given. Background survival figures (90-97% stage I) are cited from literature.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

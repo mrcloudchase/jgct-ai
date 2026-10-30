@@ -1,0 +1,44 @@
+source_id: '24304499'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24304499/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4176297
+language: en
+pmid: '24304499'
+doi: 10.1186/1757-2215-6-87
+pmcid: PMC4176297
+title: Clinicopathological spectrum of ovarian sex cord-stromal tumors; 20 years' retrospective study in a developing country.
+journal: Journal of ovarian research
+year: 2013
+first_author: Haroon S
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 24
+age_range: JGCT median age 19 years (series 1-92 years)
+alterations: []
+treatments:
+- regimen: 'Surgical specimens for JGCT (n=24): TAH-BSO 7, unilateral salpingo-oophorectomy 5, BSO 3, TAH-USO 5; no chemotherapy details given'
+  setting: surgery
+  n: 24
+  outcome: 'follow-up available for 11: 2 recurred (at 8 and 17 months) and 1 died of disease (at 7 months)'
+presentation:
+- 'in the whole SCST series: 7 patients with precocious puberty; JGCT-specific presentation not separated'
+- 'children: JGCT was the most frequent SCST'
+key_findings:
+- Single-center retrospective study (Aga Khan University Hospital, Karachi, 1992-2012) of 480 ovarian sex cord-stromal tumors (SCST); median age 45 years (range 1-92); 24 were juvenile granulosa cell tumors (5%) and 211 (43.9%) adult GCT.
+- 'JGCT: median age 19 years and mean tumor size 15 cm (Table 3); the authors state JGCT was the most frequent SCST in children and that JGCT were around 10% of all GCT in this series, higher than in other large series.'
+- IHC was done in 20 JGCTs and showed negative cytokeratins; across all GCT inhibin was positive in every case tested, calretinin about 90% and CD99 68% of the 163 tested adult/granulosa cases (JGCT split not given).
+- 'Follow-up of only 11 JGCT cases was available: 2 recurred after 8 and 17 months and one died of disease after 7 months.'
+- Authors note JGCT shows greater nuclear pleomorphism and mitotic activity than AGCT, and that cytokeratin negativity helps exclude epithelial malignancy.
+- 'In comparison, for adult GCT (follow-up available for 86): 5 late recurrences (18-52 months), 4 with metastasis, 2 deaths from AGCT (11 and 18 months); 13 AGCT had spread at presentation.'
+- Authors conclude SCSTs are uncommon with good prognosis in the Pakistani population, that IHC is needed to exclude epithelial tumors, and that follow-up data were missing for about half the patients (FOXL2 and SF-1 not available).
+relevance_to_jgct: Large histopathology series of ovarian SCSTs that contains 24 JGCTs with age, size, surgery type, cytokeratin IHC and limited follow-up (11 patients).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Sample is referral/second-opinion biased (the authors say). JGCT percent of GCT: 24/235 is about 10% as the authors write; that percentage was computed by the authors. JGCT follow-up is available for under half of patients so recurrence and death counts cannot be read as rates. Stage not given for JGCT.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

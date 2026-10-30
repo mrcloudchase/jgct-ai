@@ -3,12 +3,13 @@ source_type: url
 source_tier: conference_abstract
 source_url: https://doi.org/10.1055/s-0039-1685322
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: https://doi.org/10.1055/s-0039-1685322
 language: en
 pmid: null
 doi: 10.1055/s-0039-1685322
+pmcid: null
 title: Juvenile granulosa cell tumor
-journal: Asian Journal of Oncology
+journal: Asian Journal of Oncology (RGCON 2016 abstracts, 2(Suppl 1):S106-S107)
 year: 2016
 first_author: Tuteja G
 study_type: case_report
@@ -16,22 +17,26 @@ tumor_site: ovary
 n_jgct_patients: 1
 age_range: 1 year
 alterations: []
-treatments: []
+treatments:
+- regimen: Exploratory laparotomy with tumour resection
+  setting: 1-year-old with ovarian JGCT
+  n: 1
+  outcome: not reported; authors state adjuvant chemotherapy is not indicated in early-stage surgically treated disease
 presentation:
 - abdominal mass
 - vaginal discharge
-- precocious puberty
+- rapid onset of pubertal development (isosexual precocious puberty)
 key_findings:
-- One-year-old girl with abdominal mass, vaginal discharge and rapid onset of pubertal development (isosexual precocious puberty).
-- Exploratory laparotomy for tumour resection; pathology juvenile granulosa cell tumour of the ovary.
-- Authors state early-stage surgically treated granulosa cell tumor has good prognosis and adjuvant chemotherapy is not indicated in this setting.
-relevance_to_jgct: Brief infant JGCT case with precocious puberty.
+- Poster abstract (RGCON 2016, MMIMSR Ambala, India) reporting a rare cause of isosexual precocious puberty, ovarian juvenile granulosa cell tumour, with a brief literature review.
+- A one-year-old girl presented with abdominal mass, vaginal discharge and rapid onset of pubertal development; she underwent exploratory laparotomy with tumour resection and pathology reported juvenile granulosa cell tumour of the ovary.
+- Authors state that early-stage granulosa cell tumor treated surgically has a good prognosis and adjuvant chemotherapy is not indicated in this setting.
+- The abstract gives no hormone values, stage or follow-up.
+relevance_to_jgct: Infant JGCT with isosexual precocious puberty; surgery alone, as the authors recommend for early stage.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract reconstructed verbatim from OpenAlex abstract_inverted_index (W3128974657); OpenAlex types it conference-paper (Asian Journal of Oncology vol 02, 2016). An identical abstract is indexed under a second DOI 10.1055/s-0039-1685332 (W4239063190), treated as a duplicate.
-confidence: 2
+notes: Whole abstract read from the open-access article page (doi.org redirect to the Asian Journal of Oncology site); the Thieme-Connect PDF URL is blocked by a bot-protection page. The published year of the supplement is given as 2016 (copyright 2017).
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

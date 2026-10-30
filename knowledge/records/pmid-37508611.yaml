@@ -1,0 +1,43 @@
+source_id: '37508611'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37508611/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10377960
+language: en
+pmid: '37508611'
+doi: 10.3390/children10071114
+pmcid: PMC10377960
+title: 'Ovarian Masses in Children and Adolescents: A Review of the Literature with Emphasis on the Diagnostic Approach.'
+journal: Children (Basel, Switzerland)
+year: 2023
+first_author: Birbas E
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: children and adolescents (review); JGCT mean age 13 years
+alterations: []
+treatments: []
+presentation:
+- isosexual peripheral precocious puberty in premenarchal patients (breast enlargement, vaginal bleeding, axillary/pubic hair, growth)
+- menstrual disorders (menorrhagia, amenorrhea) in postmenarchal patients
+- pelvic mass; torsion and rupture more frequent in children than adults
+- rare virilization
+key_findings:
+- Review of paediatric ovarian masses; the JGCT section states that JGCT is a malignant pure sex cord tumour of primitive granulosa cells growing in solid and follicular patterns.
+- JGCT accounts for 5% of granulosa cell tumours and 70% of all sex-cord stromal tumours in patients under 20 years; sex-cord stromal tumours are 10-20% of paediatric ovarian neoplasms; mean age at diagnosis is 13 years.
+- 'Young et al. (cited) studied 125 JGCT patients: 44% occurred in the first and 34% in the second decade of life.'
+- JGCT is associated with Ollier disease and Maffucci syndrome (enchondromatosis); listed in the review's table of cancer predisposition syndromes.
+- 'JGCT typically secretes estrogens; granulosa cells produce inhibin, so serum inhibin is described as a useful tumour marker for diagnosis and follow-up (Table 2: inhibin - JGCT).'
+- 'Imaging is heterogeneous and nonspecific: typically large, mostly solid and cystic, may be entirely solid or cystic; hemorrhage, necrosis, fibrosis common; sponge-like T2 MRI appearance; T1-hyperintense hemorrhagic foci in cysts; endometrial thickening and uterine enlargement from estrogen.'
+- Review states prognosis is favorable, late recurrences are rare, most patients have stage-limited-to-ovary disease with survival over 90% with surgery alone; rare advanced cases have poorer prognosis and may require chemotherapy.
+- 'General recommendation: management of paediatric ovarian masses should be curative, function-preserving and minimally invasive, in specialized centres; the review notes 46-54% of benign lesions undergo oophorectomy.'
+relevance_to_jgct: Broad review of paediatric ovarian masses; JGCT is covered in one subsection (3.3.1) and in the marker and predisposition tables. No new JGCT patient data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Review; JGCT figures are secondary citations of other studies (e.g. Young et al.). Journal and first author not stated in the retrieved full text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

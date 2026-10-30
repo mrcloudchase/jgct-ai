@@ -1,0 +1,45 @@
+source_id: '36428825'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/36428825/
+retrieved_on: '2026-10-30'
+full_text_source: PMC9689145
+language: en
+pmid: '36428825'
+doi: 10.3390/diagnostics12112764
+pmcid: PMC9689145
+title: 'IDH Mutations Are Potentially the Intrinsic Genetic Link among the Multiple Neoplastic Lesions in Ollier Disease and Maffucci Syndrome: A Clinicopathologic Analysis from a Single Institute in Shanghai, China.'
+journal: Diagnostics (Basel, Switzerland)
+year: 2022
+first_author: Chen C
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: Ovarian tumor patient diagnosed with Ollier disease at 4 years
+alterations:
+- gene: IDH1
+  alteration: c.394C>T p.R132C
+  frequency: 1/1 ovarian sex cord-stromal tumor; identical to the patient's femoral enchondroma
+  notes: Sanger sequencing; IDH2 wild type; the ovarian tumor was not classified as JGCT
+treatments:
+- regimen: Right ovarian mass resection and femur biopsy
+  setting: Ollier disease case 1
+  n: 1
+  outcome: Alive without recurrence at 31 months
+presentation:
+- Ollier disease (onset 2 years, diagnosed 4 years) with lytic bone lesions and a large pelvic mass on MRI
+key_findings:
+- Six patients (3 Ollier disease, 3 Maffucci syndrome) from Shanghai Sixth People's Hospital, 2016-2020; 16 tumors Sanger-sequenced for IDH1/IDH2.
+- One Ollier disease patient (case 1, female, onset 2 years, diagnosed at 4 years) had a right ovarian tumor ipsilateral to the predominant skeletal disease; it was resected with a femoral biopsy and she was alive without recurrence at 31 months.
+- The ovarian tumor was an ovarian sex cord-stromal tumor of primitive ovate to elongated cells with mucinous stromal degeneration, easily found mitoses and no pathologic mitoses; it was positive for alpha-inhibin and negative for desmin, MyoD1, myogenin, SMA, S100, CD34 and BCOR; reticulin surrounded the cells. The authors call it insufficient for a conclusive diagnosis and it is not labeled JGCT.
+- The ovarian tumor carried IDH1 p.R132C, identical to the right upper femur enchondroma of the same patient; IDH2 was wild type. IDH1 mutations were in 8/11 cartilage tumors and 4/4 hemangiomas.
+- The authors write that ovarian juvenile granulosa cell tumors are the most commonly reported extraskeletal tumors in Ollier disease and Maffucci syndrome, and that no previous report had described molecular features of JGCT in these syndromes; they conclude IDH mutations may be a link among the multiple lesions through somatic mosaicism, but that a heterozygous IDH mutation alone is insufficient to cause ovarian tumors or gliomas.
+relevance_to_jgct: Documents an IDH1-mutant pediatric ovarian sex cord-stromal tumor in Ollier disease and states the JGCT association; the tumor is not formally diagnosed as JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The study does not diagnose JGCT; n_jgct_patients is 0. Mutation testing was on tumor tissue only; normal tissue and blood were not examined, so mosaicism is inferred. Journal not stated in the retrieved text (MDPI publisher note).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

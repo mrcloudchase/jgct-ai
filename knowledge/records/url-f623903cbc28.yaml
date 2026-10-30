@@ -3,33 +3,36 @@ source_type: url
 source_tier: database
 source_url: https://clinicaltrials.gov/study/NCT03382158
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: https://clinicaltrials.gov/api/v2/studies/NCT03382158
 language: en
 pmid: null
 doi: null
+pmcid: null
 title: International Pleuropulmonary Blastoma/DICER1 Registry (NCT03382158)
 journal: ClinicalTrials.gov
 year: 2016
 first_author: null
 study_type: registry
-tumor_site: both
+tumor_site: null
 n_jgct_patients: null
 age_range: null
 alterations: []
 treatments: []
 presentation: []
 key_findings:
-- Observational registry, sponsor Children's Hospitals and Clinics of Minnesota; status RECRUITING; start 2016-12-06; estimated completion 2036-12-06; estimated enrollment 3400; ages 0 minutes to 100 years.
-- Inclusion includes 'Known or suspected sex-cord stromal tumor including Sertoli-Leydig cell tumor and gynandroblastoma (males or females)' and individuals with known or suspected DICER1 pathogenic variation.
-- 'Primary outcome: event-free survival.'
-- Registry entry lists 33 reference PMIDs, including GeneReviews (24761742) and 33760357.
-relevance_to_jgct: Companion registry to the International OTST Registry (NCT01970696); enrolls sex cord-stromal tumors including JGCT-component tumors and DICER1 carriers, and is a source of registry JGCT reports.
+- International PPB/DICER1 Registry (Children's Hospitals and Clinics of Minnesota; PI Kris Ann Schultz), observational cohort patient registry; status RECRUITING (verified 2026-10); start 2016-12-06; estimated enrollment 3,400; primary completion estimated 2031-12-06.
+- 'Inclusion: known or suspected PPB or related thoracic tumor; known or suspected sex cord-stromal tumor including Sertoli-Leydig cell tumor and gynandroblastoma (males or females); other DICER1-related conditions; and individuals with known or suspected DICER1 pathogenic variants regardless of disease.'
+- Listed DICER1-associated conditions include Sertoli-Leydig cell tumor, gynandroblastoma, ovarian sarcoma, PPB, lung and renal cysts, cystic nephroma, Wilms tumor, CNS sarcoma, pineoblastoma, pituitary blastoma, multinodular goiter, thyroid carcinoma, nasal chondromesenchymal hamartoma, ciliary body medulloepithelioma, intestinal polyps and embryonal rhabdomyosarcoma. Juvenile granulosa cell tumor is not named in the summary or eligibility text.
+- The registry estimates 30-50 cases of Type I and Ir PPB and 40-60 cases of Type II and III PPB diagnosed annually worldwide.
+- 'Treatment described is the treating institution''s choice: Type I PPB surgery with optional 22-week VAC/VA chemotherapy; Type II/III PPB surgery, chemotherapy (often 36-week IVADo) and sometimes radiation.'
+- 'Primary outcome: event-free survival (7 years); secondary: response, overall survival, quality of life, cardiac and pulmonary outcomes, and incidence of neoplasms in individuals with germline DICER1 variants. Tumor tissue, blood, urine and CSF may be banked. No results posted.'
+relevance_to_jgct: Registry of DICER1-related tumors and carriers; it enrolls sex cord-stromal tumors (Sertoli-Leydig, gynandroblastoma) but does not name JGCT, so relevance to JGCT is indirect (DICER1 context).
 conflicts_with: []
+overlaps_with:
+- pmid-21501861
 superseded_by: null
 retracted: false
-notes: Fetched via ClinicalTrials.gov API v2. Juvenile granulosa cell tumor is not named in the conditions list; inclusion covers sex cord-stromal tumors generally.
-confidence: 3
+notes: Registry listing only; no results posted. JGCT is not named anywhere in the record.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

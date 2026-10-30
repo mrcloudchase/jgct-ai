@@ -1,0 +1,44 @@
+source_id: '24136150'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24136150/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3833222
+language: en
+pmid: '24136150'
+doi: 10.1038/bjc.2013.637
+pmcid: PMC3833222
+title: DICER1 hotspot mutations in non-epithelial gonadal tumours.
+journal: British Journal of Cancer
+year: 2013
+first_author: Witkowski L
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: null
+alterations:
+- gene: DICER1
+  alteration: RNase IIIb hotspot mutations (E1705, D1709, E1788, D1810, E1813); none in RNase IIIa
+  frequency: JGCT 0/4 (ovary); overall 14/197 non-epithelial tumours (7.1%); SLCT 8/15 (53%)
+  notes: One mutated tumour (D1810V, 16-year-old female) was an SLCT with components of JGCT; combined with Heravi-Moussavi et al., 34/58 SLCTs (59%) mutated
+treatments: []
+presentation: []
+key_findings:
+- Sanger sequencing of the DICER1 RNase IIIa and IIIb domains in 154 gonadal tumours (135 female, 19 male) and 43 extra-gonadal germ cell tumours found 14 heterozygous RNase IIIb mutations in 14/197 non-epithelial tumours (7.1%).
+- 'Juvenile granulosa cell tumour: 0/4 ovarian JGCTs carried a DICER1 hotspot mutation (Table 2a).'
+- 'Sex cord-stromal tumours overall were mutated in 9/28 (32%): Sertoli-Leydig cell tumour (SLCT) 8/15 (53%), unclassified SCST 1/7 (14%), Leydig cell tumour 0/1, SCST with annular tubules 0/1.'
+- One SLCT with components of JGCT (16-year-old female) carried c.5429A>T, p.D1810V, a variant not previously reported; the table lists it under SLCT, not JGCT.
+- Gonadal germ cell tumours were mutated in 5/118 (4.2%); 0/43 extra-gonadal GCTs, 0/7 small-cell carcinoma of the ovary hypercalcaemic type and 0/1 ovarian embryonal rhabdomyosarcoma were mutated.
+- In all five patients with matched constitutional DNA, the mutations were somatic; mutations clustered at the RNase IIIb metal-binding sites, with most at D1810 and E1813.
+- Median age of mutation-positive patients was 18 years (range 20 months-54 years) versus 17 years (birth-66 years) for mutation-negative (P=0.72).
+- The authors conclude that DICER1 mutation analysis may aid classification of histologically problematic SCSTs; the study could not test germline DNA in all mutation-positive patients and had small numbers in some subtypes.
+relevance_to_jgct: Mixed series of gonadal non-epithelial tumours; the only JGCT-specific datum is 0/4 pure ovarian JGCTs DICER1 hotspot-mutated, plus one SLCT with JGCT components that was mutated. Suggests DICER1 RNase IIIb hotspots are not a feature of JGCT, in contrast to SLCT.
+conflicts_with: []
+overlaps_with:
+- pmid-22187960
+superseded_by: null
+retracted: false
+notes: Patient overlap is possible with Heravi-Moussavi et al. 2012, which the paper builds on (the 'previous study'); this paper's cohort is described as a follow-up and new samples. Table 3 has alignment problems in the extracted text (several rows share one codon change). The text says 135 female gonadal tumours but Table 2a totals 12/135 and the abstract says 14/154 including testis.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

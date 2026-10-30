@@ -3,38 +3,41 @@ source_type: pmid
 source_tier: registry
 source_url: https://pubmed.ncbi.nlm.nih.gov/39400264/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC11649450
 language: en
 pmid: '39400264'
 doi: 10.1158/1078-0432.CCR-24-1532
+pmcid: PMC11649450
 title: 'DICER1-Related Tumor Predisposition: Identification of At-risk Individuals and Recommended Surveillance Strategies.'
 journal: 'Clinical cancer research : an official journal of the American Association for Cancer Research'
 year: 2024
 first_author: Schultz KAP
 study_type: registry
 tumor_site: ovary
-n_jgct_patients: null
-age_range: null
+n_jgct_patients: 2
+age_range: whole cohort median age at enrollment 9 years (range 0-77)
 alterations:
 - gene: DICER1
-  alteration: germline pathogenic/likely pathogenic variant
-  frequency: null
-  notes: JGCT reported in carriers; no JGCT count given
+  alteration: germline pathogenic/likely pathogenic variants (nonsense 513/713, splice/intronic 87, missense 39, large deletion 23) with tumor RNase IIIb hotspot second hit
+  frequency: 713 carriers in registry cohort; 2 had ovarian JGCT
+  notes: cohort-level data; JGCT n=2 listed under 'other ovarian' tumors
 treatments: []
 presentation: []
 key_findings:
-- 'International PPB/DICER1 Registry, International Ovarian and Testicular Stromal Tumor Registry and NCI DICER1 study: 713 participants with a germline DICER1 P/LP variant from 38 countries.'
-- Authors state that although SLCT is the most common ovarian tumor with germline DICER1 P/LP variants, other ovarian tumors including DICER1-related ovarian sarcoma and JGCT have been reported.
-- Table 2 lists 'Ovarian juvenile granulosa cell tumor (especially if anaplasia and/or high mitotic index)' as an indication for germline DICER1 testing.
-- For SLCT, JGCT, and sarcomas, stage at diagnosis is stated to impact both treatment and prognosis.
-- 103 individuals with germline P/LP variants developed ovarian SLCT at median age 14 years; 13% before 8 years of age; Registry now recommends pelvic ultrasound every 6 months beginning at detection of a germline DICER1 P/LP variant.
-relevance_to_jgct: Registry surveillance guidance that names JGCT (especially with anaplasia or high mitotic index) as an indication for germline DICER1 testing.
+- Registry report (International PPB/DICER1 Registry, International OTST Registry, NCI DICER1 study) of 713 participants with germline DICER1 P/LP variant from 38 countries (574 registry plus 139 non-overlapping NCI participants); 61% (437/713) female, median enrollment age 9 years, median follow-up 35 months.
+- 'JGCT is mentioned only marginally: Figure 2 legend lists ''juvenile granulosa cell tumor (n=2)'' among other ovarian tumors in germline DICER1 carriers; the Discussion states that DICER1-related ovarian sarcoma and JGCT have been reported, with SLCT the most common ovarian tumor.'
+- Table 2 (testing indications) includes 'Ovarian juvenile granulosa cell tumor (especially if anaplasia and/or high mitotic index)' as an indication to consider germline DICER1 testing.
+- 103 participants had ovarian Sertoli-Leydig cell tumor (SLCT) at median age 14 years (range 11 months-65 years); 13% diagnosed before age 8 and 4% before age 4; 11 had metachronous contralateral SLCT at median 45 months; 15% of all primary ovarian tumors occurred before age 8.
+- Among 87 SLCT patients since the 2018 guidelines, surveillance-detected SLCT (10) were stage IA in 9/10 without chemotherapy, versus 42/77 stage IA and 34/77 chemotherapy among symptomatic cases (90% vs 55% stage IA, p=.032; chemotherapy 10% vs 44%, p=.038); median tumor size 6.6 cm vs 13.0 cm (p=.041).
+- Registry now recommends starting pelvic ultrasound every 6 months at detection of a germline DICER1 variant (previously age 8-10), continuing at least to age 40 with shared decision-making thereafter.
+- Authors note ultrasound is more sensitive than biochemical markers for gynecologic tumor surveillance and that rupture is associated with higher stage and worse prognosis (stated for SLCT).
+relevance_to_jgct: Supports DICER1 germline testing in JGCT with anaplasia or high mitotic index and gives context on pelvic surveillance for DICER1 carriers; very few JGCT cases in the cohort (n=2).
 conflicts_with: []
+overlaps_with:
+- pmid-40267023
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC11649450). Registry report (International PPB/DICER1 Registry and IOTSTR). JGCT-specific content is limited to the testing-indication table and two sentences; no JGCT case counts given. Abstract gives SLCT age range as 11 months-66 years; results text says 11 months-65 years.
-confidence: 4
+notes: Not a JGCT study; JGCT counts come only from a figure legend (n=2). Likely patient overlap with the International OTST Registry JGCT report (pmid-40267023). Guideline recommendations apply to DICER1 carriers generally. Existing tier 'registry' kept.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

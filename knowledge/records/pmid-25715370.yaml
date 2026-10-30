@@ -1,0 +1,44 @@
+source_id: '25715370'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25715370/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4914382
+language: en
+pmid: '25715370'
+doi: 10.7863/ultra.34.3.495
+pmcid: PMC4914382
+title: Scrotal swelling in the neonate.
+journal: 'Journal of ultrasound in medicine : official journal of the American Institute of Ultrasound in Medicine'
+year: 2015
+first_author: Basta AM
+study_type: review
+tumor_site: testis
+n_jgct_patients: 1
+age_range: neonate (illustrative case 3 days old)
+alterations: []
+treatments:
+- regimen: Radical left orchiectomy on day 6 of life (illustrative case)
+  setting: primary
+  n: 1
+  outcome: 'Pathology: juvenile granulosa cell tumor; no follow-up given'
+presentation:
+- scrotal swelling or testicular mass in a neonate
+- no endocrine abnormalities typically
+- minority with abnormal external genitalia and abnormal karyotype
+key_findings:
+- Pictorial review of neonatal scrotal masses and mimics; JGCT is a small part. The authors state JGCTs are very rare but the most common testicular tumors in infants younger than 6 months, and are uniformly benign.
+- JGCTs lack accompanying endocrine abnormalities; a minority of cases are associated with abnormal external genitalia and an abnormal karyotype.
+- 'Sonography: multiseptated cystic appearance with a hypervascular rim on Doppler; differential includes cystic dysplasia of the testis, teratoma, yolk sac tumor, Sertoli cell tumor and paratesticular sarcoma.'
+- Preoperative diagnosis is difficult; a multiseptated cystic and solid mass with negative AFP and beta-hCG is suggestive (AFP is physiologically high in infants under 6 months).
+- 'Illustrative case (Figure 6): a 3-day-old boy with a left testicular mass seen on day 2 of life; 1.6 x 1.9 x 1.9 cm solid-cystic hypervascular mass replacing most of the testis; beta-hCG < 1 IU/L and AFP 17,260.2 ug/L; radical left orchiectomy on day 6 with JGCT on pathology.'
+- 'Management view: testis-sparing surgery (enucleation or partial orchiectomy with frozen section) is attempted in suspected neonatal neoplasms because benign histology is likely; complete orchiectomy if frozen section is not reassuring; no clear long-term follow-up guidelines, with follow-up advised particularly for tumors with high mitotic figures or poor differentiation.'
+relevance_to_jgct: Radiology pictorial essay that places testicular JGCT in the neonatal scrotal-mass differential with one illustrated case.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Review/pictorial essay, not a series. Journal and first author not in fetched text. The illustrative case shows AFP markedly elevated (17,260.2 ug/L) in a neonate with JGCT, consistent with physiologic neonatal AFP elevation noted by the authors.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,58 @@
+source_id: '37011030'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37011030/
+retrieved_on: '2026-10-30'
+full_text_source: https://digital.library.adelaide.edu.au/server/api/core/bitstreams/5fc94f79-4b07-4c7c-b312-91e0a412b6f9/content
+language: en
+pmid: '37011030'
+doi: 10.1002/cncr.34767
+pmcid: null
+title: 'How social media can help to understand treatment experiences of survivors of rare cancers: Findings from the Granulosa Cell Tumor Survivor Sisters Facebook group member survey.'
+journal: Cancer
+year: 2023
+first_author: White VM
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 52
+age_range: 'jGCT respondents: 15.4% diagnosed 0-12 y, 17.3% 13-19 y, 21.2% 20-29 y, 23.1% 30-39 y, 9.6% 40-49 y, 1.9% 50-59 y, 11.5% missing'
+alterations: []
+treatments:
+- regimen: Surgery (jGCT respondents)
+  setting: initial treatment, self-reported
+  n: 52
+  outcome: 56% open surgery; hysterectomy 13% (vs 42% aGCT, p<.01); bilateral oophorectomy 8% (vs 43% aGCT, p<.01); fertility-sparing treatment more common than in aGCT
+- regimen: Chemotherapy (jGCT respondents)
+  setting: initial treatment, self-reported
+  n: 13
+  outcome: 13 jGCT respondents reported chemotherapy; protocol not broken out for jGCT
+- regimen: Adult-type GCT chemotherapy (for comparison)
+  setting: initial
+  n: 130
+  outcome: 130/691 (18.8%) aGCT had chemotherapy; BEP 36.9%, carboplatin-paclitaxel 42.3% of those; BEP use 47% before 2015 vs 21% after
+presentation:
+- abdominal pain (42.2% of jGCT symptomatic respondents)
+- bloating (22.2%)
+- excessive bleeding (15.6%)
+- amenorrhea (11.1% of premenopausal jGCT)
+- increased sex drive (4.4%)
+- symptom onset before age 20 in 26.7% of jGCT
+key_findings:
+- 'Self-report survey (43 items; 2014-2019) of members of the closed Granulosa Cell Tumor-Survivor Sisters Facebook group: 743 analyzed respondents (691 adult-type, 52 juvenile-type); 11 surveys were completed for a person aged 16 or younger, generally by a family member.'
+- Mean time since diagnosis 4.4 years (SD 5.9; median 2; range 0-38), with no significant difference between aGCT and jGCT.
+- 'jGCT age at diagnosis (Table 1): 15.4% aged 0-12, 17.3% 13-19, 21.2% 20-29, 23.1% 30-39, 9.6% 40-49, 1.9% 50-59, 11.5% missing; authors note 50% diagnosed before 30 but a number diagnosed later. All jGCT respondents were premenopausal at diagnosis.'
+- 'jGCT stage at diagnosis (self-reported FIGO): IA 34.6%, IC 32.7%, IIA 1.9%, IIC 5.8%, III 9.6%, IV 0%, missing/unknown 15.3%. Tumors were larger in jGCT: 57.7% >=8.5 cm vs 19.2% <8.5 cm (p=.015 vs aGCT).'
+- 'jGCT treatment: 56% open surgery; less hysterectomy (13% vs 42%) and bilateral oophorectomy (8% vs 43%) than aGCT; 13 jGCT respondents had chemotherapy.'
+- 'Recurrence: 25% of jGCT (n=13) reported recurrent disease; 50% of recurrent jGCT recurred within 12 months of diagnosis versus 11% of recurrent aGCT (p<.01). The authors state there is little information on jGCT recurrence and that only about 50 jGCT respondents limit conclusions.'
+- In aGCT (not jGCT-specific), recurrence was higher with tumor rupture (p<.001) or cutting (p=.01) than with an encapsulated tumor, and with later stage; 30% of aGCT reported recurrence overall.
+- 'Follow-up among non-recurrent respondents: inhibin A&B monitored in 60%, inhibin B 26%, CA-125 33%; scans 51%; few reported AMH monitoring.'
+- Authors conclude this is one of the largest treatment surveys of GCT and that treatment patterns are in line with clinical audits; they caution about self-report, selection and survival bias.
+relevance_to_jgct: Patient self-report survey of aGCT and jGCT; 52 jGCT respondents give a patient-reported view of age, stage, tumor size, surgery and early recurrence in jGCT. Not verified against medical records.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Social-media survey; no clinical verification. Text says 744 completed and 743 analyzed (one removed). The abstract''s ''25% jGCT recurrent'' matches the text (n=13). Table 4 column values for the ''Type of disease'' row appear mislabeled in the published table (aGCT row shows 691/483/208). Open-access copy hosted by University of Adelaide. Full-text rule: patients'' own report, not forum content as a source.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/34286167/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC8282215
 language: en
 pmid: '34286167'
 doi: 10.1210/jendso/bvab098
+pmcid: PMC8282215
 title: Juvenile Granulosa Cell Tumor as the Presenting Feature of McCune-Albright Syndrome.
 journal: Journal of the Endocrine Society
 year: 2021
@@ -17,38 +18,35 @@ n_jgct_patients: 1
 age_range: 15 years
 alterations:
 - gene: GNAS
-  alteration: c.601C>T (p.R201C)
-  frequency: 1/1
-  notes: 42% of 478 reads in tumor; same variant in fibrous dysplasia bone; wild-type in blood (mosaic, not germline)
+  alteration: c.601C>T p.R201C
+  frequency: 42% of 478 reads in tumor; same variant in tibial bone biopsy; wild-type in peripheral blood
+  notes: mosaic distribution; no other Tier 1-3 mutations or copy number variants on 447-gene panel
 treatments:
-- regimen: right salpingo-oophorectomy
-  setting: primary, FIGO Ic2 (rupture)
+- regimen: Right salpingo-oophorectomy via laparotomy, then bleomycin, cisplatin, etoposide x4 cycles
+  setting: FIGO stage IC2 (intra-operative rupture)
   n: 1
-  outcome: complete resection
-- regimen: bleomycin, cisplatin, etoposide x4 cycles
-  setting: adjuvant, stage Ic2
-  n: 1
-  outcome: in remission 16 months following therapy
+  outcome: inhibin B, FSH, LH and estradiol normalized; in remission 16 months after therapy
 presentation:
-- secondary oligomenorrhea
-- hyperestrogenism
-- hyperprolactinemia
-- McCune-Albright syndrome
-- polyostotic fibrous dysplasia
+- secondary oligomenorrhea (up to 2 months without bleeding then heavy bleeding up to 2 weeks)
+- suppressed LH/FSH
+- hyperprolactinemia 56.67 ng/mL
+- 12 cm right adnexal mass
+- no cafe-au-lait spots
 key_findings:
-- 15-year-old girl with secondary oligomenorrhea; suppressed LH and FSH, estradiol 1074 pg/mL (immunoassay), inhibin B >4325 pg/mL, prolactin 56.67 ng/mL, low IGF-I.
-- 12-cm heterogeneous right adnexal mass; MRI/PET showed bone lesions initially concerning for metastases but pattern characteristic of polyostotic fibrous dysplasia (McCune-Albright syndrome).
-- Right salpingo-oophorectomy; 14.5 cm JGCT (inhibin, calretinin, SF1 positive); rupture noted, staged FIGO Ic2.
-- 'Targeted NGS (447 genes): GNAS c.601C>T (p.R201C) in 42% of 478 reads, no other tier 1-3 mutations or copy number variants; same variant in tibial bone biopsy; wild-type in peripheral blood.'
-- 4 cycles of bleomycin, cisplatin, and etoposide; hormones normalized; in remission 16 months after therapy.
-- First report of the same GNAS mutation in both JGCT and MAS tissue in one patient; authors question whether MAS patients should be surveilled for JGCT and vice versa.
-relevance_to_jgct: Direct molecular evidence linking McCune-Albright syndrome mosaic GNAS mutation with JGCT; relevant to germline/syndromic evaluation and surveillance.
+- 15-year-old girl with secondary oligomenorrhea (irregular periods from age 14 y 4 mo; menarche at 12 y 8 mo), Hashimoto hypothyroidism on levothyroxine; no cafe-au-lait spots.
+- 'Labs: LH and FSH suppressed (both <0.10 IU/L), estradiol 1074 pg/mL (immunoassay) and 1030 pg/mL by tandem mass spectrometry, inhibin B >4325 pg/mL (ref 50-475), prolactin 56.67 ng/mL, SHBG 175.7 nmol/L, low IGF-I 182.0 ng/mL; hCG, AFP (1.0 ng/mL) and CA125 (14 unit/mL) normal; brain MRI normal.'
+- 'Imaging: pelvic ultrasound 11 x 12 x 8 cm heterogeneous predominantly solid right adnexal mass; MRI and PET/CT showed minimal FDG uptake in the mass but intense multifocal skeletal uptake with expansile lytic lesions (including bilateral proximal femurs, a right femoral neck linear abnormality), characteristic of polyostotic fibrous dysplasia, initially concerning for metastases; tibial biopsy equivocal/benign, suggestive of fibrous dysplasia.'
+- 'Surgery: laparotomy with peritoneal fluid suspicious for rupture, right salpingo-oophorectomy; pelvic washings negative, no lymphadenopathy; tumor 14.5 cm encapsulated, solid and cystic with necrosis; coffee-bean nuclei; IHC positive for inhibin, calretinin and SF1, diagnosis JGCT.'
+- Tumor and tibial bone both carried GNAS p.R201C while peripheral blood was wild-type at codon 201, consistent with mosaicism; first report of the same GNAS mutation in JGCT and McCune-Albright syndrome (MAS) in one patient.
+- Classified FIGO stage IC2 because of rupture and treated with 4 cycles of bleomycin, cisplatin and etoposide; hormones normalized and she remained in remission 16 months after therapy; prolactin also normalized, attributed to estradiol effect.
+- Authors cite that >60% of JGCTs carry AKT1 duplications and that Kalfa et al. found codon 201 GNAS mutations in 30% of 30 JGCT patients without MAS signs; in a large MAS series (40 of 113 with ovarian sampling) none had JGCT.
+- Authors raise the question of tumor-marker surveillance in MAS with ovarian abnormalities and suggest investigating for the other disorder in patients diagnosed with either JGCT or MAS.
+relevance_to_jgct: Documents co-occurrence of JGCT and McCune-Albright syndrome driven by the same mosaic GNAS R201C mutation, linking JGCT biology to GNAS and raising surveillance questions.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via PMC8282215. No AKT1 alteration reported on the 447-gene panel (stated no other tier 1-3 mutations). Pathology text mentions coffee-bean nuclei despite JGCT diagnosis.
-confidence: 4
+notes: Single case; literature figures quoted from cited papers. Older record may have described same facts from abstract; tumor size is 12 cm on imaging vs 14.5 cm at gross pathology.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

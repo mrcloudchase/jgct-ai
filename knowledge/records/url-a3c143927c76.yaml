@@ -3,12 +3,13 @@ source_type: url
 source_tier: conference_abstract
 source_url: https://doi.org/10.1007/s00428-019-02631-8#E-PS-09-021
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC7103147
 language: en
 pmid: null
 doi: 10.1007/s00428-019-02631-8
+pmcid: PMC7103147
 title: Juvenile granulosa cell tumour or adult granulosa cell tumour - a diagnostic dilemma (ECP 2019 abstract E-PS-09-021)
-journal: Virchows Archiv 2019 (31st European Congress of Pathology abstracts)
+journal: Virchows Archiv (ECP 2019 supplement)
 year: 2019
 first_author: Kirigin M
 study_type: case_report
@@ -16,22 +17,25 @@ tumor_site: ovary
 n_jgct_patients: 1
 age_range: 16 years
 alterations: []
-treatments: []
+treatments:
+- regimen: Ovary-sparing cystectomy, then salpingo-oophorectomy
+  setting: 16-year-old with ovarian JGCT with adult-type areas
+  n: 1
+  outcome: not reported
 presentation:
-- irregular menstrual cycles
-- ovarian cyst
+- irregular cycles
+- 12 cm right ovarian cyst on ultrasound
 key_findings:
-- 16-year-old girl with irregular cycles and a 12 cm right ovarian cyst; ovary-sparing cystectomy with morcellated fragments.
-- 'First specimen: up to 8 mitoses/10HPF; vimentin, CD99, CD56 positive; inhibin and calretinin positive only in larger cells; initially interpreted as luteinized granulosa cell tumour.'
-- 'Salpingo-oophorectomy specimen: macrofollicular and solid pattern, some solid areas with 40 mitoses/10HPF and proliferative activity up to 50%; small area with classic AGCT morphology.'
-- 'Conclusion: ''JGCT and AGCT share some morphologic characteristics, and diagnostic difficulty may result when JGCT contains elements of AGCT.'''
-relevance_to_jgct: Adolescent case illustrating JGCT/AGCT morphologic overlap and high mitotic activity; FOXL2 status not reported.
+- 16-year-old girl with irregular cycles; ultrasound showed a 12 cm right ovarian cyst, extirpated with ovary sparing, then salpingo-oophorectomy.
+- 'First specimen: firm fibrous 0.5 cm wall with cords and trabeculae of small uniform cells and some larger clear-cytoplasm cells, up to 8 mitoses/10 HPF; IHC negative for epithelial, muscle, germ cell, lymphocytic and neuroendocrine markers, strongly positive for vimentin, CD99 and CD56; inhibin and calretinin positive only in larger cells; reticulin fibers around cell groups; read as luteinized granulosa cell tumour.'
+- 'Salpingo-oophorectomy specimen: macrofollicular and solid pattern, same IHC; some solid areas had 40 mitoses/10 HPF with proliferative activity up to 50%; a small area showed classic adult granulosa cell tumour (AGCT) morphology.'
+- Authors conclude JGCT and AGCT share morphologic features and diagnostic difficulty arises when JGCT contains AGCT elements, as in this patient. Stage, treatment beyond surgery and outcome are not reported.
+relevance_to_jgct: Pathology case showing overlap between juvenile and adult granulosa cell tumour morphology in an adolescent.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Verbatim from Europe PMC full text PMC7103147, abstract E-PS-09-021. Final diagnosis framed as JGCT with AGCT elements; no molecular testing reported. Morcellation/fragmentation of the first specimen noted in source.
-confidence: 2
+notes: Whole abstract read from the supplement text (PMC7103147). The abstract's own conclusion calls the first-biopsy diagnosis luteinized granulosa cell tumour; no molecular testing. No stage or follow-up.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

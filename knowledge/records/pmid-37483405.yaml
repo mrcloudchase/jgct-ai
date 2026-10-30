@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/37483405/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC10358864
 language: en
 pmid: '37483405'
 doi: 10.21980/J8035H
+pmcid: PMC10358864
 title: Ovarian Juvenile Granulosa Cell Tumor Case Report.
 journal: Journal of education & teaching in emergency medicine
 year: 2022
@@ -17,26 +18,30 @@ n_jgct_patients: 1
 age_range: 5 months
 alterations: []
 treatments:
-- regimen: exploratory laparotomy
-  setting: primary, ruptured tumor
+- regimen: Exploratory laparotomy, drainage of 500 mL serosanguinous fluid, left salpingo-oophorectomy, packed red cell transfusion
+  setting: ruptured, actively bleeding tumor
   n: 1
-  outcome: not reported
+  outcome: Uncomplicated hospital course; no adjuvant therapy or longer follow-up reported
 presentation:
-- abdominal distention
-- emesis
-- tumor rupture
-- free fluid
+- 4 days of progressive abdominal distention
+- postprandial projectile non-bilious emesis
+- pallor, grunting, firm distended tender abdomen
+- anemia, leukocytosis, hyponatremia
+- massive ascites with pelvic mass
+- ruptured tumor
 key_findings:
-- 5-month-old female with worsening abdominal distention and postprandial emesis.
-- Point-of-care ultrasound showed extensive abdominal free fluid and a large heterogeneous suprapubic mass, confirmed on CT.
-- Emergency exploratory laparotomy found a ruptured tumor; diagnosis ovarian JGCT.
-relevance_to_jgct: Infant JGCT presenting as acute abdomen from tumor rupture.
+- A 5-month-old girl presented to the emergency department with 4 days of worsening abdominal distention and 1 day of postprandial projectile non-bloody non-bilious emesis; outside work-up showed anemia, leukocytosis and hyponatremia.
+- Point-of-care FAST ultrasound showed extensive heterogeneous free fluid (Morison's pouch, subphrenic space, splenorenal recess) and a large heterogeneous pelvic mass.
+- CT showed large-volume ascites with centralized bowel loops and a 6.4 x 6.8 x 10.9 cm midline pelvic mass.
+- At laparotomy 500 mL of serosanguinous fluid was drained and a left salpingo-oophorectomy removed an actively bleeding tumor (described as arising from the left fallopian tube) with a ruptured tumor found; she was transfused and pathology showed juvenile granulosa cell tumor.
+- No tumor markers, hormone levels, immunohistochemistry, stage, or post-discharge follow-up are reported.
+- The discussion states JGCT presents as acute abdomen from rupture in about 6-10% of cases, there is no specific tumor marker though inhibin is elevated in adult and juvenile GCT, early-stage 5-year survival is 90-95%, adjuvant chemotherapy has not been found useful in early stages, and late recurrences require long-term follow-up (authors' literature statements).
+relevance_to_jgct: Infant ovarian JGCT presenting as an acute abdomen with massive ascites and tumor rupture, recognized by bedside ultrasound; illustrates the rupture presentation.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC10358864 not read); educational emergency-medicine case. Stage, adjuvant therapy and outcome not given.
-confidence: 2
+notes: Emergency-medicine educational case report; pathology details and outcome are minimal. Text says the tumor was removed from the 'left fallopian tube' with a left salpingo-oophorectomy, while the title and diagnosis are ovarian JGCT. The abstract mentions the ruptured tumor; the full text says the tumor was actively bleeding.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

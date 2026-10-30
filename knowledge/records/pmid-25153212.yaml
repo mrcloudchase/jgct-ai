@@ -1,0 +1,49 @@
+source_id: '25153212'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25153212/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4535795
+language: en
+pmid: '25153212'
+doi: 10.1515/jpem-2013-0402
+pmcid: PMC4535795
+title: Continuous subcutaneous IGF-1 therapy via insulin pump in a patient with Donohue syndrome.
+journal: 'Journal of pediatric endocrinology & metabolism : JPEM'
+year: 2014
+first_author: Weber DR
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 35 months at tumor diagnosis
+alterations:
+- gene: INSR
+  alteration: 'compound heterozygous frameshift: c.260_261insG (p.Tyr87X) maternal and c.15_24dup10 (p.Ala9fs) paternal (Donohue syndrome)'
+  frequency: 1 patient
+  notes: germline; predicted complete INSR loss of function
+treatments:
+- regimen: Bilateral oophorectomy
+  setting: 35 months, right ovarian mass 16.5 x 12 x 9 cm (1.2 kg)
+  n: 1
+  outcome: prolonged intubation for ARDS postoperatively; care withdrawn, death at 36 months
+presentation:
+- respiratory distress and enlarged abdomen at 35 months
+- 'ultrasound: large cystic abdominal structure, possible ovarian torsion'
+- polycystic ovaries since infancy that enlarged with age
+key_findings:
+- Girl with molecularly confirmed Donohue syndrome (compound heterozygous INSR frameshift mutations) treated from 19 months with subcutaneous recombinant human IGF-1 and from 30 months with continuous rhIGF-1 via insulin pump; HbA1c fell from 9.8% to 8.8% on pump therapy and weight gain rose from 175 to 202 g/month.
+- Polycystic ovaries were present since infancy and enlarged with age; cyst marsupialization was done at 21 months.
+- At 35 months she presented with respiratory distress and an enlarged abdomen; ultrasound showed a large cystic abdominal structure with possible ovarian torsion.
+- 'Bilateral oophorectomy: right ovarian mass 1.2 kg, 16.5 x 12 x 9 cm, consistent with juvenile granulosa cell tumor with desmoplastic non-invasive implants of borderline serous tumor; an adult-type granulosa cell tumor was also seen in the left ovary.'
+- 'Postoperative course: prolonged intubation for acute respiratory distress syndrome; parents withdrew care and she died at 36 months.'
+- Authors state it was unclear whether the ovarian tumor was related to rhIGF-1 treatment or to the natural course of Donohue syndrome; JGCT had been reported in another infant with Donohue syndrome who never received rhIGF-1 (cited).
+- Authors discuss theoretical concerns that IGF-1 signalling (Akt pathway, proliferation) and high IGF-1 levels are linked to malignancy.
+relevance_to_jgct: 'Rare association: bilateral granulosa cell tumors (juvenile right, adult-type left) with borderline serous implants in a toddler with Donohue syndrome (INSR loss) on rhIGF-1 therapy. Causality unresolved. No marker, IHC or molecular tumor testing described.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Primary topic is rhIGF-1 pump therapy in Donohue syndrome. The tumor diagnosis is stated without IHC or molecular detail. Journal and first author not in retrieved text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

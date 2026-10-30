@@ -3,41 +3,37 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/35968204/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC9374148
 language: en
 pmid: '35968204'
 doi: 10.4103/jrms.jrms_980_21
+pmcid: PMC9374148
 title: 'Ollier''s disease associated with ovarian juvenile granulosa cell tumor and triple X syndrome: A letter to the editor.'
-journal: 'Journal of research in medical sciences : the official journal of Isfahan University of Medical Sciences'
+journal: Journal of research in medical sciences
 year: 2022
 first_author: Shafieyoon S
 study_type: case_report
 tumor_site: ovary
 n_jgct_patients: 1
-age_range: 18 months
+age_range: 18 months at JGCT presentation (22 months at orthopedic referral)
 alterations: []
-treatments:
-- regimen: laparotomy (extent not specified)
-  setting: primary
-  n: 1
-  outcome: not reported
+treatments: []
 presentation:
-- ascites
-- abdominal mass
-- Ollier disease
-- triple X syndrome
+- sudden progressive ascites at 18 months
+- large solid-cystic multilocular pelvic/abdominal mass with internal vascularity on ultrasound
+- left leg deformity and limb-length discrepancy (Ollier's disease) at 22 months
 key_findings:
-- Female infant with Ollier's disease (multiple enchondromas of lower limbs and right upper limb) and triple X syndrome (47 XXX) detected on fetal karyotype; born preterm at 32 weeks.
-- At 18 months sudden progressive ascites; large multilocular solid-cystic abdominal mass.
-- Laparotomy; histology irregular cells in myxoid background with basophilic secretions and high mitotic count; tumor expressed cytokeratin, calretinin, ki-67, inhibin, and WT1; diagnosis ovarian JGCT.
-- Authors report the association of triple X syndrome with Ollier's disease and JGCT for the first time.
-relevance_to_jgct: Adds triple X syndrome to the reported constitutional associations of JGCT, alongside Ollier disease.
+- A girl born preterm at 32 weeks with a prenatally detected 47,XXX karyotype (triple X syndrome) was referred at 22 months for left leg deformity and limb-length discrepancy; radiographs showed multiple lower-limb and right upper-limb enchondromas, diagnosing Ollier's disease.
+- At 18 months she developed sudden progressive ascites; ultrasound showed a large solid cystic multilocular mass with heterogeneous echogenicity and internal vascularity, and abdominopelvic CT showed an enhancing heterogeneous mass in the right and central abdomen.
+- Laparotomy and histology showed irregular cells in a myxoid background with basophilic secretions and a high mitotic count; tumor cells expressed cytokeratin, calretinin, Ki-67, inhibin and WT1, and the diagnosis was ovarian JGCT.
+- The letter reports no surgical extent, stage, chemotherapy, hormone levels, molecular testing or follow-up outcome.
+- The authors state this is the first report of triple X syndrome associated with Ollier's disease and JGCT, and conclude that Ollier's disease can increase the risk of various neoplasms, which should be considered in managing these patients.
+relevance_to_jgct: Single report of ovarian JGCT in an infant with Ollier's disease and 47,XXX; adds to the Ollier's disease-JGCT association but this letter provides no molecular data.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via PMC9374148 (short letter). Stage, extent of surgery, molecular testing and follow-up not reported; confidence limited to 3 because the letter is thin.
-confidence: 3
+notes: Letter to the editor; very limited clinical detail (no stage, treatment or outcome). Right-sided/central mass laterality of the ovary not stated explicitly. Possible topical overlap with the Ollier's disease case in pmid-37324278 (different authors/institutions, so no patient overlap is assumed).
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

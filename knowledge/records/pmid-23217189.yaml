@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/23217189/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC3585781
 language: en
 pmid: '23217189'
 doi: 10.1186/1824-7288-38-67
+pmcid: PMC3585781
 title: 'Juvenile granulosa cell tumor of the testis: prenatal diagnosis and prescrotal approach.'
 journal: Italian journal of pediatrics
 year: 2012
@@ -14,29 +15,30 @@ first_author: Bulotta AL
 study_type: case_report
 tumor_site: testis
 n_jgct_patients: 1
-age_range: newborn
+age_range: newborn (prenatal diagnosis at 36 weeks)
 alterations: []
 treatments:
-- regimen: radical orchiectomy via prescrotal incision
-  setting: primary
+- regimen: Left radical orchiectomy via sub-inguinal (prescrotal) incision; no chemotherapy or radiotherapy
+  setting: neonatal testicular JGCT
   n: 1
-  outcome: healthy at time of writing; follow-up duration not stated
+  outcome: uneventful; ultrasound at 1 month showed no pathological masses; healthy at report (short follow-up; annual checks for at least 5 years planned)
 presentation:
-- prenatally detected multicystic testicular mass
-- scrotal mass at birth
+- multicystic left testicular mass on fetal ultrasound at 36 weeks
+- increased testicular size at birth
+- painless, no torsion
 key_findings:
-- Fetal ultrasound at 36th week of gestation showed a multicystic left testicular mass; postnatal ultrasound showed a 1.57 x 1.33 cm complex cystic mass.
-- Karyotype normal; serum AFP 6679 IU/ml, HCG 8 mIU/ml, testosterone 1.75 ng/ml, inhibin B 346 pg/ml.
-- Left radical orchiectomy by sub-inguinal (prescrotal) incision; tumor immunopositive for inhibin and calretinin, negative for AFP; no normal testicular parenchyma.
-- No complications; ultrasound a month after surgery without masses; patient healthy at time of writing.
-- Authors state JGCT accounts for about 5% of prepubertal testis tumors and radical orchiectomy is sufficient treatment.
-relevance_to_jgct: Prenatally detected testicular JGCT managed by orchiectomy through a prescrotal approach.
+- A full-term newborn (3200 g) had a multicystic left testicular mass on fetal ultrasound at 36 weeks; postnatal ultrasound showed a 1.57 x 1.33 cm enlarged testis with a well-encapsulated complex cystic mass and increased Doppler flow; contralateral testis normal.
+- Karyotype, blood chemistry and abdominal ultrasound were normal; no ambiguous genitalia or dysmorphism; family history included two cases of Down syndrome.
+- 'Markers: AFP 6679 IU/mL, hCG 8 mIU/mL, testosterone 1.75 ng/mL, inhibin B 346 pg/mL; the authors note neonatal AFP is physiologically elevated and cite age-based reference ranges, but chose total orchiectomy because of the elevated AFP.'
+- Left radical orchiectomy through a prescrotal/sub-inguinal incision; gonad pearly white, spongy yellow with many microcysts and no normal parenchyma; histology JGCT, inhibin and calretinin positive, AFP negative.
+- Ultrasound one month after surgery showed an empty left scrotum and no abdominal masses; the infant is healthy with annual ultrasound and clinical follow-up planned for at least 5 years.
+- The authors state, citing others, that JGCT is 1-5% of prepubertal testicular tumors, benign, hormonally inactive, and that only one prior prenatal diagnosis had been reported; they conclude that radical orchiectomy is sufficient and that follow-up is too short to exclude recurrence although none are reported in the literature.
+relevance_to_jgct: Rare neonatal testicular JGCT diagnosed prenatally, with markers, histology and orchiectomy-only outcome.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text via PMC3585781. AFP value reported as stated; the authors do not interpret it relative to neonatal norms in the case section.
-confidence: 4
+notes: The title and abstract speak of a prescrotal approach, while the Conclusion argues that the only possible approach is inguinal and that a subinguinal approach exposes the cord; the paper uses the terms prescrotal and sub-inguinal interchangeably (internal inconsistency). The statement that the tumor is benign and that 'metastases have never been described' is the authors' citation-based claim. Follow-up in the report is only 1 month of documented data. The text says the report is 'healthy today' without a duration.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

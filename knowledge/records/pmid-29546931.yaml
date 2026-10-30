@@ -1,0 +1,45 @@
+source_id: '29546931'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/29546931/
+retrieved_on: '2026-10-30'
+full_text_source: https://scielo.conicyt.cl/pdf/rcp/v88n6/en_0370-4106-rcp-88-06-00792.pdf
+language: en
+pmid: '29546931'
+doi: 10.4067/S0370-41062017000600792
+pmcid: null
+title: '[Granulosa cell ovarian tumor: precocious puberty in infant less than 1 year of age. Case report].'
+journal: Revista Chilena de Pediatria
+year: 2017
+first_author: Lacourt P
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 10 months
+alterations: []
+treatments:
+- regimen: Left salpingo-oophorectomy and resection of an 800 g adnexal mass; no adjuvant therapy
+  setting: stage I, primary surgery
+  n: 1
+  outcome: Regression of pubertal signs; CT 2 months after surgery normal; no relapse in almost 4 years of follow-up (inhibin B, AMH, estradiol normal)
+presentation:
+- thelarche (4 months) and pubic hair (2 months), apocrine odor, whitish vaginal discharge
+- palpable abdominal mass 10 cm below costal margin
+- Tanner III breasts, estrogenized genitalia
+key_findings:
+- 10-month-old girl with 4 months of breast development and 2 months of pubic hair, apocrine odor and whitish vaginal discharge; Tanner III breasts, abundant pubic hair and a palpable abdominal mass (peripheral precocious puberty).
+- Estradiol 457 pg/mL (reference <12), LH <0.5, FSH 0.66 mIU/mL (suppressed gonadotropins), LDH 2,690 mIU/mL (reference 210-420), hemoglobin 8.3 g/dL; AFP 10.7, beta-hCG 2.3, CEA 1.0 normal.
+- Ultrasound showed a large solid-cystic abdominopelvic mass; CT showed a heterogeneous 15 x 13 x 12 cm mass with mass effect, uterus 7 cm with endometrial thickening, adnexa not identified.
+- Ten days after the first visit a left salpingo-oophorectomy removed an 800 g mass with necrosis and hemorrhage; histology showed large and medium cells with granular cytoplasm and follicles of different sizes in an edematous stroma, compatible with juvenile granulosa cell tumor.
+- Pubertal signs and ultrasound abnormalities regressed; CT 2 months postoperatively was normal; inhibin B was 50 pg/mL initially (reference <44) then 17 and 10.8; AMH 1.24, 1.23 and 1.26 ng/mL (reference 0.5-4.7); estradiol fell to 15, 7, 6 and <5 pg/mL.
+- At 2 years transient thelarche with normal GnRH test and bone age was judged non-specific transient thelarche (right ovary volume 2.6 cc); no relapse in almost 4 years of follow-up.
+- The authors recommend follow-up with inhibin B or AMH every 6 months for 2 years then annually, and state that stage I tumors are curative with surgery (5-year survival 90-100%, cited).
+relevance_to_jgct: Infant JGCT presenting with peripheral precocious puberty, with serial inhibin B, AMH and estradiol follow-up after surgery alone.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Paper is in Spanish with an English abstract/translation in the PDF. The text calls LDH 'low' although 2,690 is above the quoted reference range, and lists testosterone 25 ng/ml against a reference of 0.2-0.6 (possible unit error); recorded as printed. Table 2 follow-up ages are partly ambiguous. FIGO stage I is stated in the discussion; no staging biopsies are described. DOI as printed in the PDF header.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

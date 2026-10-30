@@ -1,0 +1,41 @@
+source_id: '32409304'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32409304/
+retrieved_on: '2026-10-30'
+full_text_source: PMC7442649
+language: en
+pmid: '32409304'
+doi: 10.1158/1078-0432.CCR-19-1905
+pmcid: PMC7442649
+title: Arginine Depletion Therapy with ADI-PEG20 Limits Tumor Growth in Argininosuccinate Synthase-Deficient Ovarian Cancer, Including Small-Cell Carcinoma of the Ovary, Hypercalcemic Type.
+journal: 'Clinical cancer research : an official journal of the American Association for Cancer Research'
+year: 2020
+first_author: Ji JX
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 13
+age_range: null
+alterations:
+- gene: ASS1 (protein expression, IHC)
+  alteration: moderate expression in JGCT; median histoscore 210 (range 0-300)
+  frequency: 'JGCT n=13 interpretable: histoscore 300 in 2 (15.4%), 200-285 in 5 (38.5%), 100-180 in 3 (23.1%), 10-90 in 0, 0-5 in 3 (23.1%)'
+  notes: aGCT n=35 median 180; SLCT n=45 median 40; SCCOHT n=31 median 3.5; HGSC n=207 median 300
+treatments: []
+presentation: []
+key_findings:
+- Preclinical proteomics, IHC and xenograft study of rare ovarian cancers; main focus is ASS1 deficiency and arginine-depleting ADI-PEG20 in SCCOHT and clear cell/endometrioid carcinoma, not JGCT.
+- 'ASS1 IHC on tissue microarrays included juvenile granulosa cell tumor: the Methods text lists n=8 JGCT and the results text says n=8, while Table 1 lists 13 JGCT cases with interpretable ASS1.'
+- In sex-cord stromal tumors ASS1 expression was moderate in adult and juvenile GCT (median histoscore 180 for aGCT, n=35; 210 for JGCT).
+- 'JGCT histoscore distribution (Table 1, n=13): 300 in 2 (15.4%); 200-285 in 5 (38.5%); 100-180 in 3 (23.1%); 10-90 in 0; 0-5 in 3 (23.1%).'
+- ASS1 was decreased in Sertoli-Leydig cell tumor (n=45, median 40; 60% below 100) and very low in SCCOHT (absent in 12/31, <5% of cells in 9/31); high in HGSC (178/207 with score 300).
+- ADI-PEG20 inhibited growth of ASS1-deficient cell lines and SCCOHT xenografts (COV434 line, PDX-465); no JGCT models or JGCT treatment data were tested. The authors note they had no survival information for GCT and SLCT cases and that further correlation is needed before ADI-PEG20 could be considered for aggressive GCT.
+relevance_to_jgct: 'Minor: gives ASS1 IHC data for 13 JGCT (moderate expression, median histoscore 210), suggesting a possible but untested ADI-PEG20 rationale. JGCT cases are a small comparator group.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Discrepancy inside the paper: JGCT n=8 in Methods/Results text vs n=13 in Table 1. The COV434 cell line used as an SCCOHT model is a granulosa-like line; the paper treats it as SCCOHT. Journal and first author not in retrieved text.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

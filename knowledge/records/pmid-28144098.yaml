@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/28144098/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC5234168
 language: en
 pmid: '28144098'
 doi: 10.4103/0971-5851.195749
+pmcid: PMC5234168
 title: Juvenile granulosa cell tumor associated with Ollier disease.
 journal: 'Indian journal of medical and paediatric oncology : official journal of Indian Society of Medical & Paediatric Oncology'
 year: 2016
@@ -17,27 +18,29 @@ n_jgct_patients: 1
 age_range: 2.5 years
 alterations: []
 treatments:
-- regimen: surgical removal of ovarian tumor + chemotherapy per germ cell tumor protocol
-  setting: primary, FIGO IC3
+- regimen: Surgical removal of the ovarian tumor, then chemotherapy 'as per germ cell tumor protocol' (agents and cycles not stated)
+  setting: adjuvant
   n: 1
-  outcome: pubertal signs regressed; long-term outcome not reported
+  outcome: Regression of breast size and pubic hair a few weeks after surgery; no longer follow-up reported
 presentation:
-- precocious puberty
-- abdominal mass
-- Ollier disease (incidental enchondromas)
+- precocious puberty (Tanner stage 2)
+- hard mass in right hypochondrium
+- incidental multiple enchondromas on staging MRI mimicking bone metastases
 key_findings:
-- 2.5-year-old girl with precocious puberty (Tanner stage 2) and a 10 x 5 x 11 cm right ovarian mass with cystic and necrotic areas.
-- Lesions in the right femur and iliac blade on MRI were initially reported as metastases; biopsy showed enchondromas, leading to a diagnosis of Ollier disease.
-- 'Tumor expressed inhibin, calretinin, melan-A (focal) and cytokeratin; peritoneal aspirate positive for malignant cells, omentum uninvolved: FIGO IC3.'
-- Breast size and pubic hair regressed weeks after surgery; patient given chemotherapy per germ cell tumor protocol.
-- Maternal history of ovulation-inducing drug intake for 2 years before conception noted by authors.
-relevance_to_jgct: Shows enchondromas of Ollier disease can mimic bone metastases during JGCT staging.
+- 2.5-year-old girl presented with precocious puberty (Tanner stage 2) and a hard mass in the right hypochondrium.
+- MRI showed a well-defined right ovarian mass of 10 x 5 x 11 cm with cystic and necrotic areas.
+- MRI also showed multiple small lobulated T2-hyperintense foci in the right femoral neck, trochanters and right iliac blade, initially reported as metastases; radiographs showed expansile lytic lesions with cortical thinning. Bone scan showed no osteoblastic metastasis and bone biopsy showed cartilaginous elements, reported as enchondromas, giving a final diagnosis of Ollier disease with JGCT.
+- 'Histology: macrofollicles lined by 2-3 layers of granulosa cells with Call-Exner bodies; tumor cells expressed inhibin, calretinin, melan-A (focal) and cytokeratin.'
+- Peritoneal aspirate was positive for malignant cells while omental biopsy was not involved; stage was given as 1C3 'as per new FIGO staging'.
+- Treatment was surgical removal followed by chemotherapy per germ cell tumor protocol; breast size and pubic hair regressed a few weeks after surgery. Parents were counseled about chondrosarcoma risk and regular follow-up.
+- The authors state Ollier disease carries an estimated 30%-50% chondrosarcoma risk and argue the association indicates generalized mesodermal dysplasia, so Ollier patients should be screened for mesodermal neoplasms.
+- The authors note maternal ovulation-inducing drug use for 2 years before this conception and propose that estrogen-containing compounds are an etiological factor for granulosa cell tumors.
+relevance_to_jgct: Case report of JGCT co-occurring with Ollier disease; illustrates that enchondromas can mimic skeletal metastases on staging imaging.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text via PMC5234168. Chemotherapy regimen and follow-up duration not specified. No molecular testing reported.
-confidence: 4
+notes: Single case; no molecular testing reported (IDH1/2 or other not discussed). The paper cites mean JGCT presentation age of 13 years from the literature. Chemotherapy regimen is described only as germ cell tumor protocol and outcome follow-up duration is not stated.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

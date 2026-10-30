@@ -1,0 +1,43 @@
+source_id: 10.18203/2320-1770.ijrcog20200381
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.18203/2320-1770.ijrcog20200381
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ijrcog.org/index.php/ijrcog/article/download/7821/5263
+language: en
+pmid: null
+doi: 10.18203/2320-1770.ijrcog20200381
+pmcid: null
+title: 'Gynandroblastoma: a rare case report of ovarian sex cord tumour'
+journal: International Journal of Reproduction, Contraception, Obstetrics and Gynecology
+year: 2020
+first_author: Tanouti S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 61 years
+alterations: []
+treatments:
+- regimen: Left adnexectomy with biopsies, then total hysterectomy, right adnexectomy and omentectomy; no adjuvant chemotherapy
+  setting: gynandroblastoma with juvenile granulosa component
+  n: 1
+  outcome: no recurrence at 2 years; AFP, inhibin A and inhibin B negative; imaging unremarkable
+presentation:
+- abdominopelvic mass, 27.8 cm, predominantly cystic with partial solid component
+- no virilization or hirsutism
+key_findings:
+- 61-year-old postmenopausal woman with an abdominopelvic mass and no virilization; ultrasound showed a latero-uterine mass of 27.8 cm, predominantly cystic with a partial solid component; CT showed a left adnexal heterogeneous cystic mass with a peripheral solid component.
+- AFP 2.53 ng/mL, CEA 2.43 ng/mL, CA19-9 3.19 U/mL and CA125 30 U/mL were within normal range (hCG not measured); hormonal work-up (estrogen, testosterone) was not done.
+- Laparotomy showed no peritoneal implants and negative peritoneal washing; left adnexectomy was done with biopsies; specimen weighed 4500 g with two cystic masses (25 x 20 x 15 cm and 20 x 13 x 6 cm) joined by a firm pale-yellow nodular area.
+- 'Histology: mixed tumor with Sertoli component (tubules lined by 2-3 cell layers), Leydig cell nests and juvenile granulosa cells; juvenile granulosa cells and Sertoli-Leydig cells were alpha-inhibin positive; diagnosis gynandroblastoma. Completion total hysterectomy, right adnexectomy and omentectomy were benign.'
+- Close observation without adjuvant chemotherapy (clinical review every 3 months for 2 years, markers every 6 months, yearly imaging years 2-5); at 2 years inhibin A, inhibin B and AFP negative with no suspicious imaging.
+- 'Literature cited: a meta-analysis of 22 gynandroblastoma cases reported no recurrence over 6 months to 13 years, with unilateral adnexectomy in 17/22; tumors mostly stage I; the authors call for a registry to define management.'
+relevance_to_jgct: Case of ovarian gynandroblastoma with a juvenile granulosa cell component in a postmenopausal woman; limited JGCT-specific information (histology, inhibin positivity, no recurrence at 2 years).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Tumor is a mixed gynandroblastoma, not pure JGCT; patient aged 61, unusual for JGCT. Pathology details are limited (no further IHC beyond inhibin). The paper's abstract says initial unilateral adnexectomy then completion hysterectomy. Follow-up only 2 years.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

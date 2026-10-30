@@ -1,0 +1,36 @@
+source_id: '39453686'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39453686/
+retrieved_on: '2026-10-30'
+full_text_source: PMC11505513
+language: en
+pmid: '39453686'
+doi: 10.1002/cnr2.70036
+pmcid: PMC11505513
+title: Risk Factors and Clinical Outcomes of Recurrence in Adult Ovarian Granulosa Cell Tumors.
+journal: Cancer reports (Hoboken, N.J.)
+year: 2024
+first_author: Golmohammadi Tavallaee M
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 6
+age_range: JGCT mean 22.80 +/- 6.91 years
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Single-center retrospective cohort (Qhaem Hospital, Mashhad University of Medical Sciences, Iran; August 2012 to August 2023) of 92 granulosa cell tumor patients: 86 adult-type (AGCT) and 6 juvenile-type (JGCT).'
+- Mean age was 22.80 +/- 6.91 years in the 6 JGCT patients versus 44.89 +/- 13.72 years in the 86 AGCT patients (AGCT range 13 to 84).
+- The authors state that because JGCT and AGCT have different etiologies, all further analyses were restricted to AGCT; no stage, treatment, recurrence or survival data are reported for the 6 JGCT patients.
+- 'AGCT results (for context): 5-year overall survival 98.2% and 5-year progression-free survival 90.8% at median follow-up 72 months (0-180); recurrence in 19 of 86; stage IV was the only significant recurrence risk factor (HR 7.62, 95% CI 1.89-30.63, p=0.004).'
+- 'Authors'' background statements: JGCT are considered borderline tumors prevalent in premenopausal individuals under 30 years; AKT1 activation is described as the primary oncogenic driver in JGCT in contrast to FOXL2 alterations in AGCT; unilateral salpingo-oophorectomy is stated to suffice for pediatric and premenopausal patients.'
+relevance_to_jgct: Adult-type focused study; its only JGCT content is a count (6) and mean age (22.8 years) from a single Iranian center, plus background statements. Little JGCT-specific evidence.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Internal inconsistencies in the paper for AGCT: abstract reports recurrence in 19 (23.9%) and 5 deaths (5.4%), whereas the results give 19 (22.1%) and 4 (4.7%); the discussion also quotes a 7.9-fold stage IV risk versus HR 7.62 in the results. The JGCT group age is a mean only (no range). Journal and first author not in cached text.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

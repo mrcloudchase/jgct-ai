@@ -1,0 +1,49 @@
+source_id: '32719989'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32719989/
+retrieved_on: '2026-10-30'
+full_text_source: PMC7519920
+language: en
+pmid: '32719989'
+doi: 10.1007/s00432-020-03326-3
+pmcid: PMC7519920
+title: 'Risk factors and treatment outcomes of 239 patients with testicular granulosa cell tumors: a systematic review of published case series data.'
+journal: Journal of Cancer Research and Clinical Oncology
+year: 2020
+first_author: Grogg J
+study_type: review
+tumor_site: testis
+n_jgct_patients: 166
+age_range: Juvenile tGrCT mean 1.5 years (SD 5), single reports at 27 and 34 years
+alterations: []
+treatments:
+- regimen: Orchiectomy/gonadectomy, testis-sparing surgery (TSS), laparotomy or biopsy
+  setting: primary treatment, all tGrCT
+  n: 231
+  outcome: 202/231 (87%) orchiectomy; 20/231 (9%) TSS with local recurrence in 1/20 (5%) 3 months after TSS, disease free at 18 months after hemiscrotectomy
+- regimen: Resection of metastases or cisplatin-based chemotherapy (BEP)
+  setting: metastatic adult tGrCT
+  n: 7
+  outcome: 5/7 complete remission; adult type only
+presentation: []
+key_findings:
+- 'PRISMA systematic review (PROSPERO CRD42018110112; searches to 5 May 2018): 88 publications, 239 patients with testicular granulosa cell tumor (tGrCT): 166 (69%) juvenile and 73 (31%) adult.'
+- Juvenile tGrCT mean age 1.5 years (SD 5); median size 20 mm (IQR 13-38) among 36 with size; adult tGrCT mean age 42 years (SD 19).
+- 'Juvenile tGrCT presentation (63 with data): testicular enlargement 24 (38%), mass 22 (35%), hormonal changes 9 (14%), abdominal mass 7 (11%), incidental 6 (10%); AFP elevated in 11/63 juvenile cases (17%) versus 1 adult; ipsi- or contralateral cryptorchidism in 18/166 (11%) juvenile.'
+- 'All 166 juvenile tGrCT were benign: no metastatic disease was observed; outcomes among juveniles: 80 no evidence of disease, 1 local recurrence, 3 died (mean follow-up 54 months).'
+- 'Juvenile treatment: 72 orchiectomy, 62 gonadectomy, 15 testis-sparing surgery, 7 laparotomy (intra-abdominal cryptorchid testis), 2 biopsy only. The largest source was Kao 2015 (70 cases: 62 gonadectomy, 6 TSS, 2 biopsy).'
+- 'Adult tGrCT: metastatic disease in 7/73 (10%); risk factors were larger primary (median 70 vs 24 mm, ROC cut-off 46 mm, AUC 0.86), angiolymphatic invasion (57% vs 4%) and gynecomastia (29% vs 3%).'
+- Five of 7 metastatic adult cases reached complete remission with resection and/or BEP; one died of disease at 134 months and one had stable disease.
+- Authors conclude juvenile tGrCT is a benign entity, adult tGrCT has metastatic potential, literature supports testis-sparing surgery, germ-cell tumor markers (AFP, HCG, LDH) are not supported for follow-up, and an aggressive curative approach is suggested for metastatic disease.
+relevance_to_jgct: 'Testicular JGCT: 166 pooled published cases, all benign; informs surgery (testis-sparing) and prognosis. Ovarian JGCT not covered.'
+conflicts_with: []
+overlaps_with:
+- pmid-40473112
+- doi-10.37549_ar2293
+superseded_by: null
+retracted: false
+notes: Pooled published case reports and series; patient overlap between included reports is possible although same-study duplicates were counted once. Individual patient-level data for only 65 of the 166 juvenile cases. Retrospective, with inconsistent reporting; the OATH registry was opened to collect more data.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

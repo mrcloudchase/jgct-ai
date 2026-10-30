@@ -1,0 +1,39 @@
+source_id: '23074379'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23074379/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3471079
+language: en
+pmid: '23074379'
+doi: 10.7150/jca.5017
+pmcid: PMC3471079
+title: N-cadherin Expression in Testicular Germ Cell and Gonadal Stromal Tumors.
+journal: Journal of Cancer
+year: 2012
+first_author: Heidenberg DJ
+study_type: case_series
+tumor_site: testis
+n_jgct_patients: 1
+age_range: null
+alterations:
+- gene: N-cadherin (CDH2), protein by IHC
+  alteration: 'weak, mainly cytoplasmic positivity (figure legend: membranous and cytoplasmic)'
+  frequency: 1/1 testicular JGCT
+  notes: stained focally with varying intensity
+treatments: []
+presentation: []
+key_findings:
+- Immunohistochemical study of N-cadherin in 105 testicular germ cell tumors and 12 gonadal stromal tumors from the Armed Forces Institute of Pathology Testicular Tumor Registry; stromal tumors were 6 Sertoli cell, 4 Leydig cell, 1 Sertoli-Leydig and 1 juvenile granulosa cell tumor.
+- The single testicular juvenile granulosa cell tumor showed mainly weak cytoplasmic N-cadherin positivity (focal, variable intensity); the figure legend describes membranous and cytoplasmic staining. No patient age, clinical or outcome data are given.
+- Nine of the 12 gonadal stromal tumors were positive to a variable extent; Sertoli cell tumors 4/6 positive (weak to moderate membranous), Leydig cell tumors 3/4 weakly positive.
+- 'Main finding (germ cell tumors): N-cadherin was positive in 82/83 (98.7%) yolk sac tumors, typically strong, and authors propose it as an additional marker for yolk sac tumor, while embryonal carcinoma was largely negative.'
+relevance_to_jgct: 'Minimal: one testicular JGCT with N-cadherin IHC result; no clinical data.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: n=1 limits interpretation. Abstract states 9 of 12 stromal tumors positive; Table 4 lists only Sertoli and Leydig tumors, with the JGCT and Sertoli-Leydig case described in text. Journal and first author not in retrieved text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

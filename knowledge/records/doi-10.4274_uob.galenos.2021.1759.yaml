@@ -1,0 +1,37 @@
+source_id: 10.4274/uob.galenos.2021.1759
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.4274/uob.galenos.2021.1759
+retrieved_on: '2026-10-30'
+full_text_source: https://uroonkolojibulteni.com/articles/doi/uob.galenos.2021.1759
+language: en
+pmid: null
+doi: 10.4274/uob.galenos.2021.1759
+pmcid: null
+title: Testicular and Paratesticular Tumors in Children
+journal: Bulletin of Urooncology
+year: 2021
+first_author: Dörücü D
+study_type: review
+tumor_site: testis
+n_jgct_patients: null
+age_range: First year of life (per review)
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Narrative review of pediatric testicular and paratesticular tumors; testicular tumors are about 1% of pediatric solid tumors with incidence 0.5-2 per 100,000, peaking before age 3 and after puberty.
+- Juvenile granulosa cell tumor is listed among gonadal stromal tumors (with Leydig and Sertoli cell tumors) and is described as a benign tumor that usually appears in the first year of life with a painless testicular mass.
+- The review states JGCT is associated with Y-chromosome structural anomalies, mosaicism and ambiguous genitalia; histology shows solid and cystic structures surrounded by granulosa-like cells, and inhibin-alpha staining separates it from yolk sac tumor.
+- Treatment of JGCT can be radical inguinal orchiectomy or testis-sparing surgery; the review states recurrence or metastasis is not expected.
+- 'General management: AFP is the main marker (elevated in about 90% of yolk sac tumors; may be physiologically high under 1 year); testis-sparing surgery with frozen section is increasingly used because most prepubertal tumors are benign; COG staging 1-4 used in prepubertal tumors.'
+- 'Gonadal stromal tumors in this review: Leydig cell tumor is the most common (age 5-10); Sertoli cell tumor is second, benign under 5 years but can be malignant in older children.'
+relevance_to_jgct: General pediatric testicular tumor review with a short JGCT paragraph; JGCT statements are secondary citations without original patient data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Review; no patient counts. The JGCT claims cite Cortez & Kaplan 1993 and Shukla 2004. Page shows Marmara University authors; first author inferred as Dörücü D from the page header.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

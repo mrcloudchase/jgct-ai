@@ -1,0 +1,41 @@
+source_id: '40004767'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/40004767/
+retrieved_on: '2026-10-30'
+full_text_source: PMC11856845
+language: en
+pmid: '40004767'
+doi: 10.3390/jcm14041236
+pmcid: PMC11856845
+title: 'Giant Ovarian Tumors in Young Women: Diagnostic and Treatment Challenges-A Report of Two Cases and Narrative Review of the Recent Literature.'
+journal: Journal of clinical medicine
+year: 2025
+first_author: Melnyk M
+study_type: review
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: Table of 39 cases aged 10-30 years; JGCT case 12 years
+alterations: []
+treatments:
+- regimen: Laparotomy, left salpingo-oophorectomy
+  setting: surgery (single tabulated JGCT case, 12 years)
+  n: 1
+  outcome: 'Complications: none listed; FIGO IA'
+presentation:
+- 12-year-old with secondary amenorrhea, intermittent abdominal pain, galactorrhea; prolactin 70.5 ng/mL; 15.0 x 9.0 x 18.8 cm left pelvic mass (tabulated case)
+key_findings:
+- Two own cases (17-year-old with cystadenofibroma, 25-year-old with intestinal-endocervical mucinous borderline tumor) are not JGCT; the paper reviews 39 publications (2019-2024) on giant ovarian tumors (over 10 cm) in patients aged 10-25 years.
+- Among the 39 reviewed cases the authors list three granulosa cell tumors; the review table gives one as 'Granulosa cell tumor, juvenile type, FIGO IA' (age 12, 15.0 x 9.0 x 18.8 cm, laparotomy with left salpingo-oophorectomy, presenting with secondary amenorrhea, abdominal pain and galactorrhea with prolactin 70.5 ng/mL, no complications).
+- 'The other two granulosa cell tumors in the table are not typed as juvenile: age 15, 22.3 cm, stage 1C, left salpingo-oophorectomy with omentectomy, recurrent ovarian cyst six weeks postoperatively; and age 14, 15 x 10 x 9 cm, hirsutism, amenorrhea, testosterone elevated, oophorectomy after detorsion.'
+- The text states that juvenile granulosa cell tumors, despite high mitotic activity, are typically confined to one ovary, and that patients with JGCT limited to one ovary generally have a favorable outcome after unilateral salpingo-oophorectomy.
+- The review also reports that, in a cited series of 63 patients with ovarian tumors over 20 cm, 66.67% were malignant, 26.98% benign and 6.35% borderline (not JGCT-specific).
+relevance_to_jgct: Marginal. A general review of giant ovarian tumors in young women; JGCT is reflected by one tabulated case and one general statement on outcome, with no original JGCT data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Journal and first author not stated in the fetched text. JGCT statement is attributed to a cited source. The 'juvenile' granulosa cell tumor count is limited to the single case so labelled in the table.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,42 @@
+source_id: '32144835'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32144835/
+retrieved_on: '2026-10-30'
+full_text_source: PMC8164175
+language: en
+pmid: '32144835'
+doi: 10.1002/ajmg.a.61530
+pmcid: PMC8164175
+title: 'Natural history of Ollier disease and Maffucci syndrome: Patient survey and review of clinical literature.'
+journal: American journal of medical genetics. Part A
+year: 2020
+first_author: El Abiad JM
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: IDH1/IDH2
+  alteration: 'somatic variants in enchondromas/chondrosarcomas (background; survey: 7 of 17 tested patients positive for IDH1 or IDH2 variants)'
+  frequency: 7/17 tested survey patients; about 80% of OD/MS tumors in cited literature
+  notes: Not JGCT tissue; no JGCT molecular data
+treatments: []
+presentation: []
+key_findings:
+- Study combined a literature review of 287 publications (160 Ollier disease [OD] and 199 Maffucci syndrome [MS] patients; PubMed search 28 August 2017) with a Facebook-distributed patient survey (May 2017 to May 2018; 126 OD and 36 MS respondents from 27 countries).
+- JGCT is mentioned as a gonadal tumor associated with OD and MS. The paper cites a prior literature review (Pansuriya et al.) with 7 JGCT cases in OD and 6 in MS, and a 2017 report (Burgetova et al.) describing 10 JGCT cases in OD patients.
+- In the literature review the gonadal malignancy rate was 13/160 (8.1%) in OD versus 7/199 (3.5%) in MS (p=.059; OR 2.426, 95% CI 0.944-6.232); gonad tumors are not broken down by histology in the paper, so JGCT-specific counts are not reported by the authors themselves.
+- In the survey, gonadal cancer was reported by 0/126 OD versus 2/36 (5.6%) MS respondents (p=.008); the authors note the survey OD cohort was young (median 17.6 years) and may underestimate cancer prevalence.
+- Overall malignancy prevalence in the literature review was 53.1% in OD and 48.7% in MS (survey 25.4% OD, 36.1% MS); chondrosarcoma about 30.6% OD and 31.7% MS; brain malignancy 16.3% OD vs 4.5% MS (OR 4.1); vascular malignancy 8.5% in MS. Median age at malignancy diagnosis was 25 years (OD) and 30 years (MS) in the review.
+- The authors propose surveillance guidelines for OD and MS (whole-body MRI at diagnosis, clinical exams every 6-12 months in children and 12-24 months in adults, whole-body MRI offered from 25 years in OD and 30 years in MS and repeated every other year); these target chondrosarcoma, brain tumors and other malignancies and do not include JGCT-specific screening.
+- 'Authors'' stated limitations: no radiograph or histology review, dependence on case-report validity and self-reported survey data, unequal OD/MS survey sizes, and different cohort ages.'
+relevance_to_jgct: JGCT is named only as one of the gonadal tumors associated with Ollier disease and Maffucci syndrome; the paper gives gonadal-cancer rates in OD/MS and cites earlier JGCT case counts, but has no JGCT-specific patient data of its own.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Mixed enchondromatosis study; JGCT counts (7 OD, 6 MS, 10 OD) are second-hand citations of other papers, not data from this study. Gonad malignancy category is not specified as JGCT. Tables in the text list gonad malignancy as 13 (8.1%) OD and 7 (3.5%) MS. Survey recruited through private Facebook groups (peer-reviewed study, forums are not sources). Journal and first author not stated in the retrieved full text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

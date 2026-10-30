@@ -19,7 +19,7 @@ SPLIT_AT = 300  # CLAUDE.md: split INDEX.md into topic indexes past ~300 lines
 
 def _line(stem, r, rel="records"):
     flags = (" RETRACTED" if r.get("retracted") else "") + (" [conflicts: " + ", ".join(r["conflicts_with"]) + "]" if r.get("conflicts_with") else "")
-    return (f"- [{stem}]({rel}/{stem}.yaml) | {r['year']} | {r['study_type']} | {r.get('tumor_site') or '-'} | {r['source_tier']} | c{r['confidence']}"
+    return (f"- [{stem}]({rel}/{stem}.yaml) | {r['year']} | {r['study_type']} | {r.get('tumor_site') or '-'} | {r['source_tier']}"
             f" | n={r.get('n_jgct_patients')} | {r.get('first_author') or ''} | {r['title'][:140]}{flags}")
 
 
@@ -29,7 +29,7 @@ def knowledge_index():
         r = yaml.safe_load(open(f)); stem = os.path.basename(f)[:-5]
         rows.append((r.get("study_type"), -r.get("year", 0), stem, r))
     rows.sort(key=lambda x: (x[0], x[1]))
-    legend = "One line per record: record id | year | study type | tumor site | tier | confidence | n JGCT | first author | title."
+    legend = "One line per record: record id | year | study type | tumor site | tier | n JGCT | first author | title."
     groups = {}
     for st, _, stem, r in rows:
         groups.setdefault(st, []).append((stem, r))
@@ -64,6 +64,9 @@ def sources_index():
     out += ["", "### Next 40 unprocessed items by priority", ""]
     for r in c.execute("SELECT id,priority,year,substr(title,1,120) FROM items WHERE status='found' ORDER BY priority DESC, year DESC LIMIT 40"):
         out.append(f"- {r[0]} (p{r[1]}, {r[2]}) {r[3]}")
+    out += ["", "### Needs full text (relevant; full text could not be obtained, routes tried in the note)", ""]
+    for r in c.execute("SELECT id,year,substr(title,1,100),note FROM items WHERE status='needs_full_text' ORDER BY priority DESC, year DESC"):
+        out.append(f"- {r[0]} ({r[1]}) {r[2]} — {r[3]}")
     out += ["", "### Unreachable", ""]
     for r in c.execute("SELECT id,year,substr(title,1,100),note FROM items WHERE status='unreachable' ORDER BY year DESC"):
         out.append(f"- {r[0]} ({r[1]}) {r[2]} — {r[3]}")

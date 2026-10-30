@@ -1,0 +1,37 @@
+source_id: '41566475'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41566475/
+retrieved_on: '2026-10-30'
+full_text_source: PMC12952166
+language: en
+pmid: '41566475'
+doi: 10.1186/s12887-025-06488-6
+pmcid: PMC12952166
+title: 'Improving diagnosis and management of pediatric ovarian masses: development of a risk stratification model incorporating sonographic and clinical features.'
+journal: BMC pediatrics
+year: 2026
+first_author: Chu L
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: 'JGCT: 3 aged 1-8 years, 1 aged 9-16 years'
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Single-center retrospective study (Children's Hospital of Soochow University, China; 2018-2024) of 344 patients aged <=18 years (348 masses) who had ovarian surgery; aim was a sonographic/clinical malignancy prediction model.
+- 'Histology: germ cell tumors 72.7% (253/348), epithelial 15.2% (53), sex-cord stromal 2.0% (7), follicular cysts 10.1% (35); malignant lesions 11.5% (40/348).'
+- Sex-cord stromal tumors (7) comprised juvenile granulosa cell tumor 4/7 (57.1%), Sertoli-Leydig cell tumor 2/7 and fibroma 1/7; by age, JGCT occurred in 3 children aged 1-8 years and 1 aged 9-16 years (none under 1).
+- No JGCT-specific clinical, marker, imaging, stage, treatment or outcome data are reported; JGCT patients are not analyzed separately.
+- Authors attribute the greater frequency of precocious puberty in malignant than benign masses (20.0% vs 8.6%, p=0.025) to hormone-secreting tumors such as juvenile granulosa cell tumors (an interpretation, not a JGCT-specific measurement).
+- 'Model result: solid component proportion >80% strongest malignancy predictor (OR 576.5, 95% CI 74.0-4492.6); combined size plus solid proportion AUC 0.93, sensitivity 87.5%, specificity 83.2%.'
+relevance_to_jgct: 'Very limited: a general paediatric ovarian mass surgical series reporting 4 JGCT (of 348 masses) in an age table; no JGCT-specific outcomes.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Published 2026 (per PMC ID; year inferred from the ledger). Abstract says 348 in denominator for 344 patients (4 bilateral). Journal and first author not in retrieved text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

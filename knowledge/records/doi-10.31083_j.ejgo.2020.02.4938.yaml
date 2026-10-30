@@ -1,0 +1,48 @@
+source_id: 10.31083/j.ejgo.2020.02.4938
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.31083/j.ejgo.2020.02.4938
+retrieved_on: '2026-10-30'
+full_text_source: https://oss.ejgo.net/files/article/20220425-191/pdf/EJGO4938.pdf
+language: en
+pmid: null
+doi: 10.31083/j.ejgo.2020.02.4938
+pmcid: null
+title: 'Juvenile granulosa cell tumor with massive ascites: A case report and immunohistochemical study of ascites formation'
+journal: European Journal of Gynaecological Oncology
+year: 2020
+first_author: Takeuchi K
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 23 years
+alterations:
+- gene: VEGF
+  alteration: diffuse cytoplasmic immunostaining in tumor cells and partly endothelial cells
+  frequency: 1 case
+  notes: CD34 microvessel density >60 vessels per visual field
+treatments:
+- regimen: Exploratory laparotomy, tumor resection with right salpingo-oophorectomy and partial omentectomy; about 5 L ascites evacuated
+  setting: primary surgery, stage I
+  n: 1
+  outcome: Ascites resolved rapidly; CA-125 and estradiol fell, LH and FSH rose; no recurrence at 12 months
+presentation:
+- two weeks of progressive abdominal distention from massive ascites
+- no menstrual irregularity
+- nulliparous
+key_findings:
+- 23-year-old nulliparous woman with two weeks of progressive abdominal distention and no menstrual irregularity; MRI showed a multilocular cystic and solid right ovarian mass with large ascites.
+- Preoperative CA-125 244 U/ml (normal <35), estradiol 2760 pg/ml, FSH and LH both <0.10 U/ml; AFP <0.7 ng/ml, CEA 2.0, CA19-9 0.6 and testosterone 0.76 ng/ml were normal.
+- At laparotomy the dark reddish encapsulated right ovarian tumor was edematous and fragile and ruptured during the procedure; no peritoneal implants; about 5 L of transudate ascites were drained and ascitic cytology was negative; tumor resection with right salpingo-oophorectomy and partial omentectomy was done (stage I).
+- 'Histology: granulosa cells around microfollicles with hyperchromatic nuclei, frequent mitoses, no Call-Exner bodies; strong calretinin and alpha-inhibin positivity supported JGCT.'
+- VEGF staining was diffuse in tumor cell cytoplasm and partly in endothelial cells, with CD34 microvessel density above 60 vessels per visual field; the authors speculate that VEGF-driven angiogenesis and capillary permeability caused the massive ascites.
+- After surgery the ascites disappeared rapidly, CA-125 and estradiol decreased, LH and FSH increased, and there was no recurrence 12 months postoperatively; no adjuvant therapy is described.
+relevance_to_jgct: Adult-age JGCT presenting only with massive ascites and very high estradiol; adds VEGF and microvessel immunohistochemistry as a possible mechanism for ascites.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Single case; the VEGF mechanism is the authors' speculation. Tumor rupture occurred intraoperatively although staged as stage I (as stated by the authors in the discussion, FIGO substage not given). Full text read from the journal PDF.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

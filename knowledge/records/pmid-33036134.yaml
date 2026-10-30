@@ -1,0 +1,41 @@
+source_id: '33036134'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33036134/
+retrieved_on: '2026-10-30'
+full_text_source: PMC7600997
+language: en
+pmid: '33036134'
+doi: 10.3390/cancers12102867
+pmcid: PMC7600997
+title: Testis Sparing Surgery in Pediatric Testicular Tumors.
+journal: Cancers (Basel)
+year: 2020
+first_author: Kooij CD
+study_type: review
+tumor_site: testis
+n_jgct_patients: 7
+age_range: JGCT median ages in the tabulated studies 0.3 to 10 years
+alterations: []
+treatments:
+- regimen: Testis-sparing surgery (TSS)
+  setting: testicular JGCT, children (tabulated across 4 studies)
+  n: 2
+  outcome: 'no recurrence and no testicular atrophy reported for the 2 JGCT patients treated with TSS (Bujons 2011: 1 patient aged 10, 60 months follow-up; Cecchetto 2010: 1 of 4)'
+presentation: []
+key_findings:
+- 'Systematic review (PRISMA; Cochrane, PubMed, Embase to 15 May 2020) of testis-sparing surgery in pediatric testicular tumors: 20 retrospective studies (all Oxford level 4), 968 patients described, 777 analyzed; no randomized trials.'
+- 'Overall: of 534 benign tumors (444 germ cell tumors, 85 sex cord-stromal tumors [SCSTs], 5 miscellaneous) 331 (61.0%) had TSS; of 243 malignant germ cell tumors only 1 (0.4%, a stage II yolk sac tumor) had TSS. No testicular atrophy occurred; 4 benign germ cell tumors recurred (3 teratomas, 1 epidermoid cyst); no recurrence in SCSTs.'
+- 'JGCT is tabulated within the 85 SCSTs: Bujons 2011 1 JGCT (age 10, TSS, 60 months follow-up, no recurrence); Cecchetto 2010 4 JGCT (median age 0.3 years, range 0.2-1.9; TSS in 1); Valla 2001 1 JGCT (no TSS); Sugita 1999 1 JGCT (age 2.0, no TSS, 12 months follow-up, no recurrence). Serum AFP and hCG were normal where reported and no JGCT recurrence was reported.'
+- 'Text states TSS was performed in 52 patients with SCSTs, including 44 (78.6%) Leydig cell tumors, 6 (37.5%) Sertoli cell tumors and 2 (33.3%) JGCT. Only Cecchetto used a staging system (COG) for SCSTs: 10 stage I cases and 1 stage II Leydig cell tumor; none of the studies described adjuvant treatment.'
+- The authors conclude TSS appears safe for prepubertal boys under 12 years with benign germ cell tumors and low-grade SCSTs, propose a surgical algorithm based on ultrasound, age-specific AFP and frozen section, and state no conclusion can be drawn about TSS safety in malignant disease.
+- 'Limitations stated: no RCTs or meta-analysis possible, varying sample sizes, few patients over 12 years, adjuvant therapy not analyzed, and poor reporting of bias and loss to follow-up.'
+relevance_to_jgct: Systematic review of testis-sparing surgery in pediatric testicular tumors; JGCT is a small subgroup (7 tabulated cases, 2 treated with TSS) within 85 sex cord-stromal tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Discrepancy inside the paper: the table lists 7 JGCT cases (1+4+1+1) but the text gives 2 TSS cases as 33.3% of JGCT (implies 6). JGCT cases come from studies that may overlap with other included series. Authors'' conclusions concern mainly benign germ cell tumors and Leydig cell tumors.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

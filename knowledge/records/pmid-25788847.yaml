@@ -2,34 +2,62 @@ source_id: '25788847'
 source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/25788847/
-retrieved_on: '2026-10-29'
-full_text_read: false
+retrieved_on: '2026-10-30'
+full_text_source: https://jtgga.org/pdf/a5223c9c-50f0-490d-b293-6a74c2af8d3b/articles/jtgga.2015.15207/32-4.pdf
 language: en
 pmid: '25788847'
 doi: 10.5152/jtgga.2015.15207
+pmcid: null
 title: 'Juvenile granulosa cell ovarian tumor: clinicopathological evaluation of ten patients.'
 journal: Journal of the Turkish German Gynecological Association
 year: 2015
-first_author: Karalök A
+first_author: Karalok A
 study_type: case_series
 tumor_site: ovary
 n_jgct_patients: 10
-age_range: 13-36 years
+age_range: median 21.5 years (range 13-36)
 alterations: []
-treatments: []
-presentation: []
+treatments:
+- regimen: Unilateral salpingo-oophorectomy (8), cystectomy (1), TAH+BSO (1)
+  setting: surgery, all completely resected
+  n: 10
+  outcome: no recurrence; median follow-up 58 months (3-113)
+- regimen: Adjuvant bleomycin-etoposide-cisplatin x4 cycles
+  setting: stage IC
+  n: 1
+  outcome: no recurrence; later live birth
+- regimen: Adjuvant vincristine-doxorubicin-cyclophosphamide x6 cycles
+  setting: stage IA
+  n: 1
+  outcome: no recurrence (follow-up 3 months)
+- regimen: Adjuvant radiotherapy
+  setting: stage IA
+  n: 1
+  outcome: no recurrence (follow-up 53 months)
+- regimen: Pelvic and para-aortic lymphadenectomy
+  setting: staging
+  n: 5
+  outcome: no lymph node involvement; median 54 nodes removed (7-94)
+presentation:
+- bloating 5/10
+- abdominal pain 4/10
+- menometrorrhagia 1/10
+- ascites 4/10
+- median tumor diameter 140 mm (60-400)
 key_findings:
-- 10 patients 1995-2014; median age 21.5 years (13-36); stage IA 9, IC 1.
-- Five had pelvic and para-aortic lymph node dissection with no nodal involvement.
-- Three had adjuvant therapy (two chemotherapy, one radiotherapy).
-- Four of five patients desiring pregnancy achieved five term pregnancies; no recurrence at median 58 months (3-113).
-relevance_to_jgct: Turkish series supporting fertility-sparing surgery and showing no nodal involvement.
+- 'Retrospective single-centre (Etlik Zubeyde Hanim hospital, Ankara) series: 10 JGCT among 143 granulosa cell tumors (7%) diagnosed April 1995 to January 2014; median age 21.5 years (range 13-36).'
+- 'Presenting symptoms: bloating in 5, abdominal pain in 4, menometrorrhagia in 1; CA-125 measured in 5, normal in 4, 74 U/mL in the patient with a ruptured cyst; ascites in 4; median tumor diameter 140 mm (60-400); right side 5, left side 5.'
+- FIGO 1988 stage IA in 9 and stage IC in 1 (preoperative rupture, negative cytology); all tumors completely resected; 8 had unilateral salpingo-oophorectomy, 1 cystectomy, 1 TAH+BSO elsewhere (re-staged).
+- Five patients had pelvic and para-aortic lymphadenectomy (median 54 nodes, range 7-94), none positive; omentectomy in 7 (6 infracolic, 1 partial), appendectomy in 2, no omental tumor.
+- 'Three patients had adjuvant therapy: BEP x4 (stage IC), VAC x6 (stage IA) and radiotherapy (stage IA); frozen section was diagnostic for JGCT in 2 of 5, sex cord-stromal tumor NOS in 2, lymphoma suspected in 1.'
+- No recurrence in median follow-up 58 months (range 3-113). Of 5 patients desiring pregnancy, 4 had 5 term pregnancies after fertility-sparing surgery, including the stage IC patient treated with BEP.
+- Authors conclude surgery is primary management, adjuvant therapy benefit is unclear, and fertility-sparing surgery can be safely suggested in early stage; they suggest lymphadenectomy may be unnecessary in sex cord-stromal tumors and recommend long follow-up with inhibin B.
+relevance_to_jgct: Small adult-and-adolescent series showing excellent outcomes and preserved fertility after fertility-sparing surgery for stage I JGCT.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: null
-confidence: 3
+notes: Full text is a 3-page PDF (abstract appears mid-text). Mostly young adults (mean ~22 years) treated in a gynecologic oncology clinic. Table 1 lists patient 4 with 5000 cc ascites and 400 mm tumor; follow-up of two patients only 3 months (patients 3 and 7), so no-recurrence claim has short follow-up for them. Text says 'Five patients ... median lymph node count' while abstract and table agree.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

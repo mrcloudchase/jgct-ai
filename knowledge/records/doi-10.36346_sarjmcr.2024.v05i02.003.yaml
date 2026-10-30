@@ -1,0 +1,44 @@
+source_id: 10.36346/sarjmcr.2024.v05i02.003
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.36346/sarjmcr.2024.v05i02.003
+retrieved_on: '2026-10-30'
+full_text_source: https://sarpublication.com/media/articles/SARJMCR_52_23-26.pdf
+language: en
+pmid: null
+doi: 10.36346/sarjmcr.2024.v05i02.003
+pmcid: null
+title: 'Juvenile Granulosa Tumor of the Ovary: Case Report'
+journal: SAR J Med Case Rep
+year: 2024
+first_author: Mazouzi C
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 38 years
+alterations: []
+treatments:
+- regimen: Left adnexectomy without capsular rupture plus myomectomy; reoperation with additional wide excision decided
+  setting: pT1 left ovarian granulosa tumor
+  n: 1
+  outcome: immediate course favorable; no longer follow-up reported
+presentation:
+- heaviness-type abdominopelvic pain, intermittent, predominantly left
+- amenorrhea of 3 months
+- firm regular mobile abdominopelvic mass
+- no clinical signs of hyperestrogenism
+key_findings:
+- 'Case report from Bejaia, Algeria: a 38-year-old woman (four children; mother and aunt with breast cancer) with left-sided abdominopelvic pain and 3 months of amenorrhea; examination showed a firm, regular, painless, mobile abdominopelvic mass.'
+- Ultrasound showed a lateral uterine mass with mixed, solid-predominant content; CA125 was 18; MRI showed a solid-cystic mass with multiple fluid compartments and a tissue portion with high signal on b1000 diffusion, homogeneously enhancing, no hemorrhagic component.
+- Laparotomy found a regular, encapsulated solid left ovarian tumor about 10 cm without capsular rupture and two 4 cm uterine fibroids; left adnexectomy and myomectomy were performed.
+- Pathology was reported as 'juvenile granulosa tumor' with diffuse proliferation forming small lacunae/Call-Exner bodies and monomorphic cuboidal cells with grooved nuclei ('coffee bean'), classified pT1Nx, confined to the ovary; the postoperative course was favorable and a reoperation with additional wide excision was decided.
+- The discussion is generic to granulosa cell tumors (95% adult-type, stage I in 78-91%, 5-year survival 95% stage I, late recurrence up to 37 years) and no immunohistochemistry, hormone assays or molecular testing are reported.
+relevance_to_jgct: Case report titled as JGCT, but the described features and the discussion are adult-type; limited as evidence for JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Internal inconsistencies: the title and pathology line say juvenile granulosa tumor, yet the described morphology (grooved ''coffee bean'' nuclei, Call-Exner bodies) is classic adult-type, the abstract and conclusion discuss the adult form, the introduction says the objective was ''to report a series of 17 cases of TGA (adult)'', and the discussion refers to ''our three patients''. Ultrasound mass size is printed as ''69 x 68 cm'' (presumably mm). Follow-up duration not reported. Treat the JGCT diagnosis as unconfirmed (38 years, no IHC).'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

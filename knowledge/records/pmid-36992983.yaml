@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/36992983/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC10040497
 language: en
 pmid: '36992983'
 doi: 10.1016/j.gore.2023.101164
+pmcid: PMC10040497
 title: 'Juvenile granulosa cell tumor in an adult woman during pregnancy: A case report and review of the literature.'
 journal: Gynecologic oncology reports
 year: 2023
@@ -17,33 +18,28 @@ n_jgct_patients: 1
 age_range: 33 years
 alterations: []
 treatments:
-- regimen: left salpingo-oophorectomy, omental biopsy, small bowel resection to R0 at 25 weeks gestation
-  setting: primary, FIGO IIIB
+- regimen: Left salpingo-oophorectomy, omental biopsy, small bowel resection (R0 cytoreduction) at 24 weeks; then 3 cycles of BEP (bleomycin, etoposide, cisplatin) starting 6 weeks postpartum
+  setting: stage IIIB, chemotherapy deliberately delayed until after delivery (about 18 weeks from surgery)
   n: 1
-  outcome: delivered at 37 weeks
-- regimen: BEP x3 cycles
-  setting: adjuvant, postpartum
-  n: 1
-  outcome: no evidence of recurrence over five years after diagnosis
+  outcome: No evidence of disease; inhibin A and B normal; menses resumed; last contact over 5 years after presentation (conclusion says more than 4 years)
 presentation:
-- adnexal mass in pregnancy
-- acute abdomen
-- ascites
-- tumor rupture
+- incidental 8 cm left adnexal mass at 22 weeks gestation
+- abdominal pain, acute abdomen at 24 weeks with ruptured tumor and 600 mL bloody ascites
 key_findings:
-- 33 y.o. gravida 3, para 1 with an 8 cm left ovarian mass at 22 weeks gestation, initially misdiagnosed as degenerating fibroid; MRI showed 15 cm mass with ascites and omental implants.
-- Pre-op inhibin B elevated; exploratory laparotomy, left salpingo-oophorectomy, omental biopsy, small bowel resection at 25 weeks; ruptured tumor and metastases; cytoreduction to R0; JGCT FIGO stage IIIB.
-- Chemotherapy delayed until after delivery with monthly MRI surveillance; vaginal delivery at 37 weeks.
-- 3 cycles of bleomycin, etoposide, and cisplatin starting six weeks postpartum.
-- No evidence of recurrent disease at last contact over five years after diagnosis.
-- Authors state 3% of JGCTs are diagnosed after age 30 and 90% are stage I at diagnosis.
-relevance_to_jgct: Advanced-stage (IIIB) JGCT in pregnancy with long disease-free survival after R0 surgery and postpartum BEP.
+- 33-year-old G3P1 had an 8 cm left adnexal mass found on 22-week anatomy ultrasound (not seen at 14 weeks); an 11 cm solid mass at 4 days later was presumed a degenerating fibroid; MRI showed a 14.8 x 9.8 x 14.0 cm left ovarian mass with ascites and omental, cul-de-sac and probable paracolic implants.
+- At 24 weeks she presented with an acute abdomen; inhibin A 426 pg/mL and inhibin B 2,593.8 pg/mL were markedly elevated, AFP 74.5 ng/mL and CA-125 269.6 U/mL elevated, with normal LDH, CEA and CA 19-9.
+- 'Laparotomy: ruptured 15 cm left ovarian mass adherent to small bowel and transverse colon with metastases; left salpingo-oophorectomy, omental biopsy and small bowel resection achieved R0; omental biopsy negative and ascites nonmalignant.'
+- 'Pathology: JGCT with capsular rupture and surface involvement, lacking Call-Exner bodies, hyperchromatic nuclei without grooves, numerous mitoses, focal inhibin positivity; outside review confirmed FIGO stage IIIB.'
+- Adjuvant BEP was delayed to after delivery because of fetal toxicity concerns, with monthly MRI surveillance; no progression during pregnancy; induction at 37 weeks and uncomplicated vaginal delivery; 3 cycles of BEP started 6 weeks postpartum.
+- Inhibin A and B remained normal, menses resumed, and there was no recurrence at last contact over 5 years after initial presentation.
+- 'Authors'' literature statements: JGCT average age 13 years and 3% over 30; about 90% stage I; in Young et al. (125 cases) 94 stage IAI, 15 IAII, 2 IB, 10 IC, 2 IIB, 1 IIC with 6 of 7 deaths in stage IAII or higher and 0% one-year survival for IIB and IIC; two other pregnancy cases cited had no evidence of disease at 9 months to 7 years.'
+- Authors conclude shared decision making should guide chemotherapy timing in pregnancy and that large adnexal masses be removed in the second or third trimester.
+relevance_to_jgct: Advanced-stage (IIIB) JGCT in an adult during pregnancy with long survival after surgery and delayed BEP; supports inhibin A/B as markers.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC10040497 not read). Khoiwal 2026 (pmid-41797949) tabulates this case with 30 months follow-up, versus over five years in this abstract.
-confidence: 3
+notes: Follow-up is stated as over 5 years in the case text and more than 4 years in the conclusion. Pregnancy outcomes in the infant were reported as healthy. Many review statements are drawn from textbooks and older series rather than original data.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

@@ -1,0 +1,38 @@
+source_id: 10.59213/tp.2024.171
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.59213/tp.2024.171
+retrieved_on: '2026-10-30'
+full_text_source: https://trendspediatrics.com/article/download/171/132
+language: en
+pmid: null
+doi: 10.59213/tp.2024.171
+pmcid: null
+title: Evaluation of general characteristics of adolescent girls who had ovarian cystectomy (1-year single center experience)
+journal: Trends in Pediatrics
+year: 2024
+first_author: Ozguc Comlek F
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: series median 14.8 years (JGCT patient age not given)
+alterations: []
+treatments: []
+presentation:
+- 'series: abdominal pain in 11/15 (73.3%), incidental in 2/15, acute abdomen from ovarian torsion in 2/15'
+key_findings:
+- Retrospective single-center series (Selcuk University, Konya, Turkiye; March 2023 to March 2024) of 15 adolescent girls (median age 14.8 +/- 1.15 years) who underwent ovarian cystectomy.
+- 'Pathology (Table 2): simple cyst 7 (46.7%), paratubal serous cyst 4 (26.7%), endometrioma 2 (13.3%), serous cystadenoma 1 (6.7%), juvenile granulosa cell tumor 1 (6.7%).'
+- The paper gives no individual details for the JGCT patient (age, presentation, markers, imaging, stage or treatment are not separately reported); the discussion refers to the tumor and the cystadenoma as the two patients with a solid component on ultrasound.
+- 'Across the series no hormonal disorders were found: LH, FSH, estradiol, testosterone and tumor markers (AFP, beta-hCG, CEA, CA-125, LDH) were summarized as means; no abnormalities were reported; hirsutism was mild/moderate in 3 with normal ACTH, 17-OHP and DHEA-S.'
+- 'Ultrasound: mean long axis of cyst 75 +/- 55 mm in 13 patients; septate in 4, solid component in 2, otherwise pure cystic.'
+- No recurrent cysts were seen in approximately 9 months of postoperative follow-up; the authors emphasize ovary-preserving surgery given the low malignancy rates in this age group, and note that the small sample limits conclusions.
+relevance_to_jgct: 'Marginal: gives a single JGCT among 15 surgically treated adolescent ovarian cysts and tumors (6.7%) with no JGCT-specific clinical data. Useful only as an illustration that JGCT can present as an ovarian cyst/mass in a general adolescent surgical series.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Internal inconsistency: the discussion says the solid component was seen in the tumor and adenoma patients, but also reports a solid component in the patient with endometrioma. The abstract says the study evaluated outcomes, but only a roughly 9-month cyst recurrence statement is given and nothing JGCT-specific.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

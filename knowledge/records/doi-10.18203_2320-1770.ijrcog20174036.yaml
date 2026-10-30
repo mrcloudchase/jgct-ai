@@ -1,0 +1,36 @@
+source_id: 10.18203/2320-1770.ijrcog20174036
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.18203/2320-1770.ijrcog20174036
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ijrcog.org/index.php/ijrcog/article/download/3245/2731
+language: en
+pmid: null
+doi: 10.18203/2320-1770.ijrcog20174036
+pmcid: null
+title: 'Ovarian sex cord stromal tumors: an institutional experience'
+journal: International Journal of Reproduction, Contraception, Obstetrics and Gynecology
+year: 2017
+first_author: Bhargava S
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 8
+age_range: Whole series 8 to 82 years
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Retrospective histopathology series at SMS Medical College, Jaipur (July 2009 to June 2017): 158 ovarian sex cord-stromal tumors, ages 8 to 82 years, most commonly 30-40 years (22.8%) and 40-50 years (17.7%, text says maximum in 40-50 group).'
+- 'Histologic types: adult granulosa cell tumor 67 (42.4%), juvenile granulosa cell tumor 8 (5.1%), fibroma 31 (19.6%), Sertoli-Leydig cell tumor 24 (15.2%), fibrothecoma 14 (8.9%), sclerosing stromal tumor 7 (4.4%), thecoma 6 (3.8%), sex cord tumor with annular tubules 1.'
+- 'Whole series presentation: abdominal pain and lump 81, menstrual irregularity 49, anorexia and weight loss 14, virilization 12, precocious puberty 2; 152 tumors were unilateral and 6 bilateral (3 granulosa cell tumors, 2 fibromas, 1 SCTAT); 87 solid and 71 solid-cystic; 142 of 158 measured 5-15 cm.'
+- No JGCT-specific age, stage, treatment or outcome data are given. The authors note their JGCT percentage exceeds that of Cartault and Schneider and resembles Haroon et al.
+- Authors conclude sex cord-stromal tumors are rare in Indian women and need a high index of suspicion and clinicopathological correlation.
+relevance_to_jgct: Provides only a JGCT frequency (8/158, 5.1%) among ovarian sex cord-stromal tumors in one Indian institution.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Histology by H&E only; no immunohistochemistry or molecular testing, so JGCT classification is morphologic. Age table totals 158; the abstract says 30-40 years most common while the Results text says 40-50 years. No outcomes reported.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

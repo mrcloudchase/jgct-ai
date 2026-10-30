@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/23776871/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC3659885
 language: en
 pmid: '23776871'
 doi: 10.4103/2230-8210.107870
+pmcid: PMC3659885
 title: 'Juvenile granulosa cell tumor presenting as isosexual precocious puberty: A case report and review of literature.'
 journal: Indian journal of endocrinology and metabolism
 year: 2013
@@ -17,28 +18,29 @@ n_jgct_patients: 1
 age_range: 7 years
 alterations: []
 treatments:
-- regimen: right salpingo-oophorectomy (emergency, torsion)
-  setting: primary, FIGO IA
+- regimen: Right salpingo-oophorectomy (emergency laparotomy for torsion); no adjuvant chemotherapy
+  setting: FIGO stage IA
   n: 1
-  outcome: no recurrence at 3.5 years
+  outcome: Bleeding stopped, breast size regressed, estradiol normalized; no recurrence at 3.5 years
 presentation:
-- isosexual precocious puberty
-- vaginal bleeding
-- advanced bone age
-- ovarian torsion
+- isosexual precocious puberty with 18 months of progressive breast development
+- menarche one year earlier with 3-4 bleeding episodes
+- pubic hair growth, accelerated growth, advanced bone age
+- ovarian torsion presenting as acute abdomen
 key_findings:
-- 7-year-old girl with 18 months of progressive breast development, menarche 1 year earlier, Tanner IV breast and III pubic hair.
-- Serum estradiol 414 pg/ml with FSH <1 IU/L; bone age 8.5 years at chronological age 7 years 2 months; 6 x 7 x 9 cm right adnexal mass; beta-HCG, CEA, AFP negative; inhibin not measured.
-- Presented with ovarian torsion before planned surgery; emergency laparotomy and right salpingo-oophorectomy.
-- Encapsulated 450-gram tumor without capsular breach; histology noted nuclear grooving and extensive luteinisation; FIGO Stage IA.
-- Breast size regressed, bleeding stopped, estradiol normalized; no recurrence after 3 and half years.
-relevance_to_jgct: Classic isosexual precocity from stage IA JGCT, complicated by torsion, with no recurrence at 3.5 years after surgery alone.
+- A 7-year-old girl presented with 18 months of progressive breast development (Tanner IV breast, Tanner III pubic hair), menarche a year earlier, and height 125.2 cm and weight 26 kg above the 75th centile; bone age was 8.5 years at chronological age 7 years 2 months.
+- Serum estradiol was 414 pg/ml (prepubertal <20 pg/ml) with suppressed FSH (<1 IU/L); beta-hCG, CEA and AFP were negative; inhibin was not measured because testing was unavailable at the center.
+- Pelvic ultrasound showed a 6 x 7 x 9 cm heterogeneous solid right adnexal mass with hypoechoic necrotic areas and increased vascularity; elective excision was planned but she presented a week later with ovarian torsion and underwent emergency laparotomy with right salpingo-oophorectomy.
+- The resected tumor was encapsulated, 450 g, 10 x 8 x 5 cm, without capsular breach; histology showed microfollicular and nodular patterns, nuclear grooving, inconspicuous nucleoli and extensive luteinisation; ascitic fluid was negative for malignant cells; final diagnosis was benign feminizing JGCT, FIGO stage IA.
+- After surgery the breast size regressed, bleeding stopped and estradiol normalized; no recurrence at 3.5 years. No chemotherapy was given.
+- In its literature discussion the paper states JGCT is under 5% of childhood ovarian tumors, 5-year survival is 90-95% for FIGO stage I and 25-50% for advanced stages, recurrences occur mostly in the first 3 years, and cisplatin-based adjuvant chemotherapy is needed for stage Ic, IIIc or high mitotic rate (these are the authors' review statements, not data from this patient).
+- The paper cites activating G-alpha-s mutations in 30%, trisomy 12, 14 and monosomy 22 as genetic aberrations, and states FOXL2 expression, age <10 years, precocious pseudopuberty and stage I are associated with good prognosis; no molecular testing was performed in this patient.
+relevance_to_jgct: Typical estrogen-secreting stage IA ovarian JGCT with isosexual precocious puberty cured by unilateral salpingo-oophorectomy alone.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text via PMC3659885. The abstract's wording closely matches the abstract of Fleming 2010 [pmid-20371195], but the cases differ (right side with torsion here; left side in Fleming).
-confidence: 4
+notes: Narrative review statements are the authors' citations of other work and are not independently verified here. Abstract wording matches full text; the full text gives the 3.5-year follow-up.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

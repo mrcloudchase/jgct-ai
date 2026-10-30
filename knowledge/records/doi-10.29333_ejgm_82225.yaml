@@ -1,0 +1,47 @@
+source_id: 10.29333/ejgm/82225
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.29333/ejgm/82225
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ejgm.co.uk/download/juvenile-granulosa-cell-tumor-and-high-blood-ca-125-levels-in-children-with-pseudo-meigs-syndrome-7080.pdf
+language: en
+pmid: null
+doi: 10.29333/ejgm/82225
+pmcid: null
+title: Juvenile Granulosa Cell Tumor and High Blood Ca-125 Levels in Children with Pseudo-Meigs Syndrome
+journal: European Journal of General Medicine
+year: 2013
+first_author: Ciftci I
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 2 years
+alterations: []
+treatments:
+- regimen: Excision of 15 cm capsulated left ovarian mass with left uterine cornu and fallopian tube; ascites aspirated; hernia repair
+  setting: primary surgery
+  n: 1
+  outcome: Hydrothorax resolved at 1 month; CA-125 12 U/mL, estradiol 30 pg/mL at 1 month; follow-up without problems
+presentation:
+- breast enlargement for one month (Tanner III thelarche)
+- abdominal distension with 15 cm mobile mass
+- ascites
+- right pleural effusion (pseudo-Meigs syndrome)
+- right inguinal hernia
+- no respiratory problems
+key_findings:
+- A 2-year-old girl presented with one month of breast enlargement (Tanner III), abdominal distension and a 15 cm mobile mass, with ascites and right pleural effusion (pseudo-Meigs syndrome).
+- CA-125 was 366 U/mL (normal 0-35) and estradiol 602.5 pg/mL (normal 6.0-27).
+- Ultrasound/MRI showed a 12 x 7.5 cm (US) to 13 x 10 x 8 cm (MRI) cystic-solid mass with peripheral enhancement and necrosis, thought to arise from the left ovary.
+- At surgery a 15 cm capsulated left ovarian tumor adherent to the left uterine cornu and omentum was removed with the cornu and tube; pathology size 17 x 16 x 15 cm; solid islets and follicle-like structures, no nuclear grooves, notable mitoses, occasional theca cells.
+- At 1 month CA-125 fell to 12 U/mL, estradiol to 30 pg/mL, and the hydrothorax had disappeared; follow-up showed no problems (duration not specified).
+- Authors state this was the youngest reported JGCT with pseudo-Meigs syndrome and that thoracic intervention is unnecessary unless respiratory distress is present.
+relevance_to_jgct: Toddler JGCT presenting with pseudo-Meigs syndrome, high CA-125 and estradiol that normalized after surgery.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Originally in English with Turkish abstract. No IHC or formal stage reported. Claim of youngest case is the authors' own.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

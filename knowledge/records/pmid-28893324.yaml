@@ -1,0 +1,38 @@
+source_id: '28893324'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/28893324/
+retrieved_on: '2026-10-30'
+full_text_source: PMC5594432
+language: en
+pmid: '28893324'
+doi: 10.1186/s13048-017-0353-0
+pmcid: PMC5594432
+title: Selecting treatment method for ovarian masses in children - 24 years of experience.
+journal: J Ovarian Res
+year: 2017
+first_author: Luczak J
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: series 0-18 years (malignant group median 10 years)
+alterations: []
+treatments: []
+presentation:
+- 'Malignant ovarian group: palpable mass 81.8%, abdominal distension, abdominal pain 50%'
+key_findings:
+- 'Wroclaw (Poland) pediatric surgery series of 214 girls operated 1991-2014 for ovarian lesions: 127 non-neoplastic, 65 benign tumors, 22 malignant (10.28%).'
+- 'Malignant lesions: dysgerminoma 7, juvenile granulosa cell tumor 4, immature teratoma 4, Burkitt lymphoma 2, and single cases of malignant mesenchymoma, embryonal carcinoma, serous papillary carcinoma, androblastoma and Sertoli cell tumor.'
+- JGCT-specific age, stage, treatment, marker values and outcome are not reported; the 4 JGCT are included in malignant-group figures only.
+- In the malignant group, 17/22 (77.3%) lesions were large (10 cm or more) versus 32.8% of non-malignant; solid or mixed structure in all malignant tumors; markers positive in 14/20 (70%).
+- Positive tumor markers, large size and age under 14 years independently distinguished malignant from non-malignant lesions; no malignancy occurred in 54 patients with purely cystic structure and negative markers.
+- Authors report nearly 80% of malignant cases presented with palpable mass, suggesting delayed diagnosis, and propose a gonad-sparing management algorithm.
+relevance_to_jgct: Provides a frequency count of JGCT (4 of 22 malignant ovarian tumors) in a large pediatric surgical series; no JGCT-level clinical or outcome data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Text percentages for ultrasound subgroups contain small internal inconsistencies (e.g. 5.29% versus 5.55%). The paper does not state whether the 4 JGCT were among those with positive markers.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

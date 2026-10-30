@@ -1,0 +1,44 @@
+source_id: 10.59692/jogeca.v36i1.90
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.59692/jogeca.v36i1.90
+retrieved_on: '2026-10-30'
+full_text_source: https://jogeca.com/index.php/jogeca/article/view/90
+language: en
+pmid: null
+doi: 10.59692/jogeca.v36i1.90
+pmcid: null
+title: 'Successful pregnancy outcome with a large ruptured juvenile granulosa cell tumor: A case report'
+journal: Journal of Obstetrics and Gynaecology of Eastern and Central Africa
+year: 2024
+first_author: Sonigra K
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 19 years
+alterations: []
+treatments:
+- regimen: Emergency laparotomy and cesarean delivery, right salpingo-oophorectomy with cystectomy, then 6 cycles cisplatin and paclitaxel
+  setting: FIGO stage IC2, 36 weeks of pregnancy
+  n: 1
+  outcome: post-chemotherapy MRI normal viscera, minimal free fluid in cul de sac, normal left ovary; inhibin B fell to 3.17; follow-up planned for 5 years
+presentation:
+- 2 days of generalized abdominal pain, headaches, reduced fetal movements at 36 weeks
+- left-sided 15.7 x 15 cm cyst and solid vascular mass with maternal ascites
+- fetal biophysical profile 4/8
+- torsed ruptured right ovarian mass at laparotomy
+key_findings:
+- 19-year-old primigravida at 36 weeks with abdominal pain, headaches and reduced fetal movements; ultrasound showed a 15.7 x 15 cm cyst with a solid hypervascular mass and maternal ascites; fetal biophysical profile 4/8.
+- Emergency laparotomy found a massive torsed right ovary with a ruptured mass and edematous, necrosed fallopian tubes (abstract also refers to a left-sided mass on ultrasound).
+- After cesarean delivery of the fetus, right salpingo-oophorectomy with cystectomy was performed; histology confirmed JGCT, FIGO stage IC2.
+- 'Postoperative chemotherapy: six sessions of cisplatin and paclitaxel; post-chemotherapy MRI showed normal abdominal viscera with minimal free fluid in the posterior cul de sac and a normal left ovary; inhibin B dropped to 3.17 (units not stated).'
+- Planned follow-up for 5 years with tumor markers and CT; authors conclude aggressive treatment is necessary for advanced-stage tumors like this one to prevent recurrence or death.
+relevance_to_jgct: Adult-age JGCT in late pregnancy presenting with torsion and rupture (stage IC2) treated with surgery and platinum-taxane chemotherapy; short follow-up.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'The retrieved source is the journal page for a conference-abstract item (abstract only; the page lists the section as ''Conference abstracts''); the complete item is the abstract, so tier is conference_abstract. Laterality is inconsistent: ultrasound left-sided mass vs right ovary at surgery. Inhibin B units not given. Outcome beyond treatment completion not reported.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

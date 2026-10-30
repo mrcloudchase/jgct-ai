@@ -1,0 +1,41 @@
+source_id: '21481441'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21481441/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3138896
+language: en
+pmid: '21481441'
+doi: 10.1016/j.ygyno.2011.03.020
+pmcid: PMC3138896
+title: Patterns of spread and recurrence of sex cord-stromal tumors of the ovary.
+journal: Gynecol Oncol
+year: 2011
+first_author: Thrall MM
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: series median 50 years (range 13-88)
+alterations: []
+treatments:
+- regimen: Adjuvant therapy (mostly bleomycin/etoposide/cisplatin; n=10 BEP) in 15 of 87 patients
+  setting: mostly stage IC or higher or high-risk features, whole series
+  n: 15
+  outcome: Not reported separately for the one JGCT patient
+presentation: []
+key_findings:
+- 'Retrospective review of 87 ovarian sex cord-stromal tumor patients (Seattle, 1990-2009): 71 adult granulosa cell tumors, 11 Sertoli-Leydig cell tumors, 2 mixed, 2 unclassified and 1 juvenile granulosa cell tumor (1%).'
+- No individual clinical, staging, treatment or outcome data are given for the single JGCT patient.
+- Of 59 patients with complete or partial staging, 47 had lymph nodes examined (median 14 nodes, range 3-80) and none had nodal involvement.
+- 18 of 79 patients with follow-up had at least one recurrence (median time to recurrence 46.6 months, range 2.6-186); 2 had isolated retroperitoneal recurrence, neither with nodal sampling at primary surgery.
+- 'Tumor size predicted survival: median survival 177 months for tumors under 10 cm versus 101 months for 10 cm or larger (p=0.006); no recurrences with tumors under 7 cm; multivariate HR about 1.20 per cm.'
+- Authors conclude lymph node metastasis is rare in sex cord-stromal tumors and routine lymphadenectomy can be omitted from staging.
+relevance_to_jgct: Mostly adult granulosa cell tumor series; included only because it contains one JGCT patient (a count), with no JGCT-specific outcomes. Its lymph node findings apply to a predominantly adult population (median age 50).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The abstract's HR confidence interval (1.11-1.07) and the text's (1.106-1.065) are misprinted in the source. Table 1 lists stage III as 3 while text lists 2 plus 1 grossly advanced case.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

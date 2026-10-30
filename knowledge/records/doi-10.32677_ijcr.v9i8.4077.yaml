@@ -1,0 +1,48 @@
+source_id: 10.32677/ijcr.v9i8.4077
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.32677/ijcr.v9i8.4077
+retrieved_on: '2026-10-30'
+full_text_source: https://mansapublishers.com/ijcr/article/download/4077/3377
+language: en
+pmid: null
+doi: 10.32677/ijcr.v9i8.4077
+pmcid: null
+title: 'Juvenile granulosa cell tumor of the ovary: A rare cause of precocious puberty in a toddler'
+journal: Indian Journal of Case Reports
+year: 2023
+first_author: Salih KA
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 18 months
+alterations: []
+treatments:
+- regimen: Left oophorectomy with surgical staging and peritoneal washings (laparotomy); no adjuvant chemotherapy
+  setting: FIGO stage IA
+  n: 1
+  outcome: Secondary sexual characteristics regressed, bleeding stopped, estradiol normalized; no recurrence at 30 months
+presentation:
+- breast enlargement and pubic hair for 2 weeks
+- vaginal bleeding for 2 days
+- Tanner II breast and pubic hair
+- firm mobile non-tender 8x5 cm left lower abdominal mass
+- bone age 22 months vs chronological age 18 months
+key_findings:
+- 'Case report from Trivandrum, India: 18-month-old girl with isosexual peripheral precocious puberty (breast enlargement, pubic hair, vaginal bleeding) and a palpable left lower abdominal mass of 8x5 cm.'
+- 'Labs: estradiol 351 pg/mL (<10), LH 0.01 mIU/mL and FSH 0.49 mIU/mL (suppressed), inhibin A 790 pg/mL (<7), hCG and AFP normal.'
+- 'Ultrasound: heterogeneously hyperechoic solid pelvic lesion with cystic areas and internal vascularity, 8x4x7.2 cm, no calcification, mildly bulky uterus with 6 mm endometrium, normal right ovary.'
+- 'Laparotomy: uniformly enlarged left ovary with solid, freely mobile 7x6x4 cm tumor, 10-15 mL serous fluid with negative cytology, no lymph node enlargement; left oophorectomy with staging.'
+- 'Histology: well-encapsulated, predominantly solid with trabeculated cystic areas; macrofollicular, microcystic, cord and pseudopapillary patterns; polygonal cells, pleomorphic vesicular nuclei with prominent nucleoli, no nuclear grooving; 7-9 mitotic figures per hpf; inhibin A positive; FIGO stage IA.'
+- After surgery breast size and pubic hair regressed, bleeding stopped and estradiol normalized; free of recurrence at 30 months.
+- 'Authors'' discussion (cited statements): isosexual precocity occurs in 70-80% of prepubertal girls with GCT but GCT causes only 1% of precocity in girls; 5-year survival 90-95% for stage I JGCT and 25-50% for advanced; adjuvant cisplatin-based chemotherapy needed for stage IC and IIIC or high mitotic rate; recurrences mostly in the first 3 years but late recurrence can occur; inhibin/AMH follow-up recommended.'
+- 'Authors'' conclusion: JGCT must be included in the differential diagnosis of girls with precocious puberty; timely complete excision normalizes hormones; ovary-preserving operations should be performed when feasible.'
+relevance_to_jgct: Case of an infant (18 months) JGCT with very high inhibin A and precocious pseudopuberty, treated by oophorectomy alone at stage IA with 30-month disease-free follow-up.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The abstract says the mass was 'heterogeneously hypoechoic' whereas the case text says 'hyperechoic'. The authors label the tumor 'benign juvenile granulosa cell tumor stage IA' in the text. Review statements are cited from other sources.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

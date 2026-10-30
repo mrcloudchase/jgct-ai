@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/34306284/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC8258790
 language: en
 pmid: '34306284'
 doi: 10.1016/j.radcr.2021.06.008
+pmcid: PMC8258790
 title: 'Coincidence of juvenile granulosa cell tumor and serous cystadenoma in a pediatric patient: Case report and literature review.'
 journal: Radiology case reports
 year: 2021
@@ -17,23 +18,29 @@ n_jgct_patients: 1
 age_range: 4 years
 alterations: []
 treatments:
-- regimen: surgical resection of left ovarian tumor
-  setting: primary
+- regimen: Left salpingo-oophorectomy; adjuvant chemotherapy (agents and cycles not stated)
+  setting: FIGO stage IC (cyst rupture)
   n: 1
-  outcome: contralateral serous cystadenoma resected 1 year later
+  outcome: Estradiol normalized after resection; new right ovarian cystic mass at 1 year proved benign serous cystadenoma after resection; no JGCT recurrence reported
 presentation:
-- precocious puberty
+- breast enlargement for 6 weeks
+- palpable left iliac fossa mass
+- growth above age-expected height and weight (precocious puberty)
+- estradiol 133.2 pg/mL
 key_findings:
-- 4-year-old female with precocious puberty diagnosed with left ovarian JGCT after surgical resection.
-- 1 year after JGCT resection, a multiloculated cystic mass in the right ovary was resected and diagnosed as serous cystadenoma.
-- Authors stress distinguishing JGCT recurrence from other cystic ovarian tumors in follow-up imaging.
-relevance_to_jgct: Metachronous benign contralateral tumor after JGCT; relevant to interpreting surveillance imaging.
+- 4-year-old girl with 6 weeks of breast enlargement, weight 22 kg and height 116 cm (both 85th-97th centile), a palpable left iliac fossa mass and serum estradiol 133.2 pg/mL.
+- Ultrasound showed a large multilobulated cystic left ovarian mass with septa of varying thickness in a sponge-like pattern, hypovascular walls and fluid-fluid levels; MRI without contrast showed a honeycomb-like multiseptated cystic mass up to about 101 mm with blood-fluid levels (T1 hyperintense hemorrhage), bladder compression and uterine deviation, and about 5 mm of Douglas pouch fluid.
+- 'Laparotomy: 10 x 5 x 4 cm left ovarian cystic mass with several ruptured cysts; pelvic lymph nodes and ascites negative for malignancy; left salpingo-oophorectomy; staged FIGO IC.'
+- 'Histology: solid nests of cells with narrow cytoplasm and grooved round hyperchromatic nuclei, microcysts with eosinophilic secretions; IHC positive for calretinin, inhibin and Ki-67, consistent with JGCT.'
+- Estradiol fell to normal after resection and she received adjuvant chemotherapy (agents not specified) with routine monitoring.
+- One year later a new multilobulated cystic right ovarian mass appeared with normal estradiol (<0.5 pg/mL); after 5 months of follow-up it was resected and was histologically serous cystadenoma (single layer of tall ciliated tubal-type cells), not JGCT recurrence.
+- Authors state that two different tumors in each ovary in a child is extremely rare, that benign thin-walled cystic features on US/MRI helped separate cystadenoma from recurrent GCT, and that chemotherapy is currently recommended only for advanced, recurrent or metastatic disease.
+relevance_to_jgct: Cautions that a new contralateral cystic ovarian mass after JGCT resection may be a benign tumor rather than recurrence; documents imaging (sponge-like, hemorrhagic) of a childhood JGCT.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC8258790 not read). Compare the similar metachronous contralateral cystadenoma report pmid-32745618.
-confidence: 2
+notes: Adjuvant chemotherapy was given for stage IC disease but regimen is unspecified. The Discussion states juvenile GCT has 'an increased risk of recurrence compared with adult GCT', which differs from other sources in this repository that describe late recurrence as characteristic of adult GCT; this is the authors' statement. Follow-up duration beyond about 1.5 years is not given.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

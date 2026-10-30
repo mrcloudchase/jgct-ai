@@ -1,0 +1,58 @@
+source_id: '29037807'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/29037807/
+retrieved_on: '2026-10-30'
+full_text_source: PMC5716477
+language: en
+pmid: '29037807'
+doi: 10.1016/j.ygyno.2017.09.034
+pmcid: PMC5716477
+title: 'DICER1-related Sertoli-Leydig cell tumor and gynandroblastoma: Clinical and genetic findings from the International Ovarian and Testicular Stromal Tumor Registry.'
+journal: Gynecologic oncology
+year: 2017
+first_author: Schultz KAP
+study_type: registry
+tumor_site: ovary
+n_jgct_patients: 25
+age_range: median 9 years (range 1 month-28 years)
+alterations:
+- gene: DICER1
+  alteration: germline mutation
+  frequency: 0/19 JGCT tested
+  notes: versus 25/41 SLCT and 3/5 gynandroblastoma
+- gene: DICER1
+  alteration: tumor sequencing (RNase IIIb hotspot or other)
+  frequency: 0/2 JGCT sequenced
+  notes: versus 36/37 SLCT and 4/4 gynandroblastoma
+treatments:
+- regimen: Surgery alone
+  setting: JGCT stage Ia (n=7) and Ib (n=1), plus 3 of 4 stage IC and 2 of 4 stage IC2 and 1 of 3 >IC and the 6 unknown stage
+  n: 20
+  outcome: All 8 stage Ia/Ib patients free of disease at median follow-up 9 months (1-77)
+- regimen: Adjuvant chemotherapy (BEP/PEB given to 4 JGCT; carboplatin-etoposide-bleomycin to 1 JGCT)
+  setting: JGCT stage IC or higher
+  n: 5
+  outcome: Of 11 patients with stage IC or greater, 3 (27%) died of disease at median 17 months (10-44)
+presentation: []
+key_findings:
+- 'International Ovarian and Testicular Stromal Tumor (OTST) Registry report on the first 107 enrolled individuals (December 2011 to March 2016) with ovarian sex cord-stromal tumors: 49 SLCT, 25 JGCT, 5 gynandroblastoma, 10 adult granulosa cell tumors and others; pathology centrally reviewed in 98/107 (local and central diagnoses agreed in 80/98, 82%).'
+- 'JGCT (n=25): median age at presentation 9 years (range 1 month to 28 years); 40% Caucasian; most had hormonal symptoms; median time from diagnosis 15 months (0-415); status NED 21 (84%), in recurrence treatment 1 (4%), deceased 3 (12%).'
+- 'JGCT staging and outcome (Table 4): stage IA 7, IB 1, IC 4, IC2 4, above IC 3, unknown 6; 5 received adjuvant chemotherapy and 20 surgery only; 5 relapses and 3 deaths overall; stage IA/IB patients (8) all treated with surgery alone and free of disease at median 9 months (1-77).'
+- 'Of 11 JGCT patients with stage IC or greater, 3 (27%) died of disease at median 17 months (10-44); by the table, IC: 2 NED, 2 relapse, 1 death of 4; IC2: 4 of 4 NED (2 chemotherapy); above IC: 1 NED, 2 relapse, 2 deaths of 3.'
+- Intraoperatively ruptured JGCT was generally treated with surgery alone (14 of 24, 58.3%); the most common chemotherapy was cisplatin-etoposide-bleomycin (JGCT=4); one JGCT patient received carboplatin-etoposide-bleomycin.
+- Germline DICER1 testing was negative in all 19 JGCT tested and tumor sequencing found no DICER1 mutation in the 2 JGCT sequenced; no DICER1 mutation was found in any centrally reviewed non-SLCT/GAB sex cord-stromal type.
+- Two patients with DICER1 mutations diagnosed locally as JGCT were reclassified as gynandroblastoma on central review, which the authors cite as showing DICER1 tumor testing can help in difficult-to-classify cases.
+- By contrast, 97% (36/37) of sequenced SLCTs and 4/4 gynandroblastomas had DICER1 RNase IIIb hotspot mutations, about half with predisposing germline or mosaic mutations; authors recommend central pathology review and DICER1 testing for SLCT/GAB, and consideration in other sex cord-stromal tumors if history suggests DICER1 predisposition.
+relevance_to_jgct: Registry-derived JGCT cohort (n=25) with stage-specific outcomes and DICER1 results showing JGCT is not DICER1-related, in contrast to SLCT/GAB. Short follow-up limits survival inference.
+conflicts_with:
+- pmid-37567969
+overlaps_with:
+- url-599767ff9c45
+- pmid-40267023
+superseded_by: null
+retracted: false
+notes: Registry enrollment may favor referral of difficult or advanced cases; for 5 JGCT no pathologic material was available and the local diagnosis was used. Stage counts in Table 4 (7+1+4+4+3+6) sum to 25; status NED 21, relapse 5 (some relapsed patients later NED). Likely overlap with other OTST Registry papers. Journal and first author not in cached text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

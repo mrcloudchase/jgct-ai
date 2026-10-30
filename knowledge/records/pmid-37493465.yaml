@@ -1,0 +1,48 @@
+source_id: '37493465'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37493465/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10387786
+language: en
+pmid: '37493465'
+doi: 10.1177/03000605231187796
+pmcid: PMC10387786
+title: 'Mixed sex cord-stromal tumor (gynandroblastoma) with malignant morphology involving both ovaries: a case report.'
+journal: J Int Med Res
+year: 2023
+first_author: Maraqa B
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years
+alterations:
+- gene: DICER1
+  alteration: germline pathogenic variant c.3094-2_3096del
+  frequency: 1 of 1 patient
+  notes: splice-site/deletion variant as reported; patient placed on DICER1 surveillance
+treatments:
+- regimen: Left salpingo-oophorectomy, then right salpingo-oophorectomy at 1 year; oocyte cryopreservation; carboplatin/paclitaxel
+  setting: gynandroblastoma with JGCT component, metachronous bilateral
+  n: 1
+  outcome: no evidence of recurrence after 2 years
+presentation:
+- left abdominal pain
+- prolonged menstrual bleeding
+- hirsutism
+key_findings:
+- A 15-year-old girl presented with left abdominal pain, prolonged menstrual bleeding and hirsutism; history of left nephrectomy at age 1 year for a reportedly benign mass; a first-degree relative had metastatic breast cancer at age 30.
+- Ultrasound and CT showed a large left ovarian mass; left salpingo-oophorectomy removed an 18 x 14 x 7 cm tumor with nodular/diffuse growth, macro- and microfollicles with eosinophilic secretions; cells positive for SF-1 and inhibin, focally CK positive, SALL4 negative, membranous beta-catenin; diagnosed as juvenile granulosa cell tumor.
+- One year later a 4.5 cm right ovarian mass was found on follow-up ultrasound; serum inhibin and AMH were negative; right salpingo-oophorectomy showed poorly differentiated spindle/polygonal Sertoli cells with fewer Leydig cells, focal tubules, cystic follicles, necrosis and mitotic rate of 20 per 10 HPF (positive SF-1, membranous beta-catenin, alpha-inhibin, calretinin; negative SALL4, CK7, EMA).
+- Comparison with the first tumor showed areas with tubules and cords of Sertoli cells, so the authors concluded both tumors were related and most likely a gynandroblastoma (mixed sex cord-stromal tumor with juvenile GCT component and poorly differentiated Sertoli-Leydig component).
+- The patient had oocyte cryopreservation and carboplatin/paclitaxel chemotherapy with no evidence of recurrence after 2 years; genetic testing found a pathogenic germline DICER1 variant (c.3094-2_3096del), and she developed multinodular goiter during follow-up; the childhood nephrectomy was thought probably DICER1-related.
+- The authors state that juvenile GCT is about 5% of GCT but about 90% of GCT in prepubertal and under-30 patients, secretes estrogen causing precocious puberty in about 80%, and lacks FOXL2 mutation; they found no prior report of bilateral involvement by gynandroblastoma with a JGCT component and suggest the grade of the Sertoli-Leydig component may drive prognosis.
+relevance_to_jgct: Documents JGCT morphology within a gynandroblastoma in a DICER1 germline carrier, with metachronous contralateral recurrence as poorly differentiated Sertoli-Leydig tumor, supporting DICER1 testing in JGCT-like tumors with mixed morphology.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Whether the first tumor was a pure JGCT or already part of the gynandroblastoma was a retrospective interpretation after the second tumor. The authors cite 6 of 28 gynandroblastoma cases with JGCT component in the literature. Follow-up is short (2 years). Date of the carboplatin/paclitaxel course relative to surgery is not specified in detail.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

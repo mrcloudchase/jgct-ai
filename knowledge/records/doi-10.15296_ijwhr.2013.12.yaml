@@ -1,0 +1,39 @@
+source_id: 10.15296/ijwhr.2013.12
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.15296/ijwhr.2013.12
+retrieved_on: '2026-10-30'
+full_text_source: https://ijwhr.net/pdf/pdf_IJWHR_10.pdf
+language: en
+pmid: null
+doi: 10.15296/ijwhr.2013.12
+pmcid: null
+title: Premature Thelarche and Precocious Puberty in a Three-Year-Old Girl with Granulosa Cell Tumor
+journal: Int J Womens Health Reprod Sci
+year: 2013
+first_author: Ghanbari Z
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 3 years
+alterations: []
+treatments: []
+presentation:
+- breast development (premature thelarche) with isosexual precocity
+- abdominal swelling and pain
+- left adnexal mass with cystic components, adherent to anterior bowel loops
+key_findings:
+- A 3-year-old girl presented to the pediatric clinic of the Children's Hospital (Tabriz University of Medical Sciences, Iran) in July 2011 with breast enlargement (premature thelarche), abdominal swelling and pain, and no significant past medical history.
+- Pelvic ultrasonography showed a hypoechoic solid mass; abdominopelvic MRI with and without contrast showed a left adnexal enhancing mass with multiple cystic components pushing bowel loops to the right with tumor adhesion to anterior bowel loops.
+- 'Microscopic features of the resected mass were reported as characteristic of juvenile granulosa cell tumor (figure legend: with hyaline globules); no hormone levels, immunohistochemistry, stage, surgical procedure details or follow-up are reported.'
+- The author concludes precocious puberty may be the most common presentation of GCT in children and that ovarian tumors must be considered among its causes; the discussion also states stage I disease is treated by unilateral oophorectomy without adjuvant chemotherapy and that prognosis depends on stage, with better prognosis in premenarchal girls than adults.
+relevance_to_jgct: Brief case report of a 3-year-old with JGCT presenting as precocious puberty; very limited clinical detail (no hormones, stage, treatment or outcome).
+conflicts_with: []
+overlaps_with:
+- pmid-31529256
+superseded_by: null
+retracted: false
+notes: The Methods/Results sections are minimal; treatment and outcome are not reported. The Discussion contains mixed general statements, some about adult GCT. This is the 'Ghanbari 2013' JGCT case counted in the paediatric MRI systematic review (pmid-31529256).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

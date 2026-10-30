@@ -1,0 +1,57 @@
+source_id: '34169133'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34169133/
+retrieved_on: '2026-10-30'
+full_text_source: PMC8207187
+language: en
+pmid: '34169133'
+doi: 10.1016/j.gore.2021.100806
+pmcid: PMC8207187
+title: 'Recurrent gynandroblastoma of the ovary with germline DICER1 mutation: A case report and review of the literature.'
+journal: Gynecologic oncology reports
+year: 2021
+first_author: Mercier AM
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years at original diagnosis; 24 years at recurrence
+alterations:
+- gene: DICER1
+  alteration: germline c.2488G>T p.E830* (stop codon); tumor with biallelic loss-of-function and RNase IIIb missense mutations
+  frequency: 1/1
+  notes: Both of the patient's children carry the germline variant
+- gene: NBN
+  alteration: p.N256S variant of unknown significance
+  frequency: 1/1
+  notes: Germline 23-gene panel
+treatments:
+- regimen: Left salpingo-oophorectomy, partial bladder resection, excision of abdominal wall peritoneal disease, then 4 cycles BEP
+  setting: initial stage IIC JGCT at age 15
+  n: 1
+  outcome: Recovered, two children; recurrence about 9 years later as gynandroblastoma
+- regimen: Total abdominal hysterectomy, right salpingo-oophorectomy, omentectomy, pelvic and para-aortic lymphadenectomy
+  setting: recurrence
+  n: 1
+  outcome: Nodes and omentum free of disease; no further follow-up reported
+presentation:
+- hirsutism
+- irregular menses
+- inhibin B rising from under 10 to 12 and then 89
+- 5 x 5 cm septated right adnexal mass
+key_findings:
+- A 24-year-old (G2P2) woman with a history of left ovarian JGCT diagnosed at 15 after laparoscopic cystectomy with intraoperative cyst rupture; she then had left salpingo-oophorectomy, partial bladder resection and excision of abdominal wall peritoneal metastasis for stage IIC JGCT, followed by 4 cycles of bleomycin, etoposide and cisplatin.
+- At 24 she presented with worsening hirsutism and irregular menses; inhibin B rose from stable values under 10 to 12 and then 89; CT showed a 5 x 5 cm septated multiloculated right adnexal mass.
+- Surgery found a ruptured cystic right ovarian mass with right common and lower para-aortic lymphadenopathy; pathology showed recurrent gynandroblastoma (intermediately differentiated Sertoli-Leydig cell tumor component plus JGCT component with variably sized cysts); inhibin and calretinin positive, reticulin lost in the JGCT-like areas; lymph nodes and omentum were free of tumor.
+- Review of the original 2012 slides showed similar findings, suggesting the first tumor was in fact a gynandroblastoma.
+- Tumor DICER1 testing showed biallelic loss-of-function and RNase IIIb missense mutations; germline testing found DICER1 c.2488G>T (p.E830*) and an NBN variant of unknown significance; both children carry the DICER1 variant.
+- 'From the literature review: AKT1 mutations are reported in most JGCTs and FOXL2 in adult GCT; seven gynandroblastomas with a JGCT component have been described; the OTST registry median age for DICER1 ovarian tumors is 16.9 years; authors recommend DICER1 germline testing for ovarian SLCT or gynandroblastoma, with consensus screening (pelvic ultrasound every 6-12 months from age 8-10 to 40).'
+relevance_to_jgct: Shows that an apparent JGCT in a teenager was retrospectively a gynandroblastoma with germline DICER1, supporting DICER1 testing when a JGCT has a Sertoli-Leydig component or recurs.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Case was originally diagnosed as pure JGCT; reclassification rests on re-review of slides. The text gives 2012 as the year of the original surgery. Journal and DOI not stated in the retrieved text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

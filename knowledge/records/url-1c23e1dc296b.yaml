@@ -3,35 +3,46 @@ source_type: url
 source_tier: conference_abstract
 source_url: https://doi.org/10.54053/001c.93947
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: https://www.napgo.org/article/93947.pdf
 language: en
 pmid: null
 doi: 10.54053/001c.93947
+pmcid: null
 title: Atypical presentations of dicer1 syndrome in adults with juvenile granulosa cell tumor
-journal: North American Proceedings in Gynecology & Obstetrics 3(2)
+journal: North American Proceedings in Gynecology & Obstetrics (CAOG conference abstracts)
 year: 2024
 first_author: Hamai C
 study_type: case_series
 tumor_site: ovary
 n_jgct_patients: 2
-age_range: adults
+age_range: 20 and 25 years
 alterations:
 - gene: DICER1
-  alteration: germline (DICER1 syndrome)
-  frequency: 2 cases
-  notes: null
-treatments: []
-presentation: []
+  alteration: c.556delT (germline, patient 1)
+  frequency: 1/2 patients
+  notes: all three male children of patient 1 carry the same variant
+- gene: DICER1
+  alteration: c.2988-20_2988del (germline, patient 2)
+  frequency: 1/2 patients
+  notes: patient 2 had malignant follicular thyroid carcinoma at age 11
+treatments:
+- regimen: Exploratory laparotomy with mass removal and staging
+  setting: adult JGCT with germline DICER1
+  n: 2
+  outcome: not reported
+presentation:
+- complex abdominal masses on imaging after clinical evaluation of symptoms
 key_findings:
-- Describes 'two uncommon presentations of DICER1 syndrome in adults with juvenile granulosa cell tumors (JGCT), rarely seen with this syndrome.'
-- No clinical details, ages, or variant data in the abstract.
-relevance_to_jgct: Two adult JGCT cases with DICER1 syndrome; supports a rare DICER1-JGCT association.
+- Two women (20 and 25 years old) had complex abdominal masses on imaging; final pathology after exploratory laparotomy with mass removal and staging was juvenile granulosa cell tumor (JGCT) in both.
+- 'Both then had genetic testing showing heterozygous germline DICER1 pathogenic variants: patient 1 DICER1 c.556delT (all three of her male children were also found to carry it); patient 2 DICER1 c.2988-20_2988del, with malignant follicular thyroid carcinoma diagnosed at age 11.'
+- Family histories of both suggested undiagnosed DICER1 syndrome in multiple relatives.
+- Authors conclude the association of JGCTs with DICER1 syndrome may be underrecognized and underreported; they describe JGCT as rarely seen with this syndrome.
+relevance_to_jgct: Two adult JGCT cases with germline DICER1 variants, supporting testing for DICER1 in JGCT.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract reconstructed verbatim from OpenAlex abstract_inverted_index (W4391915874). Tiered conference_abstract because the venue is a proceedings outlet and the item is a brief abstract; peer-review status not verified. Thin abstract.
-confidence: 2
+notes: Whole abstract read from the 1-page PDF (the HTML page lacked the abstract text). Conference abstract (CAOG winter 2022 special issue, published 2024). Stage, chemotherapy and outcomes are not reported.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

@@ -1,0 +1,47 @@
+source_id: 10.56951/medicinus.v33i3.66
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.56951/medicinus.v33i3.66
+retrieved_on: '2026-10-30'
+full_text_source: https://medicinus.co/journal/article/download/medicinus-vol33-no3-39-46/medicinus-vol33-no3-39-46
+language: id
+pmid: null
+doi: 10.56951/medicinus.v33i3.66
+pmcid: null
+title: Pubertas Prekoks Perifer Isoseksual akibat Juvenille Granulosa Cell Tumor
+journal: Medicinus
+year: 2020
+first_author: Santosa PA
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 16 months
+alterations: []
+treatments:
+- regimen: Laparotomy and left salpingo-oophorectomy
+  setting: primary surgery
+  n: 1
+  outcome: Menstrual-type bleeding stopped 6 days after surgery; estradiol fell from 2230 to 15.26 pg/mL; no residual intra-abdominal tumor on ultrasound
+presentation:
+- vaginal bleeding from age 1 year 5 days
+- breast enlargement from 7 months
+- pubic hair from 15 months
+- Tanner M3P2
+- palpable pelvic mass
+- enlarged uterus and thickened endometrium
+key_findings:
+- 'Indonesian-language case report of a 16-month-old girl with isosexual peripheral precocious puberty: vaginal bleeding from 1 year, breast enlargement from 7 months, sparse pubic hair from 15 months (Tanner M3P2), a palpable immobile pelvic mass.'
+- Estradiol 2230 pg/mL with LH under 0.1 and FSH 0.14; AFP 3.63 ng/mL, CEA under 5.3, beta-hCG 0.10 mIU/mL, CA-125 87.8 U/mL, LDH 620 U/L; karyotype 46,XX; chest X-ray showed thymic hyperplasia.
+- Ultrasound showed a solid pelvic mass and thickened endometrium; CT showed a hypodense heterogeneous intraperitoneal mass 11 x 7.4 x 11.3 cm and enlarged uterus; the left ovarian tumor measured 13 x 10 x 6 cm at surgery.
+- Left salpingo-oophorectomy by laparotomy (5 October); H&E suggested sex cord-stromal tumor (granulosa cell versus Sertoli-Leydig), and IHC with CK7, EMA, CD99 and calretinin led to a diagnosis of juvenile granulosa cell tumor (individual stain results are not given).
+- Bleeding stopped 6 days after surgery; estradiol after surgery was 15.26, 24.47 and 5.30 pg/mL on three later dates; no residual tumor on ultrasound at 14 October; uterus still consistent with precocious puberty; secondary sexual characteristics were still monitored monthly; no chemotherapy is reported.
+- The authors state, citing others, that JGCT is mostly confined to the ovary and clinically benign despite malignant-appearing histology, that recurrence is rare and usually within the first year, and that inhibin positivity is definitive.
+relevance_to_jgct: 'Classic JGCT presentation in a toddler: estrogen excess with precocious pseudopuberty, large ovarian mass, stage I-type surgery with hormonal normalization.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Original in Indonesian. Follow-up length is not stated beyond the hormone table (to 19 December). Inhibin staining is not reported as performed even though the discussion calls it definitive. The text has some garbled lines from PDF extraction. Stage not stated.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

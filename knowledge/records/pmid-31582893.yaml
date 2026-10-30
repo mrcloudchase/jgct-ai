@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/31582893/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: https://www.jstage.jst.go.jp/article/yam/62/3/62_2019.09.004/_pdf
 language: en
 pmid: '31582893'
 doi: 10.33160/yam.2019.09.004
+pmcid: null
 title: Juvenile Granulosa Cell Tumor with Elevated Peripheral Interleukin-6 Level Shows Prolonged Fever and Delayed Puberty.
 journal: Yonago acta medica
 year: 2019
@@ -17,26 +18,30 @@ n_jgct_patients: 1
 age_range: 13 years
 alterations: []
 treatments:
-- regimen: tumorectomy
-  setting: primary
+- regimen: Laparoscopic left salpingo-oophorectomy with piecemeal tumor resection; no adjuvant therapy reported
+  setting: Localized tumor, 67 x 61 x 74 mm, no metastasis
   n: 1
-  outcome: symptoms resolved, IL-6 decreased, entered puberty
+  outcome: Fever resolved at once, IL-6 and inflammatory markers normalized, puberty began; no recurrence at 3 years
 presentation:
-- prolonged fever
-- delayed puberty
-- elevated serum interleukin-6
+- 5 months of low-grade fever and fatigue
+- lower abdominal mass
+- pallor
+- Tanner stage 1 breasts and pubic hair at age 13 (delayed puberty)
+- markedly raised inflammatory markers
 key_findings:
-- 13-year-old girl with prolonged fever and delayed puberty diagnosed with JGCT of the left ovary.
-- Serum IL-6 level was very high; it was not clear whether IL-6 was secreted by the tumor cells.
-- After tumorectomy, symptoms immediately disappeared, IL-6 level decreased, and she entered puberty.
-- Authors propose tumor-induced IL-6 secretion as a potential cause of prolonged fever and/or delayed puberty.
-relevance_to_jgct: Describes an unusual presentation (fever, delayed rather than precocious puberty) linked to elevated serum IL-6 in JGCT.
+- A 13-year-old girl had 5 months of low-grade fever (38.6 C on exam), fatigue, a painless lower abdominal mass and Tanner stage 1 breasts and pubic hair; WBC 16,000/uL, platelets 723,000/uL, ESR 140 mm/h, CRP 18.7 mg/dL, SAA 1750 ug/mL, albumin 1.8 g/dL, with microcytic hypochromic anemia.
+- Serum IL-6 was 348 pg/mL (normal <4) and soluble IL-2 receptor 1,465 U/mL (145-519); CA-125 was 6,020 U/mL (<35); AFP, beta-hCG, CA19-9 and CEA were normal; estradiol 14.5 pg/mL, LH <0.1 and FSH 0.33 mIU/mL were prepubertal.
+- CT/MRI showed a 67 x 61 x 74 mm left pelvic tumor, iso-intense on T1 and high intensity on T2, with no metastasis; laparoscopic left salpingo-oophorectomy was done with piecemeal resection.
+- Histology showed sheet-like growth of cells with abundant eosinophilic cytoplasm, focal pseudopapillary pattern and follicles with eosinophilic secretion, no nuclear grooves; immunohistochemistry was focally positive for inhibin-alpha, CD56, CD99 and AE1/AE3, negative for calretinin, PAX8, CD10, ER, PR, chromogranin A, synaptophysin, c-kit and D2-40; Ki-67 about 3%.
+- IL-6 immunostaining showed weak cytoplasmic staining in a subset of tumor cells but also in non-neoplastic stroma, so tumor production of IL-6 could not be confirmed; no fresh or frozen tissue was available for gene expression.
+- After surgery fever resolved, IL-6 fell to 1.6 pg/mL by day 10 and inflammatory indices and CA-125 normalized; LH and FSH rose at 1 month (33.19 and 68.49 mIU/mL), first menses came at 2 months, by 6 months estradiol 23.85 pg/mL, LH 3.92, FSH 4.81, and by 1 year Tanner stage 4 breasts and 3 pubic hair; no recurrence at 3 years.
+- The authors speculate that tumor-associated IL-6 caused the prolonged fever and the delayed puberty (via inflammation-mediated GnRH suppression) and propose considering JGCT in prolonged fever.
+relevance_to_jgct: Unusual non-estrogenic presentation of a pubertal-age ovarian JGCT with systemic inflammation, extreme CA-125 and delayed puberty that reversed after resection.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only; PMC6739248 full text fetch failed (HTTP 500 / publisher-restricted). Stage and follow-up length not stated in abstract.
-confidence: 3
+notes: IL-6 source is unproven (authors say so). The mechanism for delayed puberty is speculative. Full text read from a J-STAGE PDF; no PMC ID recorded.  Calretinin was negative in this tumor.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

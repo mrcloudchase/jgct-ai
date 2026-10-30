@@ -1,0 +1,37 @@
+source_id: '30805516'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30805516/
+retrieved_on: '2026-10-30'
+full_text_source: PMC6372493
+language: en
+pmid: '30805516'
+doi: 10.1016/j.ijpam.2017.08.001
+pmcid: PMC6372493
+title: 'Ovarian lesions among pediatric patients: A tertiary center experience (1997-2016).'
+journal: International journal of pediatrics & adolescent medicine
+year: 2017
+first_author: Alsuhaibani M
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: series mean 5.7 +/- 5.1 years (range not given; aged 14 or younger)
+alterations: []
+treatments: []
+presentation:
+- the JGCT patient was the only one with endocrine disturbance and precocious puberty
+key_findings:
+- Retrospective single-center review (King Abdulaziz Medical City, Riyadh, 1997-2016) of 14 girls aged 14 or younger who had surgical removal of ovarian lesions; mean age 5.7 +/- 5.1 years.
+- 'Histopathology (Table 3): simple ovarian cyst 7 (50%), mature cystic teratoma 3 (21.4%), paraovarian cyst 1, hemorrhagic cyst 1, juvenile granulosa cell tumor 1 (7.1%), mixed germ cell tumor 1 (7.1%).'
+- The single JGCT patient was the only one in the series with endocrine disturbance and precocious puberty; no further individual details (age, stage, surgery, outcome) are reported for her.
+- The only death in the series was a girl with a mixed germ cell tumor, not the JGCT patient; the authors list JGCT and mixed germ cell tumor as the two malignant lesions.
+- Authors conclude most pediatric ovarian lesions were benign; the small single-center sample limits generalization.
+relevance_to_jgct: Series of 14 surgically treated pediatric ovarian lesions; contains exactly one JGCT with precocious puberty and no further JGCT detail. Useful only as a frequency data point.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT is 1/14 of operated pediatric ovarian lesions in this single center. Journal and author not in fetched text. The text states ovarian lesions had 'very good prognoses' with one death (germ cell tumor).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

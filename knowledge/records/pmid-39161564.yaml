@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/39161564/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC11331716
 language: en
 pmid: '39161564'
 doi: 10.1016/j.radcr.2024.06.072
+pmcid: PMC11331716
 title: 'Unusual radiologic imaging in juvenile granulosa cell tumor with precocious puberty: A unilocular cyst.'
 journal: Radiology case reports
 year: 2024
@@ -16,23 +17,31 @@ tumor_site: ovary
 n_jgct_patients: 1
 age_range: 2 years 2 months
 alterations: []
-treatments: []
+treatments:
+- regimen: Laparoscopic right ovariectomy after direct cyst decompression (DJ stent planned for right hydroureter)
+  setting: FIGO stage IA; no additional treatment
+  n: 1
+  outcome: No additional treatment needed; no follow-up duration reported
 presentation:
-- precocious puberty
-- vaginal bleeding
-- unilocular cystic mass
+- vaginal bleeding (first at age 4 days, again 1 week before admission)
+- breast enlargement from age 1 year
+- progressive abdominal enlargement
+- bone age 3 years 6 months
+- estradiol 120 pg/mL with low FSH
 key_findings:
-- 2-year and 2-month-old girl with suspected ovarian cancer, dysfunctional uterine bleeding, and precocious puberty.
-- Ultrasound showed a solitary anechoic cystic lesion; MRI confirmed solid components on its walls.
-- JGCT confirmed by immunohistochemistry.
-- Authors state JGCT imaging features were nonspecific and histopathology with IHC is mandatory.
-relevance_to_jgct: Documents a unilocular cystic imaging appearance of JGCT, which can mimic benign cysts.
+- 2-year-2-month-old girl with vaginal bleeding (first episode at 4 days, attributed to maternal hormones; recurrence 1 week before admission), breast enlargement from age 1 year and abdominal enlargement; weight 15 kg, height 86 cm; bone age (Greulich and Pyle) 3 years 6 months.
+- 'Labs: prolactin 54.41 ng/mL, estradiol 120 pg/mL, LDH 328.5 U/L, CA-125 39.6 mIU/mL, low FSH 0.045 mIU/mL; LH, thyroid function, beta-hCG, AFP and CEA normal, indicating peripheral rather than central precocity.'
+- 'Ultrasound: single unilocular anechoic cyst, septa-free, with posterior enhancement and no visible solid component, about 10.1 x 4.76 x 9.8 cm extending from pelvis to abdomen. MRI: right ovarian cyst about 5.2 x 10.9 x 11.8 cm with an enhancing solid mural component up to about 1.01 cm, right hydroureter and mild pelviocaliceal ectasia, and enlarged uterus.'
+- Laparoscopic right ovariectomy after decompression; FIGO stage IA; no additional treatment.
+- 'Pathology: sex cord-stromal tumor with high mitotic activity (20/10 HPF); IHC positive for inhibin, calretinin and WT-1, negative for CK and CD10, consistent with JGCT.'
+- Authors conclude imaging of JGCT is nonspecific, unilocular purely cystic presentation is rare, and histopathology with IHC remains mandatory for diagnosis.
+- 'Authors cite from literature: JGCT about 5% of GCTs, average age 13 years, about 82% of prepubertal patients present with early puberty signs, JGCT cystic 14%, solid 37%, solid and cystic 45%, and about 90% 10-year survival with late recurrence possible 10-20 years later.'
+relevance_to_jgct: Rare unilocular cystic JGCT in a toddler, with peripheral precocious puberty and prolactin elevation; reviews imaging patterns.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC11331716 not read). Treatment and outcome not given in abstract.
-confidence: 2
+notes: Hyperprolactinemia is reported but its cause is not established. The note about 'JGCT in males' (Swiss cheese pattern, gubernaculum continuation) is from a cited paper, not this patient. Text calls the lesion a purely cystic unilocular lesion despite a solid mural component seen on MRI. No molecular data.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

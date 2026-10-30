@@ -1,0 +1,36 @@
+source_id: '39790752'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39790752/
+retrieved_on: '2026-10-30'
+full_text_source: PMC11709009
+language: en
+pmid: '39790752'
+doi: 10.4103/jfmpc.jfmpc_1086_24
+pmcid: PMC11709009
+title: 'Histopathological spectrum of ovarian tumors in Jharkhand, India: A retrospective study.'
+journal: Journal of family medicine and primary care
+year: 2024
+first_author: Paswan MK
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Single-center retrospective histopathology series (Rajendra Institute of Medical Sciences, Ranchi, India; March 2020-March 2024) of 190 ovarian tumors classified by WHO 2020; age range 8-72 years, mean 36 years.
+- One juvenile granulosa cell tumor (0.5% of 190) was found; it was counted among the malignant tumors (JGCT 1 of 28 malignant) and among 3 pure sex cord tumors (2 adult GCT, 1 JGCT).
+- 'Sex cord-stromal tumors were 11/190 (5.7%): 7 pure stromal (5 fibromas, 1 thecoma, 1 sclerosing stromal), 3 pure sex cord (2 AGCT, 1 JGCT) and 1 Sertoli-Leydig cell tumor.'
+- No age, presentation, stage, marker, treatment or outcome data are given for the JGCT; diagnosis was by H&E morphology only, without immunohistochemistry or molecular testing (acknowledged by authors as a limitation).
+- 'Overall: 154 benign (81.1%), 8 borderline (4.2%), 28 malignant (14.7%); surface epithelial tumors 73.2%, germ cell tumors 20%.'
+relevance_to_jgct: 'Minimal: reports a single H&E-diagnosed JGCT in a general hospital series of ovarian tumors in India; useful only as an epidemiologic count.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT diagnosed on H&E only; no demographic data for the case. Journal and first author not in retrieved text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

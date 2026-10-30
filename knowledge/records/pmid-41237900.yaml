@@ -3,43 +3,41 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/41237900/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC12757477
 language: en
 pmid: '41237900'
 doi: 10.1016/j.mcpro.2025.101466
+pmcid: PMC12757477
 title: Deciphering the Impact of AKT1 Pathogenic Variants in Juvenile Granulosa Cell Tumors Using a Drosophila Model.
 journal: Molecular & cellular proteomics
 year: 2025
 first_author: Veitia RA
 study_type: other
-tumor_site: null
-n_jgct_patients: 0
+tumor_site: ovary
+n_jgct_patients: null
 age_range: null
 alterations:
 - gene: AKT1
-  alteration: in-frame tandem duplications in exon 3 (pleckstrin homology domain; variants T1, T5, T12, T15)
-  frequency: null
-  notes: JGCT-derived variants expressed in Drosophila; hyperphosphorylated vs WT
-- gene: AKT1
-  alteration: Q79K-W80R double substitution
-  frequency: null
-  notes: JGCT-derived; strongest phenotypic and transcriptomic effects in the model
+  alteration: tandem in-frame duplications in exon 3 affecting the pleckstrin homology domain (four duplications T1, T5, T12, T15 modelled) and Q79K-W80R double substitution
+  frequency: more than 60% of JGCT samples harbored AKT1 duplications (cited from the authors' previous studies)
+  notes: Functional study in transgenic Drosophila, not a patient series
 treatments: []
 presentation: []
 key_findings:
-- Transgenic Drosophila expressing human WT AKT1, four JGCT-derived AKT1 tandem duplications (T1, T5, T12, T15) and the Q79K-W80R double mutant; mutant proteins showed stronger phosphorylation than WT.
-- Mutant AKT1 in ovarian follicle cells caused abnormally enlarged follicle cells, nuclei closer to the basal membrane (polarity defects), and abnormal dorsal appendages; the effect was strongest for Q79K-W80R.
-- In wings, mutant AKT1 increased wing surface and decreased trichome density, indicating larger cells (growth) rather than more cells.
-- 'Proteomics: 255 DEPs between all mutants and WT AKT1 (202 up, 53 down), enriched for Rho GTPase signaling, autophagy, cytoskeleton organization and transport; WT AKT1 overexpression affected glycolysis.'
-- 'RNA-seq: 624 DEGs between mutants and WT (353 up, 271 down); some genes showed gain of function while others were less activated than by WT AKT1, i.e. partial loss of function; T15 (smallest insertion) had the fewest DEGs.'
-- 'Background stated by authors: more than 60% of JGCT samples harbored in-frame AKT1 duplications in their earlier series.'
-relevance_to_jgct: Model-organism functional study showing that JGCT-derived AKT1 duplications and Q79K-W80R drive cell growth, polarity defects and complex gain- and loss-of-function transcriptional effects.
+- Experimental (Drosophila) study, no patients; it models AKT1 variants previously found by the authors in human JGCTs (in-frame tandem duplications in the PH domain, >60% of JGCTs negative for GNAS variants; Q79K and W80R substitutions), cited as likely driver events.
+- Transgenic flies expressed human WT AKT1, four duplication variants (T1, T5, T12, T15) and the Q79K-W80R double mutant under tissue-specific GAL4 drivers; all variants were expressed at similar levels and mutants showed strong Ser473 hyperphosphorylation versus WT.
+- In follicle cells WT AKT1 was mainly cytoplasmic whereas mutants localized to the plasma membrane; mutant follicle cells were abnormally enlarged (most for Q79K-W80R), nuclei lay closer to the basal membrane (suggesting polarity defects), and mutants produced shorter or abnormal dorsal appendages, more at 25 C than 22 C.
+- In wings, mutant AKT1 increased expressing-region surface area while reducing trichome density (larger cells rather than more cells) and raised trichome-angle dispersion; Q79K-W80R had the strongest effect.
+- 'Proteomics of follicle cells: 255 differentially expressed proteins (202 up, 53 down) for all mutants vs WT (174 DEPs WT vs control, 171 with FC>=1.5), enriched for Rho GTPase signaling, autophagy, cytoskeleton and transport; WT AKT1 affected glycolysis, RNA degradation and lysosomal processes. 15 differentially phosphorylated peptides were identified (e.g. cup, LamC, Adk2, eIF4G1).'
+- 'RNA-Seq: 624 DEGs (353 up, 271 down) for mutants vs WT (296 for WT vs control); 79 DEGs were common to all mutants. Some genes upregulated by WT AKT1 were less activated by mutants (apparent loss of function) while another subset showed gain of function; T15 (smallest insertion) had fewest DEGs and Q79K-W80R the most.'
+- Only about 20% of differentially expressed proteins showed concordant mRNA change, interpreted as post-transcriptional (translation) regulation; AKT1 and calcium/calmodulin-dependent protein kinase 1 were the PPI network hubs; glutathione S-transferase genes were upregulated, suggesting oxidative stress response.
+- Authors conclude that expression of mutated AKT1 produces mutant phenotypes, supporting a probable causal role in JGCT, and that Drosophila is useful to study AKT1 pathogenic variants.
+relevance_to_jgct: Provides in vivo functional evidence that JGCT-associated AKT1 duplications and Q79K-W80R are hyperactive and alter cell growth, polarity and proteome/transcriptome; background for AKT-targeted therapy rationale.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC12757477) on 2026-10-30. Preclinical (Drosophila) study; no patients. Confidence reflects a well-described experimental study, not clinical evidence.
-confidence: 4
+notes: Model-organism study; human JGCT frequencies are quoted from the authors' earlier work, not new data. Authors include the original AKT1 JGCT discoverers (Veitia), so overlap with those earlier genomic papers is by citation only. Old record study_type changed to other.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

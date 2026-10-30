@@ -1,0 +1,54 @@
+source_id: '27197196'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/27197196/
+retrieved_on: '2026-10-30'
+full_text_source: PMC5081136
+language: en
+pmid: '27197196'
+doi: 10.1158/0008-5472.CAN-15-3358
+pmcid: PMC5081136
+title: Constitutive Activation of PI3K in Oocyte Induces Ovarian Granulosa Cell Tumors.
+journal: Cancer research
+year: 2016
+first_author: Kim SY
+study_type: other
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: PIK3CA (constitutively active transgene in oocytes, mouse)
+  alteration: oocyte-specific activation (Gdf9-iCre) causes bilateral granulosa cell tumors in mice
+  frequency: 100% penetrance at postnatal day 65 (n>=35)
+  notes: mouse model; tumor cells did not carry the transgene; authors say the model reflects JGCT biology
+- gene: AKT1
+  alteration: recurrent in-frame duplications in exon 3 reported in human JGCT (cited from other studies)
+  frequency: null
+  notes: background citation
+- gene: FOXL2
+  alteration: C402G missense mutation in over 90% of AGCT and less than 10% of JGCT (cited)
+  frequency: null
+  notes: background citation
+- gene: GNAS
+  alteration: R201 mutations in JGCT discussed as sensitizing granulosa cells to activin A via constitutive FSH-receptor signaling (cited)
+  frequency: null
+  notes: discussion
+treatments: []
+presentation: []
+key_findings:
+- 'Mouse study (not human patients): constitutively active PI3K (PIK3CA*) in primordial oocytes (Gdf9-iCre) produced bilateral ovarian granulosa cell tumors with 100% penetrance at postnatal day 65 (n>=35); mice became cachectic and were euthanized by day 85.'
+- 'The authors judged the mouse tumors to resemble JGCT rather than adult GCT: cord-like architecture was similar to human AGCT, but few nuclear grooves or Call-Exner bodies and follicle-like cysts resembled JGCT, and FOXL2 was not mutated.'
+- Tumor cells expressed FOXL2 and inhibin alpha, overexpressed inhibin betaA, SMAD3 and GATA4, had high p-AKT, and the mice had high serum AMH, activin A, estradiol, testosterone and inhibin A with low FSH.
+- Tumor cells did not express the mutant PI3K transgene (PCR) and tumor grafts grew independently of oocytes, but interaction with mutant oocytes at primordial/primary follicle stage was essential (co-grafted normal ovaries stayed tumor-free; Zp3-Cre activation at secondary follicle stage caused no tumors).
+- Tumor growth correlated with the activin A to inhibin A ratio (R2 = 0.784 with Ki67 index); cultured tumor cells secreted 40 times more activin A than normal granulosa cells and proliferated in response to activin A (25 ng/ml), suggesting an activin A-SMAD3 autocrine growth circuit.
+- FOXO1 and PTEN were retained in the tumors, so loss of these suppressors was not the cause in this model.
+- The authors suggest, as speculation, that AKT1 mutations in human JGCT may contribute to such an activin A autocrine circuit and that GNAS R201 mutations may sensitize granulosa cells to activin A.
+relevance_to_jgct: Preclinical mouse model of granulosa cell tumor with JGCT-like features driven by PI3K-AKT pathway activation; provides mechanistic context for AKT1 and GNAS findings in human JGCT. No JGCT patients.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Mouse data; findings should not be read as human JGCT evidence. Human JGCT mutation statements (AKT1 duplications, FOXL2 <10%, GNAS R201) are cited from other papers. Authors' classification of the model as JGCT-like is their interpretation.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -3,38 +3,42 @@ source_type: url
 source_tier: conference_abstract
 source_url: https://doi.org/10.1186/1687-9856-2013-S1-P80
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC3850124
 language: en
 pmid: null
 doi: 10.1186/1687-9856-2013-S1-P80
-title: Precocious puberty and ovarian tumors – 2 case reports
-journal: International Journal of Pediatric Endocrinology 2013 Suppl 1:P80 (7th APPES Biennial Scientific Meeting, 2012)
+pmcid: PMC3850124
+title: Precocious puberty and ovarian tumors - 2 case reports
+journal: International Journal of Pediatric Endocrinology (2013 supplement, abstract P80)
 year: 2013
-first_author: Ramkumar S
+first_author: null
 study_type: case_report
 tumor_site: ovary
 n_jgct_patients: 1
-age_range: 3 years
+age_range: 3 years (JGCT case); 6 years (second case, not JGCT)
 alterations: []
-treatments: []
+treatments:
+- regimen: Resection of right tubo-ovarian mass
+  setting: 3-year-old with JGCT
+  n: 1
+  outcome: estradiol fell from >1000 to 17 pg/ml; no vaginal bleeding at 1 year follow-up
 presentation:
-- breast enlargement
-- vaginal bleeding
-- pubic hair
-- advanced bone age
-- elevated estradiol
+- progressive bilateral breast enlargement over 1 year
+- irregular vaginal bleeding for 10 months
+- pubic hair for 2 months (Tanner B3P3)
+- palpable right lower abdominal pelvic mass
 key_findings:
-- 'Case 1: 3-year-old girl with progressive bilateral breast enlargement over 1 year, irregular vaginal bleeding for 10 months, pubic hair for 2 months; Tanner B3P3; bone age 8yr 10months.'
-- LH <0.1 mIU/ml, FSH <0.1 mIU/ml, estradiol >1000 pg/ml; CT showed a heterogeneously enhancing abdomino-pelvic mass.
-- Resection of right tubo-ovarian mass suggestive of juvenile granulosa cell tumor; estradiol fell to 17 pg/ml; no vaginal bleeding at one-year follow-up.
-- Case 2 (6-year-old) was a mixed germ cell sex cord stromal tumor, not JGCT.
-relevance_to_jgct: Meeting case report of JGCT with very high estradiol presenting as peripheral precocious puberty in a 3-year-old.
+- Two-case abstract of peripheral precocious puberty from ovarian tumors; only case 1 was a juvenile granulosa cell tumor (JGCT).
+- 'Case 1: 3-year-old girl, breast enlargement over 1 year, irregular vaginal bleeding for 10 months, pubic hair for 2 months, Tanner B3P3, firm mobile pelvic mass in right lower abdomen; bone age 8 years 10 months vs chronological age 3 years.'
+- 'Case 1 hormones: LH <0.1 and FSH <0.1 mIU/ml, testosterone 0.334 ng/ml, DHEAS 17.97 ug/dl, estradiol >1000 pg/ml; CT showed a heterogeneously enhancing abdomino-pelvic mass without separately visualised ovaries; resected right tubo-ovarian mass was juvenile granulosa cell tumor; estradiol fell to 17 pg/ml; no vaginal bleeding at 1 year.'
+- 'Case 2: 6-year-old girl, breast enlargement over 7 months, cyclical vaginal bleeding for 4 months, Tanner B3P3, bone age 7.8 years, estradiol 162.8 pg/ml (text also gives 162.9), CT showed a bulky 5.4 cm left ovary; laparoscopic resection of the ''right'' tubo-ovarian mass showed a mixed germ cell sex cord stromal tumor; estradiol 14.37 pg/ml afterwards; no bleeding at 6 months.'
+- Authors conclude the cases illustrate heterogeneity in presentation, biochemistry and histopathology; both had successful outcomes without recurrence (12 and 6 months follow-up as stated).
+relevance_to_jgct: Peripheral precocious puberty from JGCT with estradiol above 1000 pg/ml and normalisation after oophorectomy; contrasted with a mixed sex cord-stromal tumor.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Verbatim from Europe PMC full text PMC3850124 (open access). Only case 1 is JGCT.
-confidence: 2
+notes: 'Whole abstract read (PMC3850124). Internal inconsistencies: case 2 CT shows a left ovary but resection is described as right tubo-ovarian; the abstract text gives follow-up as ''one year'' for case 1 in the case text but ''12 months'' in the conclusion. n_jgct_patients counts case 1 only.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

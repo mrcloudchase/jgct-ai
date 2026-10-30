@@ -1,0 +1,45 @@
+source_id: '38513413'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/38513413/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10966188
+language: en
+pmid: '38513413'
+doi: 10.1016/j.ijscr.2024.109546
+pmcid: PMC10966188
+title: Vaginal bleeding imitated rape in a 6-year old girl, a case report about granulosa cell tumor as a reason of peripheral precocious puberty.
+journal: International journal of surgery case reports
+year: 2024
+first_author: Amirkashani D
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 6 years
+alterations: []
+treatments:
+- regimen: Right salpingo-oophorectomy
+  setting: primary surgery
+  n: 1
+  outcome: All hormones returned to normal prepubertal levels at 2 weeks; follow-up beyond that not reported
+presentation:
+- abdominal distension and lower abdominal pain for 5 days with nausea and mild fever
+- vaginal bleeding
+- thelarche
+- multilocular-solid ovarian mass
+key_findings:
+- A 6-year-old girl admitted with 5 days of abdominal distension, lower abdominal pain, nausea and mild fever; blood stains in underwear prompted a forensic consultation for suspected abuse, but thelarche pointed to an endocrine cause.
+- 'Ultrasound: multilocular-solid right-sided mass about 63 x 40 mm; CT: solid-cystic pelvic mass 122 x 106 mm.'
+- 'Hormones: estradiol 115 pg/mL (normal under 9), FSH under 0.55, LH under 0.10, androstenedione 5.8, AMH 1322 pmol/L (normal 0.1-38.6), inhibin A 291 pg/mL (normal under 4.7), inhibin B 956 pg/mL (normal under 111), AFP and beta-hCG normal.'
+- Right salpingo-oophorectomy; the opposite ovary and uterus were preserved. Specimen 11.5 x 8 x 2 cm multilocular cyst with thin septa and intact capsule; microscopy showed granulosa cells lining the cyst with microfollicles resembling Call-Exner bodies; inhibin and calretinin positive.
+- All hormones returned to normal prepubertal levels two weeks after surgery; the authors suggest inhibin and hormone monitoring as tumor markers, with follow-up every 3 months in an endocrine clinic and pelvic ultrasound and labs at least every 6 months.
+- The authors write that the microscopic characteristics were highly compatible with adult-type GCT and that assigning type by age range is not reliable; no association syndromes were present.
+relevance_to_jgct: Prepubertal granulosa cell tumor with peripheral precocious puberty and markedly elevated AMH and inhibins that normalized after surgery; histologic subtype is ambiguous.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The abstract and title call it juvenile granulosa cell tumor in the abstract, but the Discussion says the histology was too compatible with adult GCT; the subtype is therefore uncertain. Stage and follow-up duration are not reported. The tumor was an almost entirely cystic variant. Journal and DOI not stated in the retrieved text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

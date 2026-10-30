@@ -1,0 +1,54 @@
+source_id: '37248399'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37248399/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10541835
+language: en
+pmid: '37248399'
+doi: 10.1007/s10689-023-00336-1
+pmcid: PMC10541835
+title: Reclassification of two germline DICER1 splicing variants leads to DICER1 syndrome diagnosis.
+journal: Familial Cancer
+year: 2023
+first_author: Apellaniz-Ruiz M
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: cases aged 13 and 15 at presentation; ovarian tumor of case 2 first diagnosed at age 5
+alterations:
+- gene: DICER1
+  alteration: germline c.5527+3A>G (intron 25) causing exon 25 skipping; likely pathogenic
+  frequency: case 2 (and her mother)
+  notes: somatic RNase IIIb hotspot p.E1813D in the retiform SLCT (originally diagnosed JGCT)
+- gene: DICER1
+  alteration: germline c.5365-4A>G (intron 24); likely pathogenic
+  frequency: case 1 (poorly differentiated SLCT)
+  notes: somatic hotspots p.D1709N (thyroid) and p.E1705K (SLCT)
+treatments:
+- regimen: Oophorectomy plus 2 cycles MAKEI-protocol chemotherapy
+  setting: case 2 ovarian tumor at age 5 (initially labelled JGCT)
+  n: 1
+  outcome: later primary intracranial sarcoma (DICER1-mutant) died age 16; ovarian tumor course after surgery not otherwise described
+- regimen: Right salpingo-oophorectomy, lymph node dissection, omentectomy, 4 cycles PEB
+  setting: case 1 poorly differentiated SLCT
+  n: 1
+  outcome: remission, no recurrence on pelvic MRI
+presentation:
+- 'case 2: ovarian torsion at age 5 requiring emergency surgery'
+key_findings:
+- Report of two unrelated teenage girls (13 and 15 years) with thyroid follicular nodular disease and ovarian tumors; both had DICER1 somatic RNase IIIb hotspot mutations and no coding germline DICER1 pathogenic variant, but germline intronic splice variants (c.5365-4A>G, c.5527+3A>G) that skip exon 25 on RNA assays and were classified likely pathogenic under ClinGen DICER1 rules.
+- Case 2 had an emergency operation for ovarian torsion at age 5; the right ovarian mass was diagnosed as juvenile granulosa cell tumor (inhibin positive, calretinin negative) and treated with oophorectomy and two cycles of MAKEI-protocol chemotherapy.
+- At age 15, expert gynecological pathology review of that tumor found lobulated architecture with slit-like spaces, bland epithelioid cells, focal inhibin positivity and no heterologous elements, and reclassified it as retiform Sertoli-Leydig cell tumor.
+- The retiform SLCT carried the somatic DICER1 hotspot p.E1813D; the girl later developed intracerebral hemorrhages and a DICER1-mutant primary intracranial sarcoma (somatic NF1 and TP53 variants) and died at 16.
+- Case 1 had a poorly differentiated SLCT (7.5 cm, hyperandrogenism, inhibin focally positive) treated with surgery and 4 cycles of bleomycin, etoposide, cisplatin and remained in remission.
+- Authors conclude that expert histopathological review is essential in atypical presentations and that DICER1 testing should follow rare DICER1-associated tumors, noting that overlapping sex cord-stromal morphology complicates diagnosis, as in case 2's initial JGCT diagnosis.
+relevance_to_jgct: Illustrates that a childhood ovarian tumor labelled JGCT (age 5, torsion) was reclassified as retiform SLCT in the context of DICER1 syndrome; relevant to differential diagnosis and to considering DICER1 testing. No confirmed JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT patient count set to 0 because the only JGCT diagnosis was revised by the authors' pathology review. No tumor from this paper was confirmed as JGCT.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,61 @@
+source_id: 10.21037/gpm-22-45
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.21037/gpm-22-45
+retrieved_on: '2026-10-30'
+full_text_source: https://gpm.amegroups.org/article/view/9311/html
+language: en
+pmid: null
+doi: 10.21037/gpm-22-45
+pmcid: null
+title: 'Survival benefit of lymphadenectomy in patients with early-stage juvenile granulosa cell tumor of the ovary: a single center retrospective cohort study'
+journal: Gynecology and Pelvic Medicine
+year: 2023
+first_author: Li Z
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 15
+age_range: mean 17 years (range 3-31)
+alterations: []
+treatments:
+- regimen: Fertility-preserving surgery with lymphadenectomy
+  setting: primary, early stage
+  n: 8
+  outcome: 1 relapse
+- regimen: Fertility-preserving surgery without lymphadenectomy
+  setting: primary, early stage
+  n: 7
+  outcome: 2 relapses; DFS not different (P=0.40)
+- regimen: 'Adjuvant chemotherapy: BEP 4, BVP 1, paclitaxel-carboplatin 3'
+  setting: adjuvant
+  n: 8
+  outcome: 7/8 had more than 3 cycles; no significant DFS difference vs no adjuvant therapy
+- regimen: 'Relapse: surgery plus chemotherapy'
+  setting: recurrence
+  n: 3
+  outcome: 1 died of disease (no complete remission); 2 alive with no evidence of disease
+presentation:
+- abdominal distension and pain (about half)
+- menstrual irregularity in three post-pubertal patients
+- one found at cesarean section
+- one prepubertal with breast enlargement, one with vaginal bleeding
+- preoperative or intraoperative rupture in 10/15
+- CA-125 >=35 IU/mL in 6/15
+key_findings:
+- 'Single-center (West China Second Hospital) retrospective cohort, March 2013 to February 2022: 16 early-stage JGCT patients met criteria, one excluded (stage III by omental micrometastasis), 15 analysed: 8 with lymphadenectomy, 7 without.'
+- Mean age 17.0 +/- 9.08 years (range 3-31); the non-lymphadenectomy group was much younger (9.33 vs 22.11 years, P=0.003); 5/15 (33.3%) pre-pubertal; mean tumor diameter 14.23 +/- 10.37 cm (range 4-35); rupture in 10/15 (66.7%); CA-125 >=35 IU/mL in 6/15.
+- No lymph node metastasis was found in any of the 8 patients who had lymphadenectomy.
+- 'Median follow-up 31.87 months (range 2-85): 3/15 (20.0%) relapsed (2 no-lymphadenectomy, 1 lymphadenectomy); 3-year DFS 80.0% and OS 93.3%; lymphadenectomy status not associated with DFS (P=0.40).'
+- Relapses at median 12 months (range 6-20) in the abdomen/pelvis (2) and sigmoid colon (1), all treated with surgery plus chemotherapy; one patient died of disease (age 18, USO, TC x3 adjuvant, relapse at 6 months); CA-125 at relapse 89.7, 77.5 and 171.9 IU/mL.
+- Adjuvant chemotherapy in 8/15 (BEP 4, BVP 1, TC 3), seven with more than three cycles; no DFS difference between chemotherapy and none.
+- Authors conclude fertility-sparing surgery is the treatment of choice and prognosis good, and that lymphadenectomy showed no survival benefit in early-stage JGCT in their limited data; larger multicenter studies are needed.
+- Authors note 20 JGCT diagnosed at their hospital over 9 years, with peritoneal metastases in 5.
+relevance_to_jgct: Directly addresses whether lymphadenectomy adds benefit in early-stage ovarian JGCT; small retrospective cohort with confounded groups (age).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Small n and age imbalance between groups; no multivariate analysis. Text says non-lymphadenectomy group younger. Relapse table lists case 2 DFS 24 months but text gives range of 6-20 months for time to relapse; the text 'Median time to relapse 12 months (range 6-20)' conflicts with Table 2 (6, 24, 12). The study excluded one stage III patient. Possible patient overlap with other West China Second Hospital JGCT reports is not stated. Bibliographic ledger year is 2023.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

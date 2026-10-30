@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/41035579/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC12482049
 language: en
 pmid: '41035579'
 doi: 10.7759/cureus.91331
+pmcid: PMC12482049
 title: 'Juvenile Granulosa Cell Tumor in an Adolescent With Xeroderma Pigmentosum: A Rare Case and Implications for Surveillance.'
 journal: Cureus
 year: 2025
@@ -17,24 +18,28 @@ n_jgct_patients: 1
 age_range: 14 years
 alterations: []
 treatments:
-- regimen: surgical removal
-  setting: primary
+- regimen: Laparoscopic exploration and left adnexectomy; no chemotherapy or radiotherapy
+  setting: FIGO stage IA
   n: 1
-  outcome: uneventful recovery, no additional therapy; follow-up length not stated
+  outcome: Uneventful recovery; no recurrence on clinical, chest X-ray and abdominopelvic ultrasound follow-up (duration not stated)
 presentation:
-- incidental finding on imaging
+- incidental left ovarian mass found on routine ultrasound during dermatological surveillance
+- no hormonal signs
+- no palpable mass, no ascites
 key_findings:
-- 14-year-old girl with xeroderma pigmentosum incidentally found to have an ovarian JGCT on routine imaging.
-- Tumor surgically removed; no signs of hormonal activity or metastasis.
-- Uneventful recovery, no additional therapy.
-- Authors suggest a possible association between a DNA repair disorder and early-onset gynecological tumors.
-relevance_to_jgct: First suggested co-occurrence of JGCT with xeroderma pigmentosum; association is speculative from a single case.
+- A 14-year-old girl with xeroderma pigmentosum (multiple prior cutaneous squamous and basal cell carcinoma surgeries and a toe myeloma) had an incidental ovarian mass on ultrasound; she had no endocrine manifestations and no palpable mass.
+- Pelvic CT showed a 33 x 27 mm left latero-uterine mass; MRI showed a 31 x 21 mm lesion with restricted diffusion, central necrosis and O-RADS 4 classification.
+- 'Serum markers were normal: inhibin B 80 pg/mL, AFP 5 ng/mL, beta-hCG 2 mIU/mL, CA-125 20 U/L, LDH 180 U/L.'
+- Laparoscopy found a well-circumscribed, predominantly solid 3.5 x 3.5 x 1 cm left ovarian mass without capsular invasion, normal contralateral ovary and uterus, no ascites or implants; left adnexectomy was performed.
+- Histology showed solid nodules of monotonous oval to spindle cells with eosinophilic or luteinized vacuolated cytoplasm, occasional coffee-bean nuclear grooves, 2 mitoses per 10 HPF, fibrous stroma and no Call-Exner bodies; tumor cells were positive for inhibin, calretinin and reticulin (nodule outlines), negative for GATA3.
+- The tumor was FIGO stage IA; a multidisciplinary team judged chemotherapy and radiotherapy unnecessary; follow-up showed no recurrence.
+- The authors link JGCT to xeroderma pigmentosum (especially group C, defective nucleotide excision repair) and recommend proactive prolonged gynecological surveillance in adolescents with XP; no germline or tumor genetic testing was reported in this patient, so the XP group was not stated.
+relevance_to_jgct: Case of ovarian JGCT in a patient with xeroderma pigmentosum; suggests but does not prove an association with DNA-repair deficiency.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC12482049 not read). Surgery type and stage not given in abstract.
-confidence: 2
+notes: The conclusion refers to XP type C, but the case itself does not report the complementation group or mutation. Histology noting 'coffee-bean' nuclei and no Call-Exner bodies is unusual for classic JGCT description; diagnosis rests on inhibin/calretinin positivity and morphology. Follow-up duration not stated. Literature in the discussion (Tunisian XP-C series, Bradford 2011, Kraemer 2003, Yurchenko 2023) is cited, not independently read.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

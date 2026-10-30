@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/37324278/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC10265673
 language: en
 pmid: '37324278'
 doi: 10.3389/fendo.2023.1093273
+pmcid: PMC10265673
 title: Ovarian juvenile granulosa cell tumors with Ollier's disease in children with IDH1 gene somatic mutation.
 journal: Frontiers in endocrinology
 year: 2023
@@ -17,34 +18,35 @@ n_jgct_patients: 1
 age_range: 4 years
 alterations:
 - gene: IDH1
-  alteration: c.394C>T (p.Arg132Cys)
-  frequency: 1/1
-  notes: detected in ovarian JGCT and enchondroma; not detected in peripheral blood, skin, muscle or oral mucosa of the patient or in parental blood (somatic/mosaic)
+  alteration: c.394C>T, p.Arg132Cys (exon 4), somatic
+  frequency: 1/1 patient; present in ovarian JGCT and enchondroma tissue, absent from peripheral blood, skin, muscle, oral mucosa and parental blood
+  notes: Classified pathogenic/likely pathogenic; ClinVar 375891; gnomAD frequency 0.00001; HeLa transfection showed R132C inhibited phosphorylation of S6 ribosomal protein (p<0.05)
 treatments:
-- regimen: right salpingo-oophorectomy, no adjuvant radiotherapy or chemotherapy
-  setting: FIGO stage IA
+- regimen: Right salpingo-oophorectomy; no adjuvant chemotherapy or radiotherapy
+  setting: FIGO stage IA ovarian JGCT with Ollier's disease
   n: 1
-  outcome: no recurrence at 3 months; estradiol and prolactin normal until 2 years of follow-up
+  outcome: Estradiol and prolactin normalized within 1 week; no recurrence at 3 months; hormone levels normal to 2 years
 presentation:
-- precocious pseudopuberty (bilateral breast development, Tanner stage III)
-- hypertrophy of labia majora
-- vulvar discharge
-- Ollier's disease (multiple enchondromas)
-- estradiol 1,211 pmol/L and prolactin 43.99 ng/ml before surgery
+- bilateral breast development Tanner III with areolar pigmentation
+- hypertrophy of labia majora and vulvar discharge
+- elevated estradiol 1,211 pmol/L and prolactin 43.99 ng/ml
+- multiple skeletal deformities and enchondromas (Ollier's disease)
+- 81 x 76 x 57 mm multilocular-solid right ovarian tumor
 key_findings:
-- 4-year-old girl with Ollier's disease presented about 9 months after enchondroma resection with breast development (Tanner III), estradiol 1,211 pmol/L (reference <=115.6) and prolactin 43.99 ng/ml; ultrasound showed an 81 x 76 x 57 mm multilocular-solid right ovarian tumor.
-- Right salpingo-oophorectomy; JGCT FIGO stage IA; no adjuvant therapy. Estradiol (70.83 pmol/L) and prolactin (20.54 ng/ml) normalized within 1 week; pseudo-pubertal changes fully remitted; hormones normal until 2 years of follow-up.
-- IDH1 c.394C>T (p.Arg132Cys) in both the JGCT and enchondroma but not in blood, skin, muscle, oral mucosa or parental blood, consistent with a somatic mosaic mutation.
-- 'IHC: inhibin single positive, CD99 positive, ER negative, PR positive, Ki-67 approximately 30%; SALL4 and OCT3/4 negative.'
-- R132C reduced S6 ribosomal protein phosphorylation in transfected HeLa cells.
-- 'Literature review of 11 JGCT plus Ollier''s disease cases (including this one): onset age 6 months to 36 years; eight underwent salpingo-oophorectomy and two received postoperative chemotherapy; no recurrences over follow-up of 6 months to 7 years.'
-relevance_to_jgct: Links JGCT in Ollier's disease to a somatic mosaic IDH1 R132C mutation shared with enchondromas; summarizes 11 JGCT-Ollier cases.
+- A 4-year-old girl with Ollier's disease (multiple lytic lesions of the right femur, tibia, fibula, left ulna, radius and phalanges; wide resection of a distal right femur lesion confirmed enchondroma) developed bilateral Tanner III breast development, labial hypertrophy and vulvar discharge about 9 months later.
+- Estradiol was 1,211 pmol/L (reference <=115.6) and prolactin 43.99 ng/ml (3.3-24.1); ultrasound showed an 81 x 76 x 57 mm well-encapsulated multilocular-solid right ovarian tumor and CT showed a right ovarian solid mass; right salpingo-oophorectomy was performed.
+- 'Histology showed juvenile granulosa cell tumor, FIGO stage IA; IHC: vimentin +, AE1/AE3 weak +, CD117 scattered +, PR +, CD99 +, alpha-inhibin single +, CD56 +, SMA +, Ki67 about 30%; negative for CK7, EMA, ER, CD30, PLAP, SALL4, OCT3/4, hCG, CK8, desmin and S-100.'
+- Whole-exome and Sanger sequencing found a somatic IDH1 c.394C>T (p.Arg132Cys) mutation in both the ovarian JGCT and the enchondroma but not in blood, skin, muscle, oral mucosa or the parents' blood.
+- In HeLa cells, IDH1 R132C (3.77-fold overexpression) versus wild type (4.46-fold) reduced phosphorylation of S6 ribosomal protein, interpreted as an effect on the mTOR pathway; the regulatory mechanism was not defined.
+- After surgery estradiol (70.83 pmol/L) and prolactin (20.54 ng/ml) normalized within 1 week, breasts regressed, no recurrence at 3 months, and hormones remained normal to 2 years of follow-up.
+- The authors tabulated 10 prior published cases of JGCT with Ollier's disease (JGCT age 0.5 to 36 years; 8 salpingo-oophorectomies, 2 with postoperative chemotherapy; follow-up 6 months to 7 years without recurrence; 2 cases had chondrosarcoma transformation) and, with their case, 11 cases.
+- The authors propose generalized mesodermal dysplasia with IDH1 somatic mutation as a contributor and recommend regular follow-up; they state this is the first report of gene testing among reported JGCT with Ollier's disease.
+relevance_to_jgct: First reported IDH1 R132C somatic mutation shared by an ovarian JGCT and Ollier's enchondroma; links the two entities and provides a review table of 11 cases.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC10265673) on 2026-10-30. The pooled literature table (Table 2) was not available in the extracted text; summary numbers copied from the discussion. Literature-review cases overlap with individual case reports.
-confidence: 4
+notes: Abstract says follow-up findings consistent with full text; full text gives follow-up as 3 months for recurrence and 2 years for hormones, while table 2 lists 6 months. Table 1 labels the variant 'hemizygous' though described heterozygous in text. Functional work was in HeLa cells, not in granulosa cells. Table 2 includes one case with JGCT at 36 years (not juvenile age). Possible topical overlap with pmid-35968204 (a different Ollier's/JGCT patient).
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

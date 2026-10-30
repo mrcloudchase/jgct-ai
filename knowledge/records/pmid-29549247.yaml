@@ -1,0 +1,46 @@
+source_id: '29549247'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/29549247/
+retrieved_on: '2026-10-30'
+full_text_source: PMC5856777
+language: en
+pmid: '29549247'
+doi: 10.1038/s41419-018-0459-3
+pmcid: PMC5856777
+title: Endogenous c-Jun N-terminal kinase (JNK) activity marks the boundary between normal and malignant granulosa cells.
+journal: Cell Death & Disease
+year: 2018
+first_author: Bildik G
+study_type: other
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: null
+alterations:
+- gene: JNK pathway (c-Jun phosphorylation)
+  alteration: markedly higher endogenous JNK kinase activity in tumor samples (2 adult, 2 juvenile) and COV434/KGN lines than in non-neoplastic granulosa cells
+  frequency: 4 patient tumors
+  notes: measured by kinase assay; not a mutation
+treatments:
+- regimen: JNK inhibitors SP600125 and AS601245, or JNK siRNA
+  setting: 'preclinical: GCT cell lines, ex vivo patient tumor cultures (adult and juvenile), COV434 xenograft in SCID mice (n=4 per group)'
+  n: 2
+  outcome: Reduced growth, hormone output and viability ex vivo in both adult and juvenile samples; reduced xenograft growth and serum AMH
+presentation: []
+key_findings:
+- Translational laboratory study of granulosa cell tumor (GCT) of the ovary; patient material was 4 fresh tumors (2 adult-type, 2 juvenile-type, confirmed by two gynecologic pathologists) plus the GCT lines COV434 and KGN; non-neoplastic comparators were HGrC1, SIGC and luteinized granulosa cells from 10 IVF patients.
+- Endogenous JNK kinase activity was significantly higher in both adult- and juvenile-type GCT samples and in COV434 and KGN than in non-neoplastic granulosa cells (HGrC1, HLGC, SIGC), including mitotically active non-malignant lines.
+- Ex vivo treatment of fresh adult and juvenile GCT samples with JNK inhibitors for 24 h significantly decreased in vitro growth and estradiol and AMH production and increased cell death.
+- In COV434, JNK inhibition (SP600125, AS601245, or siRNA) gave dose-dependent growth reduction, apoptosis, lower estradiol and AMH, fewer phospho-histone H3-positive cells (2% and 3% vs 17% in controls, p<0.01), reduced EdU uptake (6% and 9% vs 47%), and G2/M accumulation.
+- In a COV434 subcutaneous xenograft in SCID mice (n=4 per group), single-dose JNK inhibitors (10 mg/kg i.p.) or intratumoral JNK siRNA halted growth over the following week and lowered serum AMH.
+- 'Background statements by the authors: JGCT is about 5% of GCT, lacks the FOXL2 C134W mutation found in 97% of adult-type GCT, affects pre-pubertal girls and young women (mean onset around 8 years), has reduced FOXL2 expression; AKT1 tandem duplications were reported in 16 JGCTs and activating Gas codon 201 mutations in 30% of a JGCT cohort (cited from other studies).'
+- 'Authors'' conclusion: targeting the JNK pathway may offer therapeutic benefit in GCT, for which no curative therapy exists beyond surgery; further investigation is warranted.'
+relevance_to_jgct: Preclinical evidence of elevated JNK activity and JNK-inhibitor sensitivity that includes two juvenile-type tumor samples; most experiments use adult-type-derived cell lines, so JGCT-specific inference rests on n=2.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Only 2 JGCT samples; the cell lines COV434 (reported as GCT-derived) and KGN (derived from invasive granulosa cell carcinoma) are not JGCT-specific. First author not in cached text. Epidemiology and molecular statements about JGCT are cited background, not original findings.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
