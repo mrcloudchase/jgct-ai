@@ -48,6 +48,7 @@ relevance_to_jgct: Registry-derived JGCT cohort (n=25) with stage-specific outco
 conflicts_with:
 - pmid-37567969
 overlaps_with:
+- url-0a529aa0ceb0
 - url-599767ff9c45
 - pmid-40267023
 superseded_by: null
