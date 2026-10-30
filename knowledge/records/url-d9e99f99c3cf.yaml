@@ -3,12 +3,13 @@ source_type: url
 source_tier: conference_abstract
 source_url: https://abstracts.eurospe.org/hrp/0094/hrp0094p2-416
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: https://abstracts.eurospe.org/hrp/0094/hrp0094p2-416
 language: en
 pmid: null
 doi: null
+pmcid: null
 title: 'Ovarian Juvenile Granulosa Cell Tumor in 9-Month-Old female Infant presented with Isosexual Pseudo Puberty: Case Report'
-journal: ESPE Abstracts 94 P2-416 (59th Annual ESPE Meeting, online 2021)
+journal: Hormone Research in Paediatrics (ESPE 2021 abstract P2-416)
 year: 2021
 first_author: Ahmed S
 study_type: case_report
@@ -17,30 +18,27 @@ n_jgct_patients: 1
 age_range: 9 months
 alterations: []
 treatments:
-- regimen: left salpingo-oophorectomy alone
-  setting: stage pT1a
+- regimen: Open total left salpingo-oophorectomy; no chemotherapy or radiation
+  setting: 9-month-old with ovarian JGCT, pT1a
   n: 1
-  outcome: hormones normalized at 1 month
+  outcome: estradiol fell to 62 pmol/l and AMH to 9 pmol/l at 1 month
 presentation:
-- vaginal bleeding
-- breast enlargement
-- pubic hair
-- advanced bone age
-- elevated estradiol
-- elevated inhibin
-- elevated AMH
+- bloody vaginal secretions
+- bilateral breast enlargement for 2 months (Tanner 2)
+- fine pubic hair
+- bone age 1.8 years
 key_findings:
-- 9-month-old girl with bloody vaginal secretions, bilateral breast enlargement (Tanner 2) and fine pubic hair; bone age 1.8 years (+4.3 SDS).
-- 'Labs: estradiol 1091 pmol/l, AMH >1714.0 pmol/l, inhibin A 385 pg/ml, inhibin B 3805 pg/ml, AFP 6 kIU/l, LH and FSH suppressed.'
-- Left salpingo-oophorectomy; 75 g encapsulated mass 100 x 50 x 40 mm; histopathology GCT, juvenile type, stage pT1a; inhibin A positive.
-- No chemotherapy or radiation; at 1 month estradiol 62 pmol/l and AMH 9 pmol/l.
-relevance_to_jgct: Infant JGCT case documenting very high inhibin B and AMH at diagnosis with normalization after surgery.
+- 9-month-old girl with a day of bloody vaginal secretions, bilateral breast enlargement for 2 months (Tanner 2) and fine pubic hair; bone age 1.8 years (+4.3 SDS).
+- 'Labs: estradiol 1091 pmol/l (ref 0-132), FSH and LH <0.3 IU/l, AMH >1714.0 pmol/l (ref 0.1-38.6), inhibin A 385 pg/ml (<4.7), inhibin B 3805 pg/ml (<111), androstenedione 6.8 nmol/l, testosterone 2.2 nmol/l, beta-hCG 0.9 IU/l, AFP 6 kIU/l (normal).'
+- 'Ultrasound: round heterogeneous hypoechoic lesion 5.4x4.12x5.39 cm (62.8 ml), no calcifications; MRI: large solid pelvic lesion related to the left ovary with enhancement and minimal central necrosis; chest CT normal.'
+- 'Open total left salpingo-oophorectomy: encapsulated ovoid 75 g mass, 100x50x40 mm, solid yellow nodular cut surface, capsule intact; histopathology juvenile-type granulosa cell tumor pT1a, inhibin A positive; no chemotherapy or radiation.'
+- At 1 month estradiol was 62 pmol/l and AMH 9 pmol/l; authors conclude surgical removal was curative with all hormones regressing to prepubertal levels.
+relevance_to_jgct: Infant JGCT with very high AMH and inhibin A/B at diagnosis and normalisation of estradiol and AMH after surgery alone.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract text taken verbatim from the ESPE Abstracts landing page HTML (curl, tags stripped) on 2026-10-30; found via OpenAlex W3201056856. No DOI. Follow-up only 1 month.
-confidence: 2
+notes: Whole abstract read from the abstracts.eurospe.org page. Follow-up is only 1 month, so curative claim rests on hormone normalisation at 1 month. The conclusion says 'These 9 months-old infants' (sic).
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

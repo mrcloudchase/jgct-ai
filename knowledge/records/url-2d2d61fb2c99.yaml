@@ -3,35 +3,38 @@ source_type: url
 source_tier: preprint
 source_url: https://doi.org/10.21203/rs.3.rs-9115875/v1
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: https://assets-eu.researchsquare.com/files/rs-9115875/v1/3c2d7524-5dc0-4497-ade7-eb83eb44da9f.pdf?c=1793117471
 language: en
 pmid: null
-doi: null
+doi: 10.21203/rs.3.rs-9115875/v1
+pmcid: null
 title: 'Prepubertal Testicular Tumors in Children: Combined Ultrasound and Pathologic Study'
-journal: Research Square
+journal: Research Square (preprint, posted 2026-03-25)
 year: 2026
 first_author: Ma Y
 study_type: cohort
 tumor_site: testis
-n_jgct_patients: null
-age_range: prepubertal (peak first 3 years)
+n_jgct_patients: 1
+age_range: whole cohort median 27 months (IQR 8.5-83.5); JGCT patient 2 months
 alterations: []
 treatments: []
 presentation:
-- scrotal mass
+- 'JGCT: 2-month-old, 3.9 cm predominantly cystic multilocular ''Swiss cheese'' testicular mass with increased vascularity in solid components'
+- AFP 244.19 ng/mL and elevated preoperative testosterone in the JGCT patient
 key_findings:
-- Retrospective single-institution series of consecutive pediatric testicular tumors (November 2016 to June 2024) with preoperative scrotal ultrasound correlated with histology; 118 lesions, peak incidence within the first 3 years of life.
-- Benign tumors (e.g., teratoma, epidermoid cyst) constituted 71.2% of cases.
-- 'Cystic or cystic-dominant pattern: PPV 96.1% for benignity, NPV 47.8%; solid or solid-dominant: NPV 91.5% for malignancy, PPV 49.2%.'
-- '''Uncommon entities like juvenile granulosa cell tumors exhibited pathognomonic "swiss-cheese" morphology'' on ultrasound.'
-- 'Solid pattern combined with AFP >300 ng/mL: PPV 94.7% and NPV 97.0% for yolk sac tumor.'
-relevance_to_jgct: Describes a 'swiss-cheese' ultrasound appearance for testicular JGCT within a prepubertal testicular tumor series; number of JGCT cases not stated in the abstract.
+- 'Single-center retrospective study (Capital Center for Children''s Health, Beijing; Nov 2016 to Jun 2024) of pathologically confirmed prepubertal testicular tumors aged 0-14 years: 125 identified, 8 excluded for incomplete US, 117 patients included (median age 27 months, IQR 8.5-83.5), 118 lesions.'
+- 'Histology: mature teratoma prepubertal type 62 (52.5%), yolk sac tumor 20 (16.9%), epidermoid cyst 12 (10.2%), immature teratoma 6 (5.1%), dermoid cyst 4 (3.4%), Leydig cell tumor 2, hemangioma 2, rhabdomyosarcoma 2, juvenile granulosa cell tumor 1 (0.8%), Sertoli-Leydig cell tumor 1, mixed teratoma and yolk sac tumor 1, seminoma 1, secondary tumors 4 (2 ALL, 1 Burkitt lymphoma, 1 neuroblastoma).'
+- The single JGCT patient was 2 months old with a 3.9 cm tumor; AFP was 244.19 ng/mL (all other non-yolk-sac, non-mixed tumors had normal AFP), and preoperative testosterone was elevated in this patient (also in 2 Leydig cell tumors and 6 teratomas); beta-hCG normal in all.
+- US of the JGCT was predominantly cystic ('Swiss cheese' multilocular pattern, hypoechoic or isoechoic solid components with increased vascularity); the authors describe JGCT as showing pathognomonic 'swiss-cheese' morphology and classify it among benign tumors with cystic or cystic-dominant pattern.
+- 'Cystic or cystic-dominant US pattern: PPV 96.1% (95% CI 85.4-99.3) for benignity, NPV 47.8%; solid or solid-dominant: NPV 91.5% for malignancy, PPV 49.2%; solid pattern plus AFP >300 ng/mL for yolk sac tumors: PPV 94.7% (95% CI 71.9-99.7), NPV 97.0% (95% CI 90.8-99.2).'
+- 'Discussion (authors, citing literature): testicular JGCT is the most common congenital testicular tumor, typically within the first 6 months of life, benign and hormonally inactive, rarely recurring after testis-sparing surgery; normal or mildly elevated AFP differentiates it from yolk sac tumor. Authors conclude combined US and pathology offers a diagnostic framework for risk stratification and testis-sparing decisions.'
+- No treatment or outcome data are reported for the JGCT patient.
+relevance_to_jgct: Contributes one testicular JGCT in a 2-month-old with the characteristic multicystic ultrasound pattern and mildly raised AFP in a 118-lesion pediatric testicular tumor series.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Europe PMC PPR1170007; abstract retrieved verbatim via Europe PMC REST. Not peer reviewed; no PubMed version found as of 2026-10-30. The abstract does not give the number of JGCT cases.
-confidence: 2
+notes: 'Preprint, not peer reviewed. Internal inconsistencies: abstract says benign 71.2% while discussion says 71.8%; text lists 62 mature teratomas while Table 1 gives 68 teratomas (62 mature + 6 immature); Table 1 describes JGCT as ''usually without hormonal activity'' while the text reports elevated testosterone in the JGCT patient. Table 2 places the JGCT among ''predominantly cystic'' lesions. Whole PDF (18 pages) read.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract
