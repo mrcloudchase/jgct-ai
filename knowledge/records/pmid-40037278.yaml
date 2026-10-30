@@ -1,0 +1,43 @@
+source_id: '40037278'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/40037278/
+retrieved_on: '2026-10-30'
+full_text_source: PMC11925195
+language: en
+pmid: '40037278'
+doi: 10.1016/j.ijscr.2025.111107
+pmcid: PMC11925195
+title: 'Secondary ovarian germ cell tumor following Wilms tumor after eight years post-treatment: A rare case report.'
+journal: International journal of surgery case reports
+year: 2025
+first_author: Ansari-Damavandi S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 11 years
+alterations: []
+treatments:
+- regimen: Surgical excision of ovarian tumor; a year later supracervical hysterectomy, left salpingo-oophorectomy, right salpingectomy and chemotherapy (regimen not named)
+  setting: stage III with peritoneal disease at presentation; later metastasis to right adnexa, omentum and lungs
+  n: 1
+  outcome: no outcome after chemotherapy reported; patient missed follow-up appointments
+presentation:
+- abdominal distension
+- palpable midline abdominal mass
+- ascites and peritoneal metastases on CT
+key_findings:
+- 11-year-old girl treated at 8 months of age for stage III Wilms tumor (right radical nephrectomy, chemotherapy, whole-abdomen radiotherapy) presented 8 years later with abdominal distension and a midline mass.
+- 'Ultrasound: 75 x 130 mm heterogeneous cystic-solid mass with vascular solid areas; AFP and beta-hCG normal. CT: well-defined heterogeneously enhancing solid mass from the right ovary with cystic and necrotic regions, ascites and peritoneal metastases.'
+- The case section states histopathology after excision confirmed a juvenile granulosa cell tumor of the ovary and in the same sentence calls it a stage III ovarian germ cell tumor, a secondary malignancy; the title, abstract and discussion call it a germ cell tumor. No immunohistochemistry, mitotic count or molecular data are given.
+- 'Family history: breast cancer in mother and grandmother, brain tumors (fatal) in a brother. The patient did not attend follow-up; a year later she had supracervical hysterectomy, left salpingo-oophorectomy, right salpingectomy and chemotherapy for metastasis to the right adnexa, omentum and lungs.'
+- Authors conclude survivors of Wilms tumor need surveillance beyond five years for late secondary malignancy, and suggest genetic testing in survivors with a family history; no genetic testing was done in this patient.
+relevance_to_jgct: Single case in which the pathology is described as juvenile granulosa cell tumor, a possible second malignancy after Wilms tumor with radiotherapy and chemotherapy, but with contradictory histologic labelling and no supporting pathology detail.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Diagnosis is internally inconsistent: JGCT in the Case report text versus ''germ cell tumor'' in title, abstract, discussion and conclusion; normal AFP and hCG, and no pathology details to resolve it. Treat the JGCT label with caution. Chemotherapy regimens and outcome after relapse not reported. A tumor of this kind arising 8 years after abdominal radiotherapy and chemotherapy may be treatment related, but the authors do not analyse this for the ovarian tumor.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

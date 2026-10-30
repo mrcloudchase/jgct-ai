@@ -1,0 +1,39 @@
+source_id: '25253739'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25253739/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4434983
+language: en
+pmid: '25253739'
+doi: 10.1095/biolreprod.114.123158
+pmcid: PMC4434983
+title: Amino acid 72 of mouse and human GDF9 mature domain is responsible for altered homodimer bioactivities but has subtle effects on GDF9:BMP15 heterodimer activities.
+journal: Biology of reproduction
+year: 2014
+first_author: Peng J
+study_type: other
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: GDF9
+  alteration: site-directed mutants (mouse R72G, human G72R) tested as recombinant ligands
+  frequency: null
+  notes: engineered ligand variants, not tumour alterations
+treatments: []
+presentation: []
+key_findings:
+- 'Laboratory study of oocyte-secreted GDF9 and BMP15 ligands: single amino acid 72 of mature GDF9 (arginine in mouse, glycine in human) determined homodimer bioactivity in mouse granulosa cells (induction of Ptx3, Has2, Ptgs2), whereas the corresponding BMP15 residue 62 and the whole pre-helix loop were dispensable for BMP15 homodimer activity; the residue had only subtle effect (about 3-fold) on the human GDF9:BMP15 heterodimer.'
+- 'JGCT-relevant part: COV434 cells (described as an immortalized human juvenile granulosa cell line) were used as the human granulosa cell assay. In COV434, mouse GDF9 R72G had very low SMAD2/3 phosphorylating activity, whereas human GDF9 G72R was as potent as mouse GDF9, and wild-type and mutant human GDF9:BMP15 heterodimers gave similar SMAD2/3 phosphorylation at 0.1, 0.3 and 1.0 ng/ml.'
+- In COV434 the ALK4/5/7 inhibitor SB-505124 (1 microM) abolished SMAD2/3 phosphorylation induced by mouse GDF9, hGDF9 G72R, hGDF9:BMP15 and hGDF9 G72R:BMP15, whereas the ALK2/3/6 inhibitor LDN-193189 (100 nM) had no effect; authors conclude the mutant and heterodimer ligands signal through the same type 1 receptor as wild-type ligands.
+- No tumour tissue or patient data are reported; COV434 serves only as a human granulosa-cell readout.
+relevance_to_jgct: Shows COV434 (a JGCT-derived line, called juvenile granulosa cell line by the authors) responds to GDF9 and GDF9:BMP15 through ALK4/5/7-dependent SMAD2/3 signalling; otherwise a basic ovarian physiology paper with no JGCT patient data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Mouse and cell-line physiology paper; only the COV434 experiments (Fig. 5) bear on JGCT. The text calls COV434 'immortalized human juvenile granulosa cells' and does not discuss its derivation from a tumour. Quantitative Western blot values were in figures not visible in the text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

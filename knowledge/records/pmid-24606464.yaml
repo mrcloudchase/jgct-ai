@@ -1,0 +1,52 @@
+source_id: '24606464'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24606464/
+retrieved_on: '2026-10-30'
+full_text_source: http://koreascience.or.kr/article/JAKO201418342937654.pdf
+language: en
+pmid: '24606464'
+doi: 10.7314/apjcp.2014.15.3.1351
+pmcid: null
+title: Ovarian sex cord stromal tumours in children and young girls - a more than two decade clinicopathological experience in a developing country, Pakistan.
+journal: 'Asian Pacific journal of cancer prevention : APJCP'
+year: 2014
+first_author: Haroon S
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 15
+age_range: 4 to 212 months (JGCT); whole series 4 to 250 months
+alterations: []
+treatments:
+- regimen: Cisplatin-based chemotherapy
+  setting: incomplete excision (whole series, not broken down by tumour type)
+  n: null
+  outcome: stated as the most common regimen; no JGCT-specific outcome given
+- regimen: Surgery alone (unilateral salpingo-oophorectomy or cystectomy)
+  setting: stage I with intact capsule (whole series)
+  n: null
+  outcome: most such patients remained free of recurrence without adjuvant therapy (follow-up limited)
+presentation:
+- virilisation (listed as most common presenting symptom of JGCT in Table 2)
+- isosexual pseudo-precocity in 77% of the 9 pre-pubertal patients (whole series)
+- abdominal pain or mass, abnormal uterine bleeding in post-pubertal patients (whole series)
+- large cystic and solid hemorrhagic mass
+key_findings:
+- 'Single-centre observational study (Aga Khan University Hospital histopathology laboratory, Karachi; January 1992 to July 2013): of 513 sex cord-stromal tumours (SCST) diagnosed, 39 (7.6%) were in patients under 21 years. Types: 15 juvenile granulosa cell tumours (JGCT, 38.4%), 11 sclerosing stromal tumours, 10 fibroma-thecoma group, 2 Sertoli-Leydig cell tumours, 1 sex cord tumour with annular tubules. No adult-type granulosa cell tumour was found.'
+- JGCT age range 4 to 212 months (median 168 months in Table 2). JGCT was the majority type in the pre-menstrual group (6 of 9, 66.6%), and all 6 patients younger than 6 years had JGCT; 9 JGCT occurred in post-pubertal patients. Youngest patient in the series was 4 months old; no neonatal case.
+- JGCT size was large, mean 16.2 cm (range 10 to 22 cm); cystic areas on gross examination in 10 of 15, with solid, haemorrhagic and yellowish areas. Mitotic activity was mostly high, range 2 to 28 per 10 HPF.
+- 'JGCT immunohistochemistry (Table 3): inhibin positive in all 15 (strong in 9, the rest weak); vimentin positive in all tested; cytokeratin Cam 5.2 focally positive in 2 JGCT only; EMA negative where applied; calretinin and CD99 (Mic-2) frequently positive. Authors state pancytokeratin was focally or even diffusely positive in a large number of JGCT.'
+- 'Hormonal presentation: in the whole series pseudo-precocious puberty or virilisation (hirsutism, voice change) was more common pre-pubertally; Table 2 lists virilisation as the most common presenting symptom of JGCT. Authors note most patients showed androgen excess signs, and that JGCT are not usually metastatic.'
+- 'Stage: whole series all FIGO stage I except two cases of stage II (tumour type of the two not stated in the text). Authors cite more than 90% of JGCT as stage I in the literature.'
+- Follow-up was available for only 21 of 39 patients. Recurrence was noted in 2 cases with follow-up, both JGCT, with recurrent material diagnosed at the same hospital; one JGCT metastasised to the skin of the arm (subcutaneous tissue, forearm) 2.5 years after diagnosis, and the patient was treated elsewhere and lost to follow-up after recurrence. One of the 2 Sertoli-Leydig tumours recurred at 27 months.
+- 'Treatment (whole series): cisplatin-based chemotherapy was most commonly used after incomplete excision; most stage I patients with intact capsule remained free of recurrence without chemotherapy or radiotherapy. Authors conclude initial complete excision was therapeutic when disease was confined to one ovary with intact capsule, with the caveat of limited follow-up, and that fertility-sparing surgery was sufficient at this stage.'
+- Authors conclude JGCT is the commonest SCST in young girls in their population, that hormonal signs allow early diagnosis, and that enlarging or persistent ovarian cysts should prompt investigation.
+relevance_to_jgct: Largest South Asian single-centre pathology series of paediatric and young-adult ovarian SCST, with a 15-patient JGCT subgroup giving age, size, mitoses, immunohistochemistry and two recurrences (one skin metastasis).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Abstract says ''recurrence/metastasis in 4/21 cases with follow-up data''; the Results and Discussion describe recurrence in two JGCT (one with skin metastasis) plus one recurrent Sertoli-Leydig tumour at 27 months, so the fourth event is not identified in the text. Text inconsistencies: whole-series median age 162 months in Results; JGCT median 168 months in Table 2; ''age <21 years'' in abstract vs ''<=21'' in methods; Table 1 percentages do not sum cleanly (overlapping symptoms). JGCT age range 4 to 212 months includes post-pubertal teenagers up to about 17.7 years diagnosed as JGCT; diagnostic criteria for JGCT in adolescents are not described. Stage II cases and chemotherapy are not broken down by tumour type. The source PDF was read from KoreaScience; no PMC version.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
