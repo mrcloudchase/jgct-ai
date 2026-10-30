@@ -29,7 +29,7 @@ In STEP, 27 of 38 girls under 8 years had isosexual precocity, and 6% presented 
 
 Less typical presentations are recorded:
 
-- virilization from androgen secretion [pmid-36112066, pmid-33362514, doi-10.18544_ep-01.16.01.1664, doi-10.18535_jmscr_v8i4.28];
+- virilization from androgen secretion [pmid-36112066, pmid-33362514, doi-10.18544_ep-01.16.01.1664, doi-10.18535_jmscr_v8i4.28, pmid-24959454, pmid-24596770]. In one 15-year-old, hirsutism was first treated as polycystic ovary disease, and a 30 cm tumor was found 18 months later [pmid-24596770];
 - massive ascites [pmid-23424695, pmid-29923976, pmid-37483405, doi-10.4103_cjhr.cjhr_39_20, doi-10.15406_jpnc.2015.03.00113], including pseudo-Meigs syndrome with CA-125 of 366 U/mL [doi-10.29333_ejgm_82225];
 - secondary amenorrhea [pmid-36647328, pmid-33241170], with hyperprolactinemia in one case [pmid-27047664];
 - paraneoplastic hypercalcemia [pmid-24371683];
@@ -127,7 +127,7 @@ Pooled reviews re-count published cases, so counts across `overlaps_with` record
 
 ### Gaps in this base
 
-Several classic series, the full TGM-95 paper, and the 2020 ESGO-SIOPE and 2021 EXPeRT/PARTNER guidelines are not yet recorded because their full text could not be obtained. They are listed in `../sources/INDEX.md` under "Needs full text". About 580 relevant items wait there, most of them paywalled papers with JGCT in the title or abstract. No JGCT-specific interventional trial was found [url-599767ff9c45, url-00efe8fac0ba].
+Several classic series, the full TGM-95 paper, and the 2020 ESGO-SIOPE and 2021 EXPeRT/PARTNER guidelines are not yet recorded because their full text could not be obtained. They are listed in `../sources/INDEX.md` under "Needs full text". About 580 relevant items wait there, most of them paywalled papers with JGCT in the title or abstract. No JGCT-specific interventional trial was found [url-599767ff9c45, url-00efe8fac0ba]. Population cancer registries may undercount JGCT, because ICD-O codes it as benign or of uncertain behavior, so higher-stage cases can be missed [pmid-27858560].
 
 ## For parents and patients
 

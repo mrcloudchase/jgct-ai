@@ -41,10 +41,10 @@ Query details with `python3 tools/ledger.py`.
 
 | status | items |
 |---|---|
-| found | 462 |
+| found | 457 |
 | needs_full_text | 859 |
-| processed | 269 |
-| skipped | 725 |
+| processed | 271 |
+| skipped | 728 |
 | unreachable | 3 |
 
 ### Next 40 unprocessed items by priority

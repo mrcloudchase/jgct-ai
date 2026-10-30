@@ -1,0 +1,46 @@
+source_id: '27858560'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/27858560/
+retrieved_on: '2026-10-30'
+full_text_source: PMC5063189
+language: en
+pmid: '27858560'
+doi: 10.1200/JOP.2016.016261
+pmcid: PMC5063189
+title: Ovarian Sex Cord-Stromal Tumors.
+journal: Journal of oncology practice
+year: 2016
+first_author: Schultz KA
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- abdominal pain
+- distention
+- torsion (rare)
+- hormonal signs such as precocious puberty or menstrual change
+- large tumor, possible rupture with hemoperitoneum
+key_findings:
+- Review of ovarian sex cord-stromal tumors (SCST); typically present in the first two to three decades of life (adult granulosa cell tumor later, peak 50-55 years). Together about 5% of ovarian malignancies in women aged 15 to 24 years (review statement).
+- 'Pathology: JGCT is one of the listed subtypes. Review cites one series of 72 pediatric SCST in which JGCT and Sertoli-Leydig cell tumor together made up 85% of SCST in children and adolescents, with almost two thirds of cases JGCT.'
+- 'Histology as described: polygonal cells with usually abundant cytoplasm growing in nodules or diffusely, follicles of varying size and shape, immature and sometimes strikingly pleomorphic cells, usually briskly mitotic. Figure 1 shows nodular tumor cells in a pale blue background with mucoid pools, ovoid regular nuclei and ill-defined cytoplasm. Gynandroblastoma combines JGCT and Sertoli-Leydig features.'
+- Ovarian capsule is intact in most JGCT, which the authors say accounts in part for the excellent outcome; with rupture or invasion beyond the capsule JGCT can pursue an aggressive course. JGCT is uncommon in adults, as adult GCT is in children.
+- Ollier disease and Maffucci syndrome are stated to be associated with increased risk of JGCT (cites a Maffucci syndrome JGCT case report). Nearly all adult GCT carry FOXL2 402C>G; this is stated for adult GCT, not JGCT. DICER1 association is stated for Sertoli-Leydig tumors and gynandroblastomas, not JGCT.
+- 'Epidemiology: ICD-O coding as benign (/0) or uncertain/low malignant potential (/1) means many SCST, explicitly including higher-stage JGCT, are not collected by cancer registries, so incidence is underestimated. Authors recommend including JGCT, Sertoli-Leydig tumors and gynandroblastomas in national registries.'
+- 'Work-up: obtain inhibin, estradiol, testosterone and AFP when SCST suspected; inhibin B may be more predictive than inhibin A. Fertility-sparing surgery (complete removal of the affected adnexa, not cystectomy alone) is preferred in children and adolescents; staging includes peritoneal fluid, contralateral ovary, peritoneal and omental biopsies; routine lymphadenectomy omitted because nodal risk is low. Operative records should state intraoperative (FIGO Ic1) or preoperative (Ic2) rupture.'
+- 'Treatment: FIGO stage Ia treated with surgery alone; higher stage may need chemotherapy. Children and adolescents needing chemotherapy: cisplatin, etoposide, bleomycin (5 days, usually 4 cycles) in the US; cisplatin, etoposide, ifosfamide more common in Europe. In pediatric JGCT, preoperative rupture or malignant ascites may carry a worse prognosis than intraoperative rupture (review statement).'
+- 'Recurrent disease (SCST in general, mostly adult GCT evidence): surgery, radiation, taxane combinations or BEP, leuprolide, bevacizumab.'
+- 'Ongoing: International Ovarian and Testicular Stromal Tumor Registry (established 2011, 140 patients enrolled); European Cooperative Study Group on Pediatric Rare Tumors registry; GOG 264 (carboplatin/paclitaxel vs BEP, 40 accrued, plans to expand to a juvenile cohort); European taxane plus bevacizumab trial in recurrence.'
+relevance_to_jgct: Concise clinician-oriented review giving the pediatric SCST context for JGCT (proportion, histology, rupture and prognosis, registry under-coding, work-up, fertility-sparing surgery, chemotherapy regimens).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Narrative review; JGCT is covered in a few paragraphs within a broader SCST review, with no new JGCT data. All figures are the authors' citations of other work (Schneider 2003 for the 72-patient series). No JGCT-specific molecular data are given.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
