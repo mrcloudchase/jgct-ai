@@ -7,7 +7,9 @@
 <id> is pmid:<n>, doi:<doi>, or a bare PMID. `get` tries, in order:
   1. PMC XML from Europe PMC (fullTextXML), then NCBI PMC efetch          -> full_text_source "PMC<id>"
   2. Unpaywall OA locations (PDF or landing HTML), then the DOI landing page -> full_text_source "<url>"
-  3. --url, if given (a PDF or HTML page you located yourself)
+  3. --url, if given (a PDF or HTML page you located yourself); tried first
+  --accept saves the --url text even if the length/section heuristic says it is not full text
+  (for non-English articles or short complete items such as a conference abstract page)
 It prints `FULLTEXT_SOURCE <value>`, `TEXT <path>`, `CHARS <n>` on success, or `NO_FULLTEXT <routes tried>`.
 The text keeps section headings, paragraphs, table rows and figure captions (PMC XML), or the
 page text of a PDF (pypdf). A result is only full text if you then read it and it contains the
@@ -200,14 +202,14 @@ def save(stem, text, src):
     return 0
 
 
-def get_full(i, url=None):
+def get_full(i, url=None, accept=False):
     kind, val = norm(i)
     stem = (kind + "-" + val).replace("/", "_")
     tried = []
     if url:
         try:
             t, final = fetch_url(url)
-            if looks_full(t):
+            if looks_full(t) or (accept and t):
                 return save(stem, t, url)
             tried.append(f"{url}: too short/not body ({len(t or '')} chars)")
         except Exception as e:
@@ -250,8 +252,11 @@ if __name__ == "__main__":
             print(json.dumps(locate(a)), flush=True)
     elif cmd == "get":
         url = None
+        accept = "--accept" in args
+        if accept:
+            args.remove("--accept")
         if "--url" in args:
             k = args.index("--url"); url = args[k + 1]; del args[k:k + 2]
-        sys.exit(get_full(args[0], url))
+        sys.exit(get_full(args[0], url, accept))
     else:
         print(__doc__); sys.exit(2)
