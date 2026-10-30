@@ -1,0 +1,36 @@
+source_id: '40337048'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/40337048/
+retrieved_on: '2026-10-30'
+full_text_source: PMC12054963
+language: en
+pmid: '40337048'
+doi: 10.1007/s13193-024-02120-8
+pmcid: PMC12054963
+title: An Indian Perspective on the Management of Adolescent Ovarian Cancer.
+journal: Indian journal of surgical oncology
+year: 2025
+first_author: Rema P
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: adolescents (WHO 10-19 years)
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Narrative review of adolescent ovarian cancer (germ cell tumors, sex cord-stromal tumors, small cell carcinoma hypercalcemic type) from an Indian standpoint; the authors state there are no India-specific adolescent guidelines.
+- 'JGCT section (literature-based, no new data): juvenile granulosa cell tumors are described as low-grade malignant tumors predominantly affecting adolescents, estrogen-secreting, presenting with menstrual irregularity or precocious puberty as unilateral solid-cystic masses; about 80% are stage I at presentation with good overall survival.'
+- 'Adverse prognostic factors listed for JGCT: size above 5 cm, high mitotic index, sarcomatoid foci; late recurrences, sometimes decades later, so long-term surveillance is advised.'
+- 'Management of sex cord-stromal tumors per the review: comprehensive surgical staging (peritoneal cytology, unilateral salpingo-oophorectomy, peritoneal biopsies, infracolic omentectomy), no lymphadenectomy unless nodes enlarged, fertility-sparing surgery standard, early-stage disease cured by surgery alone, platinum-based chemotherapy for advanced disease.'
+- 'General recommendations: avoid diagnostic punctures (spill and upstaging), laparotomy preferred, MRI over CT, tumor markers AFP, beta-hCG, inhibin B, LDH; sex cord-stromal tumors recur late (5-10 years) compared with germ cell tumors (first 2 years); follow-up every 3 months for 2 years then every 6 months for 3 years.'
+relevance_to_jgct: Brief secondary summary of JGCT clinical behavior and management in adolescent ovarian cancer; useful as a statement of one regional expert view, not as primary evidence.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Narrative review with a short JGCT paragraph and no cited primary source for JGCT statements in that paragraph; the statement that JGCT ''predominantly affect adolescents'' and the claim ''late recurrences are common'' are generalizations by the authors. Wording slips: ''menstrual irregularities ranging from precocious puberty to irregular bleeding''. Possible mismatch with other literature: JGCT is more typically a tumor of children and young adults, with many prepubertal cases.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

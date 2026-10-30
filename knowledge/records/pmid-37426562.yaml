@@ -1,0 +1,43 @@
+source_id: '37426562'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37426562/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10327953
+language: en
+pmid: '37426562'
+doi: 10.36518/2689-0216.1461
+pmcid: PMC10327953
+title: Juvenile-Type Granulosa Cell Tumor in Pregnancy Presenting as a Ruptured Abdominal Mass.
+journal: HCA healthcare journal of medicine
+year: 2023
+first_author: Mogor O
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 28 years
+alterations: []
+treatments:
+- regimen: Exploratory laparotomy, left salpingo-oophorectomy; then 6 cycles of paclitaxel and carboplatin
+  setting: FIGO stage IC2 (pre-operative rupture), 31 weeks gestation
+  n: 1
+  outcome: vaginal delivery at 31w2d of a healthy 1830 g girl; no recurrence 1 year after surgery
+presentation:
+- incidental 12 cm adnexal mass at 28 weeks
+- acute abdomen with hypotension and hemoperitoneum at 31 weeks
+- ruptured tumor capsule
+key_findings:
+- 28-year-old G2P1 (BMI >30, prior cesarean) with an incidental 12 x 12 cm left adnexal mass at 28 weeks; at 31 weeks presented with acute abdomen, hypotension and suspected hemoperitoneum.
+- 'Laparotomy: 20 x 25 cm left ovarian neoplasm with ruptured capsule, about 500 mL clotted blood; left salpingo-oophorectomy with all visible tumor removed; FIGO stage 1C2 because of preoperative rupture.'
+- 'Pathology: tumor 18 x 14 x 9 cm, 1395 g, sex cord-stromal tumor with variably sized follicles, vacuolated cytoplasm, immature nuclei, basophilic myxoid background and luteinized aggregates; 11 mitoses per 10 HPF; inhibin, calretinin, CD99 and S100 positive; SALL4 and AFP negative.'
+- She went into labour after surgery and delivered vaginally at 31 weeks 2 days; 6 cycles of paclitaxel and carboplatin were given, no recurrence at 1 year; she desired fertility preservation.
+- Authors state (literature-based) that over 90% of JGCT are diagnosed at FIGO stage I with 5-year survival over 90%, that adjuvant chemotherapy is recommended for stage IC or higher or mitotic index above 20 per 10 HPF, and propose surveillance every 2-3 months for 2 years, every 4-6 months for the next 3 years, then annually for 5 years.
+relevance_to_jgct: Rare JGCT in pregnancy presenting as a ruptured mass, managed with fertility-sparing surgery, delivery and adjuvant carboplatin-paclitaxel.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Adult age (28 years); juvenile type by histology, within the stated JGCT age range of under 30. The case section does not state when after delivery chemotherapy started. One year follow-up only. Tumor size is given as 20 x 25 cm intra-operatively and 18 x 14 x 9 cm (1395 g) on pathology. Discussion recommendations are cited literature.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

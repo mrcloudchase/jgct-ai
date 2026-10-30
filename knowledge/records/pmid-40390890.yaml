@@ -1,0 +1,49 @@
+source_id: '40390890'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/40390890/
+retrieved_on: '2026-10-30'
+full_text_source: PMC12085509
+language: en
+pmid: '40390890'
+doi: 10.1007/s13224-024-02005-4
+pmcid: PMC12085509
+title: Case of Gynandroblastoma of the Ovary with Raised AFP and Associated DICER 1 Mutation.
+journal: Journal of obstetrics and gynaecology of India
+year: 2025
+first_author: Limbachiya D
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 16 years
+alterations:
+- gene: DICER1
+  alteration: pathogenic mutation by next-generation sequencing (specific variant and whether germline not stated)
+  frequency: null
+  notes: family genetic screening and counselling advised
+treatments:
+- regimen: Right salpingo-oophorectomy with fertility-sparing complete staging surgery, then 4 cycles of BEP
+  setting: FIGO stage IA grade 3
+  n: 1
+  outcome: recurrence-free at 12 months with AFP normal
+presentation:
+- gradual abdominal distension
+- irregular cycles for 6 months
+- 25 x 20 cm solid-cystic right ovarian mass
+- AFP 263 ng/mL (normal 0-40)
+key_findings:
+- '16-year-old with gradual abdominal distension and 6 months of irregular cycles; CT: large solid-cystic right ovarian mass. CA-125, beta-hCG and LDH normal; AFP 263 ng/mL (normal 0-40).'
+- Right salpingo-oophorectomy; frozen section sex cord-stromal tumor; fertility-sparing complete staging surgery; final FIGO stage IA, grade 3; gross mass 25 x 20 cm.
+- 'Final histology: gynandroblastoma, Sertoli-Leydig cell tumor component 80% (intermediate to poorly differentiated, few Leydig cells, focal retiform pattern, 15-20 mitoses per HPF) plus juvenile granulosa cell tumor component 20% (solid nodules with secretions resembling Graafian follicles).'
+- IHC positive for inhibin, calretinin, vimentin, cytokeratin and Melan A; negative for EMA, CK7 and SALL4; both JGCT and Sertoli-Leydig components were positive for inhibin, calretinin, cytokeratin and vimentin. Sequencing found a pathogenic DICER1 mutation.
+- Adjuvant 4 cycles of BEP given for intermediate-to-poor differentiation, tumor size and mitotic rate; recurrence-free at 12 months with AFP in the normal range.
+- Authors note gynandroblastoma requires at least 10% minor component, so extensive sampling is needed; discussion cites that about 50-60% of Sertoli-Leydig tumors occur in germline DICER1 carriers and recommends combined germline and tumor DICER1 testing.
+relevance_to_jgct: Gynandroblastoma with a juvenile granulosa cell tumor component (20%) and DICER1 mutation in an adolescent; JGCT is the minor component of a Sertoli-Leydig-dominant tumor.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Not a pure JGCT: JGCT is 20% of a mixed tumor, with the Sertoli-Leydig component driving prognosis and treatment. Whether the DICER1 variant was germline or somatic and its exact change are not reported. The case text mentions tumor size >30 cm as a poor prognostic factor while the gross specimen was 25 x 20 cm (internal inconsistency). Follow-up 12 months.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

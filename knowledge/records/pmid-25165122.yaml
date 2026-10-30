@@ -1,0 +1,55 @@
+source_id: '25165122'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25165122/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4435027
+language: en
+pmid: '25165122'
+doi: 10.1095/biolreprod.114.120899
+pmcid: PMC4435027
+title: Soy promotes juvenile granulosa cell tumor development in mice and in the human granulosa cell tumor-derived COV434 cell line.
+journal: Biology of reproduction
+year: 2014
+first_author: Mansouri-Attia N
+study_type: other
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: Smad1/Smad5 (mouse)
+  alteration: conditional double knockout (JGCT model)
+  frequency: Esr1 up-regulated in dKO tumors vs control granulosa cells; Esr2 unchanged
+  notes: null
+- gene: ESR1
+  alteration: induced about 25-fold by genistein (50 μM, 24 h) in COV434
+  frequency: null
+  notes: ESR2 unchanged; COV434 expresses higher ESR1 and ESR2 than HEK293 or the adult GCT line KGN
+- gene: BAD, BAK1, BAX, BOK
+  alteration: down-regulated by genistein in COV434 (BCL2 unchanged, BCL2L2 increased)
+  frequency: null
+  notes: Bak1, Bad, Bok (not Bax) also down-regulated in dKO tumors; Xiap increased
+treatments:
+- regimen: Soy-free versus soy-based diet in Smad1/5 dKO mice
+  setting: mouse model
+  outcome: 50% survival 62 versus 39 weeks; metastasis at 9 months 6/16 (37.5%) versus 9/12 (75%)
+- regimen: Estrogen receptor antagonists ICI 182,780 and tamoxifen with genistein
+  setting: COV434 in vitro
+  outcome: reduced viable cell number and restored caspase 3/7 activity
+presentation: []
+key_findings:
+- 'Mouse JGCT model (Smad1/Smad5 conditional dKO): all 15 of 15 dKO mice on a soy-based diet died within 47 weeks; dKO mice on a soy-free diet (n = 10) survived significantly longer (up to 68 weeks); 50% survival rose from 39 weeks (soy) to 62 weeks (soy-free). Diet did not affect survival or tumor formation in control mice.'
+- At 9 months, metastasis was present in 9 of 12 (75%) dKO mice on soy versus 6 of 16 (37.5%) on soy-free diet (P < 0.05). Tumor histology was the same on both diets, and tumor foci appeared at similar early ages (8 and 12 weeks), so authors conclude soy affects tumor growth and progression, not initiation.
+- Esr1 expression in dKO granulosa cells was significantly higher on soy, the opposite of the effect in control mice; serum estradiol did not differ by genotype or diet.
+- 'COV434 (derived from a primary human JGCT): genistein at 5, 25 or 50 μM increased viable cells by 3-9% at 24 h, 20-34% at 48 h and up to 51% at 72 h; the effect was reduced by ICI 182,780 and tamoxifen.'
+- Genistein (50 μM, 30 min) decreased caspase 3/7 activity by 55%, restored by ICI 182,780 or tamoxifen pretreatment, and down-regulated proapoptotic genes BAD, BAK1, BAX, BOK in COV434.
+- Authors conclude dietary soy, and genistein in particular, has deleterious effects on GCT development and call for investigation of dietary soy in children and women with JGCT; this is based on mouse and cell-line data only, with genistein concentrations (50 μM) higher than typical infant plasma levels (authors note 5 μM is representative of soy-formula-fed infants).
+relevance_to_jgct: Mouse JGCT model and COV434 data suggesting soy isoflavone genistein promotes JGCT growth and progression via estrogen receptor signaling and suppressed apoptosis; no human patient data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: No human tumor samples; human relevance is hypothetical. Supplemental data (tables, figures S1-S4) not in the text read. Same group and models as pmid-25243859.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

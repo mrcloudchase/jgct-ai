@@ -1,0 +1,40 @@
+source_id: '26054417'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26054417/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4498422
+language: en
+pmid: '26054417'
+doi: 10.5152/dir.2015.34414
+pmcid: PMC4498422
+title: 'Sex cord-stromal tumors of the ovary: a comprehensive review and update for radiologists.'
+journal: Diagnostic and interventional radiology (Ankara, Turkey)
+year: 2015
+first_author: Horta M
+study_type: review
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- isosexual pseudoprecocity in children
+- palpable pelvic mass
+- tumor rupture with hemoperitoneum at presentation
+key_findings:
+- Radiology review of ovarian sex cord-stromal tumors using the 2014 WHO classification, in which adult and juvenile granulosa cell tumors are grouped among pure sex cord tumors.
+- GCT are low-grade malignant tumors under 5% of malignant ovarian tumors; adult type accounts for 95%. The juvenile form occurs predominantly in children and young women (under 30 years). In the pediatric population isosexual pseudoprecocity is common.
+- 'Authors state adult and juvenile GCT have similar imaging features despite different ages, clinical and histologic findings: usually unilateral (average about 12 cm), ranging from solid to multilocular cystic masses with solid components to purely cystic, usually without intracystic papillary projections and rarely calcified; on MRI often sponge-like multilocular cystic masses.'
+- 'Illustrative case (Figure 9): a 17-year-old girl with a right ovarian JGCT; ultrasound showed a multilocular cystic mass and contrast CT a multiloculated low-attenuation mass with thin septa and abundant ascites. No other clinical data given.'
+- 'Most JGCT present at stage I and are less likely to recur after simple resection, but occasional clinically malignant tumors usually grow fast and spread early within the abdomen (statement attributed to the cited literature). GCT overall: more than 80% detected at stage I with 5-year survival above 90%; recurrence is late.'
+- Sclerosing stromal tumor, an estrogenic SCST of young women, is discussed as a differential entity with a characteristic spoke-wheel MRI pattern; Sertoli-Leydig tumors tend to recur early in contrast to the late recurrences of GCT.
+relevance_to_jgct: Imaging-oriented review with a short adult-plus-juvenile GCT section and one illustrative JGCT case; useful for the statement that JGCT and adult GCT look alike on ultrasound, CT and MRI.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Combined adult/juvenile GCT section; JGCT-specific numbers are limited to the single imaging case and general statements citing other literature. Figures not available in the text beyond captions.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

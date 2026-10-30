@@ -1,0 +1,47 @@
+source_id: 10.28982/josam.636136
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.28982/josam.636136
+retrieved_on: '2026-10-30'
+full_text_source: https://jsurgmed.com/article/download/636136/5521
+language: en
+pmid: null
+doi: 10.28982/josam.636136
+pmcid: null
+title: 'A rare cause of precocious puberty: Juvenile granulosa cell tumor'
+journal: Journal of Surgery and Medicine
+year: 2020
+first_author: Özkan A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 4 years 4 months
+alterations: []
+treatments:
+- regimen: Laparotomy, left oophorectomy; then BEP (bleomycin, etoposide, cisplatin) x4
+  setting: FIGO stage IC (ruptured capsule, malignant cells in pelvic fluid)
+  n: 1
+  outcome: no recurrence 18 months after surgery; breast regression, CA-125 fell, ultrasound normal
+presentation:
+- breast enlargement (Tanner B3) and areolar pigmentation for 2 months; pubic/axillary hair Tanner 1
+- large abdominal mass without abdominal pain
+- bone age 6 years; height 90th percentile
+- estradiol 65 pg/mL with suppressed FSH 0.23 and LH 0.29 mIU/mL; no LH/FSH rise on LHRH test
+- CA-125 213 U/mL; AFP and hCG normal
+- enlarged uterus and free pelvic fluid
+key_findings:
+- 'Turkish case (Adana): 4-year-4-month-old girl with 2 months of breast development and areolar pigmentation, advanced bone age and a large abdominal mass; hormone profile of peripheral precocious puberty (estradiol 65 pg/mL, suppressed gonadotropins, flat LHRH test).'
+- CA-125 213 U/mL with normal AFP and hCG; ultrasound and MRI showed a 12 x 9 x 5 cm cystic-solid pelvic mass of unclear origin; chest CT and PET showed no metastases; brain/pituitary MRI normal.
+- 'Laparotomy: 12 x 9 cm left ovarian mass resected with the ovary; right ovary normal; no pelvic lymphadenopathy. Specimen 14 x 8 x 6 cm, 560 g, solid and small cystic areas.'
+- 'Histology: sex cord-stromal proliferation with 7 to 8 mitoses/10 HPF and high-grade atypia; no Call-Exner bodies; inhibin, calretinin, CD99 and SMA positive, pancytokeratin focal; EMA, CD10, AFP, hCG negative. Capsule ruptured and malignant cells in pelvic fluid: FIGO IC.'
+- Four cycles of BEP; 18 months after surgery breast size had regressed, CA-125 had fallen and there was no sign of recurrence. Inhibin A measured on postoperative day 3 was normal (1 pg/mL); it was not measured before surgery.
+- Authors note imaging cannot reliably distinguish JGCT from other ovarian tumors and that sex hormones and tumor markers were more helpful than imaging here.
+relevance_to_jgct: Pediatric ovarian JGCT with peripheral precocious puberty and raised CA-125, stage IC with malignant pelvic fluid, treated with oophorectomy and BEP.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Read in full from the journal PDF (CC BY-NC-ND). The text says the capsule had ruptured but the gross description calls the tumor 'intact'; it does not say whether rupture was preoperative or intraoperative. Pelvic fluid cytology was positive. 'Response to treatment was good after 18 months' is the authors' wording; follow-up length beyond that is not given.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

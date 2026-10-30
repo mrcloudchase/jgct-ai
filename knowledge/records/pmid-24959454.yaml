@@ -1,0 +1,44 @@
+source_id: '24959454'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24959454/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4064907
+language: en
+pmid: '24959454'
+doi: 10.7860/JCDR/2014/7470.4222
+pmcid: PMC4064907
+title: 'Virilizing cystic juvenile granulosa cell tumour of the ovary: a case report.'
+journal: 'Journal of clinical and diagnostic research : JCDR'
+year: 2014
+first_author: Kumar B
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 17 years
+alterations: []
+treatments:
+- regimen: Exploratory laparotomy with left salpingo-oophorectomy
+  setting: primary
+  n: 1
+  outcome: uneventful postoperative period; no recurrence or complications at recent follow-up (duration not stated)
+presentation:
+- lower abdominal mass for 2 months
+- facial and abdominal hair growth for 1 year
+- deepening of voice for 1 year
+- pelvic-abdominal mass reaching 2 cm above the umbilicus
+key_findings:
+- 17-year-old (menarche at 13, previously normal cycles) with a 2-month abdominal mass and 1 year of facial/abdominal hirsutism and voice deepening; routine hematology and biochemistry normal (no hormone assays reported).
+- 'Ultrasound: left ovarian cystic mass 18 x 14 cm; laparotomy showed a left ovarian cystic tumor with normal uterus, tubes and right ovary; left salpingo-oophorectomy done.'
+- 'Gross: cyst 20 x 16 x 10 cm, about 500 ml straw-colored fluid, multiloculated with small 0.5-1.0 cm mucoid-filled cysts in the wall, no solid areas; yellowish cut surface of the wall.'
+- 'Microscopy: solid sheets of oval to spindle granulosa and theca cells with fine chromatin and eosinophilic to vacuolated (luteinized) cytoplasm; macrofollicular pattern with eosinophilic secretion in the thicker wall; no nuclear grooves; occasional moderate atypia; maximum 4 mitoses/10 HPF. Diagnosis: cystic JGCT. No immunohistochemistry reported.'
+- Authors describe this as a rare virilizing cystic JGCT (androgen production infrequent; most virilizing GCTs are solid) and note neither recurrence nor complication at recent follow-up.
+relevance_to_jgct: Case of a virilizing, predominantly cystic JGCT in a 17-year-old, without hormone assays or IHC, adding to the small literature of androgenic cystic JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: No testosterone or inhibin measurements, no staging statement and no follow-up duration reported; diagnosis rests on morphology alone. The paper's discussion calls the adult type 'Adult juvenile granulosa cell tumour (AGCT)', a wording slip. Age 17 is at the upper edge of 'juvenile'.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

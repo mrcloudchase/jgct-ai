@@ -1,0 +1,36 @@
+source_id: '18205951'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/18205951/
+retrieved_on: '2026-10-30'
+full_text_source: PMC2266699
+language: en
+pmid: '18205951'
+doi: 10.1186/1471-2393-8-3
+pmcid: PMC2266699
+title: 'Ovarian carcinoma associated with pregnancy: a clinicopathologic analysis of 23 cases and review of the literature.'
+journal: BMC pregnancy and childbirth
+year: 2008
+first_author: Behtash N
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: whole series 20 to 40 years (median 29.2)
+alterations: []
+treatments: []
+presentation:
+- ovarian tumor discovered during pregnancy (stage I at diagnosis per table)
+key_findings:
+- 'Retrospective series from Vali-e-Asr Hospital, Tehran (1991-2002): 23 ovarian malignancies detected in pregnancy or puerperium, ages 20-40: 11 malignant germ cell tumors, 5 low malignant potential tumors, 4 invasive epithelial tumors and 3 sex cord-stromal tumors (SCST). 17 were stage I; five of six advanced-stage patients died; 5-year survival 61%.'
+- All 3 SCST patients were stage I; adjuvant chemotherapy was given to 1 of 3. One SCST, a juvenile granulosa cell tumor (JGCT), recurred; the authors state that this patient recurred multiple times and died 48 months after diagnosis.
+- Authors note that SCST diagnosed during pregnancy are reported to behave like non-pregnancy SCST and conclude that pregnancy does not necessarily worsen ovarian malignancy prognosis, yet cite this JGCT as a recurrence and death.
+- No age, stage detail, treatment details or timing of the recurrence are given for the JGCT patient beyond Table 1 (stage I) and the discussion sentence; the two other SCST are not histologically specified.
+relevance_to_jgct: Single JGCT patient with ovarian tumor in pregnancy who had stage I disease, repeated recurrences and died at 48 months; useful as a rare outcome data point but sparsely documented.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The age of the JGCT patient is not stated (series age range 20-40, which is adult age for a 'juvenile' diagnosis). Table 1 shows 'Recurrence 1 (JGCT)' in the SCST column; the chemotherapy column shows 1 of 3 SCST received adjuvant chemotherapy but does not say whether this was the JGCT patient.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

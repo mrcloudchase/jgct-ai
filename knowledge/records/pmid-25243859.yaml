@@ -1,0 +1,50 @@
+source_id: '25243859'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25243859/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4213364
+language: en
+pmid: '25243859'
+doi: 10.1210/me.2014-1217
+pmcid: PMC4213364
+title: TGFβ signaling promotes juvenile granulosa cell tumorigenesis by suppressing apoptosis.
+journal: Molecular endocrinology (Baltimore, Md.)
+year: 2014
+first_author: Mansouri-Attia N
+study_type: other
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: 10 months to 15 years (4 human JGCT samples)
+alterations:
+- gene: TGFB1/2/3, TGFBR1, TGFBR2, TGFBR3
+  alteration: mRNA expression by qPCR in human JGCT (3 primary, 1 metastatic implant) and COV434
+  frequency: all JGCT samples expressed at least one TGFβ isoform and the type I and II receptors
+  notes: TGFBR3 (betaglycan) was down-regulated in the JGCT samples; one outlier sample (metastatic implant, stage IIIC, 15-year-old) had generally higher values and showed up-regulated TGFB3, TGFBR1, TGFBR3
+- gene: Smad1/Smad5 (mouse)
+  alteration: conditional double knockout in granulosa cells (Amhr2-cre) as mouse JGCT model
+  frequency: 100% of dKO mice (15/15) died within 1 year
+  notes: deleting Smad4 as well (Smad1/5/4 tKO) delayed tumors and abolished metastasis
+treatments:
+- regimen: SB-505124 (ALK4/5/7 inhibitor) in COV434 cells
+  setting: in vitro
+  outcome: decreased viable cells and increased apoptosis; TGFβ1 increased viability and reduced caspase 3/7 activity by 50%
+presentation: []
+key_findings:
+- 'Mouse model: Smad1/5 dKO granulosa-cell conditional knockouts develop metastatic granulosa cell tumors with full penetrance (authors state the model resembles human JGCT); all 15 of 15 dKO mice died within 1 year.'
+- Adding deletion of Smad4 (Smad1/5/4 triple knockout, tKO) made females sterile (6 breeding pairs, no litters in 6 months) and increased atretic follicles at 12 weeks; only 1 of 8 tKO mice died within 1 year (an ovarian tumor was present), and 3 further colony tKO mice developed tumors, one at 18 months, an age never reached by dKO females.
+- tKO tumors were much smaller, encapsulated and highly vascularized, inhibin alpha positive, cytokeratin 8/19 negative, with no peritoneal metastasis, and had significantly more TUNEL-positive apoptotic cells than dKO tumors (n = 3 per group).
+- In dKO mouse tumors (n = 9) and metastases (n = 7, mainly diaphragm implants) vs control granulosa cells (n = 6), all three Tgfb isoforms and receptors were detectable; Tgfb3, Tgfbr1 (Alk5) and Tgfbr3 were significantly up-regulated in metastases; Inhba and Inhbb were down-regulated in tumors and metastases.
+- 'Human JGCT tissue: 4 archived FFPE samples (patients 10 months to 15 years; 3 primary tumors and 1 metastatic implant from a 15-year-old with stage IIIC malignant JGCT) compared with 4 normal premenopausal ovaries and COV434. All samples expressed at least one TGFB isoform and TGFBR1/TGFBR2; TGFBR3 was down-regulated. Human JGCTs also expressed INHBA, INHBB and activin receptors (supplementary data, not read).'
+- 'COV434 (human JGCT-derived line): TGFβ1 (2.5 ng/mL) increased viable cell number; the type I receptor inhibitor SB-505124 (10 μM) decreased viability and increased apoptosis (annexin V), and the inhibition was not overcome by TGFβ1. Neither treatment changed cell-cycle distribution.'
+- TGFβ1 reduced caspase 3/7 activity by about 50% and PARP1 cleavage; SB-505124 pretreatment restored both. Activin A, although it also induced SMAD2/3 phosphorylation, did not change caspase 3/7 activity or PARP1 cleavage; follistatin alone reduced caspase activity by about 50% (unexplained).
+- Authors conclude TGFβ provides a protective, anti-apoptotic signal in mouse and human JGCT and suggest TGFβ pathway inhibitors might be of interest for juvenile GCT; this is a preclinical inference, not a clinical result.
+relevance_to_jgct: Preclinical evidence in a Smad1/5 mouse JGCT model and the COV434 line that TGFβ-SMAD4 signaling promotes JGCT survival and metastasis by suppressing apoptosis, with limited expression data in 4 human JGCT samples.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Human sample number is small (4 JGCT; supplementary table of patient data and supplementary figures were not in the text read). Human JGCT sample ages come from the methods; sample 1 was the stage IIIC metastatic implant. The introduction states most JGCTs lack FOXL2 mutation (from cited literature). Same group and models as the soy study (pmid-25165122).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

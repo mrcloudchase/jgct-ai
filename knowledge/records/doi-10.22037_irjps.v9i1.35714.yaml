@@ -1,0 +1,43 @@
+source_id: 10.22037/irjps.v9i1.35714
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.22037/irjps.v9i1.35714
+retrieved_on: '2026-10-30'
+full_text_source: https://journals.sbmu.ac.ir/irjps/article/download/35714/31351
+language: en
+pmid: null
+doi: 10.22037/irjps.v9i1.35714
+pmcid: null
+title: 'Ovarian Juvenile Granulosa Cell Tumor in A 2.5 Years-Old Girl: The Importance of Early Diagnosis'
+journal: Iranian Journal of Pediatric Surgery
+year: 2023
+first_author: Boughdir M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 2 years 5 months
+alterations: []
+treatments:
+- regimen: Exploratory laparotomy (Pfannenstiel) with left adnexectomy
+  setting: primary, FIGO stage IA
+  n: 1
+  outcome: uneventful post-operative course at 18-month follow-up; no adjuvant therapy mentioned
+presentation:
+- abdominal distension for 2 months
+- 'early puberty signs: breast development, pubic hair, vaginal bleeding (Tanner 2-3)'
+- firm mobile 9 cm abdominal mass
+- brown freckling spots on right thigh
+key_findings:
+- 2.5-year-old girl with 2 months of abdominal distension and signs of precocious puberty (breast development, pubic hair, vaginal bleeding; Tanner stage 2-3); firm, mobile 9 cm abdominal mass and brown freckling spots on the right thigh.
+- 'Ultrasound: left adnexal solid and cystic lesion with Doppler vascularity; MRI: 12 cm cystic and solid abdominopelvic mass reaching the subrenal aorta, probably of left ovarian origin. Serum beta-hCG, AFP, CA19-9 and CA125 normal; chest X-ray and thoracoabdominal CT showed no secondary tumors.'
+- 'Laparotomy found a very vascular 15 cm left ovarian mass weighing about 650 g; left adnexectomy performed. Pathology: JGCT of the left ovary, FIGO stage IA, diffuse inhibin immunoreactivity. Uneventful course at 18 months.'
+- Authors conclude early diagnosis (at early signs of puberty) is a key prognostic factor, although the tumor in this child was already very large at diagnosis; discussion (literature-based) states most JGCTs are stage IA, surgery is primary management, unilateral salpingo-oophorectomy suffices for stage IA, adjuvant chemotherapy benefit is unclear and may be indicated in higher stages, and inhibin B may help detect recurrence.
+relevance_to_jgct: Very young girl with isosexual precocious puberty and a large stage IA ovarian JGCT cured by adnexectomy; supports surgery alone for stage IA.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Text contains duplicated paragraphs from PDF layout. Dates in the header are inconsistent (received 5 August 2021, accepted 29 February 2021; published 2023). Mitotic count, nuclear atypia and other pathology details not reported. Freckling spots were noted without further work-up. Discussion statements are from cited literature, not this patient.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

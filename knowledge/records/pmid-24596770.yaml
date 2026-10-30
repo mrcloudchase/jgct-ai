@@ -1,0 +1,44 @@
+source_id: '24596770'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24596770/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3939498
+language: en
+pmid: '24596770'
+doi: 10.7860/JCDR/2014/7011.3964
+pmcid: PMC3939498
+title: Can treatment for polycystic ovarian disease induce ovarian tumour? A case report.
+journal: 'Journal of clinical and diagnostic research : JCDR'
+year: 2014
+first_author: Dorairajan G
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years
+alterations: []
+treatments:
+- regimen: Right ovariotomy (right ovary removed)
+  setting: surgery by exploratory laparotomy
+  n: 1
+  outcome: uneventful postoperative period; spontaneous periods every 6-8 weeks; left ovary followed by ultrasound; follow-up duration not stated
+presentation:
+- severe hirsutism (Ferriman-Gallwey 11)
+- oligomenorrhoea
+- later lower abdominal heaviness and frequent micturition
+- 30 x 25 cm mobile cystic pelvic mass
+key_findings:
+- 15-year-old girl (menarche 3 years earlier) with severe hirsutism and oligomenorrhoea; BMI 20, Tanner IV; normal testosterone, androstenedione, DHEAS, 17-OHP, thyroid, prolactin and glucose tolerance; free testosterone 46.2 ng/dl; ultrasound showed polycystic ovaries and no tumor. Treated for polycystic ovarian disease with metformin 1000-1500 mg/day and a combined oral contraceptive for 6 months, then periodic progesterone withdrawal.
+- 'Returned 18 months later with lower abdominal heaviness and frequent micturition: 30 x 25 cm mobile non-tender cystic mass; ultrasound showed multiloculated cystic mass of the right ovary, no solid areas, no free fluid, normal left ovary. Free testosterone now 460 ng/dl; alpha-fetoprotein and LDH marginally elevated.'
+- 'Laparotomy: large cystic tumor replacing the right ovary with thick smooth capsule; no free fluid; other organs, omentum and peritoneum normal; right ovariotomy done.'
+- 'Pathology: multiloculated, yellow fluid and gelatinous myxoid areas, thickened septa with grey-white areas; macrofollicular pattern and solid sheets, hyperchromasia and mild atypia, 4 mitoses/10 HPF, occasional nuclear grooving, eosinophilic mucinous luminal secretion, foci of extensive theca cells; reported as juvenile granulosa cell tumour. No immunohistochemistry or stage reported in the text.'
+- Authors suggest, citing prior literature, that insulin at high concentration may act through IGF-I receptors to promote such tumors, and recommend continued ovarian surveillance of adolescents treated for polycystic ovarian disease; they state theirs is probably the third such case reported (the earlier one was a Sertoli-Leydig tumor).
+relevance_to_jgct: Single adolescent (age 15) ovarian JGCT with marked hyperandrogenism, diagnosed after treatment for presumed polycystic ovarian disease; illustrates an androgenic presentation mimicking PCOS.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Juvenile label rests on morphology only (macrofollicular pattern, mucinous secretion, theca cells, 4 mitoses/10 HPF, nuclear grooving); no immunohistochemistry, FOXL2 or inhibin, so the label is plausible given age 15 but not confirmed; an androgen-secreting tumor with free testosterone 460 ng/dl is atypical for typical JGCT. Whether the tumor pre-existed the initial normal ultrasound is not excluded; a causal link to metformin or hormone treatment is the authors'' hypothesis, unsupported by data. Stage not reported. Histology figures were images and not read. Dates: presentation Feb 2012.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,46 @@
+source_id: '24783102'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24783102/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4003605
+language: en
+pmid: '24783102'
+doi: 10.7860/JCDR/2014/6825.4131
+pmcid: PMC4003605
+title: Sclerosing peritonitis occurring in association with juvenile granulosa cell tumour - a cause of concern.
+journal: 'Journal of clinical and diagnostic research : JCDR'
+year: 2014
+first_author: K A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 18 years
+alterations: []
+treatments:
+- regimen: Hysterectomy with unilateral salpingo-oophorectomy and peritoneal sampling
+  setting: primary, ruptured right ovarian tumor
+  n: 1
+  outcome: doing well 24 months after surgery; no adjuvant therapy mentioned
+presentation:
+- one month lower abdominal pain
+- fever for two days
+- ascites
+- fixed right adnexal mass 5 x 5 cm on examination
+- bowel loops in a thickened peritoneal cocoon
+- peritoneal nodules mimicking metastases
+key_findings:
+- 18-year-old with 1 month of lower abdominal pain, fever for 2 days, diffuse distension, guarding; menarche at 14, normal cycles. Ultrasound and CT showed a solid-cystic right ovarian mass; ascites at surgery.
+- At laparotomy the right ovarian tumor had a ruptured posterior wall; the peritoneum had multiple grey-white indurated 1 cm nodules and marked adhesions (paracolic gutters, pouch of Douglas, uterus, rectum) forming a cocoon; ascitic fluid negative for malignancy.
+- Tumor 12 x 9 x 7 cm with solid grey-white to yellow cut surface, myxoid change, microcysts and hemorrhage; spindle and oval cells in sheets, fascicles and storiform pattern, luteinized polygonal cells, vague macrofollicles, mitoses 20-30 per 10 HPF, necrosis; reticulin around tumor cell clusters; calretinin and inhibin positive.
+- 'Peritoneal and omental tissue showed fibroblastic proliferation with congested vessels and mixed inflammation (sclerosing peritonitis), not tumor. Final diagnosis: JGCT with sclerosing peritonitis.'
+- Authors report this as the first case of sclerosing peritonitis with ovarian JGCT and caution that the peritoneal nodules mimic metastatic deposits and should not lead to over-staging; they suggest luteinized tumor cells may secrete a substance stimulating submesothelial fibroblasts (hypothesis, by analogy with luteinized thecoma and a luteinized adult GCT).
+relevance_to_jgct: 'Describes a pitfall in staging: sclerosing peritonitis mimicking peritoneal metastases in an adolescent with JGCT.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: First author listed in PubMed as 'K A' (full name not given in the text read). The posterior wall of the tumor was ruptured at surgery; FIGO stage is not stated and chemotherapy is not mentioned. Discussion about luteinized thecoma and a 125-case series (82% isosexual precocity) is cited literature.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

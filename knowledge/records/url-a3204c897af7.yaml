@@ -1,0 +1,46 @@
+source_id: a3204c897af7
+source_type: url
+source_tier: conference_abstract
+source_url: https://doi.org/10.1002/pbc.26772#P-284
+retrieved_on: '2026-10-30'
+full_text_source: PMC7167988
+language: en
+pmid: null
+doi: 10.1002/pbc.26772
+pmcid: PMC7167988
+title: 'Granulosa Cell Tumors: A Study of Nine Rare Cases Over a Period of Fifteen Years in a Single Institute (SIOP 2017 abstract P-284)'
+journal: Pediatric Blood & Cancer (SIOP 2017 Washington abstract supplement)
+year: 2017
+first_author: Saad-eldin Sadek Y
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 9
+age_range: 7 months to 6 years
+alterations: []
+treatments:
+- regimen: Unilateral oophorectomy
+  setting: all cases
+  n: 8
+  outcome: regression of pseudo-precocious puberty within 10 to 120 days
+- regimen: Partial oophorectomy
+  setting: one case
+  n: 1
+  outcome: regression of pseudo-precocious puberty (pooled with above)
+presentation:
+- 'pseudo-precocious puberty in all 9: breast enlargement with extensive suprapubic hair (6), suprapubic hair with enlarged clitoris (1), suprapubic hair with huge abdominal swelling (1), vaginal bleeding (1)'
+- AFP and hCG negative in all
+key_findings:
+- 'Single institution (Alexandria University, Egypt), 15 years: 9 juvenile granulosa cell tumors (5 retrospective, 4 prospective); 8 aged 4 to 6 years and one 7 months old.'
+- All presented with pseudo-precocious puberty; AFP and hCG negative in all.
+- 'Ultrasound: unilateral solid ovarian tumor in 7, a huge mixed solid-cystic ovarian mass in 1, a small ovarian cyst in 1.'
+- Treatment unilateral oophorectomy in 8 and partial oophorectomy in 1; histopathology reported all as benign granulosa cell tumors; signs of pseudo-precocious puberty regressed over 10 to 120 days.
+- Authors conclude JGCT should be considered in prepubertal girls with pseudo-precocious puberty and negative AFP/hCG, and that unilateral oophorectomy is curative because the tumors are mostly benign.
+relevance_to_jgct: Small Egyptian pediatric series of 9 ovarian JGCT, all presenting with pseudo-precocious puberty, treated by oophorectomy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Conference abstract, read whole in the SIOP 2017 supplement (Pediatr Blood Cancer 2017;64 Suppl 3, PMC7167988). The title says granulosa cell tumors; the text calls them juvenile granulosa cell tumors. Staging and length of follow-up are not given; 'benign' is the authors' word. The same supplement mentions JGCT only in passing elsewhere.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

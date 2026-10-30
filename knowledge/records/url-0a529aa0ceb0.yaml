@@ -1,0 +1,40 @@
+source_id: 0a529aa0ceb0
+source_type: url
+source_tier: conference_abstract
+source_url: https://doi.org/10.1002/pbc.25998#poster-701
+retrieved_on: '2026-10-30'
+full_text_source: PMC7167840
+language: en
+pmid: null
+doi: 10.1002/pbc.25998
+pmcid: PMC7167840
+title: 'Clinical and genetic findings in Sertoli-Leydig cell tumors, juvenile granulosa cell tumors and gynandroblastoma: an update from the International Ovarian and Testicular Stromal Tumor (OTST) Registry (ASPHO 2016 poster 701)'
+journal: Pediatric Blood & Cancer (ASPHO 2016 Minneapolis abstract supplement)
+year: 2016
+first_author: Schultz KA
+study_type: registry
+tumor_site: ovary
+n_jgct_patients: null
+age_range: median 15 years (IQR 8 to 21), whole cohort
+alterations:
+- gene: DICER1
+  alteration: germline pathogenic variant
+  frequency: 23/57 tested overall; 20/38 SLCT; 3/4 gynandroblastoma; JGCT not reported separately
+  notes: plus 5 SLCT with biallelic somatic DICER1 mutations (preliminary)
+treatments: []
+presentation: []
+key_findings:
+- 'OTST Registry update: 73 individuals with Sertoli-Leydig cell tumor (SLCT), JGCT or gynandroblastoma enrolled since December 2011, with central pathology review and germline DICER1 testing. The number with JGCT is not given in the abstract.'
+- 'Whole cohort: median age at diagnosis 15 years (IQR 8 to 21); 45% (33) stage IA; 12% (9) recurred; 4% (3) died of progressive disease; 4% (3) developed metachronous ovarian stromal tumors; 4% (3) had pleuropulmonary blastoma; 19% (14) thyroid nodules and 8% (6) thyroid cancer; 14% (10) other non-DICER1-related tumors.'
+- 'Germline DICER1 mutations in 40% (23/57 tested): 53% (20/38) of tested SLCT and 3 of 4 gynandroblastomas; per-histology figures for JGCT are not stated.'
+- Germline DICER1-positive patients had more thyroid nodules (39% vs 9%, p=0.009) and thyroid cancer (26% vs 0%, p=0.003) than germline-negative patients. Authors state germline DICER1 status did not appear to affect outcome of the primary tumor but is a risk factor for other tumors.
+relevance_to_jgct: Early OTST Registry abstract covering JGCT together with SLCT and gynandroblastoma; DICER1 germline rates are given for SLCT and gynandroblastoma but not for JGCT.
+conflicts_with: []
+overlaps_with:
+- pmid-29037807
+superseded_by: null
+retracted: false
+notes: Conference abstract read whole in the ASPHO 2016 supplement (Pediatr Blood Cancer 2016;63 Suppl, PMC7167840). Patients overlap with the full OTST report pmid-29037807 and probably later OTST papers; do not add counts. The abstract does not say how many of the 73 had JGCT, and the JGCT DICER1 rate cannot be derived from the figures given.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

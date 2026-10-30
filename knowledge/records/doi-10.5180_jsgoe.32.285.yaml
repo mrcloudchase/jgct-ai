@@ -1,0 +1,53 @@
+source_id: 10.5180/jsgoe.32.285
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5180/jsgoe.32.285
+retrieved_on: '2026-10-30'
+full_text_source: https://www.jstage.jst.go.jp/article/jsgoe/32/1/32_285/_pdf
+language: ja
+pmid: null
+doi: 10.5180/jsgoe.32.285
+pmcid: null
+title: 'Juvenile granulosa cell tumor performed a two-stage laparoscopic surgery : a case report'
+journal: Journal of the Japan Society of Gynecologic and Obstetric Endoscopy and Minimally Invasive Therapy (Nihon Sanka Fujinka Naishikyo Gakkai Zasshi)
+year: 2016
+first_author: Sakuragi T
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 12 years
+alterations:
+- gene: CD99
+  alteration: immunohistochemistry positive
+  frequency: 1 of 1
+  notes: null
+- gene: alpha-inhibin
+  alteration: immunohistochemistry positive
+  frequency: 1 of 1
+  notes: null
+treatments:
+- regimen: Laparoscopic right ovarian tumor enucleation (tumor morcellated in a bag), then laparoscopic right adnexectomy 2 months later
+  setting: stage Ic1 JGCT, fertility-sparing, no chemotherapy
+  n: 1
+  outcome: no residual granulosa cell tumor in the adnexectomy specimen; menses resumed 6 months after surgery; no recurrence at report
+presentation:
+- irregular menses 6 months after menarche (menarche at 11 years 3 months)
+- 5 x 6 cm right ovarian solid-cystic mass
+- thickened endometrium
+- elevated estradiol with suppressed FSH/LH
+key_findings:
+- 'Case from University of Occupational and Environmental Health, Japan: a 12-year-old girl (history of epilepsy on valproate; menarche at 11 years 3 months; Tanner breast III, pubic hair II; 166 cm, 47 kg) presented with menstrual irregularity; ultrasound and MRI showed a 5 x 6 cm solid-cystic right ovarian tumor with rich blood flow and a thickened endometrium.'
+- 'Preoperative labs: estradiol 136.8 pg/mL, FSH 0.1 and LH 0.8 mIU/mL, CA125 38.0 U/mL; AFP 2.0 ng/mL, hCG 1.0 mIU/mL and LDH 191 U/L normal, so germ cell tumors were considered unlikely and teratoma or sex cord-stromal tumor suspected.'
+- Laparoscopic ovarian tumor enucleation was done with endometrial sampling; ascites cytology negative; intraoperative frozen section and imprint cytology suggested a sex cord-stromal tumor without clear malignancy. The tumor was cut up in a retrieval bag and removed through the umbilicus, with capsule rupture during enucleation.
+- 'Pathology: diffuse and cord-like growth with irregular rosette-like structures, eosinophilic cytoplasm, pleomorphic nuclei with some mitoses, no nuclear grooves or Call-Exner bodies; CD99 and alpha-inhibin positive; diagnosis juvenile granulosa cell tumor. Endometrium showed simple hyperplasia.'
+- 'One week after surgery estradiol fell to 6.7 pg/mL with FSH 5.0 and LH 5.9 mIU/mL. After explaining that the tumor was of borderline/low-grade malignant type, the family chose completion surgery: laparoscopic right adnexectomy 2 months later, with no adhesions, ascites or suspicious findings; no residual tumor on pathology; omentectomy omitted. Final diagnosis: JGCT stage Ic1 (pT1c1NxM0).'
+- Menses resumed 6 months after surgery and no recurrence at the time of reporting. Authors argue that preoperative diagnosis of JGCT is difficult, a second-stage operation can be needed, laparoscopic completion is an option for young patients without evidence of metastasis if consent is thorough, and omentectomy would have been desirable to exclude microscopic spread; they cite TGM-95 that most JGCT are stage IA.
+relevance_to_jgct: Single pediatric JGCT case with full hormonal, pathologic and surgical details and a discussion of two-stage laparoscopic management after intraoperative rupture; Japanese-language source.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Read in Japanese from the J-STAGE PDF text layer (clean). Follow-up duration is not stated beyond 'no recurrence signs'. The authors' discussion cites general figures (JGCT about 5% of GCT, about half before puberty, about 80% with precocious puberty or menstrual abnormality) from Japanese guidelines, not data from this case.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

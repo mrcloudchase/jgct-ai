@@ -1,0 +1,44 @@
+source_id: '30123871'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30123871/
+retrieved_on: '2026-10-30'
+full_text_source: PMC6079308
+language: en
+pmid: '30123871'
+doi: null
+pmcid: PMC6079308
+title: 'Granulosa-cell tumor after ovarian stimulation: A case report.'
+journal: International journal of reproductive biomedicine
+year: 2018
+first_author: Yousefi Z
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 31 years
+alterations: []
+treatments:
+- regimen: Staging and optimal cytoreductive surgery (no fertility preservation), second cytoreduction one month later, then 3 cycles of BEP; second-line chemotherapy on relapse
+  setting: stage IIIC
+  n: 1
+  outcome: metastatic pelvic and abdominal disease in less than 6 months; receiving second-line chemotherapy (abstract mentions second and third line)
+presentation:
+- massive abdominal distension and respiratory distress
+- bilateral multiloculated solid-cystic adnexal masses
+- ascites and pleural effusion
+- inhibin more than 3000 pg/mL
+key_findings:
+- 31-year-old, secondary infertility for 4 years, one child, candidate for IVF; one cycle of ovarian stimulation (metformin, Gonal-f 75 IU) was cancelled for poor response; progressive abdominal distension followed and she was treated as possible ovarian hyperstimulation syndrome (GnRH antagonist, then agonist).
+- 'Imaging 4 months later: multiple multiloculated cystic masses with predominantly solid components in both adnexa extending to the xiphoid, massive peritoneal and pleural effusion; inhibin more than 3000 pg/mL.'
+- 'Laparotomy with complete resection; frozen section could not confirm malignancy; permanent histology: juvenile granulosa cell tumor (round-ovoid nuclei, vacuolated cytoplasm, microfollicular and trabecular patterns, Call-Exner bodies reported in most areas, inhibin positive). A second surgery one month later found omental tumor (stage IIIC) and repeated cytoreduction.'
+- Three cycles of BEP were given; the patient developed pelvic and abdominal metastases in under 6 months and was on second-line chemotherapy.
+- Authors cannot establish whether the tumor was pre-existing or caused by ovarian stimulation, and state no relationship was found between stimulation and the tumor; they recommend careful ovarian monitoring and attention to persistent enlargement or ascites during or after infertility treatment.
+relevance_to_jgct: Aggressive stage IIIC JGCT with early relapse in a 31-year-old discovered after an aborted IVF stimulation cycle; no causal link is claimed.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Adult-age (31 years) diagnosis labelled juvenile granulosa cell tumor; the histology description includes Call-Exner bodies, which is atypical for JGCT, so the juvenile classification is not independently supported in the text. Tumor markers other than inhibin and any molecular testing not reported. Abstract says second and third line chemotherapy; case section says second line. Staging details differ: abstract says stage III at first laparotomy and case text says stage IIIC found at second surgery.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,37 @@
+source_id: 10.21203/rs.3.rs-9115875/v1
+source_type: doi
+source_tier: preprint
+source_url: https://doi.org/10.21203/rs.3.rs-9115875/v1
+retrieved_on: '2026-10-30'
+full_text_source: https://assets-eu.researchsquare.com/files/rs-9115875/v1/3c2d7524-5dc0-4497-ade7-eb83eb44da9f.pdf?c=1793117471
+language: en
+pmid: null
+doi: 10.21203/rs.3.rs-9115875/v1
+pmcid: null
+title: 'Prepubertal Testicular Tumors in Children: Combined Ultrasound and Pathologic Study'
+journal: Research Square (preprint)
+year: 2026
+first_author: Ma Y
+study_type: case_series
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 2 months (the single JGCT)
+alterations: []
+treatments: []
+presentation:
+- 2-month-old boy with testicular mass; AFP 244.19 ng/mL; elevated preoperative testosterone
+key_findings:
+- Single-center retrospective study (Beijing, Nov 2016 to Jun 2024) of 117 patients aged 0-14 years, 118 lesions, with pathology-confirmed prepubertal testicular tumors and preoperative scrotal ultrasound; 71.2% benign.
+- 'One juvenile granulosa cell tumor (0.8% of lesions) in a 2-month-old: maximum diameter 3.9 cm, ''Swiss cheese'' multilocular mass with hypoechoic or isoechoic, hypervascular solid components; classified as predominantly cystic on ultrasound (Table 2).'
+- In that infant AFP was 244.19 ng/mL (mildly elevated; all other non-germ-cell tumors had normal AFP) and preoperative testosterone was elevated, one of 9 patients with raised testosterone (2 Leydig cell tumors, 6 teratomas, 1 JGCT); beta-hCG normal in all.
+- Authors (citing the literature) describe testicular JGCT as the most common congenital testicular tumor, typically in the first 6 months, benign and hormonally inactive, rarely recurring after testis-sparing surgery, and note that Leydig cell tumors are the most common sex cord-stromal tumor in children followed by JGCT.
+- Cystic or cystic-dominant ultrasound pattern had a PPV of 96.1% for benignity (NPV 47.8%); solid or solid-dominant pattern had NPV 91.5% for malignancy (PPV 49.2%); with AFP above 300 ng/mL it gave PPV 94.7% and NPV 97.0% for yolk sac tumor. The abstract's claim that JGCT shows a 'pathognomonic' Swiss-cheese pattern rests on this single case plus literature.
+relevance_to_jgct: Provides one imaging-pathology correlated infant testicular JGCT with mildly raised AFP and raised testosterone, and places testicular JGCT in the differential of cystic testicular masses; very small JGCT sample.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Preprint, not peer reviewed. JGCT data are from n=1; the ''pathognomonic'' wording is not supported by the numbers. Internal inconsistencies: text says JGCT is ''hormonally inactive'' while this case had raised testosterone; benign proportion 71.2% (abstract) vs 71.8% (discussion); Table 1 lists teratoma n=68 including immature, while text says 62 mature + 6 immature. Pathology images (Figure 4) not available as text; no JGCT-specific IHC or follow-up reported.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

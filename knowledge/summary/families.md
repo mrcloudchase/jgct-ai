@@ -30,7 +30,7 @@ Doctors use ultrasound, sometimes MRI, and blood tests [pmid-42504512, pmid-3618
 Surgery is the main treatment. For a tumor in one ovary, surgeons usually remove that ovary and leave the other one and the womb [pmid-42504512]. Doctors describe how far the tumor has spread with a **stage**, from I (only in the ovary) to higher numbers.
 
 - **Stage IA or IC1:** most sources say surgery alone is usually enough [pmid-42504512, pmid-36980387].
-- **Stage IC2 or higher:** guidelines add **chemotherapy**, medicines that kill tumor cells, usually 3 to 6 cycles [pmid-42504512, pmid-40272823]. Experts do not fully agree on whether every child with stage IC2 needs it [pmid-41367860, pmid-40350706].
+- **Stage IC2 or higher:** guidelines add **chemotherapy**, medicines that kill tumor cells, usually 3 to 6 cycles [pmid-42504512, pmid-40272823]. Experts do not fully agree on whether every child with stage IC2 needs it [pmid-41367860, pmid-40350706]. In one French study, the tumor had burst or spread fluid into the belly in 15 children. Among them, the 4 who did not get chemotherapy all had the tumor come back, and the 11 who got it did not. That study mixed JGCT with other tumor types [url-039c1963d955].
 - **Baby boys:** surgery on the testis is usually the only treatment [pmid-40272823, pmid-32719989].
 
 ### What happens after treatment?

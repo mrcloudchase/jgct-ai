@@ -1,0 +1,47 @@
+source_id: '32030011'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32030011/
+retrieved_on: '2026-10-30'
+full_text_source: PMC6982646
+language: en
+pmid: '32030011'
+doi: 10.1007/s13224-019-01243-1
+pmcid: PMC6982646
+title: 'Granulosa Cell Tumor of the Ovary Accompanying with Ollier''s Disease: First Case of Contralateral Presentations.'
+journal: Journal of obstetrics and gynaecology of India
+year: 2020
+first_author: Jalaeefar A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 17 years
+alterations: []
+treatments:
+- regimen: Right oophorectomy and omentectomy; wedge of normal left ovary cryopreserved for future fertility
+  setting: primary, FIGO stage IA
+  n: 1
+  outcome: uneventful post-operative period, discharged day 3; no adjuvant chemotherapy; no long-term follow-up reported
+presentation:
+- abdominal distension for 3 months with ascites
+- early satiety, anorexia
+- menstrual irregularity
+- hip pain
+- 20 cm mobile abdominal mass
+- left lower limb pain from enchondromas
+key_findings:
+- '17-year-old with 3 months of abdominal distension, early satiety, anorexia, menstrual irregularity and vague hip pain; 20 cm mobile mass. MRI: 160 x 80 mm right adnexal mass with central necrosis; pelvic ultrasound showed ascites.'
+- Inhibin reported as more than 1000 mcg/dl (units as printed); AFP, CEA, CA125, hCG, calcium and alkaline phosphatase normal.
+- Iliac lytic lesion and bone-scan uptake (left distal femur, left proximal tibia, right iliac) first suspected as metastases; iliac core biopsy showed normal trabeculae and X-rays showed multiple benign lytic lesions read by two radiologists as multiple enchondromas (Ollier disease), in the LEFT lower limb, contralateral to the RIGHT ovarian tumor.
+- 'Core biopsy of the mass: sex cord-stromal tumor, especially JGCT (inhibin positive). Laparotomy: 5 L clear ascites, a 15 x 10 cm right ovarian mass twisted on its pedicle; final tumor 10 x 16 x 11 cm; JGCT positive for CD99, CD56, inhibin and calretinin; ascitic cytology negative; omentum and right ovary tumor free (FIGO IA).'
+- 'Review table (inclusion: definite pathological JGCT diagnosis plus radiological or pathological multiple chondromatosis): 15 reported cases including this one, ages 1 to 36 years, 12 Ollier disease and 3 Maffucci syndrome; in every case with known sides the chondromas and JGCT were on the same side except this case, which the authors say is the first with contralateral presentation. Pounder 1985 described bilateral, non-synchronous tumors 7 years apart.'
+- Authors (literature-based) state about 25-30% of Ollier/Maffucci patients develop chondrosarcoma; the association with JGCT is thought to reflect generalized mesodermal dysplasia; the association is believed not to alter JGCT course; mortality quoted 2.5% for stage Ia/Ib versus 38% for Ic; and they recommend ipsilateral salpingo-oophorectomy without chemotherapy, with adjuvant chemotherapy only if chondrosarcoma is proven and regular long follow-up.
+relevance_to_jgct: Case plus 15-case tabulated review of JGCT with Ollier disease/Maffucci syndrome, the first with enchondromas on the side opposite the ovarian tumor.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Juvenile type diagnosis was based on histology/IHC at 17 years of age. Review table numbering skips row 13 (15 rows listed, count stated here from rows present). The 'mortality 2.5% vs 38%' figures are cited from a review, not derived here. Whether bone scan abnormalities in iliac wing were enchondromas is stated by authors; biopsy showed normal bone.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

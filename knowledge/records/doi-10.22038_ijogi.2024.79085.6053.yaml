@@ -1,0 +1,47 @@
+source_id: 10.22038/ijogi.2024.79085.6053
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.22038/ijogi.2024.79085.6053
+retrieved_on: '2026-10-30'
+full_text_source: https://ijogi.mums.ac.ir/article_24402_7ef529d930bb7df2d3edbf7f4664f705.pdf
+language: fa
+pmid: null
+doi: 10.22038/ijogi.2024.79085.6053
+pmcid: null
+title: 'Recurrent Gynandroblastoma with Juvenile Granulosa cell tumor, a very rare ovarian tumor in a 29-year-old patient: A case report'
+journal: Iranian Journal of Obstetrics, Gynecology and Infertility
+year: 2024
+first_author: Toqtamesh M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 29 years
+alterations: []
+treatments:
+- regimen: Left salpingo-oophorectomy, no adjuvant therapy
+  setting: primary (Ashgabat, Turkmenistan); diagnosed malignant granulosa cell tumor, then well-differentiated androblastoma on second opinion
+  n: 1
+  outcome: intraperitoneal recurrence 18 months later
+- regimen: Laparotomy with excision of the recurrence; carboplatin/paclitaxel proposed
+  setting: recurrence, considered stage 3
+  n: 1
+  outcome: chemotherapy not started at the authors' center; outcome not reported
+presentation:
+- irregular menses and spotting for 1 year
+- progressive vague abdominal pain for 4 months
+- mobile left pelvic cystic mass 19 x 15 x 6 cm on ultrasound and CT
+key_findings:
+- '29-year-old woman with two children: left ovarian cystic mass 16.8 x 13 x 5 cm (yellow, solid-cystic cut surface); diagnosed in Turkmenistan as malignant granulosa cell tumor, and by a second pathologist as well-differentiated androblastoma; discharged without further treatment and not followed.'
+- 18 months later an intraperitoneal left-sided mass 15 x 13 x 9 cm on MRI was excised (encapsulated, 13 x 9 x 8 cm, solid-cystic) and called microcystic androblastoma.
+- 'Review in Mashhad of both operations'' slides: 70% juvenile granulosa cell tumor (cystic, macrofollicular, vacuolated cells, 3 mitoses/10 HPF) and 30% well-differentiated Sertoli cell tumor (trabecular and tubular); no vascular or perineural invasion; diagnosis recurrent gynandroblastoma, the primary tumor having the same appearance.'
+- Because of the recurrence the disease was considered stage 3 and carboplatin/paclitaxel was proposed, but the patient did not start treatment at the authors' center. DICER1 testing is not reported.
+- Authors state fewer than 10 gynandroblastomas with a juvenile granulosa component have been reported, that a JGCT component worsens prognosis, that about 90% of JGCT lack FOXL2 mutation, and recommend thorough sampling, stating each component's proportion and grade, long follow-up and DICER1 testing.
+relevance_to_jgct: Adult case of recurrent gynandroblastoma with a 70% JGCT component, misdiagnosed twice on limited sampling; illustrates the diagnostic pitfall and late peritoneal recurrence.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Article in Persian with an English abstract; read in full by the coordinator from the journal PDF (Persian text extracted correctly). No immunohistochemistry or molecular testing is reported. The 'stage 3' label is the authors' and follows from the peritoneal recurrence. Follow-up after the second surgery is not reported.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

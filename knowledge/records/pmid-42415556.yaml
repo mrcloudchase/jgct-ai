@@ -1,0 +1,43 @@
+source_id: '42415556'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/42415556/
+retrieved_on: '2026-10-30'
+full_text_source: PMC13342892
+language: en
+pmid: '42415556'
+doi: 10.6065/apem.2550284.142
+pmcid: PMC13342892
+title: 'Long-term outcomes in 45,X/46,XY mosaicism: a 30-year retrospective study in Hong Kong.'
+journal: Annals of pediatric endocrinology & metabolism
+year: 2026
+first_author: Poon SWY
+study_type: cohort
+tumor_site: other
+n_jgct_patients: 1
+age_range: gonadectomy at 5 years (patient 11)
+alterations:
+- gene: Y chromosome (SRY region)
+  alteration: mosaic karyotype 45,X[23]/46,X,idic(Y)(p11.3)[7]
+  frequency: 1 JGCT patient
+  notes: isodicentric Yp; the Discussion notes isodicentric Yp has SRY deleted
+treatments:
+- regimen: Gonadectomy at age 5 years
+  setting: male-reared child with abnormal genitalia (external genitalia score 6.5)
+  n: 1
+  outcome: right gonad histology juvenile granulosa cell tumor; left testis atrophic; no further outcome given
+presentation: []
+key_findings:
+- 'Retrospective Hong Kong Children''s Hospital cohort of 68 patients with 45,X/46,XY mosaicism (1990 to 2023; 35 raised female, 33 raised male); histology was available for 49 patients and gonadal tumors were found in 11 (22.4%): 6 of 34 raised female (17.6%), 5 of 13 males with abnormal genitalia (38.5%), none in males with normal genitalia.'
+- 'One of the 11 tumors was a juvenile granulosa cell tumor (Table 2, patient 11): raised male, referred for abnormal genitalia, external genitalia score 6.5, karyotype mos 45,X[23]/46,X,idic(Y)(p11.3)[7], genetic diagnosis at 0.1 years, gonadectomy at 5 years, right gonad juvenile granulosa cell tumor, left testis atrophic; immunohistochemistry not done.'
+- The other tumors in the table were gonadoblastoma, intratubular germ cell neoplasia and one seminoma; the JGCT is the only sex cord-stromal tumor listed. The text does not discuss the JGCT case beyond the table.
+- Authors conclude gonadal tumor risk is higher in less masculinized males and that females may develop tumors across a wide age range (youngest 1.3 years), and advocate individualized surveillance.
+relevance_to_jgct: Documents a single JGCT arising in a gonad of a child with mosaic 45,X/46,X,idic(Yp) DSD, relevant to gonadal tumor spectrum and Y-chromosome material in dysgenetic gonads, but with no JGCT-specific detail beyond one table row.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT case is one table row only; the text does not say whether the right gonad was a dysgenetic testis or ovotestis, so tumor_site is recorded as 'other'. Karyotype given as idic(Y)(p11.3) in Table 2 while the Methods/Results refer to idic(Yp)(p11.2) as the structural variant example. No molecular or immunohistochemical work on the JGCT. Supplementary Tables 1 to 3 (separate site) not read. Cohort tumor rates exclude patients without histology.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
