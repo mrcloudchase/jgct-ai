@@ -4,7 +4,7 @@ A knowledge base on juvenile granulosa cell tumor (JGCT), built from nothing and
 
 JGCT is a rare ovarian sex cord-stromal tumor of children and young women. What is known about it is scattered across a few hundred papers, conference abstracts, registries, guidelines, and databases. This repository exists to pull that together into one honest, sourced place.
 
-> **Disclaimer:** Nothing here is medical advice. Records describe what sources report. Every AI-written record is a draft until a human has checked it against its source.
+> **Disclaimer:** Nothing here is medical advice. Records describe what sources report. Every record comes from a source read in full. Every record is a draft until a human has checked it against that source.
 
 ## How it works
 

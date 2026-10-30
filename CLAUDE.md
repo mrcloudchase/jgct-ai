@@ -23,6 +23,7 @@ You own everything below except the files marked fixed. Create what does not exi
 | `knowledge/INDEX.md` | Index of the knowledge base: one line per record. When it passes about 300 lines, split it into topic indexes under `knowledge/index/` and make `INDEX.md` an index of those. |
 | `knowledge/README.md` | Narrative synthesis of what the base says about JGCT, in two parts. Rewritten whenever records change. See "The knowledge README" below. |
 | `sources/INDEX.md` | Index of every source: where it is, how to query it, its tier, when you last checked it, what you found. This is yours to build and keep the best it can be. |
+| `sources/PENDING_FULL_TEXT.md` | Every source you know about but have not read in full, with its verbatim abstract if one exists, why the full text was not obtained, and when you last tried. Regenerated from the ledger. |
 | `state/` | Your ledger of every source item found, processed, unreachable, or skipped, in whatever format you choose, plus `state/runs/<date>.md`, one run report per run. |
 | `tools/` | Scripts you write to fetch, extract, validate, and index. Reuse and improve what earlier runs left; do not rewrite from scratch. Keep `tools/README.md` current so the next run knows what exists. |
 | `scripts/`, `.github/`, `.claude/` | The launcher, workflow, and permissions. Fixed. |
@@ -59,31 +60,34 @@ You can be interrupted at any moment by an API outage, a spend limit, or a runne
 
 JGCT knowledge is scattered. PubMed holds a few hundred papers. Europe PMC, OpenAlex, and Semantic Scholar hold more, including preprints and citations. Conference abstracts from oncology, gynecologic oncology, pediatric oncology, pathology, and pediatric endocrinology meetings are often never published as papers. Disease registries and consortia publish reports. Guideline bodies publish management recommendations. Genomic databases hold sequenced samples. Rare disease organizations maintain summaries. Trial registries in several countries list studies. Non-English literature exists.
 
-Prefer structured APIs over web pages, and verbatim text over paraphrase. Note that the built-in web fetch returns a summary of a page, not the page; for anything you will cite, get the actual text through an API or a script. Chase citations in both directions from the strongest records. When a source is behind a paywall, record it as unreachable with the reason rather than guessing its contents.
+Prefer structured APIs over web pages, and verbatim text over paraphrase. Note that the built-in web fetch returns a summary of a page, not the page; for anything you will cite, get the actual text through an API or a script. Chase citations in both directions from the strongest records.
 
-## How to judge sources
+**Read everything in full.** A record exists only for a source whose full text you read start to finish this run: the whole paper, the whole guideline, the whole registry report, the whole abstract when the source is itself an abstract. Never write a record from an abstract of a paper, a summary, a citing paper's description, or memory. Get full text through Europe PMC, PubMed Central, Unpaywall, publisher open-access pages, author manuscripts, and preprint versions, in that order of preference. When none of those yields the full text, the source goes in `sources/PENDING_FULL_TEXT.md` with its abstract and the reason, and you try again on every later run, because papers become open access over time. Record what you read it from in `full_text_source`.
 
-Every record carries a `source_tier`. Pick the lowest tier that honestly describes the source.
+## How to describe sources
 
-| Tier | Qualifies | Confidence ceiling |
-|---|---|---|
-| `peer_reviewed` | Journal article with editorial peer review | 5 with full text, 3 with abstract only |
-| `guideline` | Professional society or consortium recommendations | 5 |
-| `registry` | Disease registry or consortium report | 4 |
-| `database` | Curated clinical or genomic database entry | 4 |
-| `preprint` | Preprint server | 3 |
-| `conference_abstract` | Meeting abstract | 3 |
-| `organization` | Foundation, hospital, or rare disease organization page | 2 |
-| `other` | Credible but unclassified | 2 |
+Every record carries a `source_tier`. It says what kind of source this is, so a reader can weigh it. It is a description, not a score. Pick the lowest tier that honestly describes the source.
+
+| Tier | Qualifies |
+|---|---|
+| `peer_reviewed` | Journal article with editorial peer review |
+| `guideline` | Professional society or consortium recommendations |
+| `registry` | Disease registry or consortium report |
+| `database` | Curated clinical or genomic database entry |
+| `preprint` | Preprint server |
+| `conference_abstract` | Meeting abstract, read in full |
+| `organization` | Foundation, hospital, or rare disease organization page |
+| `other` | Credible but unclassified |
+
+You do not rate your own confidence in a record, and no field exists for it. The human reviewer judges. Your job is to make judging easy: cite exactly what you read, copy numbers verbatim, keep `notes` factual, and link conflicts.
 
 Tiering decisions already made, so runs stay consistent: a ClinicalTrials.gov or other trial registry entry is `database`. A disease registry's own report, such as a STEP or International Ovarian and Testicular Stromal Tumor Registry paper, is `registry` even when it appears in a peer-reviewed journal. An NCI PDQ summary is `organization`; it is expert-written but not peer-reviewed in the journal sense. Set `tumor_site` on every record: `ovary`, `testis`, `both`, `other`, or null when the source does not say.
 
 Rules that do not bend:
 
-- **Only cite what you fetched this run.** A record is written from text you retrieved. Never from memory of a paper.
+- **Only cite what you read in full this run.** A record is written from the complete text you retrieved. Never from an abstract, a summary, or memory.
 - **Copy numbers, never compute them.** "4 of 31" stays `4/31`. A case report is `n_jgct_patients: 1`.
 - **Conflicts are recorded, not resolved.** When sources disagree, link them in both records' `conflicts_with` and say so in the summary.
-- **Confidence is yours to rate** from 1 to 5. Use 5 only after reading full text. Say in `extraction_method` how you got the text.
 - **`review_status` is always `draft` when you write it.** Only a human sets `reviewed`. Never change a reviewed record except to add `conflicts_with` or `superseded_by`.
 - **Patient communities, forums, social media, and personal stories are never sources.**
 - **No medical advice.** Records say what sources report. The summary synthesizes literature and says so. Nothing here recommends treatment for any person.
@@ -96,7 +100,7 @@ Rules that do not bend:
 1. **For clinicians and researchers.** Technical synthesis: epidemiology, presentation, pathology, molecular biology, staging, treatment, outcomes, prognostic factors, open questions. Every factual sentence cites one or more record IDs in brackets, like `[pmid-40272823]`. Where sources conflict, say so and cite both.
 2. **For parents and patients.** The same knowledge in plain language for someone with no medical training who has just heard the words "juvenile granulosa cell tumor." Define every term the first time it is used. Keep sentences short. Every factual sentence still cites record IDs, so a parent can hand the paragraph to a doctor. Say clearly what is well established, what is uncertain, and what is unknown. It must not tell anyone what to do; it points to the questions worth asking a care team. It does not soften bad findings and does not dramatize them.
 
-Both parts open with one sentence saying the text is a synthesis of recorded sources, not medical advice, and that all records are drafts until a human reviews them.
+Both parts open with one sentence saying the text is a synthesis of sources read in full, not medical advice, and that all records are drafts until a human reviews them.
 
 ## How to work within a run
 
@@ -106,14 +110,16 @@ Build tools when a task will recur. A fetcher, a ledger query, a validator, an i
 
 Keep the ledger and indexes current as you go, not at the end, and commit as you go. A run that stops early must leave a consistent, pushed state.
 
+**Migration.** If records exist that were written from abstracts, or that carry fields the schema no longer has, such as `confidence` or `extraction_method`, bring the base into line before adding new records: re-read each such source in full and rewrite its record with `full_text_source`, or, when the full text cannot be obtained, remove the record, keep its abstract in the ledger, and list it in `sources/PENDING_FULL_TEXT.md`. Update your validator and index builder to the current schema first. Say in the run report what was promoted and what was moved to pending.
+
 ## How to finish
 
 Start finishing with at least fifteen percent of the budget left. In this order:
 
 1. Validate every record against the schema with your validator. Fix every error.
-2. Rebuild `knowledge/INDEX.md` and `sources/INDEX.md`.
+2. Rebuild `knowledge/INDEX.md`, `sources/INDEX.md`, and `sources/PENDING_FULL_TEXT.md`.
 3. Rewrite `knowledge/README.md` if any record changed.
-4. Complete `state/runs/<today>.md`: plan, what was added and updated with tier and confidence (lowest confidence first), what was unreachable and why, conflicts noted, what remains in the backlog, approximate spend, and suggested changes to this file or the schema that you may not make yourself.
+4. Complete `state/runs/<today>.md`: plan, what was added and updated with tier and full-text source, what could not be read in full and why, conflicts noted, what remains in the backlog, approximate spend, and suggested changes to this file or the schema that you may not make yourself.
 5. Commit and push, update the pull request body with the run report, mark it ready for review, and request `mrcloudchase` as reviewer, as described under "Branch, commits, and pull request".
 
 If a pull request from an earlier day's `research/*` branch is still open when you start, do not open another. Comment on it that this run was skipped and stop.

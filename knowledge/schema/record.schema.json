@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "JGCT knowledge base record: one source",
+  "title": "JGCT knowledge base record: one source, read in full",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -9,13 +9,13 @@
     "source_tier",
     "source_url",
     "retrieved_on",
+    "full_text_source",
     "title",
     "year",
     "study_type",
     "key_findings",
     "relevance_to_jgct",
-    "review_status",
-    "confidence"
+    "review_status"
   ],
   "properties": {
     "source_id": {
@@ -52,9 +52,10 @@
       "type": "string",
       "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
     },
-    "full_text_read": {
-      "type": "boolean",
-      "default": false
+    "full_text_source": {
+      "type": "string",
+      "pattern": "^(https?://|PMC\\d+|file:)",
+      "description": "Where the full text was read from: the URL, PMC ID, or file. A record exists only when the full text was read start to finish."
     },
     "language": {
       "type": [
@@ -244,11 +245,6 @@
         "null"
       ]
     },
-    "confidence": {
-      "type": "integer",
-      "minimum": 1,
-      "maximum": 5
-    },
     "review_status": {
       "type": "string",
       "enum": [
@@ -267,20 +263,6 @@
         "string",
         "null"
       ]
-    },
-    "extraction_method": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "enum": [
-        "full_text",
-        "verbatim_abstract",
-        "model_assisted_fetch",
-        "manual",
-        null
-      ],
-      "description": "How the text behind this record was obtained. model_assisted_fetch means WebFetch paraphrase; cap confidence at 3."
     }
   }
 }
