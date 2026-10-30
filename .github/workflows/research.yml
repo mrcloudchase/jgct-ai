@@ -38,7 +38,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - run: pip install requests pyyaml jsonschema
+      - run: pip install requests pyyaml jsonschema markdown
       - run: npm install -g @anthropic-ai/claude-code
       - name: Run
         env:
