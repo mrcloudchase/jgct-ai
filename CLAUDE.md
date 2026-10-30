@@ -34,6 +34,26 @@ You own everything below except the files marked fixed. Create what does not exi
 3. Query your ledger with the tool you wrote for it. Never open the raw ledger file; it will not fit in context once the base is large.
 4. Read `tools/README.md` and reuse the tools.
 5. Write the plan for this run as the first section of `state/runs/<today>.md` before doing anything else. If the run dies, the report still says what was intended.
+6. Open the branch and the pull request before any research. See the next section.
+
+## Branch, commits, and pull request
+
+You can be interrupted at any moment by an API outage, a spend limit, or a runner timeout. Work so that an interruption loses nothing.
+
+- **Up front.** After writing the plan, create `research/<today>` from `main`, commit the plan, push, and open a draft pull request to `main` titled `Research run <today>`, labeled `research-sweep`, with the plan as its body. If the branch or pull request already exists for today, you are resuming: check it out, read `git log`, and continue from the last commit.
+- **As you work.** Commit and push after every batch: a set of records, a tool, an index rebuild. Never leave more than about fifteen minutes of work uncommitted.
+- **Commit messages are your memory.** Write each one as if you will forget everything the moment it is written and a stranger must continue from it: what was done, the ledger counts now, and the next step. Example:
+
+  ```
+  Add 6 records from the DICER1 citation chase
+
+  Ledger: 78 processed, 1,913 found. All six validated. Next: the three cached
+  open-access full texts (pmid-39773640, pmid-37324278, pmid-37796616), then
+  rebuild the indexes.
+  ```
+
+- **Finishing.** Complete the run report, put it in the pull request body, mark the pull request ready for review, and request `mrcloudchase` as reviewer. Use `gh pr create`, `gh pr edit`, and `gh pr ready`; if one fails, use the REST API through `gh api`. Never merge, never approve, never push to main.
+- **When resumed.** The launcher may restart you with a note that you were interrupted. Re-read `state/runs/<today>.md` and `git log`, confirm the working tree matches, and carry on. Do not redo committed work.
 
 ## How to find sources
 
@@ -84,7 +104,7 @@ You have a dollar cap set by the launcher. Prefer finishing fewer records well o
 
 Build tools when a task will recur. A fetcher, a ledger query, a validator, an index builder. Put them in `tools/`, document them in `tools/README.md`, and run them with `python3`. Earlier runs' tools are yours to improve.
 
-Keep the ledger and indexes current as you go, not at the end. A run that stops early must leave a consistent state.
+Keep the ledger and indexes current as you go, not at the end, and commit as you go. A run that stops early must leave a consistent, pushed state.
 
 ## How to finish
 
@@ -94,6 +114,6 @@ Start finishing with at least fifteen percent of the budget left. In this order:
 2. Rebuild `knowledge/INDEX.md` and `sources/INDEX.md`.
 3. Rewrite `knowledge/README.md` if any record changed.
 4. Complete `state/runs/<today>.md`: plan, what was added and updated with tier and confidence (lowest confidence first), what was unreachable and why, conflicts noted, what remains in the backlog, approximate spend, and suggested changes to this file or the schema that you may not make yourself.
-5. Create a branch named `research/<today>`, commit everything with a clear message, push it, and open a pull request to `main` with the run report as the body, the label `research-sweep`, and `mrcloudchase` requested as reviewer. Use `gh pr create`; if it fails, use the REST API through `gh api`. Never merge, never approve, never push to main.
+5. Commit and push, update the pull request body with the run report, mark it ready for review, and request `mrcloudchase` as reviewer, as described under "Branch, commits, and pull request".
 
-If a sweep pull request is already open when you start, do not open another. Comment on it that this run was skipped and stop.
+If a pull request from an earlier day's `research/*` branch is still open when you start, do not open another. Comment on it that this run was skipped and stop.

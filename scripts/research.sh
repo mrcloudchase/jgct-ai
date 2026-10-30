@@ -1,9 +1,12 @@
 #!/usr/bin/env bash
-# Launch one research run. Claude Code does the work, including branch, commit, push and pull request.
-# This script only prepares the environment and starts it.
+# Launch one research run. Claude Code does the work: branch, commits, pushes, pull request.
+# This script prepares the environment, runs it with retry and session resume, and as a last
+# resort pushes any work an interrupted run left behind.
 #
 # Required env: ANTHROPIC_API_KEY, GH_TOKEN
-# Optional env: MAX_BUDGET_USD (default 40), CLAUDE_MODEL (default claude-opus-5-5)
+# Optional env: MAX_BUDGET_USD (default 40), CLAUDE_MODEL (default claude-opus-5-5),
+#               RETRY_BUDGET_USD (resume once with this cap after the main cap is hit),
+#               MAX_ATTEMPTS (default 6), RETRY_DELAYS (default 120,300,600,900,1800 seconds)
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
@@ -12,7 +15,7 @@ MODEL="${CLAUDE_MODEL:-claude-opus-5-5}"
 echo "== research run $(date -u +%Y-%m-%d) on ${MODEL}, budget \$${BUDGET}"
 
 # Skip if a sweep PR is still open: review it first. Cheaper to check here than to spend a turn on it.
-open_pr=$(gh api "repos/{owner}/{repo}/pulls?state=open&per_page=50" --jq '[.[] | select(.head.ref | startswith("research/"))] | .[0].number // empty' 2>/dev/null || true)
+open_pr=$(gh api "repos/{owner}/{repo}/pulls?state=open&per_page=50" --jq "[.[] | select(.head.ref | startswith(\"research/\")) | select(.head.ref != \"research/${TODAY}\")] | .[0].number // empty" 2>/dev/null || true)
 if [ -n "${open_pr}" ]; then
   echo "Research PR #${open_pr} is still open. Review and merge it before the next run. Exiting."
   gh api -X POST "repos/{owner}/{repo}/issues/${open_pr}/comments" -f body="The scheduled research run for $(date -u +%Y-%m-%d) was skipped because this pull request is still open." >/dev/null || true
@@ -22,7 +25,9 @@ fi
 # If a previous run pushed a research/* branch but could not open its pull request, open it now and exit.
 # The branch's own run report is the body. No research is repeated.
 orphan=$(gh api "repos/{owner}/{repo}/branches?per_page=100" --jq '[.[] | select(.name | startswith("research/"))] | sort_by(.name) | last | .name // empty' 2>/dev/null || true)
-if [ -n "${orphan}" ]; then
+has_pr=""
+[ -n "${orphan}" ] && has_pr=$(gh api "repos/{owner}/{repo}/pulls?state=all&head={owner}:${orphan}&per_page=1" --jq '.[0].number // empty' 2>/dev/null || true)
+if [ -n "${orphan}" ] && [ -z "${has_pr}" ] && [ "${orphan}" != "research/${TODAY}" ]; then
   echo "Found research branch ${orphan} without a pull request. Opening one."
   git fetch origin "${orphan}"
   report="state/runs/${orphan#research/}.md"
@@ -52,32 +57,37 @@ d.setdefault("projects", {}).setdefault(os.getcwd(), {})["hasTrustDialogAccepted
 p.write_text(json.dumps(d))
 PY
 
-mapfile -t ALLOWED < <(python3 -c 'import json; [print(r) for r in json.load(open(".claude/settings.json"))["permissions"]["allow"]]')
-mapfile -t DENIED  < <(python3 -c 'import json; [print(r) for r in json.load(open(".claude/settings.json"))["permissions"]["deny"]]')
-TRANSCRIPT_DIR="${RUNNER_TEMP:-/tmp}/transcript"
-mkdir -p "${TRANSCRIPT_DIR}"
-OUT="${TRANSCRIPT_DIR}/run.jsonl"
-
 # The stream has no user turn: a headless run's only user input is the prompt. Print it so the log is complete.
 sed 's/^/< /' prompts/research.md
 echo
 
-# Stream every event to the log as it happens; keep the raw stream for the summary.
+# Run with retry and session resume. See scripts/run_claude.py for the policy.
 set +e
-set -o pipefail
-claude -p "$(cat prompts/research.md)" \
+python3 scripts/run_claude.py \
+  --prompt-file prompts/research.md \
+  --budget "${BUDGET}" \
+  --retry-budget "${RETRY_BUDGET_USD:-0}" \
+  --transcript-dir "${TRANSCRIPT_DIR}" \
   --model "${MODEL}" \
-  --max-budget-usd "${BUDGET}" \
-  --settings .claude/settings.json \
-  --allowedTools "${ALLOWED[@]}" \
-  --disallowedTools "${DENIED[@]}" \
-  --permission-mode acceptEdits \
-  --output-format stream-json \
-  --verbose \
-  | tee "${OUT}" \
-  | python3 scripts/stream_filter.py
+  --max-attempts "${MAX_ATTEMPTS:-6}" \
+  --delays "${RETRY_DELAYS:-120,300,600,900,1800}"
 code=$?
 set -e
+
+# Last resort: if the agent left uncommitted or unpushed work, push it so nothing is lost.
+branch="research/${TODAY}"
+if [ -n "$(git status --porcelain)" ]; then
+  echo "== uncommitted work found after the run; committing it as a safety net"
+  git checkout -q -B "${branch}" 2>/dev/null || true
+  git add -A
+  git commit -q -m "Safety net: uncommitted work left by an interrupted run on ${TODAY}" || true
+fi
+if git rev-parse --verify -q "${branch}" >/dev/null; then
+  if ! git diff --quiet "${branch}" "origin/${branch}" 2>/dev/null; then
+    echo "== pushing ${branch}"
+    git push -u origin "${branch}" || true
+  fi
+fi
 
 # Render the same transcript as Markdown for the workflow artifact.
 { sed 's/^/< /' prompts/research.md; echo; python3 scripts/stream_filter.py --markdown < "${OUT}"; } > "${TRANSCRIPT_DIR}/transcript.md" || true
