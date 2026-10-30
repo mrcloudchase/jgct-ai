@@ -14,13 +14,9 @@ BUDGET="${MAX_BUDGET_USD:-40}"
 MODEL="${CLAUDE_MODEL:-claude-opus-5-5}"
 echo "== research run $(date -u +%Y-%m-%d) on ${MODEL}, budget \$${BUDGET}"
 
-# Skip if a sweep PR is still open: review it first. Cheaper to check here than to spend a turn on it.
-open_pr=$(gh api "repos/{owner}/{repo}/pulls?state=open&per_page=50" --jq "[.[] | select(.head.ref | startswith(\"research/\")) | select(.head.ref != \"research/${TODAY}\")] | .[0].number // empty" 2>/dev/null || true)
-if [ -n "${open_pr}" ]; then
-  echo "Research PR #${open_pr} is still open. Review and merge it before the next run. Exiting."
-  gh api -X POST "repos/{owner}/{repo}/issues/${open_pr}/comments" -f body="The scheduled research run for $(date -u +%Y-%m-%d) was skipped because this pull request is still open." >/dev/null || true
-  exit 0
-fi
+# An open research pull request is not a reason to skip: the agent reads its branch and continues on it.
+open_pr=$(gh api "repos/{owner}/{repo}/pulls?state=open&per_page=50" --jq '[.[] | select(.head.ref | startswith("research/"))] | .[0] | select(. != null) | "#\(.number) \(.head.ref)"' 2>/dev/null || true)
+[ -n "${open_pr}" ] && echo "Open research pull request ${open_pr}: the agent will continue on that branch."
 
 # If a previous run pushed a research/* branch but could not open its pull request, open it now and exit.
 # The branch's own run report is the body. No research is repeated.
