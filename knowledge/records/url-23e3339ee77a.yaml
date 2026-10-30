@@ -1,0 +1,49 @@
+source_id: 23e3339ee77a
+source_type: url
+source_tier: conference_abstract
+source_url: https://doi.org/10.1002/pbc.27455#O-104
+retrieved_on: '2026-10-30'
+full_text_source: PMC7167781
+language: en
+pmid: null
+doi: 10.1002/pbc.27455
+pmcid: PMC7167781
+title: 'Ovarian Juvenile Granulosa Cell Tumors: Report of the German MAKEI and Step Registries (SIOP 2018 abstract O-104)'
+journal: Pediatric Blood & Cancer (SIOP 2018 Kyoto abstract supplement)
+year: 2018
+first_author: Schneider D
+study_type: registry
+tumor_site: ovary
+n_jgct_patients: 69
+age_range: median 9.3 years (0 to 30)
+alterations: []
+treatments:
+- regimen: Ovariectomy or adnexectomy, then watch and wait
+  setting: FIGO stage Ia
+  n: 38
+  outcome: followed expectantly; both events in the cohort occurred in patients presenting with stage Ia
+- regimen: Cisplatin-based chemotherapy (PEI recommended)
+  setting: 2/11 with intraoperative spillage, 11/12 with preoperative spontaneous rupture or malignant ascites, and the stage II patient
+  n: 14
+  outcome: not reported separately; no events reported in this group
+presentation:
+- abdominal pain or distension
+- endocrine symptoms such as isosexual precocity
+- median tumor diameter 12 cm (3 to 30 cm)
+key_findings:
+- 'German MAKEI and STEP registries, prospective registration 2001 to 2015: 69 ovarian JGCT, median age 9.3 years (range 0 to 30), described by the authors as the largest pediatric series to date.'
+- 'Risk stratification by stage: PEI chemotherapy recommended for malignant ascites, preoperative rupture and/or metastases; watch and wait for all others.'
+- 'FIGO stage: Ia 38, Ic 29, IIa 1, incomplete data 1. All had ovariectomy or adnexectomy. Cisplatin-based chemotherapy given to 2/11 with intraoperative spillage, 11/12 with preoperative spontaneous rupture or malignant ascites, and the stage II patient.'
+- 'Median follow-up 5.6 years; two events, both in patients presenting with stage Ia: one metachronous contralateral JGCT followed by several relapses, ultimately fatal; one highly anaplastic tumor (67 mitoses/10 HPF) with vascular invasion that reached second continuous remission after salvage including high-dose chemotherapy and irradiation.'
+- Interim estimated event-free survival 0.96 +/- 0.26 and overall survival 0.98 +/- 0.23 (as printed).
+- 'Background stated by the authors: earlier analyses showed about 50% poor outcome with spontaneous preoperative rupture, malignant ascites or peritoneal metastases. Authors conclude central registration, reference pathology and risk-stratified cisplatin-based chemotherapy for stage Ic with preoperative rupture or malignant ascites improved prognosis compared with historic cohorts.'
+relevance_to_jgct: Interim report of the German MAKEI/STEP prospective JGCT registry (69 patients) with stage distribution, risk-adapted chemotherapy and outcome; an earlier snapshot of the cohort published in full later.
+conflicts_with: []
+overlaps_with:
+- pmid-40272823
+superseded_by: null
+retracted: false
+notes: Conference abstract, read whole in the SIOP 2018 supplement (Pediatr Blood Cancer 2018;65 Suppl 4, PMC7167781). Patients overlap with the full STEP/MAKEI report pmid-40272823 (113 JGCT); do not add counts. The +/- values after the survival estimates are as printed (they look like confidence half-widths or standard errors; the abstract does not say).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

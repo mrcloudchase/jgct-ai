@@ -65,6 +65,7 @@ key_findings:
 relevance_to_jgct: 'Largest prospective pediatric JGCT cohort (113, testis and ovary): defines the stage-based chemotherapy stratification (chemotherapy for IC2 and higher), high mitotic rate as a risk factor, and testicular JGCT as benign with no relapses.'
 conflicts_with: []
 overlaps_with:
+- url-23e3339ee77a
 - pmid-42504512
 - pmid-22525408
 superseded_by: null

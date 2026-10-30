@@ -32,7 +32,7 @@ UA = "Mozilla/5.0 (X11; Linux x86_64) jgct-ai/1.0 (research knowledge base; mail
 BROWSER_UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
 
-def get(url, tries=2, binary=False, timeout=60, ua=UA):
+def get(url, tries=2, binary=False, timeout=30, ua=UA):
     last = None
     for i in range(tries):
         try:
