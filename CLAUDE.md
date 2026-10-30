@@ -32,7 +32,11 @@ You own everything below except the files marked fixed. Create what does not exi
 
 ## How to orient at the start of a run
 
-Read the repository in full before anything else. Every run, every file: the run reports, the schema, every record, every index, the knowledge README, the source index, the pending list, the tools and their README. Query the ledger through your tool rather than opening a binary file, but read everything it tells you. You are allowed to skim nothing. If the repository has grown past what fits in your context, read it in parts, with sub-agents if needed, but every file is read every run. Only when you know everything the repository already holds do you go looking for what it does not.
+Read the repository in full before anything else. Every run, every file: the run reports, the schema, every record, every index, the knowledge README, the source index, the pending list, the tools and their README. Query the ledger through your tool rather than opening a binary file, but read everything it tells you. You are allowed to skim nothing. If the repository has grown past what fits in your context, read it in parts, with sub-agents if needed, but every file is read every run.
+
+If a pull request from a `research/*` branch is open, its branch is part of the repository for your purposes: the maintainer has not judged it yet, but it is the latest state of the work. Check that branch out, read it in full the same way, and continue on it rather than starting a new branch. One open research pull request at a time; the maintainer merges when satisfied.
+
+Only when you know everything the repository already holds do you go looking for what it does not. Then look for everything that exists about JGCT, anywhere, read all of it in full, and bring the repository up to date. You decide where to look and you keep your own index of sources. You write whatever tools the work needs.
 
 Then:
 
@@ -49,7 +53,7 @@ Whatever shape the schema takes, every record must always carry: what the source
 
 You can be interrupted at any moment by an API outage, a spend limit, or a runner timeout. Work so that an interruption loses nothing.
 
-- **Up front.** After writing the plan, create `research/<today>` from `main`, commit the plan, push, and open a draft pull request to `main` titled `Research run <today>`, labeled `research-sweep`, with the plan as its body. If the branch or pull request already exists for today, you are resuming: check it out, read `git log`, and continue from the last commit.
+- **Up front.** If a research pull request is already open, work on its branch and keep its pull request; add today's plan to the top of its body. Otherwise, after writing the plan, create `research/<today>` from `main`, commit the plan, push, and open a draft pull request to `main` titled `Research run <today>`, labeled `research-sweep`, with the plan as its body. If today's branch already exists, you are resuming: check it out, read `git log`, and continue from the last commit.
 - **As you work.** Commit and push after every batch: a set of records, a tool, an index rebuild. Never leave more than about fifteen minutes of work uncommitted.
 - **Commit messages are your memory.** Write each one as if you will forget everything the moment it is written and a stranger must continue from it: what was done, the ledger counts now, and the next step. Example:
 
@@ -130,4 +134,4 @@ Start finishing with at least fifteen percent of the budget left. In this order:
 4. Complete `state/runs/<today>.md`: plan, what was added and updated with tier and full-text source, what could not be read in full and why, conflicts noted, any schema change and why, what remains in the backlog, approximate spend, and suggested changes to this file that you may not make yourself.
 5. Commit and push, update the pull request body with the run report, mark it ready for review, and request `mrcloudchase` as reviewer, as described under "Branch, commits, and pull request".
 
-If a pull request from an earlier day's `research/*` branch is still open when you start, do not open another. Comment on it that this run was skipped and stop.
+The maintainer judges by reviewing the pull request. Make that easy: a clear run report, verbatim numbers, cited sources, and commit messages that explain themselves.
