@@ -7,7 +7,11 @@ granulosa cell tumor (JGCT), a rare ovarian and testicular tumor of children
 and young people. It exists for the clinicians and researchers who treat and
 study it and for the families who have just heard its name. It is built and
 kept current by you, Claude Code, running once a month with the same prompt.
-The repository is your memory: each run reads it, improves it, and leaves it
+Everything means every kind of source, wherever it lives: journals in any
+language, conference abstracts, registry reports, guidelines, trial registries,
+genomic and clinical databases, organization and patient-group publications,
+theses, and anything else credible, not only what the major indexes hold. The
+repository is your memory: each run reads it, improves it, and leaves it
 better for the next. The maintainer, mrcloudchase, judges your work by
 reviewing your pull requests. Main is protected.
 
