@@ -1,43 +1,40 @@
-# jgct-ai
+# JGCT Knowledge Base
 
-A knowledge base on juvenile granulosa cell tumor (JGCT), built from nothing and kept current by a headless Claude Code run that receives the same prompt once a month, reads this repository as its memory, does the next slice of research, and opens a pull request for human review.
+Everything known about juvenile granulosa cell tumor (JGCT), gathered from sources read in full, written for the clinicians and researchers who treat and study it and for the families who have just heard its name.
 
-JGCT is a rare ovarian sex cord-stromal tumor of children and young women. What is known about it is scattered across a few hundred papers, conference abstracts, registries, guidelines, and databases. This repository exists to pull that together into one honest, sourced place.
+**Read it here:** the site built from this repository is served from `docs/` by GitHub Pages. Start with [For clinicians and researchers](docs/clinicians.html) or [For parents and patients](docs/families.html), or read the same two summaries as [one document](knowledge/README.md).
 
-> **Disclaimer:** Nothing here is medical advice. Records describe what sources report. Every record comes from a source read in full. Every record is a draft until a human has checked it against that source.
+> **Not medical advice.** This knowledge base reports what published sources say. Decisions about any person's care belong with their care team.
 
-## How it works
+## What is here
 
-The repository starts with four things and nothing else:
-
-| File | What it is |
+| Where | What |
 |---|---|
-| `prompts/research.md` | The task. Never changes. |
-| `CLAUDE.md` | What the project is and how to work. Never changes between runs. |
-| `knowledge/schema/record.schema.json` | The starting shape of a record. The agent evolves it, migrating every record when it does. |
-| `scripts/research.sh` and `.github/workflows/research.yml` | The monthly launcher. |
+| [`docs/`](docs/) | The readable site: the two summaries, a page per source, evidence by gene, treatments reported, the larger cohorts, where sources disagree, and the list of sources known but not yet read. Regenerated from the knowledge base on every change. |
+| [`knowledge/README.md`](knowledge/README.md) | The two-audience summary, every sentence cited. |
+| [`knowledge/records/`](knowledge/records/) | One file per source: what it is, where its full text was read, and what it says. |
+| [`knowledge/INDEX.md`](knowledge/INDEX.md) | Index of every record. |
+| [`sources/INDEX.md`](sources/INDEX.md) | Where the base has looked, what it found, and which relevant sources could not be read in full. |
+| `state/runs/` | One report per maintenance run: what was done, what was found, what was left. |
 
-On the first of each month the workflow runs the launcher. The launcher starts Claude Code with the prompt and a dollar cap. Claude Code reads the whole repository, then looks for everything else that exists about JGCT, reads every source in full, writes records, maintains the schema and the indexes, writes whatever tools it needs and keeps them in `tools/`, and commits and pushes as it goes on a branch with a pull request requesting review from the maintainer. Main is protected. Merging is the review. The agent never rates its own work; the reviewer judges.
+## How it is maintained
 
-The first run starts from an empty base and builds. Every later run extends. The repository grows like memory.
+Once a month an AI agent (Claude Code) reads this whole repository, searches for everything new about JGCT, reads every source in full, updates the records, the indexes, the summaries and the site, and opens a pull request. The maintainer reviews every change before it reaches this branch and the site. The rules it works under are short and public: [`CLAUDE.md`](CLAUDE.md) and [`prompts/research.md`](prompts/research.md).
 
-## Running it by hand
+Three rules do not bend. Nothing is written from an abstract: a source is in the base only if its complete text was read. Numbers are copied from sources, never computed across them. Where sources disagree, both are recorded and neither is declared right.
 
-Trigger the `Research run` workflow under Actions with a dollar cap. Or locally:
+The agent never rates its own work. Every record is a draft until a human has checked it against its source.
 
-```bash
-export ANTHROPIC_API_KEY=... GH_TOKEN=...
-MAX_BUDGET_USD=10 scripts/research.sh
-```
+## How to help
 
-## Reviewing a run
-
-Open the pull request. The body is the run's own report: what it added and from which full text, what it could not read in full and why, where the literature disagrees, and what it suggests changing. Open sources, fix what is wrong, merge. Suggested changes to `CLAUDE.md` are yours to make by a normal commit; the run cannot edit it. The schema is maintained by the runs.
-
-## Licenses
-
-Code is MIT. Knowledge base content under `knowledge/` is CC BY 4.0.
+- **Full text.** The largest gap is papers behind paywalls, including several of the field's foundational studies. They are listed on the site under [Not yet read](docs/pending.html). If you have library access or wrote one of them, open an issue and we will arrange a way for the agent to read it.
+- **Corrections.** If a record misstates its source, open an issue or a pull request naming the record and the passage.
+- **Sources.** If you know of a registry, a meeting abstract, a guideline, or a paper the base has missed, open an issue with a link.
 
 ## Why
 
-My daughter is seven and is being treated for JGCT. See [awesome-cancer-ai](https://github.com/mrcloudchase/awesome-cancer-ai) for the wider map of AI against cancer.
+Started by a parent whose seven-year-old daughter is being treated for JGCT. See [awesome-cancer-ai](https://github.com/mrcloudchase/awesome-cancer-ai) for the wider map of AI against cancer.
+
+## Licenses
+
+Content under `knowledge/` and `docs/` is CC BY 4.0. Code is MIT.

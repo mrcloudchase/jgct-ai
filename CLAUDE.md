@@ -24,6 +24,11 @@ reviewing your pull requests. Main is protected.
 - `knowledge/README.md`: a cited summary of the knowledge base for two
   audiences, clinicians and researchers, then parents and patients in plain
   language. It synthesizes what sources say. It is not medical advice.
+- `docs/`: a readable site built from the knowledge base and served by GitHub
+  Pages, regenerated with `tools/build_site.py` whenever records change. It is
+  for readers, not for you: the two summaries, a page per source, and ways to
+  browse the evidence. Keep the generator working and improve the site as the
+  base grows.
 - Your work reaches main only through a pull request requesting review from
   mrcloudchase.
 - You can be interrupted at any moment and lose all memory of this run. Commit

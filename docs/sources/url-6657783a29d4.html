@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>cBioPortal public instance: samples with OncoTree GRCT / &#x27;Juvenile Granulosa Cell Tumor&#x27; across public studies (queried 2026-10-30) · JGCT Knowledge Base</title>
+<meta name="description" content="Public genomic database view of granulosa cell tumors: only one patient is explicitly labeled JGCT (no mutations called in the tumor); FOXL2 C134W dominates adult-type samples and the FOXL2-wild-type, AKT1-insertion GRCT in a 7-year-old is consistent with a JGCT profile but is not labeled juvenile by the database.">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="../index.html">JGCT Knowledge Base</a>
+  <form class="search" action="../search.html" method="get" role="search">
+    <input type="search" name="q" placeholder="Search sources…" aria-label="Search sources">
+  </form>
+</header>
+<div class="layout">
+<nav class="side" aria-label="Sections"><a href="../index.html">Home</a><a href="../clinicians.html">For clinicians</a><a href="../families.html">For families</a><a href="../genes/index.html">Genes</a><a href="../treatments.html">Treatments</a><a href="../cohorts.html">Cohorts</a><a href="../conflicts.html">Where sources disagree</a><a href="../sources/index.html" class="active">All sources</a><a href="../pending.html">Not yet read</a><a href="../about.html">About</a></nav>
+<main>
+
+<p class="crumbs"><a href="index.html">All sources</a> › url-6657783a29d4</p>
+<h1>cBioPortal public instance: samples with OncoTree GRCT / &#x27;Juvenile Granulosa Cell Tumor&#x27; across public studies (queried 2026-10-30)</h1>
+<p class="lead">cBioPortal for Cancer Genomics · 2026</p>
+<table class="kv">
+<tr><th>Source type</th><td>Database entry</td></tr>
+<tr><th>Study type</th><td>Database entry</td></tr>
+<tr><th>Tumor site</th><td>Ovary</td></tr>
+<tr><th>JGCT patients</th><td>1</td></tr>
+<tr><th>Ages</th><td>6 years (the one patient labeled JGCT)</td></tr>
+<tr><th>Identifiers</th><td>https://www.cbioportal.org/study/summary?id=msk_impact_50k_2026</td></tr>
+<tr><th>Full text read from</th><td><a href="https://www.cbioportal.org/api">https://www.cbioportal.org/api</a></td></tr>
+<tr><th>Record</th><td><code>url-6657783a29d4</code> · draft · retrieved 2026-10-30</td></tr>
+</table>
+<h2>Why it matters for JGCT</h2><p>Public genomic database view of granulosa cell tumors: only one patient is explicitly labeled JGCT (no mutations called in the tumor); FOXL2 C134W dominates adult-type samples and the FOXL2-wild-type, AKT1-insertion GRCT in a 7-year-old is consistent with a JGCT profile but is not labeled juvenile by the database.</p>
+<h2>Key findings</h2><ul><li>Re-run this session of a scan of all 551 public cBioPortal studies (attributes ONCOTREE_CODE, CANCER_TYPE_DETAILED, CANCER_TYPE) found the label &#x27;Juvenile Granulosa Cell Tumor&#x27; on exactly one sample: P-0013654-N01 in msk_ch_ped_2021 (a normal/blood sample from a clonal hematopoiesis study; patient AGE 6.611909866, female, White; CHEMO_TX, CISPLATIN_TX, PLATINUM_TX, TOPO_II_TX all Yes; no mutations listed).</li><li>The same patient&#x27;s tumor sample P-0013654-T01-IM5 in msk_impact_50k_2026 is labeled only &#x27;Granulosa Cell Tumor&#x27; (GRCT): AGE_AT_DX 6, primary site ovary, IMPACT410 panel, MUTATION_COUNT 0, FRACTION_GENOME_ALTERED 0.0956, OS_STATUS 0:LIVING, OS_MONTHS 50.597.</li><li>msk_impact_50k_2026 holds 58 GRCT samples from 56 patients (ages 1 to 77 years); FOXL2 C134W is present in 47 samples. OncoTree has no juvenile subtype code under GRCT, so juvenile and adult cases share the GRCT label.</li><li>Young GRCT samples in msk_impact_50k_2026 (all labeled GRCT, not juvenile): P-0039024-T01-IM6 age 7, ovary, AKT1 R76_C77insLKTERPRPNTFIIR plus TP53 X293_splice, living at 26.466 months; P-0064771-T01-IM7 age 1, ovary, no mutations called, 2.992 months; P-0061283-T01-IM7 age 16, ovary, no mutations called, 1.973 months; P-0022880-T01-IM6 age 7, primary site Skin, PTPRD T1450R, 21.567 months; all living at last follow-up. Two samples of patient P-0021806 (age 22, ovary primary, metastases) carry BMPR1A G298D (and AXIN1 R723* in one).</li><li>Other studies with GRCT-labeled samples: msk_ch_2023 (73 samples/patients, all blood normal samples with no mutations listed, FOXL2 not detected), msk_impact_2017 (14 samples, 13 patients; FOXL2 C134W in 12), pan_origimed_2020 (4 samples labeled &#x27;Ovarian Granulosa Cell Tumor&#x27;, ages 45 to 55, FOXL2 C134W in 3), pog570_bcgsc_2020 (2 samples, ages 52 and 55, both FOXL2 C134W, both deceased), ccle_broad_2019 (2), ccle_broad_2025 (1), ccle_genentech_2014 (1).</li><li>AACR GENIE cBioPortal requires login (HTTP 401 in the earlier session) and was not queried.</li></ul>
+
+<h2>Genetic and molecular findings</h2><ul><li><strong>AKT1</strong>: R76_C77insLKTERPRPNTFIIR (in-frame insertion) <span class="muted">(1 GRCT sample (P-0039024-T01-IM6), AGE_AT_DX 7, with TP53 X293_splice)</span><br><span class="muted">Labeled GRCT, not juvenile, in the database; FOXL2 wild-type</span></li><li><strong>FOXL2</strong>: C134W <span class="muted">(47/58 GRCT samples in msk_impact_50k_2026 (all ages); also 12/14 msk_impact_2017, 3/4 pan_origimed_2020, 2/2 pog570_bcgsc_2020)</span><br><span class="muted">Not detected (no mutations called) in the single JGCT-labeled patient&#x27;s tumor sample P-0013654-T01-IM5</span></li></ul>
+
+
+<h2>Notes</h2><p class="muted">Counts are tallies of API rows retrieved on 2026-10-30 at https://www.cbioportal.org/api, not numbers published by authors, and will change. n_jgct_patients=1 counts only the explicitly labeled patient. Reading unlabeled young-patient GRCT samples as JGCT is an inference. IMPORTANT TOOL BUG: tools/cbio_grct_scan.py swallows request errors silently; two runs of it this session returned only 1 and 77 hit rows because requests failed (the first run omitted msk_impact_50k_2026 entirely), whereas a scan with retries (/tmp/scripts/scan2.py, 0 failures) returned 278 rows across 8 studies matching the counts above; the tool should retry and report failures. The msk_ch_2023 study was not in the previous version of this record. Panel sequencing (MSK-IMPACT) does not detect all alterations; &#x27;no mutations called&#x27; does not exclude other events.</p>
+<p class="muted">Every statement above was taken from the full text of this source. It is a draft until a human reviewer checks it against the source. <a href="https://github.com/mrcloudchase/jgct-ai/blob/main/knowledge/records/url-6657783a29d4.yaml">View the record</a>.</p>
+
+</main>
+</div>
+<footer>
+  <p><strong>Not medical advice.</strong> This site synthesizes published sources about juvenile granulosa cell tumor. It describes what those sources report. Decisions about any person's care belong with their care team.</p>
+  <p>232 sources read in full · 235 known sources not yet read · last updated 2026-10-30 · <a href="https://github.com/mrcloudchase/jgct-ai">repository</a> · content CC BY 4.0</p>
+</footer>
+<script src="../assets/site.js"></script>
+</body>
+</html>
