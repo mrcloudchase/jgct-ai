@@ -1,0 +1,44 @@
+source_id: '36247268'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/36247268/
+retrieved_on: '2026-10-30'
+full_text_source: PMC9556492
+language: en
+pmid: '36247268'
+doi: null
+pmcid: PMC9556492
+title: 'Giant juvenile granulosa cell tumor torsion: a case report.'
+journal: American journal of translational research
+year: 2022
+first_author: Zhang R
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 17 years
+alterations: []
+treatments:
+- regimen: Emergency open detorsion and left ovarian tumor resection (reported as cystectomy), fertility preserved
+  setting: primary
+  n: 1
+  outcome: uneventful post-operative recovery with no infection or thrombosis; no long-term follow-up reported
+presentation:
+- one day of lower abdominal pain with nausea and vomiting
+- palpable pelvic mass about 150 x 130 mm reaching the umbilicus
+- tenderness at the pedicle
+- torsion 720 degrees
+key_findings:
+- 17-year-old Chinese girl, menarche at 14 with regular cycles, presented with 1 day of lower abdominal pain after defecation with nausea and vomiting; abdomen bulging, huge tender pelvic mass.
+- 'Ultrasound: mixed echo mass about 152 x 112 mm; CT: mass about 122 x 106 mm in the pelvis; imaging showed suspected torsion but could not determine benign versus malignant.'
+- 'Emergency laparotomy: left ovary purple-black, about 150 x 130 mm, smooth surface, twisted 720 degrees clockwise; detorsion and left ovarian cystectomy without capsule rupture.'
+- 'Pathology: juvenile granulosa cell tumor with infarction. IHC: vimentin+, CD99+, CD56+, p53 focal+, Ki-67 20%; S-100, inhibin, CD34, calretinin and WT1 negative.'
+- Authors state they found no previous reports of torsion of a granulosa cell tumor and conclude imaging was non-specific and diagnosis depended on pathology, advocating careful capsule protection and fertility-preserving surgery; they state a good prognosis with fertility preserved.
+relevance_to_jgct: Giant JGCT presenting as ovarian torsion in a 17-year-old, with an unusual immunoprofile (inhibin and calretinin negative) and fertility-sparing surgery.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Inhibin and calretinin were negative, atypical for sex cord-stromal tumors; the diagnosis rests on histology as stated by authors. Staging, ascitic cytology and follow-up duration not reported. Discussion statements on AGCT/JGCT distinction come from cited literature.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

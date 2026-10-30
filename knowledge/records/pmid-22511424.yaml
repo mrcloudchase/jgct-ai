@@ -1,0 +1,47 @@
+source_id: '22511424'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/22511424/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3328563
+language: en
+pmid: '22511424'
+doi: 10.5489/cuaj.10176
+pmcid: PMC3328563
+title: 'A rare testicular solid mass in children: Juvenile granulosa cell tumour of testis.'
+journal: Canadian Urological Association journal = Journal de l'Association des urologues du Canada
+year: 2012
+first_author: Couture J
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 3 months
+alterations:
+- gene: karyotype
+  alteration: 46,XY (normal)
+  frequency: null
+  notes: null
+treatments:
+- regimen: Right radical inguinal orchiectomy
+  setting: primary
+  n: 1
+  outcome: pathology confirmed JGCT; follow-up outcome not reported in the case section
+presentation:
+- right testis enlarged for one month
+- hard, mobile, painless testicular mass
+- no fever, infection or lymphadenopathy
+key_findings:
+- 3-month-old boy, term birth, with a right testis enlarged for one month; hard, mobile, painless mass; penis and left testis normal.
+- 'Ultrasound: near-complete replacement of the right testis by a 3.7 x 2.2 x 2.5 cm multicystic mass without Doppler vascularity. Serum AFP and beta-hCG normal for age; karyotype 46,XY.'
+- 'Right radical inguinal orchiectomy: 4.1 x 2.8 x 2.2 cm testis with a unilocular cystic mass containing pinkish fluid; sheets of cells with oval nuclei and abundant cytoplasm, rare mitoses. Immunohistochemistry positive for inhibin, vimentin, smooth muscle actin, S-100 and CD99; negative for PLAP and CD117.'
+- 'Discussion (literature-based, authors'' statements): testicular JGCT is mostly seen in the first 6 months of life (about 90% under 1 year); fewer than 50 cases reported, all benign; about 20% of reported cases have chromosomal anomalies (Y structural abnormalities, XO/XY mosaicism) and some genital ambiguity; only two bilateral cases reported (both intra-abdominal testes).'
+- Authors note the benign outcome suggests a role for testis-sparing surgery (enucleation) when healthy tissue remains, but their centre's usual practice remains radical inguinal orchiectomy with surveillance (chest radiograph, abdominopelvic ultrasound); AFP is physiologically high in infants so elevation under 1 year does not by itself indicate yolk sac tumor.
+relevance_to_jgct: Typical infant testicular JGCT (multicystic, normal markers, 46,XY, inhibin positive) with a review of the benign behaviour and orchiectomy versus testis-sparing options.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Follow-up duration and outcome for this patient are not reported. Discussion points are taken from cited literature, not from this patient. Only the 3-month case itself is primary data.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

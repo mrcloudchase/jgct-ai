@@ -1,0 +1,46 @@
+source_id: 10.5281/zenodo.7960981
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5281/zenodo.7960981
+retrieved_on: '2026-10-30'
+full_text_source: https://zenodo.org/records/7960982/files/Sciences%20of%20Europe%20No%20117%20(2023)-24-27.pdf
+language: en
+pmid: null
+doi: 10.5281/zenodo.7960981
+pmcid: null
+title: 'A giant ovarian juvenile granulosa cell tumour in an adolescent females: an uncommon case presentation'
+journal: Sciences of Europe
+year: 2023
+first_author: Babuci V
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years
+alterations: []
+treatments:
+- regimen: Left laparotomy with radical resection of the tumor and left fallopian tube (unilateral salpingo-oophorectomy)
+  setting: primary
+  n: 1
+  outcome: discharged in satisfactory condition and referred to an oncology institute for further treatment decision; no follow-up reported
+presentation:
+- 12-month history of periodic abdominal pain
+- abdominal enlargement
+- amenorrhea
+- 24 x 20 x 10.6 cm polyseptate cystic mass on CT
+- moderate ascites
+- anemia (hemoglobin 76 g/L)
+key_findings:
+- 15-year-old girl (menarche at 14, sexually active) with 12 months of periodic abdominal pain, abdominal enlargement and amenorrhea, who believed she was pregnant.
+- 'CT: massive polyseptate, polylobed cystic formation 24.0 x 20.0 x 10.6 cm with intrastromal vessels and moderate free fluid; ovaries not identified; radiologic suspicion included yolk sac tumor of the left ovary. Hemoglobin 76 g/L; AFP and LDH within reference values.'
+- 'Surgery: massive tumor from the left ovary without involvement of adjacent organs, up to 50 mL serous peritoneal fluid, enlarged regional lymph nodes, normal uterus and right adnexa; radical resection with the fallopian tube.'
+- 'Histology: juvenile-type granulosa cell tumor, provisional stage pT1a, mitotic rate 40 per 10 fields, moderate nuclear atypia, extensive necrosis, with tumor infiltrating tubal tissue. No immunohistochemistry reported. Referred to oncology for further treatment; no follow-up.'
+- Authors (discussion, literature-based) state JGCT is usually diagnosed before age 20, that juvenile forms have a higher mitotic index and more aggressive growth than adult forms, and that unilateral salpingo-oophorectomy is preferred for stage IA with long-term follow-up needed because of recurrence risk.
+relevance_to_jgct: Giant (24 cm) ovarian JGCT with high mitotic rate (40/10 fields) and necrosis in a 15-year-old, illustrating preoperative imaging confusion with yolk sac tumor.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: No immunohistochemistry, no follow-up, and adjuvant plan not reported. The abstract-level 'pT1a' is described as provisional while the tumor infiltrated tubal tissue and nodes were enlarged (not sampled/reported), so stage is uncertain. Text file begins with the reference list of another article in the same journal issue; only the JGCT article (pp. 24-27) was used.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
