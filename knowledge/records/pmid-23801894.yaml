@@ -1,0 +1,47 @@
+source_id: '23801894'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23801894/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3691806
+language: en
+pmid: '23801894'
+doi: 10.7150/ijms.6216
+pmcid: PMC3691806
+title: Clinicopathologic review of ovarian masses in Korean premenarchal girls.
+journal: Int J Med Sci
+year: 2013
+first_author: Ki EY
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: JGCT patients 9 and 14 years
+alterations: []
+treatments:
+- regimen: Left ovarian cystectomy, no adjuvant therapy
+  setting: JGCT stage Ia, age 9
+  n: 1
+  outcome: No evidence of disease
+- regimen: Right adnexectomy, pelvic lymph node dissection, partial omentectomy, carboplatin-VP16
+  setting: JGCT stage Ia, age 14
+  n: 1
+  outcome: No evidence of disease
+presentation:
+- 'Age 9: vaginal bleeding'
+- 'Age 14: abdominal distension'
+key_findings:
+- Retrospective review of 65 premenarchal girls operated on for ovarian masses at Seoul St. Mary's Hospital (1990-2012); 14 (21.5%) were malignant; juvenile granulosa cell tumor accounted for 2 (3.1%) of all masses and 14.3% of malignant tumors.
+- 'JGCT patient 1: age 9, vaginal bleeding, left ovarian cystectomy, FIGO stage Ia, no adjuvant treatment, no evidence of disease; beta-hCG under 2.'
+- 'JGCT patient 2: age 14, abdominal distension, right adnexectomy with pelvic lymph node dissection and partial omentectomy, stage Ia, carboplatin-VP16 adjuvant, no evidence of disease; CA125 258, AFP 21, beta-hCG under 2.'
+- The authors report one of the two granulosa cell tumors presented with pseudoprecocity (vaginal bleeding) and the other did not; CA125 was nonspecifically raised in the patient with a granulosa cell tumor.
+- Among all malignant tumors, 3 patients died (2 yolk sac tumors, 1 mixed germ cell tumor); both JGCT patients were disease-free at last follow-up (follow-up length not stated).
+- Authors conclude epithelial and sex cord-stromal tumors are relatively uncommon in children and their clinical behavior is unpredictable.
+relevance_to_jgct: Small pediatric ovarian-mass series providing two individually described JGCT cases (stage Ia, both disease-free).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Table 6 gives 'Juvenile granulosa cell tumor' for cases 1 and 3, while the Discussion calls them granulosa cell tumors; the text says CA125 was raised in one granulosa cell tumor patient (case 3). Follow-up duration is not reported. The text states 'one patient had precocious puberty/pseudoprecocity' for 50% of GCT whereas Table 6 lists vaginal bleeding for case 1.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,37 @@
+source_id: '36060370'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/36060370/
+retrieved_on: '2026-10-30'
+full_text_source: PMC9421348
+language: en
+pmid: '36060370'
+doi: 10.7759/cureus.27486
+pmcid: PMC9421348
+title: 'Histopathological Spectrum of Ovarian Neoplasms: A Single-Center Study.'
+journal: Cureus
+year: 2022
+first_author: Batool A
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 3
+age_range: 10-80 years (whole cohort)
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Cross-sectional histopathology study of 390 ovarian neoplasms examined November 2020 to October 2021 at the Chughtai Institute of Pathology, Lahore, Pakistan, classified by WHO; ages 10-80 years.
+- Of 390 tumours, 320 (82.05%) were benign, 11 (2.82%) borderline, 57 (14.61%) malignant and 2 (0.52%) metastatic.
+- Surface epithelial tumours were 246 (63.08%), germ cell tumours 115 (29.48%) and sex cord-stromal tumours 27 (6.92%).
+- 'Among the 27 sex cord-stromal tumours: fibroma 10, adult granulosa cell tumour 7, thecoma 5, juvenile granulosa cell tumour 3 (0.76% of all tumours), Sertoli-Leydig cell tumour 2.'
+- Sex cord-stromal tumours had no cases in the 11-20 year age group and peaked at 41-50 years (9 cases); the age of the 3 JGCT cases is not given separately.
+- No clinical follow-up, treatment, marker or outcome data are reported; the authors list lack of follow-up and single-centre design as limitations.
+relevance_to_jgct: Single-centre histopathology frequency study; its only JGCT content is the count of 3 juvenile granulosa cell tumours among 390 ovarian neoplasms (and 27 sex cord-stromal tumours) in a Pakistani laboratory.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: First author not stated in the extracted text. Percentages are of all 390 neoplasms. No age, stage or IHC detail for the JGCT cases; the discussion text does not mention JGCT separately. Not a pediatric series (ages 10-80).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,40 @@
+source_id: '19468498'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19468498/
+retrieved_on: '2026-10-30'
+full_text_source: PMC2684381
+language: en
+pmid: '19468498'
+doi: 10.4103/0970-1591.44249
+pmcid: PMC2684381
+title: 'Testis-sparing surgery for benign and malignant tumors: A critical analysis of the literature.'
+journal: Indian J Urol
+year: 2008
+first_author: Giannarini G
+study_type: review
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 7-day-old infant (one cited case)
+alterations: []
+treatments:
+- regimen: Testis-sparing surgery
+  setting: juvenile granulosa cell tumor of the testis in a 7-day-old boy (cited from Shukla et al.)
+  n: 1
+  outcome: Free of recurrence at 5-year follow-up
+presentation: []
+key_findings:
+- Narrative review (Medline to December 2007; 49 full papers plus one abstract) of testis-sparing surgery; highest evidence level 2c, no randomized trials.
+- In the pediatric series table, one Shukla 2004 series of 3 patients (1 testis-sparing, 2 radical orchidectomy) is footnoted as juvenile granulosa cell tumor on final histology, with no local recurrence at 5-14 years follow-up.
+- The text cites Shukla et al. as reporting the first case of a seven-day-old boy with a testicular juvenile granulosa cell tumor treated with testis-sparing surgery, free of recurrence at 5 years.
+- Pediatric testicular tumors are more often benign than adult ones and rarely have concomitant testicular intratubular germ cell neoplasia; testis-sparing surgery is described as most suitable for prepubertal teratoma, epidermoid cysts and Leydig cell tumors.
+- Authors report many pediatric surgery centers now apply testis-sparing surgery first for elective management when serum tumor markers are normal, but call for prospective multicenter studies.
+relevance_to_jgct: Secondary (review) source for a single cited case of testicular JGCT in a newborn managed with testis-sparing surgery and no recurrence at 5 years; not an independent patient series.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Review-level evidence only; the JGCT information is second-hand from Shukla et al. and is limited to one infant. Table footnote labels the 3-patient Shukla series as juvenile granulosa cell tumor while the text refers to a single case.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

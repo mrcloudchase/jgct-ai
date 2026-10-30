@@ -1,0 +1,49 @@
+source_id: '25356068'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25356068/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4209484
+language: en
+pmid: '25356068'
+doi: 10.1097/PCR.0000000000000027
+pmcid: PMC4209484
+title: 'DICER1-pleuropulmonary blastoma familial tumor predisposition syndrome: a unique constellation of neoplastic conditions.'
+journal: Pathol Case Rev
+year: 2014
+first_author: Schultz KA
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: 5 to 13 years in the case
+alterations:
+- gene: DICER1
+  alteration: germline c.1376+1G>A (canonical splice site, exon 8 boundary), loss of function
+  frequency: 1 patient
+  notes: 'Somatic RNase IIIb hotspot hits in exon 25: c.5428G>T (PPB), c.5438A>T (thyroid carcinoma), c.5439G>T (nasal chondromesenchymal hamartoma and ovarian SLCT)'
+treatments:
+- regimen: 'PPB: vincristine/doxorubicin/cyclophosphamide, vincristine/dactinomycin/cyclophosphamide alternating with cisplatin/doxorubicin for 6 months'
+  setting: Type II PPB, age 5
+  n: 1
+  outcome: Did well
+presentation:
+- Type II pleuropulmonary blastoma at 5 years
+- Thyroid carcinoma at 8 years
+- Nasal chondromesenchymal hamartoma and peritoneal cysts at 13 years
+- Left ovarian SLCT 17 x 10 x 10 cm at 13 years with recurrent pelvic pain
+key_findings:
+- 'Case report and pathology review: a girl with germline DICER1 loss-of-function variant developed Type II pleuropulmonary blastoma (age 5), follicular-variant papillary thyroid carcinoma (age 8), peritoneal cysts, nasal chondromesenchymal hamartoma and an ovarian Sertoli-Leydig cell tumor with heterologous mucinous elements (age 13); alive 2 years after the SLCT.'
+- The reviewed text states that ovarian stromal tumors including SLCT, juvenile granulosa cell tumor and gynandroblastoma have been seen in children and young adults with germline DICER1 mutations, and that tumors with both Sertoli-Leydig and juvenile granulosa features have occasionally been seen.
+- SLCT in DICER1 carriers may be cystic and solid, often with heterologous epithelial glands, with an inhibin-positive Sertoli component invariably present in primary tumors; the SLCT in this case carried the germline variant plus a somatic RNase IIIb mutation.
+- Authors recommend appropriate intraoperative staging, including peritoneal fluid sampling, to determine need for adjuvant therapy.
+- Germline DICER1 loss-of-function mutations are reported in nearly 70% of children with PPB; 49/51 PPBs tested had somatic RNase IIIb missense mutations.
+- Authors conclude that PPB, ovarian stromal tumors especially SLCT, and other syndrome tumors, particularly in combination or at an early age, should prompt consideration of germline DICER1 testing.
+relevance_to_jgct: No JGCT patient is described; JGCT appears in a pathology statement that it is among the ovarian stromal tumors seen with germline DICER1 mutation, sometimes mixed with Sertoli-Leydig features.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The statements about JGCT are narrative review claims with a citation, not data from this patient. Case ovarian tumor was SLCT, not JGCT.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

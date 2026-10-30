@@ -1,0 +1,45 @@
+source_id: '41190447'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41190447/
+retrieved_on: '2026-10-30'
+full_text_source: PMC12587045
+language: en
+pmid: '41190447'
+doi: 10.1002/cnr2.70396
+pmcid: PMC12587045
+title: 'Surgical Management of Ovarian Masses in Children: A Comparative Analysis by Pediatric Surgeons and Gynecologists at Two Academic Hospitals in Johannesburg.'
+journal: Cancer reports (Hoboken, N.J.)
+year: 2025
+first_author: Mashaba NC
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 10
+age_range: 0-18 years (whole cohort); mean 13.34 years
+alterations: []
+treatments:
+- regimen: Oophorectomy (all malignant tumours); two granulosa cell tumour patients (one juvenile, one adult, FIGO IA) had minimally invasive surgery as emergency explorations
+  setting: surgery for malignant ovarian tumours, whole cohort
+  n: 10
+  outcome: Survival by granulosa cell tumour subgroup is not given; overall 5-year survival of the 51 malignant cases was 44/51 (86.28%) and none of the 7 deaths was attributed to a granulosa cell tumour
+presentation:
+- precocious puberty in 10 patients, all with granulosa cell tumours (adult and juvenile combined)
+- 'granulosa cell tumour markers: AFP 0/6, beta-hCG 0/3, CA125 3/5 positive'
+key_findings:
+- Retrospective 15-year review (2007-2022) of 288 children and adolescents (294 ovarian masses) surgically treated at two Johannesburg academic hospitals, 117 by paediatric surgery and 171 by gynecology; 51 (17.70%) were malignant.
+- Granulosa cell tumours (adult and juvenile not separated) numbered 10 of the 51 malignant tumours and 10 of 18 malignant sex cord-stromal tumours; 4 were managed by paediatric surgery and 6 by gynecology.
+- All 10 patients with precocious puberty in the series had sex cord-stromal tumours, specifically granulosa cell tumours.
+- 'Tumour markers in granulosa cell tumours: AFP positive 0/6, beta-hCG 0/3 and CA125 3/5 (60%).'
+- Two gynecology patients (one juvenile, one adult granulosa cell tumour, FIGO IA) had minimally invasive surgery because they needed emergency exploration; all malignant tumours otherwise underwent oophorectomy, mostly open.
+- Overall 5-year survival in the malignant cohort was 44/51 (86.28%); the 7 deaths were four yolk sac tumours, advanced dysgerminoma, stage 4 Sertoli-Leydig tumour and mesothelioma, none a granulosa cell tumour.
+- Staging used COG in paediatric surgery (18 of 38 documented) and FIGO in gynecology (13/13); chemotherapy given to 21 of 38 paediatric surgery malignant patients was JEB or BEP, with no JGCT-specific regimen reported.
+- The authors conclude that laparoscopic, ovary-sparing surgery should be preferred for benign lesions and call for standardised guidelines between paediatric surgeons and gynecologists.
+relevance_to_jgct: Mixed paediatric ovarian-mass series from South Africa; JGCT-relevant content is limited to 10 granulosa cell tumours (adult and juvenile combined), all precocious puberty cases in the series, marker results and absence of deaths in this group.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Journal not stated in the extracted text. Granulosa cell tumour counts do not separate juvenile from adult types; the discussion mentions one juvenile and one adult FIGO IA tumour treated laparoscopically. Table 1 counts 10 precocious puberty cases all in the malignant group. Possible internal inconsistency: the abstract says laparoscopy in 57 patients with 24 in paediatric surgery and 19 in gynecology while the discussion says 33 in gynecology (Table 4 supports 33). Text says 5 paediatric surgery deaths.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

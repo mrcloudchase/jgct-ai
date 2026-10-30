@@ -38,7 +38,8 @@ key_findings:
 - Authors conclude the focal, recurrent pattern and retention of expressed mutant protein argue against a classic two-hit tumor suppressor and suggest an oncogene-like altered DICER1 function; they conclude aberrant miRNA processing from hot-spot mutations is a key oncogenic event in nonepithelial ovarian cancers.
 relevance_to_jgct: First report of recurrent somatic DICER1 RNase IIIb hot-spot mutations in nonepithelial ovarian tumors; JGCT showed a low rate (1/14) compared with Sertoli-Leydig tumors (60%), distinguishing it from adult GCT (FOXL2, DICER1 0/15).
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-24136150
 superseded_by: null
 retracted: false
 notes: 'The PDF is the complete NEJM article (9 pages, abstract through references) but the Supplementary Appendix (Tables 1-5, Figs 1-8, where per-sample data and JGCT discovery-sample details are given) is NOT included in the text read; JGCT details (ages, sample sources, the single mutated tumor''s identity) are therefore not recorded. n_jgct_patients=14 is the denominator in Table 1, which may include discovery samples (the text states 4 JGCTs were in the discovery set of 14, and 101 additional ovarian tumors in validation). Table 1 footnote: frequencies are for specimens with both amplicons sequenced unless indicated. The text''s ''30 of 102'' versus ''101 additional'' validation tumors reflects the 14 discovery plus validation set as presented; sums were not recomputed. Discovery samples came from the Children''s Oncology Group (Nationwide Children''s Hospital) and OvCaRe.'

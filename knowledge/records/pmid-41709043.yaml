@@ -1,0 +1,38 @@
+source_id: '41709043'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41709043/
+retrieved_on: '2026-10-30'
+full_text_source: PMC13356387
+language: en
+pmid: '41709043'
+doi: 10.1002/jum.70203
+pmcid: PMC13356387
+title: Ultrasonic, Clinical, and Pathological Characteristics of Malignant Ovarian Tumors in Children.
+journal: J Ultrasound Med
+year: 2026
+first_author: Wei Y
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: null
+age_range: series 10 months to 15 years
+alterations: []
+treatments: []
+presentation:
+- 'Sex cord-stromal tumors: precocious puberty 3/8 (37.5%), menstrual irregularity 1/8 (12.5%), abdominal pain/distension 2/8'
+key_findings:
+- 'Single-center retrospective study (Children''s Hospital of Zhejiang University, 2020-2024) of 49 girls with malignant ovarian tumors: germ cell tumors 37 (75.5%), sex cord-stromal tumors 8 (16.3%), lymphoma 4 (8.2%).'
+- The authors state the sex cord-stromal tumors were mainly juvenile granulosa cell tumors; the exact JGCT count is not given.
+- 'Sex cord-stromal tumors (n=8): mean maximum diameter 9.60 cm; 5/8 were 10 cm or smaller; solid or predominantly solid in 4/8; no calcification; O-RADS 4 in 4 and O-RADS 5 in 4; AFP median 1.11 ng/mL (IQR 0.71-1.62), far below germ cell tumors.'
+- 'A representative case: a 12-year-old girl with a 9.4 x 7.4 x 6.4 cm solid right adnexal mass, minimal flow, O-RADS 5, twisted 540 degrees at surgery, with juvenile granulosa cell tumor on pathology.'
+- Torsion occurred in 1/8 sex cord-stromal tumors; rupture in none.
+- Authors attribute precocious puberty and menstrual irregularity to estrogen secretion; no treatment or outcome data were collected (authors note lack of long-term prognostic data).
+relevance_to_jgct: 'Imaging and clinical features of pediatric sex cord-stromal tumors (mainly JGCT per the authors) at one center: solid, non-calcified, AFP-normal, estrogenic presentation in a minority; no JGCT-specific outcomes.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT count not separated from the 8 sex cord-stromal tumors. The pathologic subtype of all 8 is not tabulated.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

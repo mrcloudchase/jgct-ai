@@ -1,0 +1,45 @@
+source_id: '35804952'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35804952/
+retrieved_on: '2026-10-30'
+full_text_source: PMC9265135
+language: en
+pmid: '35804952'
+doi: 10.3390/cancers14133180
+pmcid: PMC9265135
+title: 'Imaging of Pediatric Testicular and Para-Testicular Tumors: A Pictural Review.'
+journal: Cancers
+year: 2022
+first_author: Hermann AL
+study_type: review
+tumor_site: testis
+n_jgct_patients: null
+age_range: infants (typically first year of life)
+alterations: []
+treatments:
+- regimen: Testis-sparing surgery (partial orchidectomy)
+  setting: testicular juvenile granulosa cell tumour, as described by the review
+  n: 1
+  outcome: Review states juvenile type is benign with low recurrence after testis-sparing surgery; the illustrated 1-month-old had normal markers and partial inguinal orchidectomy
+presentation:
+- painless testicular mass or enlargement
+- possible gynecomastia and pubertal anomalies
+key_findings:
+- Narrative imaging review of paediatric testicular and para-testicular tumours based on PubMed papers mainly 2010-2022; it reports that among non-germ-cell prepubertal testicular tumours, Leydig cell tumours (about 5%) are most frequent, followed by juvenile granulosa cell tumours.
+- Testicular juvenile granulosa cell tumour accounts for 1% to 5% of prepubertal testicular tumours (Table 1 gives under 5%) and usually presents in the first year of life, within the first 6 months; a few prenatal diagnoses have been reported.
+- Typical presentation is a painless testicular mass or enlarged testis, with possible hormonal changes including gynecomastia and anomalies of puberty.
+- 'There is no specific imaging appearance: tumours are classically well circumscribed with median size 1.5 cm, may contain cystic components or be entirely solid; macroscopically yellow-tan.'
+- 'Histology: lobular architecture and follicular differentiation are characteristic; solid and reticular patterns are diagnostic pitfalls; immunohistochemistry helps distinguish from yolk sac tumours, which peak at a later age.'
+- The illustrated case (Figure 7) was a 1-month-old boy with a well-circumscribed lobulated mass with a cystic component and calcifications, normal tumour markers, treated with partial orchidectomy by inguinal approach.
+- The review states the juvenile type is a benign entity with low recurrence after testis-sparing surgery, whereas adult testicular granulosa cell tumours have metastatic potential.
+- 'General management points: testis-sparing surgery with intra-operative frozen section for presumed benign lesions, with tumour size under 2.5 cm generally favourable; radical orchidectomy for malignant tumours.'
+relevance_to_jgct: Imaging-focused review in which testicular JGCT occupies one short subsection; useful for epidemiology (1-5% of prepubertal testicular tumours), age at presentation, benign behaviour after testis-sparing surgery and a single illustrative case.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: First author not stated in the extracted text. Secondary statements (prenatal cases, recurrence after testis-sparing surgery, adult-type metastatic potential) cite other papers; no new JGCT patient data. The abstract does not mention JGCT.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

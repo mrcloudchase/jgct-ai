@@ -41,10 +41,10 @@ Query details with `python3 tools/ledger.py`.
 
 | status | items |
 |---|---|
-| found | 1488 |
+| found | 1466 |
 | needs_full_text | 235 |
-| processed | 217 |
-| skipped | 373 |
+| processed | 233 |
+| skipped | 379 |
 | unreachable | 3 |
 
 ### Next 40 unprocessed items by priority
@@ -141,7 +141,7 @@ Query details with `python3 tools/ledger.py`.
 - pmid:41839237 (2026) Evaluation of DICER1 Immunohistochemistry as a Potential Surrogate for Mutation Status in Ovarian Se — 2026-10-30: draft record withdrawn under the full-text-only rule (it was written from the abstract). Full text not obtained. Routes tried: Europe PMC/PMC, Unpaywall, DOI landing page -> no PMCID ; https://doi.org/10.1016/j.modpat.2026.100990: not full text (30 chars)
 - pmid:41243833 (2026) DICER1 -Associated Gynecologic Neoplasms: An Update and Review. — 2026-10-30: draft record withdrawn under the full-text-only rule (it was written from the abstract). Full text not obtained. Routes tried: Europe PMC/PMC, Unpaywall, DOI landing page -> no PMCID ; https://doi.org/10.1097/pap.0000000000000515: not full text (3226 chars)
 - pmid:42817922 (2026) The Expanding Spectrum of DICER1-Associated Gynecologic Neoplasms. — 2026-10-30: draft record withdrawn under the full-text-only rule (it was written from the abstract). Full text not obtained. Routes tried: Europe PMC/PMC, Unpaywall, DOI landing page -> no PMCID ; https://doi.org/10.1097/pap.0000000000000553: not full text (3140 chars)
-- pmid:40390890 (2025) Case of Gynandroblastoma of the Ovary with Raised AFP and Associated DICER 1 Mutation. — 2026-10-30: fetched text was the PubMed abstract page only (abstract, figure captions, 4 references); PubMed lists a free PMC article but no PMC ID was captured; retry via PMC
+- pmid:40390890 (2025) Case of Gynandroblastoma of the Ovary with Raised AFP and Associated DICER 1 Mutation. — 2026-10-30: gynandroblastoma with 20% JGCT component, DICER1, BEP x4. In PMC (PMC12085509) but not OA: Europe PMC fullTextXML 500, NCBI efetch no body, PMC website reCAPTCHA. Springer DOI page paywalled to scripts.
 - pmid:39492459 (2025) Ovarian Sex Cord-Stromal Neoplasms: An Overview of Molecular Events and How to Correlate Morphology  — Molecular SCST review; abstract has no JGCT-specific content; no OA full text (paywalled)
 - pmid:33414107 (2021) Ovarian sex cord-stromal tumors: an update on clinical features, molecular changes, and management. — SCST review; abstract not JGCT-specific; no OA full text (paywalled)
 - pmid:26033501 (2016) DICER1 and FOXL2 mutations in ovarian sex cord-stromal tumours: a GINECO Group study. — 2026-10-30: draft record withdrawn under the full-text-only rule (it was written from the abstract). Full text not obtained. Routes tried: Europe PMC/PMC, Unpaywall, DOI landing page -> no PMCID ; https://doi.org/10.1111/his.12747: HTTP Error 403: Forbidden
@@ -177,7 +177,7 @@ Query details with `python3 tools/ledger.py`.
 - pmid:25165122 (2014) Soy promotes juvenile granulosa cell tumor development in mice and in the human granulosa cell tumor — 2026-10-30: draft record withdrawn under the full-text-only rule (it was written from the abstract). Full text not obtained. Routes tried: Europe PMC/PMC, Unpaywall, DOI landing page -> epmc PMC4435027: HTTP Error 500:  ; ncbi PMC4435027: no body ; https://doi.org/10.1095/biolreprod.114.120899: HTTP Error 403: Forbidden ; https://doi.org/10.1095/biolreprod.114.120899: HTTP Error 403: Forbidden
 - pmid:25053523 (2014) Juvenile granulosa cell tumor of the testis: a bilateral and synchronous case. Should testis-sparing — 2026-10-30: draft record withdrawn under the full-text-only rule (it was written from the abstract). Full text not obtained. Routes tried: Europe PMC/PMC, Unpaywall, DOI landing page -> no PMCID ; https://doi.org/10.1016/j.urology.2014.05.006: not full text (30 chars)
 - pmid:24656706 (2014) Fertility-sparing surgery for advanced juvenile granulosa cell tumor of the ovary. — 2026-10-30: draft record withdrawn under the full-text-only rule (it was written from the abstract). Full text not obtained. Routes tried: Europe PMC/PMC, Unpaywall, DOI landing page -> no PMCID ; https://doi.org/10.1016/j.jpag.2013.10.001: not full text (30 chars)
-- pmid:24606464 (2014) Ovarian sex cord stromal tumours in children and young girls - a more than two decade clinicopatholo — 2026-10-30: fetched text was the KoreaScience abstract/reference page only (abstract + reference list), not the article body
+- pmid:24606464 (2014) Ovarian sex cord stromal tumours in children and young girls - a more than two decade clinicopatholo — 2026-10-30: 39-patient Pakistani series with 15 JGCT; high value. KoreaScience page has abstract and references only; KoreaScience PDF timed out; AKU eCommons viewcontent returns an HTML bot page. Try a browser.
 - pmid:25323433 (2014) 46(th) Congress of The International Society of Paediatric Oncology (SIOP) 2014 Toronto, Canada, 22( — Congress supplement; Europe PMC fullTextXML HTTP 500 and PMC efetch returns no body (not OA), 2026-10-30
 - pmid:23733594 (2013) Testicular sex cord stromal tumors: analysis of patients from the MAKEI study. — 2026-10-30: draft record withdrawn under the full-text-only rule (it was written from the abstract). Full text not obtained. Routes tried: Europe PMC/PMC, Unpaywall, DOI landing page -> no PMCID ; https://doi.org/10.1002/pbc.24607: HTTP Error 403: Forbidden
 - pmid:22511424 (2012) A rare testicular solid mass in children: Juvenile granulosa cell tumour of testis. — 2026-10-30: draft record withdrawn under the full-text-only rule (it was written from the abstract). Full text not obtained. Routes tried: Europe PMC/PMC, Unpaywall, DOI landing page -> epmc PMC3328563: HTTP Error 500:  ; ncbi PMC3328563: no body ; https://doi.org/10.5489/cuaj.10176: HTTP Error 404: Not Found ; https://doi.org/10.5489/cuaj.10176: HTTP Error 404: Not Found

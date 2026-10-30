@@ -82,7 +82,7 @@ A metastatic JGCT had AKT1 gain and a subclonal MYC amplification [pmid-40985487
 
 ### Staging and treatment as reported
 
-Sources stage ovarian JGCT with FIGO [pmid-42504512, pmid-36184758, pmid-40267023]. The 2026 European Standard Clinical Practice recommendations (EXPeRT/ERN PaedCan), at evidence level III, recommend [pmid-42504512]:
+In a Polish multicenter series of 595 girls operated on for ovarian lesions, JGCT was the most common malignant tumor, 10 of 44 [pmid-35323325]. Sources stage ovarian JGCT with FIGO [pmid-42504512, pmid-36184758, pmid-40267023]. The 2026 European Standard Clinical Practice recommendations (EXPeRT/ERN PaedCan), at evidence level III, recommend [pmid-42504512]:
 
 - open surgery that avoids rupture, usually unilateral oophorectomy, and reference pathology;
 - surveillance for stage IA/IB, and for IC1, with chemotherapy considered when the mitotic count is high;
@@ -104,7 +104,7 @@ Fertility-sparing surgery is the norm in young patients. A review counted pregna
 ### Where the literature disagrees
 
 - **Chemotherapy at stage IC2.** The European guideline recommends 3 to 4 cycles [pmid-42504512]. A 2025 review of 94 paediatric cases found 3 of 5 IC2 patients alive without chemotherapy and questioned it [pmid-41367860]. A stage IC meta-analysis found no recurrence benefit of adjuvant chemotherapy; its JGCT subgroup was only 33 patients [pmid-40350706]. STEP saw no relapses at IC2/IC3 with chemotherapy, while OTST reported a 3-year EFS of 63.6% at IC2-IC3 [pmid-40272823, pmid-40267023].
-- **DICER1 in JGCT.** The OTST registry found 0 of 19 germline and 0 of 2 tumor DICER1 mutations [pmid-29037807]. A xeroderma pigmentosum C patient's JGCT carried DICER1 mutations [pmid-37567969]. Other sources report DICER1 at 1 of 14 [pmid-22187960] and 6-23% [pmid-38136408].
+- **DICER1 in JGCT.** The OTST registry found 0 of 19 germline and 0 of 2 tumor DICER1 mutations [pmid-29037807]. A xeroderma pigmentosum C patient's JGCT carried DICER1 mutations [pmid-37567969]. Other sources report DICER1 hotspot mutations in 1 of 14 [pmid-22187960] and 0 of 4 pure JGCT [pmid-24136150], and 6-23% in a review [pmid-38136408].
 - **FOXL2 in JGCT.** One review reports the FOXL2 mutation in 1 of 10 JGCT [pmid-23641362]; another calls it absent [pmid-38136408].
 - **Drivers.** A case report states that no genetic driver is known [pmid-39877787]. Sequencing series find AKT1 and other alterations [pmid-39773640, pmid-26137586].
 - **COV434.** Older work uses COV434 as a JGCT model [pmid-31311113]; it is now classed as SCCOHT [pmid-33328126].

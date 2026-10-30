@@ -1,0 +1,49 @@
+source_id: '28123736'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/28123736/
+retrieved_on: '2026-10-30'
+full_text_source: https://www.spandidos-publications.com/10.3892/mco.2016.1084/download
+language: en
+pmid: '28123736'
+doi: 10.3892/mco.2016.1084
+pmcid: null
+title: Rare virilizing granulosa cell tumor in an adolescent.
+journal: Molecular and Clinical Oncology
+year: 2017
+first_author: Bus D
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 14 years
+alterations: []
+treatments:
+- regimen: Laparoscopic right oophorectomy (specimen removed in an Endobag), no adjuvant therapy reported
+  setting: primary surgery
+  n: 1
+  outcome: Testosterone fell from 8.84 to 0.497 nmol/l two days after surgery, then 0.50, 0.41 and <0.17 nmol/l at 1 week, 1 month and 4 months; normal menses resumed
+presentation:
+- secondary amenorrhea for 18 months then masculinization
+- hirsutism (Ferriman-Gallwey 20)
+- deepened voice
+- clitoromegaly 5 cm
+- delayed thelarche
+- palpable 4 cm right ovarian mass
+key_findings:
+- '14-year-old girl (menarche at 10) with 18 months of secondary amenorrhea followed by virilization: Ferriman-Gallwey score 20, deepened voice, delayed thelarche and clitoromegaly of 5 cm; a 4 cm mass was palpable in the right ovarian area.'
+- Total testosterone was 8.84 nmol/l (normal 0.17-2.81); DHEAS, FSH, LH, estradiol, progesterone, TSH, prolactin, AFP, CA-125 and CA 15-3 were normal.
+- Ultrasound showed a heterogeneous right ovarian mass; MRI showed a 36x42x45 mm solid right ovarian lesion with minor hepatosplenomegaly and ascites.
+- Laparoscopy found a 5x4 cm right ovarian tumour with abnormal vascularisation and a normal uterus, left ovary and tubes; right oophorectomy was done with bagging of the specimen.
+- 'Histology: 5.5x4x3 cm yellow-tan lobulated tumour with solid and cystic areas, lobules, nests and perivascular palisades of cells with scant cytoplasm, ovoid nuclei and grooving; no lymphovascular invasion and intact serosa.'
+- IHC positive for inhibin, Melan-A, WT1, calretinin and CD99; negative for EMA, CD117, PLAP, AFP and CD30; diagnosis juvenile-type granulosa cell tumour.
+- Testosterone normalised after surgery and menses returned; follow-up reported at 4 months (testosterone <0.17 nmol/l).
+- The authors state that about 95% of granulosa cell tumours are adult type and 5% juvenile, that hyperestrogenism occurs in 97-98% and hyperandrogenism in 2-3% of cases, and that long-term follow-up is advised because late recurrences are reported.
+relevance_to_jgct: Case report of a rare androgen-secreting JGCT in an adolescent, with IHC profile and rapid testosterone normalisation after oophorectomy; the epidemiologic statements are cited from other papers.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Source text is a PDF extraction. The ultrasound text reports a 12x12 mm mass within a 23x16 mm ovary but MRI and surgery found 36x42x45 mm and 5x4 cm masses, a size discrepancy within the paper. The paper terms the tumour 'juvenile-type GCT' while citing the adult/juvenile split; follow-up was only 4 months. Author name from the PDF header (Dorottya Bus).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

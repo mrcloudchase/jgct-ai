@@ -1,0 +1,36 @@
+source_id: '27397956'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/27397956/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4924398
+language: en
+pmid: '27397956'
+doi: 10.4103/0300-1652.184061
+pmcid: PMC4924398
+title: Childhood ovarian neoplasms in Ibadan, South-western Nigeria.
+journal: Niger Med J
+year: 2016
+first_author: Ajani MA
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: null
+age_range: series 0-14 years
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Single-institution retrospective review (University College Hospital, Ibadan, 1991-June 2013) of 24 ovarian neoplasms in children under 15 years, 2.8% of all ovarian tumors seen.
+- 14 (58.3%) were benign and 10 (41.7%) malignant; germ cell tumors made up 16 of 20 primary tumors; 4 secondary tumors were all Burkitt lymphoma.
+- Sex cord-stromal tumors were 4 of 20 primary tumors (16.7% of all childhood ovarian neoplasms); the authors state juvenile granulosa cell tumor was the most common of these.
+- The Discussion states yolk sac tumor and juvenile granulosa cell tumor were equally the most common primary malignant childhood tumors; the number of JGCT cases, ages, treatment and outcomes are not given in the text.
+- No surface epithelial tumors and no malignant ovarian tumor under 5 years were seen.
+relevance_to_jgct: 'Epidemiology only: JGCT is reported as the leading sex cord-stromal tumor and tied for most common primary malignant ovarian tumor in a small Nigerian pediatric series; no JGCT-level data.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT case count not stated in the text (Table 1 is an image/not extracted). Statement about JGCT being 'equally common' with yolk sac tumor is only in the Discussion; the abstract says Burkitt lymphoma was the most common malignant tumor.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
