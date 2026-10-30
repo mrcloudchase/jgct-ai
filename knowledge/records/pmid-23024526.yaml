@@ -1,0 +1,41 @@
+source_id: '23024526'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23024526/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3257345
+language: en
+pmid: '23024526'
+doi: 10.1007/s13224-011-0087-7
+pmcid: PMC3257345
+title: Sex cord stromal tumors-unusual presentations.
+journal: Journal of obstetrics and gynaecology of India
+year: 2011
+first_author: Mehta S
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 4.5 years (JGCT patient); series 4 to 70 years
+alterations: []
+treatments:
+- regimen: Surgery (details not given)
+  setting: JGCT stage IA at surgery
+  n: 1
+  outcome: progressed to stage IV within 8 months and died of disease
+presentation:
+- 'isosexual precocious pseudopuberty: Tanner III breasts, hypertrophied labia majora, axillary and pubic hair'
+- large abdominal mass reaching the xiphisternum
+key_findings:
+- 'Delhi single-department series, January 2001 to December 2005: 10 sex cord-stromal tumors among 73 malignant (312 operated) ovarian tumors; ages 4 to 70 years; 7 granulosa cell tumors, 1 gynandroblastoma, 2 thecomas (text says 10% fibromas and 20% thecomas); 9 stage I, 1 stage IV; surgery in all, BEP in 2.'
+- One JGCT in a 4.5-year-old girl with isosexual precocious pseudopuberty (Tanner III breasts, hypertrophied labia majora, axillary and pubic hair) and a large abdominal mass up to the xiphisternum.
+- The JGCT progressed from stage IA to stage IV within 8 months and the child died of disease. The text does not give treatment details, histology, markers or whether she received chemotherapy.
+- Authors describe JGCT as characteristically aggressive with short time to relapse and death, and state that a few patients, especially with JGCT or Sertoli-Leydig cell tumors, may need chemotherapy.
+relevance_to_jgct: Single fatal pediatric JGCT that progressed from stage IA to IV within 8 months, within a small Indian sex cord-stromal tumor series.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Read in full from the PMC website (PMC3257345). The JGCT case is described only in the discussion, in a few sentences; whether the 'stage IV' tumor in the series table is this child is not stated, though likely. The series counts are inconsistent (table lists a gynandroblastoma; text lists fibromas).
+review_status: draft
+reviewed_by: null
+reviewed_on: null
