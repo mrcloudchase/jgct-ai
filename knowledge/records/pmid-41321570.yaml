@@ -1,0 +1,40 @@
+source_id: '41321570'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41321570/
+retrieved_on: '2026-10-30'
+full_text_source: PMC12659192
+language: en
+pmid: '41321570'
+doi: 10.3389/fvets.2025.1689782
+pmcid: PMC12659192
+title: 'Granulosa cell tumor in Arabian mares: prevalence, risk factors, clinical and histopathological findings and outcome of surgical removal.'
+journal: Frontiers in veterinary science
+year: 2025
+first_author: Derar D
+study_type: other
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments:
+- regimen: Standing unilateral ovariectomy (horses)
+  setting: mares with granulosa cell tumor
+  n: 20
+  outcome: 16 of 20 (80%) recovered; 4 had complications (incisional infection, hemorrhage); 16 mares returned to breeding, conception rate 68.75%
+presentation: []
+key_findings:
+- 'VETERINARY STUDY IN HORSES, not human patients. Retrospective records of 807 Arabian mares on 35 stud farms in central Saudi Arabia: 24 had granulosa cell tumor (GCT), prevalence 0.6%. Anabolic steroid use was a significant risk factor (odds ratio 13.21, p = 0.0001 as stated in the text; the logistic regression table gives Exp(B) 8.768, 95% CI 2.719 to 28.275); age and parity were not predictive. 14 of 24 affected mares (58.3%) had a history of anabolic steroid use.'
+- 'Clinical signs: stallion-like behavior 58.3%, anestrus 33.3%, persistent estrus 8.3%. Tumors measured 9 x 7 x 8 cm to 17 x 14 x 12 cm; four ultrasound patterns were described; contralateral ovarian atrophy in 75%.'
+- 'Histopathology (17 mares): 13 adult-type (76.5%) and 4 juvenile-type (23.5%) GCT. Adult-type: firm lobulated tan-yellow masses with cysts, polyhedral granulosa cells, occasional Call-Exner bodies, mitoses 1 to 3 per HPF. Juvenile-type: softer, homogeneous cut surface with negligible cysts, sheets of uniform small cells with scant cytoplasm and high nuclear-to-cytoplasmic ratio, mitoses 5 to 8 per HPF, few follicular structures and sparse stroma.'
+- 'Preoperative testosterone: adult-type 13.2 +/- 3.4 ng/mL (range 4.3 to 18.25), juvenile-type 11.25 +/- 4.12 ng/mL (range 0.01 to 21.64), difference reported as significant (p = 0.001); testosterone fell within 24 h after surgery in 72.7% of mares.'
+- Authors note that FOXL2 C134W is considered characteristic of human adult GCT and that its role in equine GCT is unexplored, and suggest juvenile-type equine tumors may need closer follow-up because of possible rapid growth; this is discussion, not data from the study.
+relevance_to_jgct: Veterinary (horse) study with a juvenile histotype subgroup of 4 mares; no human JGCT patients. It is of marginal relevance to human JGCT and gives only comparative histology and hormone data in a different species.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Concerns horses only. Juvenile-type here is a histologic label in adult mares, not a young-age tumor; ages by histotype are not given. Inconsistencies in the text: odds ratio 13.21 is the Wald statistic in the regression table (Exp(B) 8.768); the t-test comparison of testosterone p = 0.001 appears at odds with the overlapping ranges and means (13.2 vs 11.25) and the small numbers. Percent figures for histotypes use 17 specimens.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
