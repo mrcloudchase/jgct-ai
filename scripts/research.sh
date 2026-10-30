@@ -54,7 +54,9 @@ PY
 
 mapfile -t ALLOWED < <(python3 -c 'import json; [print(r) for r in json.load(open(".claude/settings.json"))["permissions"]["allow"]]')
 mapfile -t DENIED  < <(python3 -c 'import json; [print(r) for r in json.load(open(".claude/settings.json"))["permissions"]["deny"]]')
-OUT="$(mktemp -t research-XXXXXX.jsonl)"
+TRANSCRIPT_DIR="${RUNNER_TEMP:-/tmp}/transcript"
+mkdir -p "${TRANSCRIPT_DIR}"
+OUT="${TRANSCRIPT_DIR}/run.jsonl"
 
 # The stream has no user turn: a headless run's only user input is the prompt. Print it so the log is complete.
 sed 's/^/< /' prompts/research.md
@@ -77,5 +79,7 @@ claude -p "$(cat prompts/research.md)" \
 code=$?
 set -e
 
-echo "== claude exited ${code}"
+# Render the same transcript as Markdown for the workflow artifact.
+{ sed 's/^/< /' prompts/research.md; echo; python3 scripts/stream_filter.py --markdown < "${OUT}"; } > "${TRANSCRIPT_DIR}/transcript.md" || true
+echo "== claude exited ${code}; transcript in ${TRANSCRIPT_DIR}"
 exit "${code}"
