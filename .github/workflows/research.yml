@@ -11,6 +11,9 @@ on:
       model:
         description: Claude model
         default: claude-opus-5-5
+      retry_budget_usd:
+        description: If the cap is hit, resume once with this cap (0 disables)
+        default: "0"
 
 permissions:
   contents: write
@@ -43,4 +46,12 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           MAX_BUDGET_USD: ${{ inputs.max_budget_usd || '40' }}
           CLAUDE_MODEL: ${{ inputs.model || 'claude-opus-5-5' }}
+          RETRY_BUDGET_USD: ${{ inputs.retry_budget_usd || '0' }}
         run: scripts/research.sh
+      - name: Upload transcript
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: transcript-${{ github.run_id }}
+          path: ${{ runner.temp }}/transcript
+          if-no-files-found: ignore
