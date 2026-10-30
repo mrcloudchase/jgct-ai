@@ -1,0 +1,41 @@
+source_id: '16985566'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/16985566/
+retrieved_on: '2026-10-30'
+full_text_source: PMC1472674
+language: en
+pmid: '16985566'
+doi: null
+pmcid: PMC1472674
+title: Prepubertal testis tumors.
+journal: Reviews in urology
+year: 2004
+first_author: Ross JH
+study_type: review
+tumor_site: testis
+n_jgct_patients: 11
+age_range: mostly first year of life, most often first 6 months
+alterations: []
+treatments: []
+presentation:
+- testicular mass
+- hormonally inactive
+- association with ambiguous genitalia and Y chromosome abnormalities
+key_findings:
+- Review of prepubertal testis tumor management based on the Prepubertal Testis Tumor Registry of the Urologic Section of the American Academy of Pediatrics (children under 12 years).
+- 'Registry distribution (Table 1, data from Ross et al. 2002): yolk sac 244 (62%), teratoma/epidermoid cyst 105 (26%), Leydig 5 (1%), Sertoli 10 (3%), juvenile granulosa cell tumor 11 (3%), unspecified stromal 16 (4%), gonadoblastoma 4 (1%).'
+- Testicular JGCT is described as a stromal tumor resembling ovarian JGCT under the light microscope, but its histologic origin in the testis is unclear. It occurs almost exclusively in the first year of life, most often in the first 6 months.
+- Of 22 newborn tumors in the registry, 6 were JGCT, 6 yolk sac tumors and 6 unspecified stromal tumors.
+- Structural Y chromosome abnormalities and mosaicism are common in boys with JGCT, and several cases are associated with ambiguous genitalia. Authors state these tumors are hormonally inactive and benign; chromosomal analysis is advised, and no treatment or metastatic evaluation is required beyond excision.
+- Authors note that stromal testis tumors are rare in children with no large series to guide management; mixed or undifferentiated stromal tumors have an epidemiology similar to granulosa cell tumors, are mostly benign, and warrant follow-up for metastatic disease.
+- 'Review text on AFP: AFP is physiologically very high in infants (about 50,000 ng/mL at birth, 12 ng/mL by 6 months), limiting its use in distinguishing tumor types in young infants.'
+relevance_to_jgct: Short, registry-based statement on testicular JGCT in infants (11 registry cases, 6 of 22 neonatal tumors, Y chromosome anomalies, benign behavior with excision alone) within a general prepubertal testis tumor review.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Secondary review; JGCT data are from the registry as quoted (Ross 2002; Levy 1994; Thomas 2001; Young 1985) and the benign-behavior statement is the authors' summary of that older literature. No DOI printed in the retrieved text. Later literature may show rare malignant behavior; not assessed here.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,45 @@
+source_id: '23565375'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23565375/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3603023
+language: en
+pmid: '23565375'
+doi: 10.4103/2230-8210.104036
+pmcid: PMC3603023
+title: Precocious puberty in girls.
+journal: Indian journal of endocrinology and metabolism
+year: 2012
+first_author: null
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 3 years
+alterations: []
+treatments:
+- regimen: Resection of right tubo-ovarian mass
+  setting: JGCT with peripheral precocious puberty
+  n: 1
+  outcome: estradiol fell from >1000 to 17 pg/mL by postoperative day 6; withdrawal bleeding for 48 h; no vaginal bleeding and no recurrence at 6 months (comments state 12 months)
+presentation:
+- progressive bilateral breast enlargement for 1 year
+- irregular vaginal bleeding for 10 months
+- pubic hair for 2 months
+- Tanner B3P3
+- firm mobile right lower abdominal mass
+key_findings:
+- Short review of precocious puberty in girls with three illustrative cases from India; case 1 was premature thelarche, case 3 a mixed germ cell sex cord-stromal tumor, and case 2 a JGCT.
+- 'JGCT case (case 2): a 3-year-old girl with progressive bilateral breast enlargement over 1 year, irregular vaginal bleeding for 10 months and pubic hair development for 2 months (Tanner B3P3); a solitary firm, mobile pelvic mass was palpable in the right lower abdomen. Bone age, height age and chronological age are printed as ''respectively 8 year, 10 months, 4 year (100 cm) and 3 year'' (read as bone age 8 years 10 months, height age 4 years, chronological age 3 years).'
+- 'Hormones: LH <0.1 and FSH <0.1 mIU/mL, estradiol >1000 pg/mL, testosterone 0.334 ng/mL, DHEAS 17.97 ug/dL. CT showed a heterogeneously enhancing abdomino-pelvic mass. Resected right tubo-ovarian mass was ''suggestive of juvenile granulosa cell tumor''.'
+- After resection estradiol fell to 17 pg/mL, LH and FSH remained suppressed, testosterone 0.025 ng/mL and DHEAS 0.947 ug/dL on day 6; withdrawal bleeding occurred on postoperative day 2 for 48 h; no further bleeding at 6 months.
+- 'Authors comment that cases 2 and 3 illustrate heterogeneity of presentation, biochemistry and histology of ovarian tumors causing sexual precocity: the large JGCT had irregular bleeding with estradiol >1000 pg/mL, the mixed tumor regular cyclical bleeding with estradiol about 163 pg/mL; both without recurrence (follow-up 12 and 6 months).'
+relevance_to_jgct: One young child with JGCT presenting as peripheral precocious puberty, with hormone values before and after resection; minimal pathology and no staging detail.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'The JGCT diagnosis rests on the phrase ''suggestive of juvenile granulosa cell tumor''; no histology or immunohistochemistry reported, and no tumor size or stage. Internal inconsistencies in the source: the case 2 bone age, height age and chronological age line is run together, and the discussion gives 12 months follow-up for the JGCT patient versus 6 months in the case description. Case 3 is not a JGCT (CT left ovary, resection described as right).'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

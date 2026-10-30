@@ -1,0 +1,39 @@
+source_id: '26356327'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26356327/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4832362
+language: en
+pmid: '26356327'
+doi: 10.1002/path.4633
+pmcid: PMC4832362
+title: Dual loss of the SWI/SNF complex ATPases SMARCA4/BRG1 and SMARCA2/BRM is highly sensitive and specific for small cell carcinoma of the ovary, hypercalcaemic type.
+journal: The Journal of pathology
+year: 2016
+first_author: Karnezis AN
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 29
+age_range: null
+alterations:
+- gene: SMARCA4 (BRG1)
+  alteration: protein expression by immunohistochemistry (tissue microarray); loss = inactivating mutation surrogate
+  frequency: 0 of 29 JGCT negative (0%); 0 of 113 adult GCT
+  notes: expression retained in all JGCT
+treatments: []
+presentation: []
+key_findings:
+- Study of SMARCA4 immunohistochemistry in 3048 gynecologic and non-gynecologic tumors to test the specificity of SMARCA4 loss for small cell carcinoma of the ovary, hypercalcaemic type (SCCOHT). SMARCA4 was lost in 46 of 50 SCCOHT-derived samples (42/46 primary tumors, 2/2 xenografts, 2/2 cell lines) and in 15 of 2324 other ovarian tumors, all clear cell carcinomas.
+- 'Juvenile granulosa cell tumor: 29 cases, 0 SMARCA4-negative (0%). Adult granulosa cell tumor 113 cases, 0 negative; whole ovarian sex cord-stromal group 221 cases, 0 negative. The authors list JGCT among tumors in the SCCOHT differential diagnosis that retained SMARCA4.'
+- SMARCA2 loss by immunohistochemistry was seen in all 45 SCCOHT examined; SMARCA2 testing was done in clear cell carcinomas, not reported for JGCT. Authors conclude SMARCA4 (with SMARCA2) loss is sensitive and specific for SCCOHT.
+- 'Cell-line work: the adult granulosa cell tumor line KGN and the immortalized granulosa line SVOG3e were used as comparison lines with higher SMARCA2 mRNA than the SCCOHT lines BIN67 and SCCOHT1. No JGCT cell lines were examined.'
+relevance_to_jgct: 'Provides negative-control data for the JGCT-versus-SCCOHT differential diagnosis: all 29 JGCT retained SMARCA4 on IHC, so SMARCA4 loss argues against JGCT.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Only the JGCT count in Table 1 is JGCT-specific; patient ages, clinical data and sources of the 29 JGCT are not given. Supplementary figure not read. Diagnostic implication is the authors' (SCCOHT sensitivity 91%).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

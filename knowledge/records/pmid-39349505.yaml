@@ -1,0 +1,36 @@
+source_id: '39349505'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39349505/
+retrieved_on: '2026-10-30'
+full_text_source: PMC11442459
+language: en
+pmid: '39349505'
+doi: 10.1038/s41598-024-67446-3
+pmcid: PMC11442459
+title: 'Effects of different surgical extents on prognosis of patients with malignant ovarian sex cord-stromal tumors: a retrospective cohort study.'
+journal: Scientific reports
+year: 2024
+first_author: null
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 14
+age_range: whole cohort 8-78 years (mean 42)
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Single-center retrospective cohort (Obstetrics and Gynecology Hospital of Fudan University, 2000-2019) of 278 patients with malignant ovarian sex cord-stromal tumors, age 8-78 (average 42), median follow-up 73 months (1-235); 32 recurrences (13%) and 8 deaths.
+- 'Table 1 pathological subtypes: JGCT in 14 patients (13 of 110 fertility-sparing surgery patients, 11.8%, versus 1 of 168 non-fertility-sparing, 0.6%; 8 non-staging versus 6 staging surgery). Also adult GCT 143, undifferentiated GCT 38, Sertoli-Leydig 36.'
+- 'Main findings in all patients: fertility-sparing versus non-fertility-sparing surgery and staging versus non-staging surgery made no significant difference in DFS or OS (5-year DFS 91.9% vs 94.1%; 10-year 86.5% vs 91.7%). Independent risk factors for recurrence: age under 40 (P=0.024), stage II-III (P=0.038), high CA125 (P=0.035) and WT-1 positivity (P=0.016).'
+- Pathological subtype was not associated with DFS and no association of subtype with prognosis was found; no JGCT-specific recurrence or survival numbers are reported.
+- Eight women of childbearing age conceived after treatment (three with successful pregnancies). Authors conclude surgical extent does not significantly affect recurrence or survival and that fertility-sparing surgery such as cystectomy or unilateral salpingo-oophorectomy can be considered.
+relevance_to_jgct: Large mixed SCST cohort that identifies 14 JGCT and shows most (13) were treated with fertility-sparing surgery, but gives no JGCT-specific outcomes; limited use beyond counts.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Table 1 is titled 'stage I AGCT by type of surgery' in the text but appears to describe all 278 patients with the full subtype breakdown. Subtype counts for the 14 JGCT come only from Table 1; JGCT ages not given. Supplementary tables not read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

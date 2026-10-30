@@ -1,0 +1,46 @@
+source_id: '24426698'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24426698/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3578540
+language: en
+pmid: '24426698'
+doi: 10.1007/s13193-012-0201-z
+pmcid: PMC3578540
+title: 'Recent advances in granulosa cell tumor ovary: a review.'
+journal: Indian journal of surgical oncology
+year: 2013
+first_author: Kottarathil VD
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: c.402C>G (p.C134W) somatic missense
+  frequency: 1 of 10 JGCT (10%), versus 86 of 89 (97%) adult GCT and 3 of 14 thecomas
+  notes: Reported from Shah et al.; authors infer JGCT may be an entirely different tumor from adult GCT
+treatments: []
+presentation:
+- abdominal mass (45.5% of JGCT in Lee et al.)
+- abdominal pain (28.3%)
+- precocious puberty with breast development, pubic hair, vaginal bleeding (27.3%)
+key_findings:
+- Narrative review of ovarian granulosa cell tumors (GCT), mostly adult-type; GCT are under 5% of ovarian tumors and over 70% of sex cord-stromal tumors. JGCT is described as rare, about 5% of all GCT, occurring in premenarchal girls and young women.
+- 'Citing Lee et al. (multicenter Korean series): 9.7% of GCT were JGCT, mean age 20 years (range 8-45), more than 50% diagnosed before age 20 and 45.5% premenarchal. JGCT averaged 12.4 cm (range 5-26 cm).'
+- 'JGCT presentation per Lee et al.: abdominal pain 28.3%, abdominal mass 45.5%, vaginal bleeding/precocious puberty features 27.3%. Of 11 JGCT, 27.3% had ascites (none with malignant cells) and 27.3% had preoperative tumor rupture; none were bilateral.'
+- 'Surgery in Lee''s 11 JGCT: unilateral salpingo-oophorectomy in 81.8%, one cystectomy, one hysterectomy with bilateral salpingo-oophorectomy. Optimal cytoreduction to no residual disease was reported in 98% of adult GCT and in the JGCT group; chemotherapy with BEP was given to 30.4% of adult GCT and 32.3% of JGCT.'
+- FOXL2 c.402C>G (Shah et al.) was found in 97% of adult GCT but in 1 of 10 JGCT (10%) and 3 of 14 thecomas; authors state the absence in JGCT suggests JGCT may be an entirely different tumor.
+- 'Cytogenetics: trisomy 12 and a 6q deletion have been identified in juvenile GCT. Ollier disease and Maffucci syndrome are listed as associated with juvenile GCT; Peutz-Jeghers syndrome and Potter syndrome with GCT in general.'
+- 'Histology: juvenile GCT nuclei are rounded, hyperchromatic and ungrooved with moderate to abundant eosinophilic or vacuolated cytoplasm, and the theca cell component is luteinized (cited from Schumer and Cannistra).'
+- Rest of the review (prognosis by stage, surgery, BEP/paclitaxel, radiotherapy, hormonal and targeted therapy, inhibin/AMH markers) is drawn mainly from adult-type GCT series; the authors do not separate JGCT outcomes there.
+relevance_to_jgct: General GCT review with a few JGCT-specific data points (Lee et al. JGCT subgroup of 11, FOXL2 mutation absent in 9 of 10 JGCT, cytogenetics, histologic criteria); most treatment and prognosis content is adult-type.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Secondary source: JGCT numbers are quoted from Lee et al. 2011 and Shah et al. 2009, not primary data. The 99.9% optimal-cytoreduction figure for JGCT in the text is implausible for 11 patients and is likely a typographical error; the text also gives 98% for adult GCT. Tables on chemotherapy and hormonal therapy are for GCT generally.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
