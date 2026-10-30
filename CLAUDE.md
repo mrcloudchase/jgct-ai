@@ -2,7 +2,9 @@
 
 ## What this project is
 
-This repository is a knowledge base on juvenile granulosa cell tumor (JGCT), a rare ovarian sex cord-stromal tumor of children and young women. It is built and maintained by you, running headless once a month with the same prompt every time. The repository is your memory. Each run reads what earlier runs left, does the next slice of work, and leaves the repository in a state the next run can read. The first run starts from an empty base. Run two hundred maintains a full one. There is no special first-run mode; an empty ledger simply means discovery starts at zero.
+This repository is a knowledge base on juvenile granulosa cell tumor (JGCT), a rare ovarian sex cord-stromal tumor of children and young women. It is built and maintained by you, running headless once a month with the same prompt every time. The repository is your memory. Each run reads the whole repository, then looks for everything else that exists about JGCT, reads all of it in full, and updates the repository. The first run starts from an empty base. Run two hundred maintains a full one. There is no special first-run mode; an empty repository simply means discovery starts at zero.
+
+You manage the schema, the knowledge base, and the indexes yourself. The only fixed things are the prompt, this file, the launcher, the workflow, and the permissions.
 
 Everything you produce goes to a pull request that a human reviews and merges. You never merge. Main is protected and requires an approving review from the maintainer, mrcloudchase.
 
@@ -18,7 +20,7 @@ You own everything below except the files marked fixed. Create what does not exi
 |---|---|
 | `prompts/research.md` | The prompt you receive. Fixed. |
 | `CLAUDE.md` | This file. Fixed. |
-| `knowledge/schema/record.schema.json` | The record schema. Fixed. Every record validates against it. |
+| `knowledge/schema/record.schema.json` | The record schema. Yours to evolve; see "Schema" below. Every record validates against the current schema. |
 | `knowledge/records/<source_type>-<source_id>.yaml` | One record per source. |
 | `knowledge/INDEX.md` | Index of the knowledge base: one line per record. When it passes about 300 lines, split it into topic indexes under `knowledge/index/` and make `INDEX.md` an index of those. |
 | `knowledge/README.md` | Narrative synthesis of what the base says about JGCT, in two parts. Rewritten whenever records change. See "The knowledge README" below. |
@@ -30,12 +32,18 @@ You own everything below except the files marked fixed. Create what does not exi
 
 ## How to orient at the start of a run
 
-1. Read the two most recent files in `state/runs/`. They say what the last run did, what it left unfinished, and what it suggested.
-2. Read `knowledge/INDEX.md` and `sources/INDEX.md`. Never read every record. Open a record only when you need to update or cross-reference it.
-3. Query your ledger with the tool you wrote for it. Never open the raw ledger file; it will not fit in context once the base is large.
-4. Read `tools/README.md` and reuse the tools.
-5. Write the plan for this run as the first section of `state/runs/<today>.md` before doing anything else. If the run dies, the report still says what was intended.
-6. Open the branch and the pull request before any research. See the next section.
+Read the repository in full before anything else. Every run, every file: the run reports, the schema, every record, every index, the knowledge README, the source index, the pending list, the tools and their README. Query the ledger through your tool rather than opening a binary file, but read everything it tells you. You are allowed to skim nothing. If the repository has grown past what fits in your context, read it in parts, with sub-agents if needed, but every file is read every run. Only when you know everything the repository already holds do you go looking for what it does not.
+
+Then:
+
+1. Write the plan for this run as the first section of `state/runs/<today>.md`. If the run dies, the report still says what was intended.
+2. Open the branch and the pull request before any research. See the next section.
+
+## Schema
+
+The schema is yours. Change it when the knowledge demands it: a field that keeps ending up in `notes`, a study type that does not fit, a structure a new kind of source needs. Every change follows the same procedure in the same run: update the schema, update the validator, migrate every existing record so the whole base validates, rebuild the indexes, and explain the change and the reason in the run report. A run never leaves records on two versions of the schema.
+
+Whatever shape the schema takes, every record must always carry: what the source is and where it lives, where its full text was read from, what it says, how it relates to JGCT, which records it conflicts with, and a `review_status` that you only ever set to `draft`. There is no field for your confidence and there never will be. The human reviewer judges.
 
 ## Branch, commits, and pull request
 
@@ -110,7 +118,7 @@ Build tools when a task will recur. A fetcher, a ledger query, a validator, an i
 
 Keep the ledger and indexes current as you go, not at the end, and commit as you go. A run that stops early must leave a consistent, pushed state.
 
-**Migration.** If records exist that were written from abstracts, or that carry fields the schema no longer has, such as `confidence` or `extraction_method`, bring the base into line before adding new records: re-read each such source in full and rewrite its record with `full_text_source`, or, when the full text cannot be obtained, remove the record, keep its abstract in the ledger, and list it in `sources/PENDING_FULL_TEXT.md`. Update your validator and index builder to the current schema first. Say in the run report what was promoted and what was moved to pending.
+**Migration.** If records exist that were written from abstracts, or that carry fields the schema no longer has, bring the base into line before adding new records: re-read each such source in full and rewrite its record with `full_text_source`, or, when the full text cannot be obtained, remove the record, keep its abstract in the ledger, and list it in `sources/PENDING_FULL_TEXT.md`. Update your validator and index builder to the current schema first. Say in the run report what was promoted and what was moved to pending.
 
 ## How to finish
 
@@ -119,7 +127,7 @@ Start finishing with at least fifteen percent of the budget left. In this order:
 1. Validate every record against the schema with your validator. Fix every error.
 2. Rebuild `knowledge/INDEX.md`, `sources/INDEX.md`, and `sources/PENDING_FULL_TEXT.md`.
 3. Rewrite `knowledge/README.md` if any record changed.
-4. Complete `state/runs/<today>.md`: plan, what was added and updated with tier and full-text source, what could not be read in full and why, conflicts noted, what remains in the backlog, approximate spend, and suggested changes to this file or the schema that you may not make yourself.
+4. Complete `state/runs/<today>.md`: plan, what was added and updated with tier and full-text source, what could not be read in full and why, conflicts noted, any schema change and why, what remains in the backlog, approximate spend, and suggested changes to this file that you may not make yourself.
 5. Commit and push, update the pull request body with the run report, mark it ready for review, and request `mrcloudchase` as reviewer, as described under "Branch, commits, and pull request".
 
 If a pull request from an earlier day's `research/*` branch is still open when you start, do not open another. Comment on it that this run was skipped and stop.

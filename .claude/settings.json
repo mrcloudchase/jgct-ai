@@ -24,8 +24,6 @@
       "Edit(CLAUDE.md)",
       "Write(prompts/**)",
       "Edit(prompts/**)",
-      "Write(knowledge/schema/**)",
-      "Edit(knowledge/schema/**)",
       "Write(scripts/**)",
       "Edit(scripts/**)",
       "Write(.github/**)",

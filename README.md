@@ -14,10 +14,10 @@ The repository starts with four things and nothing else:
 |---|---|
 | `prompts/research.md` | The task. Never changes. |
 | `CLAUDE.md` | What the project is and how to work. Never changes between runs. |
-| `knowledge/schema/record.schema.json` | The shape of a record. |
+| `knowledge/schema/record.schema.json` | The starting shape of a record. The agent evolves it, migrating every record when it does. |
 | `scripts/research.sh` and `.github/workflows/research.yml` | The monthly launcher. |
 
-On the first of each month the workflow runs the launcher. The launcher starts Claude Code with the prompt and a dollar cap. Claude Code reads what is already here, finds and reads sources, writes records, builds the indexes it needs to orient next time, writes whatever tools it needs and keeps them in `tools/`, and then creates a branch, commits, pushes, and opens a pull request requesting review from the maintainer. Main is protected. Merging is the review.
+On the first of each month the workflow runs the launcher. The launcher starts Claude Code with the prompt and a dollar cap. Claude Code reads the whole repository, then looks for everything else that exists about JGCT, reads every source in full, writes records, maintains the schema and the indexes, writes whatever tools it needs and keeps them in `tools/`, and commits and pushes as it goes on a branch with a pull request requesting review from the maintainer. Main is protected. Merging is the review. The agent never rates its own work; the reviewer judges.
 
 The first run starts from an empty base and builds. Every later run extends. The repository grows like memory.
 
