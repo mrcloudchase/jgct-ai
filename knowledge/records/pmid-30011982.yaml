@@ -1,0 +1,41 @@
+source_id: '30011982'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30011982/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '30011982'
+doi: 10.4132/jptm.2018.06.28
+title: 'Ovarian Gynandroblastoma with a Juvenile Granulosa Cell Tumor Component in a Postmenopausal Woman: A Case Report and Literature Review.'
+journal: Journal of pathology and translational medicine
+year: 2018
+first_author: Jang NR
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 71 years
+alterations: []
+treatments:
+- regimen: total abdominal hysterectomy with bilateral salpingo-oophorectomy
+  setting: primary
+  n: 1
+  outcome: outcome not reported in abstract
+presentation:
+- abdominal pain
+- multilocular cystic ovarian mass
+key_findings:
+- 71-year-old woman with right upper quadrant abdominal pain; 13-cm multilocular cystic mass in the right ovary.
+- Total abdominal hysterectomy with bilateral salpingo-oophorectomy.
+- Solid component showed both Sertoli-Leydig cell and juvenile granulosa cell differentiation, diagnosed as gynandroblastoma.
+- Authors state only six cases of gynandroblastoma with a JGCT component had been reported in the English literature; this is the first in an elderly patient.
+relevance_to_jgct: Rare mixed sex cord-stromal tumor containing a JGCT component, here in a postmenopausal woman; relevant to the morphologic spectrum of JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. Gynandroblastoma, not pure JGCT; included because of the JGCT component.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

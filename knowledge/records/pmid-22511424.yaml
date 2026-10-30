@@ -1,0 +1,35 @@
+source_id: '22511424'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/22511424/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '22511424'
+doi: 10.5489/cuaj.10176
+title: 'A rare testicular solid mass in children: Juvenile granulosa cell tumour of testis.'
+journal: Canadian Urological Association journal = Journal de l'Association des urologues du Canada
+year: 2012
+first_author: Couture J
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: infant
+alterations: []
+treatments: []
+presentation:
+- scrotal mass
+key_findings:
+- Infant with testicular JGCT.
+- Authors state testicular JGCT is benign, usually presents as a unilateral scrotal mass, and can be associated with genital ambiguity and chromosomal anomalies.
+- Authors state radical orchiectomy is the treatment of choice.
+relevance_to_jgct: Brief testicular JGCT case report with review of typical findings.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Thin abstract only; PMC3328563 fetch failed. Case specifics not in abstract.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

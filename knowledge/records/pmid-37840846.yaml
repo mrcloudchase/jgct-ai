@@ -1,0 +1,45 @@
+source_id: '37840846'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37840846/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '37840846'
+doi: 10.1016/j.gore.2023.101287
+title: 'Juvenile granulosa cell tumor in a transgender male with Ollier disease: A case report.'
+journal: Gynecologic oncology reports
+year: 2023
+first_author: Ing BI
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 34 years
+alterations: []
+treatments:
+- regimen: TAH-BSO, omentectomy, tumor reductive surgery to no gross residual
+  setting: primary, stage IA
+  n: 1
+  outcome: no evidence of disease at four months post-surgery
+presentation:
+- abdominal pain
+- pelvic mass
+- Ollier disease
+- exogenous testosterone
+key_findings:
+- 34 year-old transgender male with Ollier disease (diagnosed at 1 year; prior low-grade chondrosarcoma) on long-term testosterone therapy since 2016, presenting with one month of left lower quadrant pain.
+- CA-125 198 U/mL, LDH 426 U/L, inhibin A 473 pg/mL, inhibin B 23,419 pg/mL; 15 cm cystic and solid right ovarian mass on CT.
+- Exploratory laparotomy, total abdominal hysterectomy, bilateral salpingo-oophorectomy, omentectomy to no gross residual; mass 3340 g; final pathology Stage IA JGCT.
+- 'Tumor IHC: estrogen receptor weakly to moderately positive (40 %), progesterone receptor (90 %), androgen receptor strongly positive (>90 %).'
+- A pleural nodule regressed spontaneously; no evidence of metastatic disease four months post-surgery; testosterone therapy discontinued on the authors' recommendation pending evidence.
+- Authors raise the question whether exogenous testosterone contributed to JGCT growth and suggest prescreening for hormonally responsive conditions.
+relevance_to_jgct: Adult JGCT in Ollier disease; raises the unanswered question of exogenous androgen exposure and hormone-receptor-positive JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text read via PMC10569971. The text gives presentation as April 2024 in one place and April 2023 in another (surgery May 2023). No molecular testing of the tumor reported. Follow-up short (4 months).
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

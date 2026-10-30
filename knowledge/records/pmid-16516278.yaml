@@ -1,0 +1,45 @@
+source_id: '16516278'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/16516278/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '16516278'
+doi: 10.1016/j.ygyno.2006.01.023
+title: Juvenile granulosa cell tumor of the ovary associated with tuberous sclerosis.
+journal: Gynecologic oncology
+year: 2006
+first_author: Guo H
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 8 years
+alterations: []
+treatments:
+- regimen: right salpingo-oophorectomy
+  setting: primary
+  n: 1
+  outcome: recurrence at 3 months
+- regimen: left salpingo-oophorectomy, lymphadenectomy, omentectomy + BEP x4
+  setting: recurrence
+  n: 1
+  outcome: disease-free 8 years after recurrence
+presentation:
+- tuberous sclerosis
+- pelvic mass 20 x 22 cm
+key_findings:
+- First reported case of an 8-year-old girl with tuberous sclerosis and ovarian JGCT.
+- Presented with a 20 x 22 cm pelvic mass; right salpingo-oophorectomy.
+- Recurred three months later; underwent left salpingo-oophorectomy, lymphadenectomy and omentectomy followed by four cycles of BEP.
+- Free of disease 8 years after recurrence.
+relevance_to_jgct: JGCT with tuberous sclerosis; early recurrence salvaged with surgery plus BEP.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Stage at diagnosis not given in abstract. Recurrence site involved contralateral adnexa (bilateral oophorectomy resulted).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

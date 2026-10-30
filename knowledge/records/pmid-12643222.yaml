@@ -1,0 +1,44 @@
+source_id: '12643222'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/12643222/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: es
+pmid: '12643222'
+doi: null
+title: '[Peripheral precocious puberty caused by a juvenile granulosa cell ovarian tumor, with iso and heterosexual manifestations in a six years old girl].'
+journal: Revista medica de Chile
+year: 2003
+first_author: Schulin-Zeuthen C
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 6 years
+alterations: []
+treatments:
+- regimen: right salpingo-oophorectomy with surgical staging, no adjuvant
+  setting: primary, confined to ovary
+  n: 1
+  outcome: no recurrence at 3 years
+presentation:
+- thelarche
+- clitoromegaly
+- abdominopelvic mass
+- elevated testosterone
+- elevated estradiol
+key_findings:
+- 6-year-old girl with breast development, clitoral enlargement and an abdominopelvic tumor; elevated testosterone and estradiol.
+- Right salpingo-oophorectomy; frozen section suggested dysgerminoma, prompting surgical staging; final diagnosis JGCT limited to the ovary.
+- Estradiol and testosterone normalized and pseudopuberty reverted postoperatively.
+- No adjuvant treatment; no recurrence after three years of follow-up.
+relevance_to_jgct: Mixed iso/heterosexual precocity; frozen-section misdiagnosis as dysgerminoma.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

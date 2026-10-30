@@ -12,6 +12,7 @@ journal: The New England journal of medicine
 year: 2012
 first_author: Heravi-Moussavi A
 study_type: genomic
+tumor_site: ovary
 n_jgct_patients: null
 age_range: null
 alterations: []

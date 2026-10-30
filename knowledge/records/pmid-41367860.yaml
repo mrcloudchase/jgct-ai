@@ -2,8 +2,8 @@ source_id: '41367860'
 source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/41367860/
-retrieved_on: '2026-10-29'
-full_text_read: false
+retrieved_on: '2026-10-30'
+full_text_read: true
 language: en
 pmid: '41367860'
 doi: 10.3389/fonc.2025.1634166
@@ -12,22 +12,46 @@ journal: Frontiers in oncology
 year: 2025
 first_author: Arnaboldi SMC
 study_type: review
-n_jgct_patients: 1
-age_range: null
+tumor_site: ovary
+n_jgct_patients: 94
+age_range: index case 10 months; reviewed cases 0-17 years (mean 7.2)
 alterations: []
-treatments: []
-presentation: []
+treatments:
+- regimen: left salpingo-oophorectomy with omental and peritoneal biopsies and peritoneal washing; no adjuvant chemotherapy
+  setting: index case, FIGO/WHO IA
+  n: 1
+  outcome: no evidence of recurrence 15 months after diagnosis
+- regimen: adjuvant chemotherapy
+  setting: reviewed FIGO/WHO II-IV cases
+  n: null
+  outcome: 78.9% of 19 patients with stage II-IV received adjuvant chemotherapy
+- regimen: no adjuvant chemotherapy
+  setting: reviewed FIGO/WHO IC2 cases
+  n: null
+  outcome: three out of five IC2 patients did not receive adjuvant chemotherapy and were alive at follow-up (3-8 years)
+presentation:
+- 'index case: bilateral breast enlargement (Tanner B3PH1A1), estrogenized genitalia and clitoromegaly; estradiol 195 pg/mL, testosterone 1.64 ng/mL, suppressed gonadotropins; elevated inhibin B'
+- isosexual precocious puberty in 43/57 (75.4%) reviewed girls aged <=8 years
+- heterosexual precocious puberty in 20/57 (35.1%) girls aged <=8 years
+- menstrual irregularities in 11/27 (40.7%) post-pubertal patients
+- any abdominal symptoms 53/94 (56.4%); acute abdomen due to tumor rupture 5/94 (5.3%)
 key_findings:
-- Case of jGCT in an infant girl with a multidisciplinary care plan.
-- States survival exceeds 90% after surgery alone for ovarian-confined disease, while advanced and relapsed disease remains a concern.
-- Proposes a flowchart for multidisciplinary management at diagnosis and follow-up integrating oncologists, endocrinologists, surgeons, gynecologists and geneticists.
-relevance_to_jgct: Survivorship-oriented review proposing a multidisciplinary follow-up flowchart for pediatric JGCT.
-conflicts_with: []
+- Case report of a 10-month-old girl with an estrogen- and androgen-secreting left ovarian jGCT, FIGO/WHO IA, treated with salpingo-oophorectomy without chemotherapy; inhibin B normalized after surgery; no recurrence at 15 months; overgrowth NGS panel and PTEN MLPA negative.
+- 'Systematic review of 94 pediatric jGCT cases (<18 years) from 65 articles: mean age 7.2 years (range 0-17); 15 (15.9%) infants, 42 (44.7%) aged 1-8 years.'
+- 71.2% of 66 patients with known stage had FIGO/WHO I disease; 95.7% of 47 stage I patients were alive at last follow-up; overall 92.7% of 69 patients alive (mean follow-up 4.8 years); 81.2% of 16 advanced-stage patients alive (mean follow-up 4.4 years).
+- 17.0% of the 94 patients relapsed and 43.7% of these died of disease; mean time to recurrence 1.4 years (range 0.12-8 years); contralateral ovarian tumor in 4.3% at median 2.3 years.
+- 21/94 (22.3%) had a genetic or systemic condition, including Ollier disease 14 and Maffucci syndrome 1; also single cases of DICER1 syndrome, Li-Fraumeni plus PTEN hamartoma tumor syndrome, Beckwith-Wiedemann, NF1, tuberous sclerosis, ovotesticular DSD.
+- Inhibin A/B and AMH were constantly elevated preoperatively in published cases where measured; authors recommend follow-up every 3 months during the first 3 years with markers if elevated preoperatively (AMH, inhibin A/B, estradiol, testosterone) and pelvic/abdominal ultrasound.
+- Authors question adjuvant chemotherapy for FIGO IC2 (recommended by EXPeRT/PARTNER) because three of five IC2 patients in the review did not receive it and were alive at 3-8 years; cisplatin-based PEB or PEI, four cycles (six if metastatic), is cited for advanced disease.
+- Central precocious puberty secondary to sex-steroid exposure developed in 2 reviewed girls; authors advise avoiding hormone replacement therapy immediately after surgery because sex steroids serve as tumor markers.
+relevance_to_jgct: Case report plus systematic review of 94 pediatric jGCTs with presentation, stage, relapse, survival and genetic-syndrome frequencies, and a multidisciplinary (oncology, endocrinology, gynecology/surgery, genetics) management flowchart.
+conflicts_with:
+- pmid-42504512
 superseded_by: null
 retracted: false
-notes: Open access; full text not read this run.
-confidence: 2
+notes: 'Full text read via Europe PMC (PMC12682638) on 2026-10-30. n_jgct_patients is the 94 literature cases in the systematic review (the index case is described separately); these published cases overlap with case reports elsewhere in the base, so do not sum. Survival percentages are from case reports with publication bias and short follow-up (24.6% of 69 had <1.5 years). Conflict: authors call adjuvant chemotherapy for FIGO IC2 jGCT ''questionable'', whereas the European standard clinical practice recommendations (pmid-42504512) recommend adjuvant cisplatin-based chemotherapy for IC2 jGCT.'
+confidence: 4
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract
+extraction_method: full_text

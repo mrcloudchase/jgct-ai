@@ -1,0 +1,35 @@
+source_id: '41762432'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/41762432/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '41762432'
+doi: 10.1007/s40618-026-02849-9
+title: 'Management of andrological disorders from childhood and adolescence to transition age: guidelines from the Italian Society of Andrology and Sexual Medicine (SIAMS) in collaboration with the Italian Society for Pediatric Endocrinology and Diabetology (SIEDP) - part-2.'
+journal: Journal of endocrinological investigation
+year: 2026
+first_author: Bonomi M
+study_type: guideline
+tumor_site: testis
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Sex cord-stromal tumors, including juvenile granulosa cell, Leydig, and Sertoli cell tumors, are described as rare (10-13%) and usually benign in children, though malignancy is occasionally observed in adolescents and young adults.
+- At least abdomen MRI is recommended in sex cord-stromal tumors as 10% are malignant with poor prognosis.
+- 'R6.4: in pre-pubertal patients alpha-FP is sufficient to discriminate between malignant and benign tumors.'
+- 'R6.9: testis-sparing surgery with intraoperative frozen-section examination recommended in pre-pubertal tumors if serum tumor markers are negative (1, moderate quality).'
+relevance_to_jgct: Italian GRADE guideline on pediatric testicular tumors; general testicular SCST statements applicable to infant testicular JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text read via Europe PMC (PMC13451516). JGCT named only within the SCST group; recommendations are for testicular tumors generally, not JGCT-specific. The '10% malignant' statement concerns SCST overall.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

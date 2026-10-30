@@ -1,0 +1,37 @@
+source_id: '2239315'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/2239315/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '2239315'
+doi: 10.1111/j.1440-1827.1990.tb01608.x
+title: Juvenile granulosa cell tumor in a three-year-old infant. An immunohistochemical and ultrastructural study.
+journal: Acta pathologica japonica
+year: 1990
+first_author: Hisaoka M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 3 years
+alterations: []
+treatments: []
+presentation:
+- precocious pseudopuberty
+- elevated estrogen
+key_findings:
+- Three-year-old girl with ovarian JGCT, precocious pseudopuberty and elevated serum and urinary estrogen.
+- Estradiol, estriol, progesterone and testosterone localized mainly in stromal cells and some follicular cells.
+- Electron microscopy showed polygonal, spindle and transitional cells; steroid-synthesis features mainly in transitional cells, which corresponded to steroid-positive cells.
+- Some spindle cells had myofibroblast features; authors suggest a common ovarian mesenchymal progenitor.
+relevance_to_jgct: Steroidogenic cell populations in JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

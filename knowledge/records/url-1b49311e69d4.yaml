@@ -1,0 +1,48 @@
+source_id: 1b49311e69d4
+source_type: url
+source_tier: database
+source_url: https://www.ncbi.nlm.nih.gov/books/NBK196157/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '24761742'
+doi: null
+title: DICER1-Related Tumor Predisposition (GeneReviews, NBK196157)
+journal: GeneReviews (University of Washington, Seattle)
+year: 2026
+first_author: Schultz KAP
+study_type: database_entry
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: DICER1
+  alteration: germline or somatic (biallelic) pathogenic variants
+  frequency: rare in JGCT (qualitative)
+  notes: Chapter states JGCT, especially anaplastic, may be associated with DICER1
+treatments: []
+presentation:
+- abdominal pain
+- abdominal distention or mass
+- precocious puberty
+- secondary amenorrhea
+- virilization
+key_findings:
+- Clinical features table lists, under female reproductive tract, 'Ovarian sex cord-stromal tumors (e.g., Sertoli-Leydig cell tumor [moderately and poorly differentiated], gynandroblastoma, juvenile granulosa cell tumor [especially if anaplasia and/or high mitotic index])' as features suggestive of DICER1-related tumor predisposition.
+- 'Penetrance table: ovarian sex cord-stromal tumors ~10%; ''Up to 60% of persons w/SLCT or gynandroblastoma have DICER1. Juvenile granulosa cell tumor is rarely assoc w/DICER1.'''
+- '''JuvGCT, especially anaplastic juvGCT, may be associated with DICER1.'' Presentation may include abdominal pain, distention or mass; precocious puberty, secondary amenorrhea, or virilization; markers variable (inhibin A, inhibin B, CA125, testosterone); inhibin B may be elevated at diagnosis and with recurrence.'
+- '''JuvGCT generally have a favorable prognosis if identified at stage 1A or 1C1, though high mitotic index, anaplastic features, or higher-stage tumors are associated with a worse prognosis.'''
+- '''The World Health Organization (WHO) classifies juvGCT as having borderline malignant potential. However, malignant behavior has been described in older children and adolescents and those with higher-stage tumors or tumors with higher mitotic index.'''
+- 'Management section: EXPeRT/PARTNER consensus ''suggest adjuvant chemotherapy for all children and adolescents with higher than stage IC1 disease''; ''High mitotic index (MI >=20 per 10 high power field) is a strong predictor of worse prognosis''; adjuvant chemotherapy for high MI but low-stage disease ''could be considered on an individual basis.'''
+- Sporadic juvenile granulosa cell tumor (and other DICER1-spectrum tumors) occurring alone 'frequently contain biallelic somatic pathogenic variants in DICER1 that may not be present in the germline'; JGCT 'rarely' may secrete AFP, typically <500 ng/mL with sex cord-stromal tumors.
+- 'Surveillance in DICER1 carriers: pelvic ultrasound for gynecologic tumors in females every six months until at least age 40 years; pelvic ultrasound described as more sensitive than biochemical surveillance.'
+relevance_to_jgct: Expert-authored, peer-reviewed NCBI GeneReviews chapter (Schultz KAP et al., International PPB/DICER1 and OTST Registries) placing JGCT within the DICER1 tumor spectrum as a rare association, stronger for anaplastic or high-mitotic-index JGCT, and restating EXPeRT/PARTNER adjuvant-therapy thresholds.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Bookshelf HTML is behind a reCAPTCHA for curl; full chapter text obtained verbatim from the NCBI literature archive (https://ftp.ncbi.nlm.nih.gov/pub/litarch/ca/84/gene_NBK1116.tar.gz, member gene_NBK1116/pp-blastoma.nxml). Chapter initial posting 2014-04-24, last update 2026-03-25 (nxml pub-history); PubMed PMID 24761742 (book record). Summary also cross-checked against the PubMed efetch abstract. Citation markers in the text were stripped, so the cited primary sources are not linked here. The DICER1 association of JGCT stated here is qualitative ('rarely'); see pmid records on DICER1 in JGCT for numbers.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

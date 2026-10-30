@@ -1,0 +1,37 @@
+source_id: '24783102'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24783102/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '24783102'
+doi: 10.7860/JCDR/2014/6825.4131
+title: Sclerosing peritonitis occurring in association with juvenile granulosa cell tumour - a cause of concern.
+journal: 'Journal of clinical and diagnostic research : JCDR'
+year: 2014
+first_author: K A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 18 years
+alterations: []
+treatments: []
+presentation:
+- lower abdominal pain
+- sclerosing peritonitis (abdominal cocoon)
+key_findings:
+- 18-year-old with one month of lower abdominal pain.
+- At surgery an ovarian mass with bowel loops enclosed in a diffusely thickened peritoneal membrane forming a cocoon; adhesions suggestive of metastatic deposits.
+- Ovarian histology JGCT; peritoneal process was sclerosing peritonitis.
+- Authors stress sclerosing peritonitis in JGCT should not lead to over-staging.
+relevance_to_jgct: 'Staging pitfall: sclerosing peritonitis associated with JGCT can mimic peritoneal metastasis.'
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. Treatment and outcome not in abstract.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

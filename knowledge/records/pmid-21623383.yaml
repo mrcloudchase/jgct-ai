@@ -12,6 +12,7 @@ journal: Modern pathology
 year: 2011
 first_author: D'Angelo E
 study_type: genomic
+tumor_site: ovary
 n_jgct_patients: 20
 age_range: null
 alterations:

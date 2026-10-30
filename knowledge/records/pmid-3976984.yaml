@@ -12,6 +12,7 @@ journal: The American journal of surgical pathology
 year: 1985
 first_author: Lawrence WD
 study_type: case_series
+tumor_site: testis
 n_jgct_patients: 14
 age_range: 30 weeks gestation-4.5 months
 alterations: []

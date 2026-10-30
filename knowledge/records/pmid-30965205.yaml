@@ -1,0 +1,41 @@
+source_id: '30965205'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30965205/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '30965205'
+doi: 10.1016/j.clinimag.2019.03.008
+title: 'Juvenile granulosa cell tumor associated with Maffucci syndrome in pregnancy: A case report.'
+journal: Clinical imaging
+year: 2019
+first_author: Xu HS
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 33 years
+alterations: []
+treatments:
+- regimen: unilateral salpingo-oophorectomy
+  setting: during pregnancy after rapid growth on ultrasound
+  n: 1
+  outcome: outcome and follow-up not reported in abstract
+presentation:
+- asymptomatic adnexal mass found on routine pregnancy ultrasound
+- Maffucci syndrome
+key_findings:
+- 33-year-old G1P0 asymptomatic woman with Maffucci syndrome; left adnexal mass found on routine ultrasonography at 13 weeks gestation.
+- Follow-up ultrasound 3 weeks after initial diagnosis demonstrated marked growth in size and vascularity of the tumor, prompting unilateral salpingo-oophorectomy.
+- Histopathology confirmed JGCT; the report documents sonographic and MRI features and the natural progression of the tumor during pregnancy.
+- Authors state JGCT both secretes hormone and has been postulated to grow in response to hormone.
+relevance_to_jgct: Adds to the reported association of JGCT with enchondromatosis (Maffucci syndrome) and documents rapid tumor growth during pregnancy in an adult.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (no PMC). Gestational age at surgery and pregnancy outcome not given in the abstract.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

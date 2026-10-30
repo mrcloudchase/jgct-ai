@@ -1,0 +1,45 @@
+source_id: '27047664'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/27047664/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '27047664'
+doi: 10.1530/EDM-16-0006
+title: Juvenile granulosa cell tumour of the ovary presenting with hyperprolactinaemic amenorrhoea and galactorrhoea.
+journal: Endocrinology, diabetes & metabolism case reports
+year: 2016
+first_author: Iqbal A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 16 years
+alterations: []
+treatments:
+- regimen: right salpingo-oophorectomy
+  setting: primary, FIGO 1A
+  n: 1
+  outcome: hormones normalized; two pregnancies; normal hormones at 2 years
+presentation:
+- secondary amenorrhoea
+- galactorrhoea
+- hyperprolactinaemia
+- elevated oestradiol
+- elevated inhibin B
+key_findings:
+- 16-year-old with 9-month secondary amenorrhoea and 2-month bilateral galactorrhoea.
+- Serum prolactin 7081 mIU/l, LH <0.1 U/l, FSH <0.1 U/l, oestradiol 7442 pmol/l, inhibin B 2735 ng/l; pituitary MRI showed enlarged pituitary without adenoma.
+- 4.8 cm right ovarian mass; right salpingo-oophorectomy; JGCT FIGO 1A; tumor immunohistochemistry negative for prolactin.
+- Oestrogen and prolactin normalized after surgery; she conceived 6 months after surgery and gave birth; at 2 years oestradiol 821 pmol/l and prolactin 327 mIU/l; pregnant with second child at time of writing.
+- Authors postulate hyperprolactinaemia was caused by oestrogenic stimulation of pituitary lactotrophs.
+relevance_to_jgct: First reported JGCT presenting with oestrogen-driven hyperprolactinaemia; shows inhibin B as a marker and preserved fertility after unilateral surgery.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text via PMC4815277. Patient defaulted from endocrine follow-up after surgery.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

@@ -1,0 +1,37 @@
+source_id: 0adccacb4ad2
+source_type: url
+source_tier: preprint
+source_url: https://doi.org/10.22541/au.166071242.25390796/v1
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: null
+doi: null
+title: A rare ovarian tumor presenting as a Pathologist's dilemma and a Surgeon's nightmare
+journal: Authorea Preprints
+year: 2022
+first_author: Kaur S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 14 years
+alterations: []
+treatments: []
+presentation:
+- pelvic mass
+- masculinizing symptoms
+key_findings:
+- 14-year-old with a pelvic mass and masculinizing symptoms; histopathology showed both juvenile granulosa cell and Sertoli-Leydig differentiation, diagnosed as gynandroblastoma.
+- 'Primary surgery: laparotomy with left salpingo-oophorectomy, retroperitoneal lymph node dissection and omentectomy.'
+- Recurrence after a disease-free interval of 23 months; secondary cytoreductive surgery histology was embryonal rhabdomyosarcoma (heterologous differentiation in sex cord stromal tumor).
+- Authors note adjuvant chemotherapy regimens changed based on the dominant tumor component.
+relevance_to_jgct: Gynandroblastoma with a JGCT component; relevant to differential diagnosis and to the DICER1-associated mixed sex cord-stromal tumor spectrum.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Europe PMC PPR533191; abstract retrieved verbatim via Europe PMC REST. Not peer reviewed; no PubMed version found (gynandroblastoma[tiab] AND rhabdomyosarcoma[tiab], 2026-10-30). The JGCT is a component of a gynandroblastoma, not a pure JGCT; DICER1 status not reported in the abstract.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

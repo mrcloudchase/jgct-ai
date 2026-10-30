@@ -1,6 +1,6 @@
 source_id: '20850634'
 source_type: pmid
-source_tier: peer_reviewed
+source_tier: registry
 source_url: https://pubmed.ncbi.nlm.nih.gov/20850634/
 retrieved_on: '2026-10-29'
 full_text_read: false
@@ -12,6 +12,7 @@ journal: Journal of pediatric surgery
 year: 2010
 first_author: Cecchetto G
 study_type: registry
+tumor_site: testis
 n_jgct_patients: 4
 age_range: null
 alterations: []
@@ -25,7 +26,7 @@ relevance_to_jgct: Italian pediatric registry series of testicular SCST includin
 conflicts_with: []
 superseded_by: null
 retracted: false
-notes: null
+notes: 'Tier set to registry (2026-10-30) per CLAUDE.md: a disease registry or consortium report is registry even in a peer-reviewed journal.'
 confidence: 3
 review_status: draft
 reviewed_by: null

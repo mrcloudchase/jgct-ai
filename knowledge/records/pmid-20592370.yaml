@@ -1,0 +1,42 @@
+source_id: '20592370'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20592370/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '20592370'
+doi: null
+title: Congenital juvenile granulosa cell tumor of the testis in newborns.
+journal: Anticancer research
+year: 2010
+first_author: Zugor V
+study_type: case_series
+tumor_site: testis
+n_jgct_patients: 2
+age_range: newborns
+alterations: []
+treatments:
+- regimen: inguinal orchiectomy
+  setting: primary
+  n: 2
+  outcome: authors describe excellent prognosis; follow-up not detailed in abstract
+presentation:
+- scrotal swelling
+- multicystic testicular enlargement
+key_findings:
+- Two newborns with scrotal swelling and multicystic testicular enlargement on sonography without distinguishable parenchyma.
+- 'Case 1: normal testosterone, beta-HCG and inhibin-B; alpha-fetoprotein 35.350 ng/dl; right inguinal orchiectomy.'
+- 'Case 2: normal testosterone, beta-HCG and inhibin-B; alpha-fetoprotein 9.038 ng/dl, LDH 768 U/I; left inguinal orchiectomy.'
+- Authors state the juvenile type is the most common reason for scrotal swelling in newborns under six months and fewer than fifty cases had been reported.
+- Authors conclude it is benign with excellent prognosis; inguinal orchiectomy is the therapy of choice with no further management required.
+relevance_to_jgct: Two neonatal testicular JGCTs managed by inguinal orchiectomy.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; AFP values copied verbatim as printed (units ng/dl).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

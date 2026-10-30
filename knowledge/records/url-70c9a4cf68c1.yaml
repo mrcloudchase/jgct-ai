@@ -1,0 +1,39 @@
+source_id: 70c9a4cf68c1
+source_type: url
+source_tier: conference_abstract
+source_url: https://doi.org/10.1200/jco.2014.32.15_suppl.5520
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: null
+doi: 10.1200/jco.2014.32.15_suppl.5520
+title: 'Clinical and genetic aspects of ovarian stromal tumors: A report from the International Ovarian and Testicular Stromal Tumor Registry.'
+journal: Journal of Clinical Oncology (ASCO Annual Meeting abstract 5520)
+year: 2014
+first_author: Schultz KAP
+study_type: registry
+tumor_site: ovary
+n_jgct_patients: 14
+age_range: <1-18 years (median 9)
+alterations:
+- gene: DICER1
+  alteration: germline deleterious mutation
+  frequency: 1/12 (8%)
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- '52 patients with ovarian tumors enrolled; 41 presented: SLCT (n=22), juvenile granulosa cell tumor (n=14), Sertoli cell tumor (n=4), gynandroblastoma (n=1).'
+- 'JGCT row of table: n 14; age at diagnosis median 9 (<1-18) years; DICER1+ 1/12 (8%); thyroid nodules 1 (7%); other (non-thyroid) tumors 0; recurrence 1 (7%); overall survival 13 (93%); OS months median 28 (15-223).'
+- Germline DICER1 mutations in 11 of 32 tested (34%) overall and 56% of SLCT; 'as well as in one patient with juvenile granulosa cell tumor and one with gynandroblastoma.'
+- Pathology centrally reviewed; germline DICER1 testing performed.
+relevance_to_jgct: Early International OTST Registry report giving the first registry estimate of germline DICER1 in JGCT (1/12).
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: ASCO 2014 abstract, J Clin Oncol 32(15_suppl):5520. Abstract and table text reconstructed verbatim from the OpenAlex abstract_inverted_index (W2608685582). Patients overlap with later OTST reports (pmid-40267023, url record for JCO 2020 abstract 6064).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

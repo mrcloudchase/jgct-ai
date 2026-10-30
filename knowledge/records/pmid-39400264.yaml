@@ -1,0 +1,40 @@
+source_id: '39400264'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/39400264/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '39400264'
+doi: 10.1158/1078-0432.CCR-24-1532
+title: 'DICER1-Related Tumor Predisposition: Identification of At-risk Individuals and Recommended Surveillance Strategies.'
+journal: 'Clinical cancer research : an official journal of the American Association for Cancer Research'
+year: 2024
+first_author: Schultz KAP
+study_type: registry
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: DICER1
+  alteration: germline pathogenic/likely pathogenic variant
+  frequency: null
+  notes: JGCT reported in carriers; no JGCT count given
+treatments: []
+presentation: []
+key_findings:
+- 'International PPB/DICER1 Registry, International Ovarian and Testicular Stromal Tumor Registry and NCI DICER1 study: 713 participants with a germline DICER1 P/LP variant from 38 countries.'
+- Authors state that although SLCT is the most common ovarian tumor with germline DICER1 P/LP variants, other ovarian tumors including DICER1-related ovarian sarcoma and JGCT have been reported.
+- Table 2 lists 'Ovarian juvenile granulosa cell tumor (especially if anaplasia and/or high mitotic index)' as an indication for germline DICER1 testing.
+- For SLCT, JGCT, and sarcomas, stage at diagnosis is stated to impact both treatment and prognosis.
+- 103 individuals with germline P/LP variants developed ovarian SLCT at median age 14 years; 13% before 8 years of age; Registry now recommends pelvic ultrasound every 6 months beginning at detection of a germline DICER1 P/LP variant.
+relevance_to_jgct: Registry surveillance guidance that names JGCT (especially with anaplasia or high mitotic index) as an indication for germline DICER1 testing.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text read via Europe PMC (PMC11649450). Registry report (International PPB/DICER1 Registry and IOTSTR). JGCT-specific content is limited to the testing-indication table and two sentences; no JGCT case counts given. Abstract gives SLCT age range as 11 months-66 years; results text says 11 months-65 years.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

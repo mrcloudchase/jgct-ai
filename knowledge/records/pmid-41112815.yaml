@@ -1,0 +1,42 @@
+source_id: '41112815'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41112815/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '41112815'
+doi: 10.1016/j.radcr.2025.08.014
+title: 'A rare ovarian tumor in childhood: Juvenile granulosa cell tumor revealed by pelvic pain and ovarian torsion.'
+journal: Radiology case reports
+year: 2026
+first_author: Haddar K
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 5 years
+alterations: []
+treatments:
+- regimen: detorsion and partial oophorectomy
+  setting: primary
+  n: 1
+  outcome: uneventful postoperative recovery; follow-up length not stated
+presentation:
+- pelvic pain
+- ovarian torsion
+- pelvic mass
+key_findings:
+- 5-year-old girl with a one-month history of pelvic heaviness and acute pelvic pain.
+- 'MRI: 41 x 57 x 48 mm solid mass with heterogeneous enhancement, restricted diffusion, necrosis, infiltrating the recto-sigmoid junction.'
+- AFP and beta-hCG negative; LDH mildly elevated.
+- Encapsulated left ovarian mass with 2 twists of the adnexa; detorsion and partial oophorectomy; histopathology JGCT; uneventful recovery.
+relevance_to_jgct: Prepubertal ovarian JGCT presenting with torsion rather than endocrine signs; imaging description.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (PMC12528874 not read). Stage not given in abstract; partial oophorectomy is an unusual (ovary-sparing) approach.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

@@ -2,8 +2,8 @@ source_id: '37324278'
 source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/37324278/
-retrieved_on: '2026-10-29'
-full_text_read: false
+retrieved_on: '2026-10-30'
+full_text_read: true
 language: en
 pmid: '37324278'
 doi: 10.3389/fendo.2023.1093273
@@ -12,30 +12,39 @@ journal: Frontiers in endocrinology
 year: 2023
 first_author: Zhang J
 study_type: case_report
+tumor_site: ovary
 n_jgct_patients: 1
 age_range: 4 years
 alterations:
 - gene: IDH1
   alteration: c.394C>T (p.Arg132Cys)
   frequency: 1/1
-  notes: present in tumor and enchondroma
-treatments: []
+  notes: detected in ovarian JGCT and enchondroma; not detected in peripheral blood, skin, muscle or oral mucosa of the patient or in parental blood (somatic/mosaic)
+treatments:
+- regimen: right salpingo-oophorectomy, no adjuvant radiotherapy or chemotherapy
+  setting: FIGO stage IA
+  n: 1
+  outcome: no recurrence at 3 months; estradiol and prolactin normal until 2 years of follow-up
 presentation:
-- precocious puberty (breast development)
+- precocious pseudopuberty (bilateral breast development, Tanner stage III)
+- hypertrophy of labia majora
 - vulvar discharge
-- Ollier's disease
+- Ollier's disease (multiple enchondromas)
+- estradiol 1,211 pmol/L and prolactin 43.99 ng/ml before surgery
 key_findings:
-- 4-year-old girl with Ollier's disease (enchondromas), breast development, elevated estradiol and prolactin, and right ovarian JGCT.
-- IDH1 c.394C>T (p.Arg132Cys) detected in both the ovarian JGCT and enchondroma by whole-exome and Sanger sequencing.
-- R132C inhibited S6 ribosomal protein phosphorylation in transfected HeLa cells.
-- After surgery estradiol and prolactin normalized and breast development regressed.
-relevance_to_jgct: Links JGCT in Ollier's disease to mosaic IDH1 R132C mutation.
+- 4-year-old girl with Ollier's disease presented about 9 months after enchondroma resection with breast development (Tanner III), estradiol 1,211 pmol/L (reference <=115.6) and prolactin 43.99 ng/ml; ultrasound showed an 81 x 76 x 57 mm multilocular-solid right ovarian tumor.
+- Right salpingo-oophorectomy; JGCT FIGO stage IA; no adjuvant therapy. Estradiol (70.83 pmol/L) and prolactin (20.54 ng/ml) normalized within 1 week; pseudo-pubertal changes fully remitted; hormones normal until 2 years of follow-up.
+- IDH1 c.394C>T (p.Arg132Cys) in both the JGCT and enchondroma but not in blood, skin, muscle, oral mucosa or parental blood, consistent with a somatic mosaic mutation.
+- 'IHC: inhibin single positive, CD99 positive, ER negative, PR positive, Ki-67 approximately 30%; SALL4 and OCT3/4 negative.'
+- R132C reduced S6 ribosomal protein phosphorylation in transfected HeLa cells.
+- 'Literature review of 11 JGCT plus Ollier''s disease cases (including this one): onset age 6 months to 36 years; eight underwent salpingo-oophorectomy and two received postoperative chemotherapy; no recurrences over follow-up of 6 months to 7 years.'
+relevance_to_jgct: Links JGCT in Ollier's disease to a somatic mosaic IDH1 R132C mutation shared with enchondromas; summarizes 11 JGCT-Ollier cases.
 conflicts_with: []
 superseded_by: null
 retracted: false
-notes: null
-confidence: 3
+notes: Full text read via Europe PMC (PMC10265673) on 2026-10-30. The pooled literature table (Table 2) was not available in the extracted text; summary numbers copied from the discussion. Literature-review cases overlap with individual case reports.
+confidence: 4
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract
+extraction_method: full_text

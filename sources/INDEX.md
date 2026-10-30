@@ -6,20 +6,22 @@ Every place JGCT knowledge lives, how to query it, its tier, when it was last ch
 
 | Source | How to query | Tier of items | Last checked | What was found / status |
 |---|---|---|---|---|
-| PubMed (E-utilities) | `tools/fetch.py discover-pubmed "<query>"`; `tools/fetch.py abstract <pmid>` for verbatim abstracts | peer_reviewed (mostly) | 2026-10-29 | Queries run: JGCT title/abstract variants (462 hits); granulosa AND pediatric terms AND gonad (874); sex cord AND pediatric AND gonad; EXPeRT/PARTNER AND sex cord; author queries Kalfa N, Schneider DT. Core JGCT literature ~460 papers. |
-| Europe PMC (REST) | `tools/fetch.py discover-epmc "<query>"`; `tools/fetch.py fulltext <pmid>` for OA full text; `tools/fetch.py cites <pmid> --dir citing|refs` | peer_reviewed, preprint, conference supplements | 2026-10-29 | `"juvenile granulosa"` full-text search: 877 hits (many only mention JGCT). Full text fetched for 40267023, 40272823, 26137586, 40350706, 21501861. Europe PMC fullTextXML returns HTTP 500 for some PMC IDs; fetcher falls back to NCBI PMC efetch. Citation chase run on 40267023, 40272823, 26137586, 32910017, 35031544. |
+| PubMed (E-utilities) | `tools/fetch.py discover-pubmed "<query>"`; `tools/fetch.py abstract <pmid>` for verbatim abstracts | peer_reviewed (mostly) | 2026-10-30 | 2026-10-30: every ledger item with "juvenile granulosa" in the title was dispositioned (processed, unreachable or skipped). Queries run: JGCT title/abstract variants (462 hits); granulosa AND pediatric terms AND gonad (874); sex cord AND pediatric AND gonad; EXPeRT/PARTNER AND sex cord; author queries Kalfa N, Schneider DT. Core JGCT literature ~460 papers. |
+| Europe PMC (REST) | `tools/fetch.py discover-epmc "<query>"`; `tools/fetch.py fulltext <pmid>` for OA full text; `tools/fetch.py cites <pmid> --dir citing|refs` | peer_reviewed, preprint, conference supplements | 2026-10-30 | `"juvenile granulosa"` full-text search: 877 hits (many only mention JGCT). Full text fetched for 40267023, 40272823, 26137586, 40350706, 21501861. Europe PMC fullTextXML returns HTTP 500 for some PMC IDs; fetcher falls back to NCBI PMC efetch. Citation chase run on 40267023, 40272823, 26137586, 32910017, 35031544. |
 | NCBI PMC efetch | used automatically by `fetch.py fulltext` fallback | peer_reviewed | 2026-10-29 | Works for PMC12305807, PMC3138876 where Europe PMC failed. |
-| Europe PMC preprints (SRC:PPR) | `discover-epmc '"juvenile granulosa" AND SRC:PPR'` | preprint | 2026-10-29 | 4 hits (case reports and a testicular ultrasound study). Not yet processed. |
-| ClinicalTrials.gov API v2 | `curl https://clinicaltrials.gov/api/v2/studies?query.cond=...` | database | 2026-10-29 | No JGCT-specific interventional trial. Recorded NCT01970696 (IOTSTR), NCT05773651 (STEP 2.0), NCT01042522 (GOG adult SCST phase II). Other granulosa trials (GREKO II/III, nirogacestat, luspatercept, darolutamide, abemaciclib/letrozole) target adult GCT; not yet recorded. |
+| Europe PMC preprints (SRC:PPR) | `discover-epmc '"juvenile granulosa" AND SRC:PPR'`; abstract via Europe PMC REST `resultType=core` | preprint | 2026-10-30 | Processed: 3 preprint records (Authorea and Research Square case reports, a prepubertal testicular tumor ultrasound/pathology study); the Research Square version of pmid:33362514 skipped as duplicate. |
+| ClinicalTrials.gov API v2 | `curl 'https://clinicaltrials.gov/api/v2/studies?query.cond=<term>'` (terms used: juvenile granulosa; granulosa cell tumor; sex cord stromal; ovarian stromal tumor; Sertoli-Leydig) | database | 2026-10-30 | No JGCT-specific interventional trial. Recorded NCT01970696 (IOTSTR), NCT05773651 (STEP 2.0), NCT01042522 (GOG adult SCST phase II), and on 2026-10-30 NCT03382158 (PPB/DICER1 Registry), NCT01572467 (DICER1 in pediatric SCST), NCT00006227 (paclitaxel second line, ovarian stromal), NCT02429700 (TC vs BEP, malignant SCST). Adult-GCT-only trials (GREKO, nirogacestat, etc.) not recorded. |
 | Orphanet ORPHAcode API | `curl -H "apiKey: <any>" https://api.orphacode.org/EN/ClinicalEntity/...` | database | 2026-10-29 | No JGCT entity; only ORPHA:99915 (adult-type definition). Recorded. |
 | OncoTree (MSK) | `https://oncotree.mskcc.org/api/tumorTypes/search/name/granulosa` | database | 2026-10-29 | Only GRCT (Granulosa Cell Tumor), no juvenile code. Not recorded (no clinical content). |
-| cBioPortal | `https://www.cbioportal.org/api/studies?keyword=granulosa` | database | 2026-10-29 | No study matching "granulosa". Sample-level search by OncoTree GRCT not yet attempted. |
+| cBioPortal | `tools/cbio_grct_scan.py` then `tools/cbio_grct_detail.py <study>` (public API https://www.cbioportal.org/api) | database | 2026-10-30 | 551 public studies scanned: one sample explicitly labelled JGCT; GRCT samples mostly FOXL2 C134W (adult type); one 7-year-old FOXL2-wild-type AKT1-insertion GRCT. Recorded as url-6657783a29d4. AACR GENIE instance (genie.cbioportal.org) returns HTTP 401. |
 | NCI PDQ (cancer.gov) | curl the HTML of `/types/ovarian/hp/child-ovarian-treatment-pdq`, strip tags | organization | 2026-10-29 | Childhood Ovarian Cancer Treatment PDQ (updated 2025-03-03); JGCT section recorded. |
-| Trial registries outside the US (EU CTR, ISRCTN, ChiCTR, JRCT, DRKS) | not yet queried | database | never | Backlog. |
-| Conference abstracts (ASCO, SIOP, ASPHO, SGO, USCAP, ESGO, ESPE) | Europe PMC indexes some supplements; meeting sites otherwise | conference_abstract | never | Backlog. Europe PMC hits include large congress supplements (e.g., European Congress of Pathology) needing in-document search. |
-| GeneReviews (DICER1 tumor predisposition) | NCBI Bookshelf | database | never | Backlog. |
-| COSMIC / AACR GENIE | GENIE via cBioPortal public; COSMIC requires login | database | never | Backlog. |
+| Trial registries outside the US (EU CTR, CTIS, ISRCTN, JRCT, ChiCTR) | EU CTR search page `https://www.clinicaltrialsregister.eu/ctr-search/search?query=granulosa`; ISRCTN `https://www.isrctn.com/api/query/format/default?q=granulosa`; CTIS public search API; JRCT/ChiCTR web search | database | 2026-10-30 | Probed by curl. EU CTR: adult GCT trials only (GREKO orteronel, nirogacestat). ISRCTN: 5 hits, none JGCT (one basket trial lists a granulosa sub-group). CTIS: adult-type GCT only. JRCT/ChiCTR returned only search shells (JavaScript); not usable without a browser. No JGCT trial found; nothing recorded. |
+| Conference abstracts (ASCO, ESPE, ECP, ESPR, APPES, SIOP, SGO, USCAP) | OpenAlex (`tools/openalex_discover.py`, types conference-abstract/paper); `tools/epmc_supplement_grep.py <PMCID>` for supplements in Europe PMC; ESPE at abstracts.eurospe.org | conference_abstract | 2026-10-30 | 11 conference_abstract records: two IOTSTR ASCO abstracts (2014 ovarian stromal tumors; 2020 JGCT interim, superseded by pmid-40267023), a DICER1-in-adult-JGCT abstract, and ESPE/ECP/ESPR/APPES/Asian J Oncol case abstracts. SIOP, SGO, USCAP, ASPHO supplements not yet searched systematically. |
+| GeneReviews (DICER1 tumor predisposition) | NCBI Bookshelf NBK196157 (HTML via curl) | database | 2026-10-30 | Recorded url-1b49311e69d4 (full text): JGCT rarely associated with DICER1; testing especially if anaplasia or high mitotic index; surveillance pelvic ultrasound every 6 months in carriers. |
+| COSMIC / AACR GENIE | GENIE via genie.cbioportal.org (login); COSMIC requires login | database | 2026-10-30 | GENIE API returned 401; not queried. COSMIC not attempted. |
+| OpenAlex | `tools/openalex_discover.py fetch '' out.jsonl 'title_and_abstract.search:juvenile granulosa'` then `compare out.jsonl .` | mixed | 2026-10-30 | 731 works with JGCT in title/abstract; 295 not matched to the ledger, of which 264 loaded as `found` (origin `openalex 2026-10-30`, priority 40; book chapters and reference entries priority 10). Some are DOI-keyed duplicates of PubMed items whose DOI→PMID mapping failed; dedupe before processing. |
 | Rare disease organizations (NORD, GARD) | web | organization | never | Backlog; low priority. |
+| Unpaywall | `https://api.unpaywall.org/v2/<doi>?email=...` to find legal OA copies of paywalled papers | — | 2026-10-30 | Found the CC-BY 2026 European recommendations (pmid-42504512) in the Padua repository. EXPeRT 2021 and ESGO-SIOPE 2020 closed; the EXPeRT Authorea preprint returns 403 to scripts. |
 | Non-English literature | PubMed returns Chinese, German, French items with English abstracts | peer_reviewed | 2026-10-29 | Chinese (42706059, 39863551) and German (33201299, 18008216) items recorded from English abstracts. |
 
 ## Notes for future runs
@@ -36,58 +38,109 @@ Query details with `python3 tools/ledger.py`.
 
 | status | items |
 |---|---|
-| found | 1919 |
-| processed | 72 |
-| skipped | 8 |
-| unreachable | 5 |
+| found | 1862 |
+| processed | 262 |
+| skipped | 136 |
+| unreachable | 56 |
 
 ### Next 40 unprocessed items by priority
 
-- pmid:19119048 (p85, 2009) [Juvenile granulosa-cell tumor: clinical and molecular expression].
-- pmid:42421431 (p75, 2026) A novel classification of testicular sex cord-stromal tumours from the Testicular Sex Cord-Stromal Tumour (TESST) group:
-- pmid:41762432 (p75, 2026) Management of andrological disorders from childhood and adolescence to transition age: guidelines from the Italian Socie
-- pmid:41877744 (p75, 2026) International Society of Paediatric Surgical Oncology (IPSO) Minimally Invasive Surgery (MIS) Guidelines.
-- pmid:41585072 (p75, 2025) Minimally invasive surgery guidelines in paediatric surgical oncology - role of MIS in fertility preservation.
-- pmid:40499402 (p75, 2025) Fertility-sparing strategies in borderline and malignant ovarian tumors: a comparative analysis of international guideli
-- pmid:39264246 (p75, 2024) Update on Recommendations for Cancer Screening and Surveillance in Children with Genomic Instability Disorders.
-- pmid:36980387 (p75, 2023) Therapeutic Management and Prognostic Factors for Ovarian Malignant Tumours in Adolescents: A Comprehensive Review of Cu
 - pmid:35942608 (p75, 2022) Fine-needle aspiration cytology of juvenile granulosa cell tumour: A case report with summary of prior published cases.
-- pmid:35510137 (p75, 2022) International Society of Paediatric Surgical Oncology (IPSO) Surgical Practice Guidelines.
 - pmid:34674583 (p75, 2021) Treating rare tumors with the assistance of the expert virtual consultation system: two cases of juvenile granulosa cell
-- pmid:31170563 (p75, 2019) Fertility preservation, contraception and menopause hormone therapy in women treated for rare ovarian tumours: guideline
-- pmid:29397916 (p75, 2018) [Fertility preservation, contraception and menopause hormone therapy in women treated for rare ovarian tumors: Guideline
-- pmid:27993794 (p75, 2017) Fifth Ovarian Cancer Consensus Conference of the Gynecologic Cancer InterGroup (GCIG): clinical trial design for rare ov
-- pmid:28620008 (p75, 2017) PTEN, DICER1, FH, and Their Associated Tumor Susceptibility Syndromes: Clinical Features, Genetics, and Surveillance Rec
 - pmid:27628838 (p75, 2016) Re: Juvenile Granulosa Cell Tumors of the Testis: A Clinicopathologic Study of 70 Cases with Emphasis on its Wide Morpho
-- pmid:23348906 (p75, 2013) FOXL2 molecular testing in ovarian neoplasms: diagnostic approach and procedural guidelines.
-- pmid:21358338 (p75, 2011) Childhood ovarian juvenile granulosa cell tumor: a retrospective study with 3 cases including clinical features, patholo
-- pmid:20445412 (p75, 2010) A rare neonatal testicular tumor: juvenile granulosa cell tumor of infant testis: a report of 3 cases.
-- pmid:12411036 (p75, 2002) Clinical analysis of 4 cases of juvenile granulosa cell tumor of the ovary.
-- pmid:9165470 (p75, 1997) Juvenile granulosa cell tumor of the testis: report of two cases in newborns.
-- pmid:2964926 (p75, 1987) [Clinicopathological study of 4 cases of juvenile granulosa cell tumor].
-- pmid:3015530 (p75, 1985) [Ovarian tumor in the juvenile--an analysis of 77 cases].
-- pmid:509394 (p75, 1979) Juvenile granulosa cell tumor: a clinicopathologic study of three cases with ultrastructural observations.
-- pmid:41839237 (p70, 2026) Evaluation of DICER1 Immunohistochemistry as a Potential Surrogate for Mutation Status in Ovarian Sex Cord-Stromal Tumor
-- pmid:41243833 (p70, 2026) DICER1 -Associated Gynecologic Neoplasms: An Update and Review.
-- pmid:41384702 (p70, 2026) Advances in non-germ cell tumours of the testis: focus on new molecular developments in sex cord-stromal tumours.
-- pmid:41898873 (p70, 2026) Inflammatory and Nested Testicular Sex Cord Tumors: Clinical and Molecular Characterization.
-- pmid:42222377 (p70, 2026) Case Report: Ovarian dysgerminoma mimicking a sex cord-stromal tumor with hyperandrogenism: diagnostic challenges and mo
-- pmid:41632748 (p70, 2026) Ovarian-Specific FOXL2 Protein Expression in Testes from Patients with Complete Androgen Insensitivity Syndrome and Unde
-- pmid:41935983 (p70, 2026) Clinicopathological and molecular characteristics of small cell carcinoma of the ovary, hypercalcemic type: three case r
 - pmid:42511739 (p70, 2026) Clinical Impact of Germline Multigene Sequencing in Pediatric Cohorts with a Wide Spectrum of Neoplasms.
-- pmid:42883763 (p70, 2026) AAV9 Gene Therapy for Ovarian Dysfunction and Reproductive Aging: Molecular Mechanisms, Therapeutic Targets, and Transla
-- pmid:42817922 (p70, 2026) The Expanding Spectrum of DICER1-Associated Gynecologic Neoplasms.
-- pmid:42379283 (p70, 2026) Sex-specific cellular and molecular mechanisms of PFAS-induced reproductive toxicity.
-- pmid:41719147 (p70, 2026) Clinical and molecular features of ovarian stimulation in peripubertal girls with mosaic Turner's syndrome.
-- pmid:42593492 (p70, 2026) Uterine tumour resembling ovarian sex cord tumour (utrosct) associated with ctnnb1, pten and other gene mutations: Expan
-- pmid:41424301 (p70, 2026) GREB1-rearranged uterine tumour shares a common DNA methylation signature with ESR1-rearranged UTROSCT.
-- pmid:42849401 (p70, 2026) Molecular biomarkers in uterine sarcomas: a review of reviews with genomic data integration.
-- pmid:42469914 (p70, 2026) Single-cell transcriptome analysis in ovarian steroid cell tumors-not otherwise specified.
+- pmid:42057139 (p70, 2026) Single-cell and spatial transcriptome analysis reveals the potential therapeutic targets for testicular sex cord-stromal
+- pmid:40901169 (p70, 2025) Rapid recurrence of ovarian mixed sex-cord-stromal tumor associated with DICER1 gene mutation: a case analysis and liter
+- pmid:40390890 (p70, 2025) Case of Gynandroblastoma of the Ovary with Raised AFP and Associated DICER 1 Mutation.
+- pmid:40076617 (p70, 2025) A Novel Pathogenic Variant of DICER1 Gene in a Young Greek Patient with 2 Different Sex-Cord Ovarian Tumors and Multinod
+- pmid:40985487 (p70, 2025) Tracing metastatic spread in pediatric solid tumors using copy number and targeted deep sequencing.
+- pmid:40739655 (p70, 2025) New histopathological and molecular findings in gynecological cancers.
+- pmid:40693985 (p70, 2025) Isolated lateralized overgrowth and the need for tumor screening: A clinical practice resource of the American College o
+- pmid:41355108 (p70, 2025) [Clinical and pathological characteristics of pediatric tumors with DICER1 mutations detected by Sanger sequencing].
+- pmid:38099957 (p70, 2024) Molecular features for timely cancer diagnosis and treatment - tumors of the ovary, fallopian tube and endometrium.
+- pmid:37248399 (p70, 2023) Reclassification of two germline DICER1 splicing variants leads to DICER1 syndrome diagnosis.
+- pmid:38136408 (p70, 2023) Relevance of Molecular Pathology for the Diagnosis of Sex Cord-Stromal Tumors of the Ovary: A Narrative Review.
+- pmid:37370967 (p70, 2023) Molecular Testing in Ovarian Tumours: Challenges from the Pathologist's Perspective.
+- pmid:34331184 (p70, 2023) Unusual phenotypes in patients with a pathogenic germline variant in DICER1.
+- pmid:35676859 (p70, 2023) Characterization of rare histological subtypes of ovarian cancer based on molecular profiling.
+- pmid:35778792 (p70, 2022) DICER1-associated Tumors in the Female Genital Tract: Molecular Basis, Clinicopathologic Features, and Differential Diag
+- pmid:36428825 (p70, 2022) <i>IDH</i> Mutations Are Potentially the Intrinsic Genetic Link among the Multiple Neoplastic Lesions in Ollier Disease 
+- pmid:34599283 (p70, 2022) DICER1 tumor predisposition syndrome: an evolving story initiated with the pleuropulmonary blastoma.
+- pmid:36180576 (p70, 2022) Clinicopathologic and molecular spectrum of testicular sex cord-stromal tumors not amenable to specific histopathologic 
+- pmid:35565312 (p70, 2022) Transcriptomic Profiling of Gene Expression Associated with Granulosa Cell Tumor Development in a Mouse Model.
+- pmid:35245609 (p70, 2022) Neuroectodermal elements are part of the morphological spectrum of DICER1-associated neoplasms.
+- pmid:35942576 (p70, 2022) Rare and unusual tumours associated with characteristic molecular events: the importance of specialist pathology review.
+- pmid:34169133 (p70, 2021) Recurrent gynandroblastoma of the ovary with germline DICER1 mutation: A case report and review of the literature.
+- pmid:34680597 (p70, 2021) The Role of Omics Approaches to Characterize Molecular Mechanisms of Rare Ovarian Cancers: Recent Advances and Future Pe
+- pmid:34284081 (p70, 2021) Clinicians Practicing Obstetrics and Gynecology Are Uniquely Situated to Recognize DICER1 Syndrome.
+- pmid:33630087 (p70, 2021) A Genome-First Approach to Characterize DICER1 Pathogenic Variant Prevalence, Penetrance, and Phenotype.
+- pmid:34092788 (p70, 2021) Genomic alterations in gynecological malignancies: histotype-associated driver mutations, molecular subtyping schemes, a
+- pmid:32782216 (p70, 2020) Evaluation of molecular analysis in challenging ovarian sex cord-stromal tumours: a review of 50 cases.
+- pmid:31789679 (p70, 2020) Malignant Sex Cord-Stromal Tumor, Not Otherwise Specified, Harboring FOXL2, p53, and TERT Promoter Mutations: Report of 
+- pmid:32485873 (p70, 2020) Molecular Pathways and Targeted Therapies for Malignant Ovarian Germ Cell Tumors and Sex Cord-Stromal Tumors: A Contempo
+- pmid:33552988 (p70, 2020) DICER1 Syndrome and Cancer Predisposition: From a Rare Pediatric Tumor to Lifetime Risk.
+- pmid:31952842 (p70, 2020) Gynecologic and reproductive health in patients with pathogenic germline variants in DICER1.
+- pmid:31768620 (p70, 2020) DNA methylation-based profiling of uterine neoplasms: a novel tool to improve gynecologic cancer diagnostics.
+- pmid:32404308 (p70, 2020) The Genomic Landscape of Intrinsic and Acquired Resistance to Cyclin-Dependent Kinase 4/6 Inhibitors in Patients with Ho
+- pmid:31895688 (p70, 2020) Genome-wide DNA copy number profiling and bioinformatics analysis of ovarian cancer reveals key genes and pathways assoc
+- pmid:31745296 (p70, 2020) Aberrant granulosa cell-fate related to inactivated p53/Rb signaling contributes to granulosa cell tumors and to FOXL2 d
+- pmid:31162286 (p70, 2019) Adult Granulosa Cell Tumor With High-grade Transformation: Report of a Series With FOXL2 Mutation Analysis.
 
 ### Unreachable
 
+- pmid:41654424 (2026) [Case #3. Juvenile granulosa cell tumour]. — No abstract on PubMed (French pathology quiz case, Ann Pathol 2026); no OA full text.
 - pmid:41644436 (2026) [Juvenile granulosa cell tumor with IDH1 gene somatic mutation: report of a case]. — Chinese case report, no PubMed abstract; not OA (2026-10-29)
+- doi:10.1055/s-0046-1822736 (2026) Integrative multiomics profiling of an anaplastic JGCT (Klin Padiatr 2026 meeting abstract) — No abstract in OpenAlex or Crossref; Thieme landing page has no abstract text
+- pmid:40288095 (2025) Synchronous juvenile granulosa cell tumor and fibroma. — No abstract on PubMed (IJGC image/short item); no OA full text.
+- pmid:38942037 (2025) Ollier Disease with Ovarian Juvenile Granulosa Cell Tumor in a Child. — Ollier disease with ovarian JGCT (Klin Padiatr 2025); no abstract and no OA full text.
+- pmid:39492459 (2025) Ovarian Sex Cord-Stromal Neoplasms: An Overview of Molecular Events and How to Correlate Morphology  — Molecular SCST review; abstract has no JGCT-specific content; no OA full text (paywalled)
+- doi:10.2139/ssrn.5548353 (2025) Metastatic Gynandroblastoma in a Patient with JGCT and DICER1 Syndrome (SSRN preprint) — No abstract in OpenAlex/Crossref; SSRN returns HTTP 403 to curl
 - pmid:39271346 (2024) Ovarian juvenile granulosa cell tumor accompanying Oliver's disease with IDH1 gene somatic mutation: — Letter with no PubMed abstract; not open access in Europe PMC (2026-10-29)
+- pmid:39231752 (2024) [Ovarian juvenile granulosa cell tumor with CDKN2A/B and TP53 genetic variations: report of a case]. — Chinese case report (CDKN2A/B and TP53 variants in ovarian JGCT); no abstract on PubMed and no OA full text. High-value molecular item if text becomes accessible.
+- pmid:38575475 (2024) Neonatal juvenile granulosa cell tumour, a rare entity. — Neonatal JGCT letter (An Pediatr 2024); no abstract and no OA full text.
+- pmid:36208031 (2023) Retroperitoneal recurrence of an ovarian juvenile granulosa cell tumor: A diagnostic challenge. — Retroperitoneal recurrence of ovarian JGCT (IJGO 2023 short item); no abstract and no OA full text.
+- pmid:35927968 (2023) Bilateral testicular juvenile granulosa cell tumor: Tumor control with conservative, antihormonal th — Letter: bilateral testicular JGCT controlled with antihormonal therapy (Pediatr Blood Cancer 2023); no abstract and no OA full text. Worth retrying.
+- pmid:35156876 (2022) Testicular Juvenile Granulosa Cell Tumor - a Rare Entity that May Have Mildly Elevated Serum Alpha F — Letter: testicular JGCT with mildly elevated AFP in infants (Pediatr Dev Pathol 2022); no abstract and no OA full text.
+- pmid:35507116 (2022) ESPR 2022. — Congress supplement; Europe PMC fullTextXML HTTP 500 and PMC efetch returns no body (not OA), 2026-10-30
 - pmid:35338687 (2022) Comment on: Consensus recommendations from the EXPeRT/PARTNER groups for the diagnosis and therapy o — Comment/letter with no PubMed abstract; not OA (2026-10-29)
+- pmid:33414107 (2021) Ovarian sex cord-stromal tumors: an update on clinical features, molecular changes, and management. — SCST review; abstract not JGCT-specific; no OA full text (paywalled)
 - pmid:32610388 (2020) [Juvenile granulosa cell tumor in children: a clinicopathological analysis of eight cases]. — Chinese article, no PubMed abstract; full text not OA (2026-10-29)
+- doi:10.1136/ijgc-2019-esgo.719 (2019) EP665 Juvenile granulosa cell tumors of the ovary: a retrospective study of 36 patients (ESGO 2019) — No abstract in OpenAlex or Crossref; publisher page (Elsevier linkinghub) has no abstract text; paywalled
+- pmid:30240102 (2018) Abstracts from the 50th Congress of the International Society of Paediatric Oncology (SIOP) Kyoto, J — Congress supplement; Europe PMC fullTextXML HTTP 500 and PMC efetch returns no body (not OA), 2026-10-30
+- pmid:28074636 (2017) Comment on: Juvenile granulosa cell ovarian tumor in a child with Beckwith-Wiedemann syndrome. — No abstract in PubMed and no open-access full text in Europe PMC/PMC (checked 2026-10-30)
+- pmid:28863244 (2017) Abstracts From the 49th Congress of the International Society of Paediatric Oncology (SIOP) Washingt — Congress supplement; Europe PMC fullTextXML HTTP 500 and PMC efetch returns no body (not OA), 2026-10-30
+- pmid:28040149 (2016) Long-term survival in a patient with an advanced ovarian juvenile granulosa cell tumor with para-aor — No abstract in PubMed and no open-access full text in Europe PMC/PMC (checked 2026-10-30)
+- pmid:27569101 (2016) Juvenile granulosa cell tumor of the testis in a newborn. — No abstract in PubMed and no open-access full text in Europe PMC/PMC (checked 2026-10-30)
+- pmid:26575726 (2016) Juvenile Granulosa Cell Ovarian Tumor in a Child With Beckwith-Wiedmann Syndrome. — No abstract in PubMed and no open-access full text in Europe PMC/PMC (checked 2026-10-30)
+- pmid:27077670 (2016) American Society of Pediatric Hematology/Oncology (ASPHO) Hyatt Regency Minneapolis Minneapolis, MN  — Congress supplement; Europe PMC fullTextXML HTTP 500 and PMC efetch returns no body (not OA), 2026-10-30
+- epmc:PMC:PMC5060674 (2016) 2016 TAJEV/Poster Presentation — Europe PMC fullTextXML HTTP 500; PMC efetch no body (not OA)
+- pmid:24785740 (2015) Juvenile granulosa cell tumour: a pitfall in cytological diagnosis. — No abstract in PubMed and no open-access full text in Europe PMC/PMC (checked 2026-10-30)
+- pmid:25478362 (2014) Ovarian juvenile granulosa cell tumour in childhood: uncommon gynecological malignancy. — No abstract in PubMed; PMC4253180 full text fetch failed (HTTP 500, publisher-restricted) on 2026-10-30
+- pmid:25266542 (2014) Ovarian juvenile granulosa cell tumor in a 20-month-old infant. — No abstract in PubMed and no open-access full text in Europe PMC/PMC (checked 2026-10-30)
+- pmid:25148497 (2014) Juvenile granulosa cell tumor of the testis. — No abstract in PubMed and no open-access full text in Europe PMC/PMC (checked 2026-10-30)
+- pmid:25323433 (2014) 46(th) Congress of The International Society of Paediatric Oncology (SIOP) 2014 Toronto, Canada, 22( — Congress supplement; Europe PMC fullTextXML HTTP 500 and PMC efetch returns no body (not OA), 2026-10-30
+- doi:10.1530/endoabs.34.p62 (2014) JGCT of the ovary presenting with hyperprolactinaemic amenorrhoea and galactorrhoea (Endocrine Abstr — OpenAlex abstract is site boilerplate; endocrine-abstracts.org returns HTTP 403 to curl
+- pmid:23519754 (2013) Paraneoplastic hypercalcemia associated with juvenile granulosa cell tumor. — No abstract in PubMed and no open-access full text in Europe PMC/PMC (checked 2026-10-30)
+- epmc:PMC:PMC3776526 (2013) Research Day 2013 Abstracts : Ochsner's Tenth Annual Research Day - May 14, 2013, Ochsner Clinic Fou — Europe PMC fullTextXML HTTP 500; PMC efetch no body (not OA)
+- pmid:22244428 (2012) A rare case of ovarian juvenile granulosa cell tumor without precocious pseudopuberty in an 11-month — No abstract in PubMed and no open-access full text in Europe PMC/PMC (checked 2026-10-30)
+- url:endocrine-abstracts-ea0029p1312 (2012) Thyroid abnormalities in a 13 year old girl with an androgen secreting JGCT (ECE 2012) — No abstract in OpenAlex; endocrine-abstracts.org returns HTTP 403 to curl
+- pmid:22088653 (2011) Re: congenital juvenile granulosa cell tumor of the testis in newborns. — No abstract in PubMed and no open-access full text in Europe PMC/PMC (checked 2026-10-30)
+- pmid:20875070 (2010) Juvenile granulosa cell tumour with hepatocyte-like cells and raised serum alpha-fetoprotein. — No abstract in PubMed and no open-access full text in Europe PMC/PMC (checked 2026-10-30)
+- pmid:16194833 (2005) Ovarian gynandroblastoma with juvenile granulosa cell component and raised alpha fetoprotein. — no abstract in PubMed; not open access
+- pmid:16167924 (2005) Juvenile granulosa cell tumor of the ovary in an elderly woman. — no abstract in PubMed; not open access
+- pmid:15693901 (2005) Immunoreactivity of ovarian juvenile granulosa cell tumours with epithelial membrane antigen. — Letter with no abstract; no OA full text
+- pmid:15498394 (2004) Ovarian juvenile granulosa cell tumor associated with Maffucci's syndrome: case report. — no abstract in PubMed; not open access
 - pmid:15143099 (2004) Tumor rupture and mitotic index in pediatric sex cord-stromal tumors. — No PubMed abstract (JCO correspondence); no OA full text (2026-10-29)
+- pmid:12762293 (2003) [Early pseudopuberty revealing juvenile granulosa tumor of the ovary]. — no abstract in PubMed; not open access
+- pmid:12629401 (2003) Juvenile granulosa-theca cell (sex cord-stromal) tumor of the infant testis. — no abstract in PubMed; not open access
+- pmid:12462106 (2002) Juvenile granulosa cell tumor of the ovary: imprint cytology findings. — no abstract in PubMed; not open access
+- pmid:10836607 (2000) MR imaging of juvenile granulosa cell tumour of the ovary: a case report. — no abstract in PubMed; not open access
+- pmid:10742079 (2000) Severe hypercalcemia in association with a juvenile granulosa cell tumor of the ovary. — no abstract in PubMed; not open access
+- pmid:9553819 (1998) Gynandroblastoma with elements of juvenile granulosa cell tumor. — no abstract in PubMed; not open access
+- pmid:8427250 (1993) Pathological case of the month. Juvenile granulosa cell tumor. — no abstract in PubMed; not open access
+- pmid:1963878 (1990) Juvenile granulosa cell tumour of the ovary containing a nodule of Wilms' tumour. — no abstract in PubMed; not open access
+- pmid:2757305 (1989) [Isosexual precocious pseudopuberty caused by juvenile granulosa cell tumor]. — no abstract in PubMed; not open access
+- pmid:3211812 (1988) Juvenile granulosa cell tumor. — no abstract in PubMed; not open access
+- pmid:3176932 (1988) Cystic juvenile granulosa cell tumor of the ovary. — PubMed abstract is only an introductory paragraph with no case data; not open access
+- pmid:2964926 (1987) [Clinicopathological study of 4 cases of juvenile granulosa cell tumor]. — No abstract in PubMed; no OA full text (Chinese 1987)
+- pmid:3712163 (1986) Ollier disease (enchondromatosis) associated with ovarian juvenile granulosa cell tumor and precocio — no abstract in PubMed; not open access

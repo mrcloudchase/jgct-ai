@@ -1,0 +1,42 @@
+source_id: '37483405'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37483405/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '37483405'
+doi: 10.21980/J8035H
+title: Ovarian Juvenile Granulosa Cell Tumor Case Report.
+journal: Journal of education & teaching in emergency medicine
+year: 2022
+first_author: Lemmons J
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 5 months
+alterations: []
+treatments:
+- regimen: exploratory laparotomy
+  setting: primary, ruptured tumor
+  n: 1
+  outcome: not reported
+presentation:
+- abdominal distention
+- emesis
+- tumor rupture
+- free fluid
+key_findings:
+- 5-month-old female with worsening abdominal distention and postprandial emesis.
+- Point-of-care ultrasound showed extensive abdominal free fluid and a large heterogeneous suprapubic mass, confirmed on CT.
+- Emergency exploratory laparotomy found a ruptured tumor; diagnosis ovarian JGCT.
+relevance_to_jgct: Infant JGCT presenting as acute abdomen from tumor rupture.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (PMC10358864 not read); educational emergency-medicine case. Stage, adjuvant therapy and outcome not given.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

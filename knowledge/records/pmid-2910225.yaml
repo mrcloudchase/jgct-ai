@@ -1,0 +1,45 @@
+source_id: '2910225'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/2910225/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '2910225'
+doi: null
+title: Juvenile granulosa cell tumors of the ovary.
+journal: Archives of pathology & laboratory medicine
+year: 1989
+first_author: Biscotti CV
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 13
+age_range: 6 months to 56 years
+alterations: []
+treatments:
+- regimen: surgery (type not stated)
+  setting: primary, stage I
+  n: 10
+  outcome: no recurrences, follow-up 6 months to 33 years
+presentation:
+- isosexual precocity
+- menstrual abnormalities
+- virilization
+- ascites
+key_findings:
+- 13 JGCT cases; ages 6 months to 56 years (median 17 years); only one postmenopausal.
+- Three premenarchal patients had isosexual development; five of seven postmenarchal patients had menstrual abnormalities; two showed virilization; ascites in two.
+- All had unilateral stage I tumors, 2.5 to 24.5 cm (mean 12.2 cm).
+- 'Histology: nodular architecture, follicles, hyaluronic acid-rich interstitial fluid, microcysts, individual cell necrosis, high mitotic activity (mean 11 mitoses per 10 HPF).'
+- 'IHC in five: vimentin positive (four), isolated cytokeratin AE1/3-positive cells (two), CEA and MFG-2 negative.'
+- 'Follow-up of ten patients: no recurrences from six months to 33 years (mean 9.5 years).'
+relevance_to_jgct: Clinicopathologic series of stage I JGCT with long follow-up and no recurrences.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

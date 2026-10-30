@@ -12,6 +12,7 @@ journal: The American journal of surgical pathology
 year: 2026
 first_author: Boyraz B
 study_type: case_series
+tumor_site: ovary
 n_jgct_patients: 10
 age_range: 7-44 years (median 13)
 alterations:

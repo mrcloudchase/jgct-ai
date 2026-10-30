@@ -20,7 +20,7 @@ STATUSES = ("found", "processed", "unreachable", "skipped")
 
 
 def conn():
-    c = sqlite3.connect(DB)
+    c = sqlite3.connect(DB, timeout=60)
     c.execute("""CREATE TABLE IF NOT EXISTS items(
         id TEXT PRIMARY KEY, title TEXT, year INTEGER, pubtype TEXT,
         status TEXT NOT NULL DEFAULT 'found', priority INTEGER DEFAULT 0,

@@ -1,0 +1,45 @@
+source_id: '34487069'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34487069/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '34487069'
+doi: 10.23750/abm.v92i4.11572
+title: A rare case of Ovarian Juvenile Granulosa Cell Tumor in an Infant with Isosexual Pseudo Puberty and a Revision of Literature.
+journal: 'Acta bio-medica : Atenei Parmensis'
+year: 2021
+first_author: De Sanctis V
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 9 months
+alterations: []
+treatments:
+- regimen: left total salpingo-oophorectomy, no chemotherapy
+  setting: primary, FIGO 1a
+  n: 1
+  outcome: no recurrence after 12 months
+presentation:
+- isosexual pseudo-puberty
+- vaginal bleeding
+- breast development
+- pubic hair
+- advanced bone age
+key_findings:
+- 9-month-old girl with bloody vaginal secretions, bilateral breast development and fine pubic hair from about 7 months of age.
+- Elevated estradiol, AMH, inhibin A and B, and androstenedione; suppressed LH and FSH; bone age advanced.
+- 5.4 x 4.0 x 5.4 cm solid left adnexal mass; left total salpingo-oophorectomy; tumor 6.5 x 4 x 6.5 cm, 75 grams; JGCT FIGO stage 1a; no chemotherapy or radiotherapy.
+- Estradiol prepubertal and AMH/inhibin decreased at 1 week and 1 month; breast development regressed within 6 months; no recurrence after 12 months.
+- Includes a literature table of JGCT in infants under 1 year reported 1998-2021; cites Bouffet 1997 review of 36 cases before age 2 years, 21 younger than 1 year.
+relevance_to_jgct: Infant JGCT with endocrine follow-up showing AMH and inhibin normalization after surgery; literature compilation of infant cases.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text read via PMC8477099. Text reports bone age advance inconsistently (1.8 years (+4 SD) in one place, 18 months (3.4 SD) in a figure legend).
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

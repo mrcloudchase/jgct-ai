@@ -12,6 +12,7 @@ journal: null
 year: 2023
 first_author: null
 study_type: registry
+tumor_site: null
 n_jgct_patients: null
 age_range: null
 alterations: []

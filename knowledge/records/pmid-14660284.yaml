@@ -1,0 +1,36 @@
+source_id: '14660284'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/14660284/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '14660284'
+doi: null
+title: 'Juvenile granulosa cell tumor of the testis: a case presenting as a small round cell tumor of childhood.'
+journal: Ultrastructural pathology
+year: 2003
+first_author: Fidda N
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 4 years
+alterations: []
+treatments: []
+presentation:
+- testicular mass
+- hormonal activity
+key_findings:
+- Testicular JGCT in a 4-year-old boy with highly undifferentiated appearance and robust mitotic activity, initially suggesting a small round cell tumor.
+- Immunocytochemistry and ultrastructure excluded small round cell tumors and led to the diagnosis.
+- Described as the oldest reported patient with testicular JGCT at the time and the first with clinical evidence of hormonal activity.
+relevance_to_jgct: Pathologic mimicry of testicular JGCT; hormonal activity.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

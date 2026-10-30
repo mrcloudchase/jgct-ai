@@ -1,0 +1,42 @@
+source_id: '23217189'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23217189/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '23217189'
+doi: 10.1186/1824-7288-38-67
+title: 'Juvenile granulosa cell tumor of the testis: prenatal diagnosis and prescrotal approach.'
+journal: Italian journal of pediatrics
+year: 2012
+first_author: Bulotta AL
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: newborn
+alterations: []
+treatments:
+- regimen: radical orchiectomy via prescrotal incision
+  setting: primary
+  n: 1
+  outcome: healthy at time of writing; follow-up duration not stated
+presentation:
+- prenatally detected multicystic testicular mass
+- scrotal mass at birth
+key_findings:
+- Fetal ultrasound at 36th week of gestation showed a multicystic left testicular mass; postnatal ultrasound showed a 1.57 x 1.33 cm complex cystic mass.
+- Karyotype normal; serum AFP 6679 IU/ml, HCG 8 mIU/ml, testosterone 1.75 ng/ml, inhibin B 346 pg/ml.
+- Left radical orchiectomy by sub-inguinal (prescrotal) incision; tumor immunopositive for inhibin and calretinin, negative for AFP; no normal testicular parenchyma.
+- No complications; ultrasound a month after surgery without masses; patient healthy at time of writing.
+- Authors state JGCT accounts for about 5% of prepubertal testis tumors and radical orchiectomy is sufficient treatment.
+relevance_to_jgct: Prenatally detected testicular JGCT managed by orchiectomy through a prescrotal approach.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text via PMC3585781. AFP value reported as stated; the authors do not interpret it relative to neonatal norms in the case section.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

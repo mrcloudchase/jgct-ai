@@ -12,6 +12,7 @@ journal: The Journal of clinical endocrinology and metabolism
 year: 2006
 first_author: Kalfa N
 study_type: genomic
+tumor_site: ovary
 n_jgct_patients: 30
 age_range: null
 alterations:

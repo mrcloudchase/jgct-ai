@@ -1,0 +1,38 @@
+source_id: '27057263'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/27057263/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '27057263'
+doi: 10.12659/PJR.896033
+title: 'Juvenile Granulosa Cell Tumour of the Ovary with Unilocular Pure Cystic Presentation: A Case Report and Review of Literature.'
+journal: Polish journal of radiology
+year: 2016
+first_author: Anandpara KM
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 18 years
+alterations: []
+treatments: []
+presentation:
+- chronic abdominal pain
+- abdominal distension
+- facial hair
+- unilocular cystic ovarian mass
+key_findings:
+- 18-year-old with chronic pain, abdominal distension and facial hair.
+- Imaging showed a large, purely cystic, unilocular lesion without solid components, debris or septations; histology JGCT.
+- Authors propose a malignant ovarian lesion be included in the differential diagnosis of a unilocular purely cystic ovarian lesion.
+relevance_to_jgct: 'Imaging pitfall: JGCT can present as a purely cystic unilocular mass.'
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. Treatment and outcome not in abstract.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

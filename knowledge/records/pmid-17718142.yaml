@@ -1,0 +1,40 @@
+source_id: '17718142'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/17718142/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '17718142'
+doi: 10.1159/000325815
+title: 'Testicular juvenile granulosa cell tumor: a case report.'
+journal: Acta cytologica
+year: 2007
+first_author: Barroca H
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 3 months
+alterations: []
+treatments:
+- regimen: orchiectomy
+  setting: primary
+  n: 1
+  outcome: not stated
+presentation:
+- testicular mass
+key_findings:
+- 3-month-old male infant with testicular JGCT initially evaluated by fine needle biopsy showing vimentin, alpha-inhibin and S-100-positive spindle cells.
+- Orchiectomy performed; histology confirmed JGCT.
+- Authors state testicular JGCT is the most common testicular neoplasm in the first 6 months of life and found no prior reports of its cytologic features.
+- Orchiectomy alone described as recommended because no metastasis or recurrence had been reported.
+relevance_to_jgct: Cytology (FNA) of testicular JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

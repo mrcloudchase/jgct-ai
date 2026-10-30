@@ -12,6 +12,7 @@ journal: The American journal of surgical pathology
 year: 2015
 first_author: Kao CS
 study_type: case_series
+tumor_site: testis
 n_jgct_patients: 70
 age_range: 30 weeks gestation-10 years
 alterations: []

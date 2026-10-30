@@ -1,0 +1,44 @@
+source_id: '23776871'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23776871/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '23776871'
+doi: 10.4103/2230-8210.107870
+title: 'Juvenile granulosa cell tumor presenting as isosexual precocious puberty: A case report and review of literature.'
+journal: Indian journal of endocrinology and metabolism
+year: 2013
+first_author: Haroon NN
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 7 years
+alterations: []
+treatments:
+- regimen: right salpingo-oophorectomy (emergency, torsion)
+  setting: primary, FIGO IA
+  n: 1
+  outcome: no recurrence at 3.5 years
+presentation:
+- isosexual precocious puberty
+- vaginal bleeding
+- advanced bone age
+- ovarian torsion
+key_findings:
+- 7-year-old girl with 18 months of progressive breast development, menarche 1 year earlier, Tanner IV breast and III pubic hair.
+- Serum estradiol 414 pg/ml with FSH <1 IU/L; bone age 8.5 years at chronological age 7 years 2 months; 6 x 7 x 9 cm right adnexal mass; beta-HCG, CEA, AFP negative; inhibin not measured.
+- Presented with ovarian torsion before planned surgery; emergency laparotomy and right salpingo-oophorectomy.
+- Encapsulated 450-gram tumor without capsular breach; histology noted nuclear grooving and extensive luteinisation; FIGO Stage IA.
+- Breast size regressed, bleeding stopped, estradiol normalized; no recurrence after 3 and half years.
+relevance_to_jgct: Classic isosexual precocity from stage IA JGCT, complicated by torsion, with no recurrence at 3.5 years after surgery alone.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text via PMC3659885. The abstract's wording closely matches the abstract of Fleming 2010 [pmid-20371195], but the cases differ (right side with torsion here; left side in Fleming).
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

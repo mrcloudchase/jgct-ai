@@ -1,0 +1,43 @@
+source_id: '28144098'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/28144098/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '28144098'
+doi: 10.4103/0971-5851.195749
+title: Juvenile granulosa cell tumor associated with Ollier disease.
+journal: 'Indian journal of medical and paediatric oncology : official journal of Indian Society of Medical & Paediatric Oncology'
+year: 2016
+first_author: Sampagar AA
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 2.5 years
+alterations: []
+treatments:
+- regimen: surgical removal of ovarian tumor + chemotherapy per germ cell tumor protocol
+  setting: primary, FIGO IC3
+  n: 1
+  outcome: pubertal signs regressed; long-term outcome not reported
+presentation:
+- precocious puberty
+- abdominal mass
+- Ollier disease (incidental enchondromas)
+key_findings:
+- 2.5-year-old girl with precocious puberty (Tanner stage 2) and a 10 x 5 x 11 cm right ovarian mass with cystic and necrotic areas.
+- Lesions in the right femur and iliac blade on MRI were initially reported as metastases; biopsy showed enchondromas, leading to a diagnosis of Ollier disease.
+- 'Tumor expressed inhibin, calretinin, melan-A (focal) and cytokeratin; peritoneal aspirate positive for malignant cells, omentum uninvolved: FIGO IC3.'
+- Breast size and pubic hair regressed weeks after surgery; patient given chemotherapy per germ cell tumor protocol.
+- Maternal history of ovulation-inducing drug intake for 2 years before conception noted by authors.
+relevance_to_jgct: Shows enchondromas of Ollier disease can mimic bone metastases during JGCT staging.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text via PMC5234168. Chemotherapy regimen and follow-up duration not specified. No molecular testing reported.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

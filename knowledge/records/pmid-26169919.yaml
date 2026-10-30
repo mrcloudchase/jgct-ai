@@ -1,0 +1,42 @@
+source_id: '26169919'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26169919/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '26169919'
+doi: 10.1177/1066896915573569
+title: 'Gynandroblastoma With Juvenile Granulosa Cell Tumor and Concurrent Renal Cell Carcinoma: A Case Report and Review of Literature.'
+journal: International journal of surgical pathology
+year: 2015
+first_author: Wilberger A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 32 years
+alterations: []
+treatments:
+- regimen: surgical excision of ovarian and renal masses
+  setting: primary
+  n: 1
+  outcome: outcome not reported in abstract
+presentation:
+- hyperandrogenism
+- ovarian mass
+- concurrent renal mass
+key_findings:
+- 32-year-old woman with hyperandrogenism and concurrent ovarian and renal masses.
+- Ovarian mass was gynandroblastoma with 45% juvenile granulosa cell tumor and 55% intermediately differentiated Sertoli-Leydig tumor.
+- Renal mass was conventional clear cell renal cell carcinoma.
+- Authors state concurrent gynandroblastoma with another malignant neoplasm had not been reported.
+relevance_to_jgct: Mixed tumor with substantial JGCT component, with a concurrent renal cell carcinoma.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. Gynandroblastoma, not pure JGCT. No germline testing mentioned in abstract.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

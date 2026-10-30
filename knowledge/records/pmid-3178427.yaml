@@ -1,0 +1,39 @@
+source_id: '3178427'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/3178427/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '3178427'
+doi: null
+title: Juvenile granulosa cell tumor of the testis.
+journal: Archives of pathology & laboratory medicine
+year: 1988
+first_author: Nistal M
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: newborn
+alterations:
+- gene: karyotype
+  alteration: normal
+  frequency: 1/1
+  notes: null
+treatments: []
+presentation:
+- testicular torsion
+key_findings:
+- Testicular JGCT in a newborn presenting with testicular torsion; no malformations; normal karyotype.
+- Initial tumoral lesions in adjacent seminiferous tubules suggest origin from immature Sertoli cells.
+- Described as the tenth reported newborn case and second with torsion.
+relevance_to_jgct: Histogenesis of testicular JGCT; torsion presentation.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

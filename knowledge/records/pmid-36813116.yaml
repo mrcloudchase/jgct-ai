@@ -12,6 +12,7 @@ journal: Modern pathology
 year: 2023
 first_author: Collins K
 study_type: genomic
+tumor_site: testis
 n_jgct_patients: 18
 age_range: newborn to 5 months
 alterations:

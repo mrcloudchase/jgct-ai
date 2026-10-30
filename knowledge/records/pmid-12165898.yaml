@@ -1,6 +1,6 @@
 source_id: '12165898'
 source_type: pmid
-source_tier: peer_reviewed
+source_tier: registry
 source_url: https://pubmed.ncbi.nlm.nih.gov/12165898/
 retrieved_on: '2026-10-29'
 full_text_read: false
@@ -12,6 +12,7 @@ journal: Klinische Padiatrie
 year: 2002
 first_author: Schneider DT
 study_type: case_series
+tumor_site: ovary
 n_jgct_patients: 7
 age_range: 4;2-18;11 years (median 14;8)
 alterations: []
@@ -30,7 +31,7 @@ relevance_to_jgct: Early evidence that cisplatin-based adjuvant chemotherapy can
 conflicts_with: []
 superseded_by: null
 retracted: false
-notes: null
+notes: 'Tier set to registry (2026-10-30) per CLAUDE.md: a disease registry or consortium report is registry even in a peer-reviewed journal.'
 confidence: 3
 review_status: draft
 reviewed_by: null

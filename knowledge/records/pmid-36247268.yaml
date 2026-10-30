@@ -1,0 +1,42 @@
+source_id: '36247268'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/36247268/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '36247268'
+doi: null
+title: 'Giant juvenile granulosa cell tumor torsion: a case report.'
+journal: American journal of translational research
+year: 2022
+first_author: Zhang R
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 17 years
+alterations: []
+treatments:
+- regimen: emergent open resection of left ovarian tumor
+  setting: primary
+  n: 1
+  outcome: uncomplicated postoperative course; long-term outcome not stated
+presentation:
+- ovarian torsion
+- abdominal pain
+- nausea
+- vomiting
+key_findings:
+- 17-year-old with lower abdominal pain for 1 day after defecation, nausea and vomiting; palpable mass about 150 mm x 130 mm.
+- Ultrasound mixed echo of about 152 mm x 112 mm in the pelvic cavity; diagnosis of ovarian tumor torsion.
+- Emergent open resection of left ovarian tumor; pathology juvenile granulosa cell tumor; no postoperative infection or thrombosis.
+relevance_to_jgct: Adolescent JGCT presenting as torsion of a giant mass.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (PMC9556492 not read). Stage not given. PubMed lists no DOI.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

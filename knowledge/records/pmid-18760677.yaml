@@ -1,0 +1,35 @@
+source_id: '18760677'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/18760677/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '18760677'
+doi: 10.1016/j.jpurol.2008.04.005
+title: Prenatal diagnosis of juvenile granulosa cell tumor of the testis.
+journal: Journal of pediatric urology
+year: 2008
+first_author: Peterson C
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: prenatal/newborn
+alterations: []
+treatments: []
+presentation:
+- prenatally detected testicular mass
+key_findings:
+- Case of a prenatally diagnosed testis tumor subsequently diagnosed as JGCT.
+- Testicular JGCT described as a rare benign neoplasm accounting for 1-5% of all prepubertal testis tumors (citing Metcalfe 2003 and Ross 2002).
+- A prior series (Bryan 2003) retrospectively identified a cystic testis tumor on prenatal ultrasound later diagnosed as JGCT.
+relevance_to_jgct: Prenatal ultrasound detection of testicular JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

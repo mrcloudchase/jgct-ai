@@ -2,8 +2,8 @@ source_id: '37796616'
 source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/37796616/
-retrieved_on: '2026-10-29'
-full_text_read: false
+retrieved_on: '2026-10-30'
+full_text_read: true
 language: en
 pmid: '37796616'
 doi: 10.1172/jci.insight.170079
@@ -12,26 +12,54 @@ journal: JCI insight
 year: 2023
 first_author: Abdel-Salam GMH
 study_type: genomic
+tumor_site: both
 n_jgct_patients: 2
-age_range: null
+age_range: 11 and 14 months at JGCT surgery
 alterations:
 - gene: MAD2L1BP
-  alteration: homozygous germline R253* nonsense
-  frequency: 2 siblings
-  notes: null
-treatments: []
-presentation: []
+  alteration: homozygous germline c.757C>T p.(Arg253*) (R253*)
+  frequency: 2 siblings (family 1)
+  notes: hypomorphic; partial NMD and unstable truncated p31comet; parents and sisters heterozygous
+- gene: MAD2L1BP
+  alteration: homozygous germline c.679C>T p.(Arg227*)
+  frequency: 1 patient (family 2)
+  notes: no tumor; died at 23 months; moderate mosaic aneuploidy (10% of cells)
+- gene: MAD2L1BP
+  alteration: mutation screen
+  frequency: 0/23 sporadic JGCT
+  notes: WES of 23 unrelated nonsyndromic JGCT patients (1 testicular, 22 ovarian; age 1 month to 22 years)
+- gene: NF1
+  alteration: oncogenic splice region variant at very low allele frequency
+  frequency: 1/2 sibling tumors
+  notes: patient 1a only; no oncogenic alterations in patient 1b tumor
+treatments:
+- regimen: surgery then tamoxifen for 12 months
+  setting: patient 1a, left ovarian JGCT at 14 months
+  n: 1
+  outcome: complete remission since then
+- regimen: radical left orchiectomy
+  setting: patient 1b, testicular JGCT at 11 months
+  n: 1
+  outcome: null
+presentation:
+- microcephaly
+- brain malformations (cysts, polymicrogyria)
+- seizures
+- developmental delay
+- high-grade mosaic variegated aneuploidy
 key_findings:
-- Homozygous MAD2L1BP nonsense variant R253* in 2 siblings with microcephaly, epileptic encephalopathy, and juvenile granulosa cell tumors of ovary and testis.
-- Patient cells showed high-grade mosaic variegated aneuploidy; truncated p31comet was defective in Trip13, Mad2 and Rev7 binding and in SAC silencing and HDR.
-- Links human p31comet mutations to aneuploidy and tumor predisposition.
-relevance_to_jgct: Describes a germline recessive predisposition (MAD2L1BP) for JGCT.
+- Homozygous MAD2L1BP nonsense variant R253* in 2 siblings of consanguineous Egyptian parents with microcephaly, brain malformations, seizures, developmental delay and JGCT of the ovary (girl, surgery at 14 months, then tamoxifen for 12 months, complete remission) and testis (boy, radical orchiectomy at 11 months).
+- Both siblings had high-grade mosaic variegated aneuploidy in lymphocytes and fibroblasts; a second family's boy with homozygous R227* had moderate aneuploidy (10% of cells), no tumor, and died at 23 months.
+- No MAD2L1BP mutations in 23 unrelated nonsyndromic patients with sporadic JGCT (1 testicular, 22 ovarian; age at diagnosis 1 month to 22 years).
+- Sibling tumors had low TMB and were microsatellite stable, with no specific mutational signature; truncated p31comet was defective in Trip13 binding, SAC silencing and HDR, and lost interaction with tp53.
+- No history of aggregated tumor incidence in either family, so no indication of elevated tumor risk for heterozygous carriers.
+relevance_to_jgct: Describes a germline autosomal recessive predisposition (biallelic MAD2L1BP, mosaic variegated aneuploidy) for infantile ovarian and testicular JGCT; not found in sporadic JGCT.
 conflicts_with: []
 superseded_by: null
 retracted: false
-notes: null
-confidence: 3
+notes: Full text read via Europe PMC (PMC10721328) on 2026-10-30. Table 1 (clinical features) was not present in the extracted text. Results of the FOXL2 and DICER1 screen in the 23 sporadic JGCTs are in Supplemental Table 2, which was not retrieved.
+confidence: 4
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract
+extraction_method: full_text

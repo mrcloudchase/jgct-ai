@@ -12,6 +12,7 @@ journal: null
 year: 2011
 first_author: null
 study_type: registry
+tumor_site: both
 n_jgct_patients: null
 age_range: null
 alterations: []

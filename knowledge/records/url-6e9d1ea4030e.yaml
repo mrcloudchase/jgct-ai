@@ -1,0 +1,35 @@
+source_id: 6e9d1ea4030e
+source_type: url
+source_tier: conference_abstract
+source_url: https://doi.org/10.1007/s00247-013-2675-4#076
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: null
+doi: 10.1007/s00247-013-2675-4
+title: A rare congenital benign testis tumour in a newborn (ESPR 2013 abstract 076)
+journal: Pediatric Radiology 2013 (ESPR 50th Annual Meeting abstracts)
+year: 2013
+first_author: Czerwińska K
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: newborn
+alterations: []
+treatments: []
+presentation:
+- scrotal mass
+key_findings:
+- Full-term newborn with a left scrotal mass from birth; ultrasound on day 2 showed a well-defined, large, complex cystic mass with significant septal blood flow.
+- Surgical resection; histology juvenile granulosa cell tumour; karyotype normal; serum tumour markers not elevated per authors.
+- Authors describe JGCT as 'a benign, rarely diagnosed subset of testicular sex-stromal tumours' with most cases in the first 6 months of life, and associated with chromosome X abnormalities.
+relevance_to_jgct: Neonatal testicular JGCT with cystic ultrasound appearance.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Verbatim from Europe PMC full text PMC3679720 (Pediatr Radiol supplement, doi 10.1007/s00247-013-2675-4), poster abstract 076. 'Benign' characterization is the authors'.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

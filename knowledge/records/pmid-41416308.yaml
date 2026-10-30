@@ -1,0 +1,40 @@
+source_id: '41416308'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41416308/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '41416308'
+doi: 10.7759/cureus.97068
+title: Gynandroblastoma With a Juvenile Granulosa Cell Tumor Component Presenting as Ovarian Torsion in a 14-Year-Old Female Patient.
+journal: Cureus
+year: 2025
+first_author: Su L
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 14 years
+alterations: []
+treatments:
+- regimen: left salpingo-oophorectomy
+  setting: primary
+  n: 1
+  outcome: outcome not stated in abstract
+presentation:
+- ovarian torsion
+- adnexal mass
+key_findings:
+- 14-year-old female with a left adnexal mass suspected to be torsed on ultrasound.
+- 'Left salpingo-oophorectomy; histology: gynandroblastoma composed of a juvenile granulosa cell tumor and a moderately differentiated Sertoli-Leydig cell tumor component.'
+- Authors note the histologic grade of the SLCT component may influence prognosis.
+relevance_to_jgct: Mixed sex cord-stromal tumor with a JGCT component; relevant to differential diagnosis.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (PMC12711108 not read). Gynandroblastoma, not pure JGCT.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

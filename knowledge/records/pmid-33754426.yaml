@@ -1,0 +1,44 @@
+source_id: '33754426'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33754426/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '33754426'
+doi: 10.1111/jog.14768
+title: 'Case of fetal ovarian juvenile granulosa cell tumor: Complications and management.'
+journal: The journal of obstetrics and gynaecology research
+year: 2021
+first_author: Ben David Y
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: fetal/neonatal
+alterations: []
+treatments:
+- regimen: emergent neonatal surgery
+  setting: primary, torsion
+  n: 1
+  outcome: progressive improvement; follow-up length not stated
+presentation:
+- fetal ovarian cyst
+- polyhydramnios
+- fetal virilization
+- neonatal ovarian torsion
+- intracystic hemorrhage
+key_findings:
+- Intra-abdominal cystic structure in a female fetus (one of dichorionic-diamniotic twins) detected at 30 weeks of gestation.
+- Sonographic triad of ovarian cystic mass, polyhydramnios, and signs of fetal virilization suggested an androgen-secreting ovarian tumor.
+- After delivery, acute ovarian torsion and intracystic hemorrhage required emergent surgery, confirming JGCT.
+- Laboratory, clinical, and morphological features improved progressively after surgery.
+relevance_to_jgct: Prenatally detected (fetal) androgen-secreting JGCT; extends the age range to before birth.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; no PMC.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

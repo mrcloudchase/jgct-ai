@@ -1,0 +1,44 @@
+source_id: '2332268'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/2332268/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '2332268'
+doi: 10.1097/00004347-199004000-00001
+title: DNA content of juvenile granulosa tumors determined by flow cytometry.
+journal: 'International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists'
+year: 1990
+first_author: Swanson SA
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 13
+age_range: stillborn to 16 years
+alterations:
+- gene: DNA ploidy
+  alteration: abnormal DNA content (flow cytometry)
+  frequency: 46%
+  notes: null
+treatments:
+- regimen: unilateral salpingo-oophorectomy (most common)
+  setting: primary
+  n: null
+  outcome: 11 with follow-up free of disease
+presentation: []
+key_findings:
+- Thirteen JGT examined by flow cytometry of paraffin material; ages stillborn to 16 years; unilateral salpingo-oophorectomy the most common therapy.
+- Eleven patients with follow-up were free of disease.
+- Marked nuclear atypia in three cases and high mitotic counts in six; only marked atypia correlated with DNA content.
+- 46% of JGT had abnormal DNA content and increased average growth fraction; highest DNA indices found predominantly in postmenarchal girls.
+- JGT may exhibit abnormal DNA content, atypia and numerous mitoses yet behave benignly.
+relevance_to_jgct: Ploidy and atypia do not predict behavior in low-stage pediatric JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

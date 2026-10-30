@@ -1,0 +1,40 @@
+source_id: '21841464'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21841464/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '21841464'
+doi: 10.1097/MAJ.0b013e318229992c
+title: Early pregnancy complicated with juvenile granulosa cell tumor.
+journal: The American journal of the medical sciences
+year: 2011
+first_author: Xu H
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 24 years
+alterations: []
+treatments:
+- regimen: surgical excision during pregnancy
+  setting: primary, first trimester
+  n: 1
+  outcome: healthy delivery at 37 weeks; no evidence of disease at about 9 months
+presentation:
+- pelvic mass in pregnancy
+key_findings:
+- 24-year-old woman at 12 weeks and 3 days of pregnancy with a pelvic mass.
+- Surgical exploration revealed a smooth, solid, mobile, well-encapsulated left ovarian mass; histology well-differentiated JGCT.
+- Pregnancy continued uncomplicated with delivery of a healthy baby at 37 weeks gestation.
+- No evidence of disease about 9 months after diagnosis.
+relevance_to_jgct: JGCT diagnosed and resected in early pregnancy with an uncomplicated pregnancy outcome.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. Extent of surgery not detailed in abstract.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract
