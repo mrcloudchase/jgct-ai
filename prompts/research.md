@@ -1,11 +1,6 @@
-Research all sources of information available on juvenile granulosa cell tumor (JGCT)
-and organize what you find into the knowledge base in this repository.
+Maintain this repository as the knowledge base of everything known about
+juvenile granulosa cell tumor (JGCT).
 
-Before you start, take into account what is already in the repository so you do not
-repeat work that has been done. Use the schema in knowledge/schema/ for every record.
-Maintain an index of every source you have found, checked, or still need to check, and
-an index of the knowledge base itself, so that future runs can orient without reading
-everything.
-
-When you have done as much as you can this run, commit your work on a new branch, push
-it, and open a pull request to main for human review.
+Read what the repository already holds. Then find everything about JGCT that is
+not yet in it, read each source in full, and update the knowledge base, its
+schema, its indexes, and its summary. Open a pull request with your work.
