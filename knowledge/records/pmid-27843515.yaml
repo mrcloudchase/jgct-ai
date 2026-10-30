@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/27843515/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC5106525
 language: en
 pmid: '27843515'
 doi: 10.2484/rcr.v4i1.178
+pmcid: PMC5106525
 title: An Unusual Case of Juvenile Granulosa Cell Tumor of the Ovary.
 journal: Radiology case reports
 year: 2009
@@ -17,34 +18,33 @@ n_jgct_patients: 1
 age_range: 19 years
 alterations: []
 treatments:
-- regimen: right salpingo-oophorectomy with full surgical staging, no adjuvant therapy
-  setting: primary, FIGO IC
+- regimen: Right salpingo-oophorectomy with staging (pelvic/periaortic nodes, omentum, ascites negative); no adjuvant therapy
+  setting: FIGO IC (ruptured cysts, 27 cm tumor)
   n: 1
-  outcome: liver and splenic hilum metastases at 3 months
-- regimen: numerous cycles of varying chemotherapy regimens (not specified)
-  setting: recurrence
+  outcome: metastases to liver and splenic hilum on 3-month CT
+- regimen: Numerous cycles of varying chemotherapy regimens (not specified)
+  setting: metastatic recurrence
   n: 1
-  outcome: progression of liver lesions and peritoneal implants; new pelvic disease; outcome not reported
+  outcome: 'progression: enlarging liver lesions and peritoneal implants, new right adnexal collections; inhibin still elevated, less than 1 year after diagnosis'
 presentation:
-- abdominal pain
-- abdominal mass
-- hirsutism
-- menstrual irregularity
+- worsening right-sided abdominal pain
+- lower abdominal mass
+- menstrual irregularity and heavy bleeding since age 14
+- hirsutism with male-pattern pubic hair
 - ascites
 key_findings:
-- 19-year-old with right abdominal pain, menstrual irregularity since 14, hirsutism with male-pattern pubic hair, and a 27 x 21 x 15 cm (3482 g) right ovarian cystic and solid mass with ascites.
-- Full staging (pelvic and periaortic nodes, omentum, ascites) negative; right salpingo-oophorectomy; FIGO Stage IC based on surface tumor. No adjuvant treatment given.
-- 3-month surveillance CT showed two new liver lesions (3.4 and 4 cm) and splenic hilum soft tissue masses consistent with metastases.
-- Despite numerous cycles of varying chemotherapy regimens, liver lesions and peritoneal implants enlarged and recurrent pelvic disease appeared; serum inhibin remained elevated.
-- 'Pathology: frequent mitoses, some nuclear anaplasia, extensive necrosis; IHC positive for inhibin, focally cytokeratin AE1/AE3.'
-- Authors note hormone levels were not obtained, so possible androgen secretion could not be confirmed.
-relevance_to_jgct: Documents rapid (3-month) hematogenous-pattern relapse of a fully staged stage IC JGCT not given adjuvant therapy, with progression on chemotherapy.
+- A 19-year-old nulligravid woman presented with right abdominal pain, a lower abdominal mass, hirsutism with male-pattern pubic hair and menstrual irregularity since age 14; no hormone levels were obtained.
+- CT showed a multilobulated, septated, predominantly low-attenuation abdominopelvic mass of about 27 x 22 x 15 cm with moderate ascites and non-enlarged periaortic nodes; ultrasound showed a complex cystic-solid mass.
+- Laparotomy found a 27 x 21 x 15 cm right ovarian cystic and solid mass with some ruptured cysts; right salpingo-oophorectomy and staging (nodes, omentum, ascites negative) were performed; specimen 3482 g, 60% solid, 40% cystic with hemorrhage and necrosis.
+- Histology showed frequent mitoses, some nuclear anaplasia, luteinized irregular follicles and no Call-Exner bodies; inhibin positive and focally AE1/AE3 positive; diagnosis JGCT, FIGO IC.
+- No further treatment was given initially; CT at 3 months showed two new liver lesions (3.4 and 4 cm) and splenic hilum soft tissue masses (metastases). Despite numerous cycles of varying chemotherapy regimens she progressed, with new right adnexal collections and persistently elevated inhibin, less than 1 year after diagnosis.
+- The authors present the case as an aggressive stage IC JGCT and cite that relapses of juvenile tumors tend to be rapid and aggressive, that relapse occurred in 2 of 4 stage IC patients receiving chemotherapy in one cited series, and that cisplatin-based multidrug regimens have been suggested for advanced or recurrent disease.
+relevance_to_jgct: Example of a large stage IC JGCT in a young adult that metastasized within 3 months despite negative surgical staging, illustrating aggressive behavior of ruptured stage I disease.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read (PMC5106525, Europe PMC). Regimens not named; final outcome not reported. Discussion cites literature figures (stage II 5-yr survival 55-75%, stage III/IV 22-50%) from secondary sources; not recorded as findings.
-confidence: 4
+notes: Specific chemotherapy regimens are not named. Tumor size is given as 27 x 22 x 15 cm on CT and 27 x 21 x 15 cm at surgery (figure legend says 21 x 27 x 15). The abstract says the patient 'returned 3 months later with metastatic disease', whereas the text says metastases were found on the 3-month surveillance CT. Review statements in the Discussion are cited from other literature.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

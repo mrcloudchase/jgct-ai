@@ -3,11 +3,12 @@ source_type: pmid
 source_tier: guideline
 source_url: https://pubmed.ncbi.nlm.nih.gov/41762432/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC13451516
 language: en
 pmid: '41762432'
 doi: 10.1007/s40618-026-02849-9
-title: 'Management of andrological disorders from childhood and adolescence to transition age: guidelines from the Italian Society of Andrology and Sexual Medicine (SIAMS) in collaboration with the Italian Society for Pediatric Endocrinology and Diabetology (SIEDP) - part-2.'
+pmcid: PMC13451516
+title: 'Management of andrological disorders from childhood and adolescence to transition age: guidelines from the Italian Society of Andrology and Sexual Medicine (SIAMS) in collaboration with the Italian Society for Pediatric Endocrinology and Diabetology (SIEDP) - part-2'
 journal: Journal of endocrinological investigation
 year: 2026
 first_author: Bonomi M
@@ -16,20 +17,27 @@ tumor_site: testis
 n_jgct_patients: null
 age_range: null
 alterations: []
-treatments: []
-presentation: []
+treatments:
+- regimen: Testis-sparing surgery (partial orchiectomy/enucleation) with intraoperative frozen section
+  setting: Pre-pubertal testicular tumors with negative serum tumor markers (high suspicion of benign lesion)
+  n: null
+  outcome: Recommended (R6.9, strong, moderate-quality evidence); orchiectomy considered for lesions occupying the whole testis or alpha-FP >100 ng/mL
+presentation:
+- firm, usually painless palpable testicular mass in children and adolescents (general testicular tumors)
 key_findings:
-- Sex cord-stromal tumors, including juvenile granulosa cell, Leydig, and Sertoli cell tumors, are described as rare (10-13%) and usually benign in children, though malignancy is occasionally observed in adolescents and young adults.
-- At least abdomen MRI is recommended in sex cord-stromal tumors as 10% are malignant with poor prognosis.
-- 'R6.4: in pre-pubertal patients alpha-FP is sufficient to discriminate between malignant and benign tumors.'
-- 'R6.9: testis-sparing surgery with intraoperative frozen-section examination recommended in pre-pubertal tumors if serum tumor markers are negative (1, moderate quality).'
-relevance_to_jgct: Italian GRADE guideline on pediatric testicular tumors; general testicular SCST statements applicable to infant testicular JGCT.
+- 'Scope: this is a long Italian (SIAMS with SIEDP) GRADE-based guideline Part 2 on andrological disorders from childhood to transition age (minipuberty, cryptorchidism, disorders of sex development, micropenis, hypospadias, epididymitis/orchitis, testicular tumors, testicular torsion); it is not specific to JGCT and the testicular tumor chapter is the only relevant part.'
+- 'JGCT is mentioned once: in children and adolescents most testicular tumors are germ cell tumors, and sex cord-stromal tumors, including juvenile granulosa cell, Leydig and Sertoli cell tumors, are rare (10-13%) and usually benign in children, though malignancy is occasionally observed in adolescents and young adults.'
+- Pre-pubertal testicular tumors are described as very rare, generally benign and rarely metastatic, whereas post-pubertal tumors are malignant in 75% of cases and 20-30% present with distant metastases; prepubertal tumors are almost exclusively benign teratomas/dermoid cysts with yolk sac tumor the malignant exception.
+- 'Diagnosis: scrotal ultrasound for any palpable testicular mass (R6.1, strong); serum tumor markers alpha-FP, beta-hCG and LDH before treatment, and in prepubertal patients alpha-FP alone is sufficient to discriminate malignant from benign tumors (R6.4); the guideline states that no male over 6 months of age with a testicular lesion and alpha-FP <100 ng/mL has a malignant tumor.'
+- 'Surgery: testis-sparing surgery with intraoperative frozen section is recommended in prepubertal tumors with negative markers (R6.9) and partial orchiectomy with frozen section is called standard practice because of the high rate of benign lesions; orchiectomy for very large lesions occupying the whole testicle or alpha-FP >100 ng/mL.'
+- 'Staging: not required for benign prepubertal tumors; prepubertal staging uses the COG system; the guideline recommends at least abdominal MRI in sex cord-stromal tumors because 10% are malignant with poor prognosis.'
+- No JGCT-specific recommendation, incidence, marker or outcome data, and no reference to JGCT's age at presentation or hormonal activity, are given.
+relevance_to_jgct: General andrology guideline with one sentence classing testicular juvenile granulosa cell tumor among rare, usually benign sex cord-stromal tumors of childhood; its prepubertal testicular tumor recommendations (alpha-FP triage, testis-sparing surgery with frozen section) are the context in which testicular JGCT is managed.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC13451516). JGCT named only within the SCST group; recommendations are for testicular tumors generally, not JGCT-specific. The '10% malignant' statement concerns SCST overall.
-confidence: 3
+notes: Mostly off-topic for JGCT; read in full but only the testicular tumor section (and its single JGCT mention) is summarized. The 10-13% sex cord-stromal tumor proportion and the claim that 10% of sex cord-stromal tumors are malignant are the guideline's citations to other work (refs 285-287, 312), and the context there is mixed pediatric and adolescent testicular tumors. Guidance is tailored to Italy. Compare with testicular JGCT sources pmid-33201299 and pmid-40272823.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

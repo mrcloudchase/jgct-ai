@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/31871849/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC6923718
 language: en
 pmid: '31871849'
 doi: 10.1055/s-0039-3400275
+pmcid: PMC6923718
 title: 'Juvenile Granulosa Cell Tumor of the Testis: Prenatal Diagnosis and Management.'
 journal: European journal of pediatric surgery reports
 year: 2019
@@ -14,30 +15,29 @@ first_author: Vatta F
 study_type: case_report
 tumor_site: testis
 n_jgct_patients: 1
-age_range: 2 days (newborn)
+age_range: newborn (diagnosed prenatally at 38 weeks)
 alterations: []
 treatments:
-- regimen: inguinal funiculo-orchiectomy
-  setting: primary; testis-sparing not feasible
+- regimen: Inguinal funiculo-orchiectomy (left)
+  setting: neonate, tumor replacing all testicular parenchyma
   n: 1
-  outcome: no evidence of disease at 7-year follow-up
+  outcome: discharged 2 days after surgery; uneventful 7-year follow-up
 presentation:
-- prenatally detected multicystic testicular mass
-- painless scrotal mass at birth
+- left multilocular cystic testicular mass on fetal ultrasound at 38 weeks
+- painless left scrotal mass at birth
 key_findings:
-- Fetal ultrasound at the 38th week of gestation identified a left multilocular septated cystic testicular mass (2 x 2 cm), suggestive of JGCT.
-- Serum AFP and beta-HCG normal for age; karyotype normal; abdominal ultrasound normal.
-- Inguinal exploration showed a cystic mass beneath the tunica albuginea replacing all normal parenchyma; organ-sparing excision was considered not possible and funiculo-orchiectomy was performed.
-- Tumor cells immunoreactive for alpha-inhibin, CD99 and calretinin, focal cytokeratin; negative for AFP, CD30, vimentin, beta-HCG; Ki67 about 1%.
-- Tumor did not extend into spermatic cord, epididymis or tunica vaginalis.
-- Seven-year follow-up was uneventful.
-relevance_to_jgct: Shows neonatal testicular JGCT can be diagnosed prenatally by ultrasound and documents long (7-year) uneventful follow-up after orchiectomy.
+- Left testicular multilocular cystic mass (2 x 2 cm) seen on fetal ultrasound at 38 weeks (not seen on earlier routine scans), suspected JGCT; painless enlarged left scrotal mass at birth in a healthy newborn.
+- Postnatal ultrasound excluded torsion and showed multicystic mass without normal parenchyma; AFP and beta-hCG normal for age, karyotype normal, abdominal ultrasound normal.
+- Inguinal approach with left funiculo-orchiectomy because organ-sparing excision was not possible; specimen 2 x 1.5 cm well-circumscribed white mass with thin-walled cysts; tumor did not extend into spermatic cord, epididymis or tunica vaginalis; small rim of residual testis only.
+- 'Histology: follicle-like structures with basophilic mucicarmine-positive fluid, scant pale cytoplasm, no nuclear grooves, low mitotic activity; IHC positive for alpha-inhibin, CD99, calretinin, focal cytokeratin; negative for FLAP, AFP, CD30, vimentin, beta-hCG; Ki67 1%.'
+- Seven-year follow-up uneventful; authors cite this as only the third case suspected prenatally (earlier cases at 36 and 38 weeks) and that testicular JGCT has had a benign outcome in all reported cases; they conclude inguinal orchiectomy is the safest oncological approach when the tumor replaces the testis, although testis-sparing and trans-scrotal surgery have been reported.
+- 'From literature in the paper: JGCT is the most common testicular neoplasm in first 6 months of life and accounts for 1.2% of prepubertal testis tumors in the Prepubertal Testis Tumor Registry.'
+relevance_to_jgct: Documents prenatal ultrasound detection of testicular JGCT with benign long-term outcome after orchiectomy.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC6923718).
-confidence: 4
+notes: Single case; registry statistics are from cited sources.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

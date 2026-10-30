@@ -3,10 +3,11 @@ source_type: url
 source_tier: database
 source_url: https://clinicaltrials.gov/study/NCT01572467
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: https://clinicaltrials.gov/api/v2/studies/NCT01572467
 language: en
 pmid: null
 doi: null
+pmcid: null
 title: DICER1 Mutations and miRNA in Ovarian and Testicular Sex Cord Stromal Tumors of Childhood (NCT01572467)
 journal: ClinicalTrials.gov
 year: 2012
@@ -19,18 +20,17 @@ alterations: []
 treatments: []
 presentation: []
 key_findings:
-- Children's Oncology Group observational biology study, status COMPLETED, start 2012-04; estimated enrollment 50.
-- Tissue from the ATBR01 B1 tissue bank and from the International Pleuropulmonary Blastoma Registry, Children's Hospital of Boston, and Massachusetts General Hospital.
-- Eligible ovarian histologies include juvenile granulosa cell tumor, adult granulosa cell tumor, Sertoli-Leydig cell tumor, gynandroblastoma and others; testicular histologies include granulosa cell tumor, Sertoli, Leydig, Sertoli-Leydig and undifferentiated stromal tumors.
-- 'Primary outcome: ''Correlation between DICER1 mutations and miRNA pathways with outcomes using descriptive analysis.'''
-- No results posted on ClinicalTrials.gov.
-relevance_to_jgct: COG laboratory study that explicitly includes ovarian JGCT and testicular granulosa cell tumors in a pediatric DICER1/miRNA analysis.
+- Children's Oncology Group study ARAR12B2 (sponsor COG; collaborator NCI; PI Dana A. Hill), observational, retrospective, case-only; status COMPLETED (primary completion 2016-07; start 2012-04); estimated enrollment 50.
+- 'Objective: assess the role of DICER1 mutations and miRNA pathways in the etiology and progression of ovarian or testicular sex cord-stromal tumors.'
+- 'Method: archived fixed and frozen tumor tissue is analyzed for DICER1 mutation and mRNA expression by RT-PCR and laser microdissection, then correlated with age, diagnosis, pathology report, presenting symptoms, family history, treatment, outcome and follow-up.'
+- 'Eligible tissue: from the COG ATBR01 B1 tissue bank and the International Pleuropulmonary Blastoma Registry, Children''s Hospital of Boston and Massachusetts General Hospital; ovarian Sertoli-Leydig cell tumor, juvenile granulosa cell tumor, adult granulosa cell tumor, gynandroblastoma, SCTAT, undifferentiated SCST, Sertoli and Leydig tumors; testicular granulosa cell, Sertoli, Leydig, Sertoli-Leydig and undifferentiated stromal tumors.'
+- 'Primary outcome: correlation between DICER1 mutations and miRNA pathways with outcomes using descriptive analysis. No results are posted on the registry record.'
+relevance_to_jgct: Registered study of DICER1 in pediatric ovarian and testicular sex cord-stromal tumors including JGCT; the record reports design only and no results.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Fetched via ClinicalTrials.gov API v2 (/api/v2/studies/NCT01572467). No completion date or publication listed in the registry entry.
-confidence: 3
+notes: No results posted; do not cite findings from this record.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

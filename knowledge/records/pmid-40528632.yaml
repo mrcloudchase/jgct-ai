@@ -3,11 +3,12 @@ source_type: pmid
 source_tier: guideline
 source_url: https://pubmed.ncbi.nlm.nih.gov/40528632/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC12522033
 language: en
 pmid: '40528632'
 doi: 10.1111/his.15482
-title: 'Assessment and classification of sex cord-stromal tumours of the testis: recommendations from the testicular sex cord-stromal tumour (TESST) group, an Expert Panel of the Genitourinary Pathology Society (GUPS) and International Society of Urological Pathology (ISUP).'
+pmcid: PMC12522033
+title: 'Assessment and classification of sex cord-stromal tumours of the testis: recommendations from the testicular sex cord-stromal tumour (TESST) group, an Expert Panel of the Genitourinary Pathology Society (GUPS) and International Society of Urological Pathology (ISUP)'
 journal: Histopathology
 year: 2025
 first_author: Acosta AM
@@ -15,23 +16,28 @@ study_type: guideline
 tumor_site: testis
 n_jgct_patients: null
 age_range: null
-alterations: []
+alterations:
+- gene: AKT1 / GNAS
+  alteration: AKT1 internal tandem duplications (pleckstrin homology domain) and hotspot gain-of-function GNAS variants described in ovarian JGCT; not found in the limited number of testicular JGCT studied
+  frequency: null
+  notes: Statement by the panel citing prior studies; no new data in this paper.
 treatments: []
 presentation: []
 key_findings:
-- ISUP/GUPS-endorsed TESST expert panel (20 voting genitourinary pathologists) used a modified Delphi process with a 70% consensus threshold; live meeting 3/23/2024.
-- Recommends that juvenile granulosa cell tumour of the testis be renamed 'benign juvenile granulosa cell tumour' (consensus on need to rename 12/15, 80%; on the name 15/15, 100%), to avoid overtreatment.
-- 'Rationale: testicular JGCTs are a largely infantile entity (>90% within the first year of life), mostly hormonally inactive, a subset arise in dysgenetic gonads, and they appear to lack malignant potential; a limited genomic study found they do not harbour the alterations seen in ovarian JGCT.'
-- 'Contrasts with ovarian JGCT: median age about 8 years, steroid hormone production, about 10% behave aggressively, and pathogenic AKT1 internal tandem duplications and hotspot GNAS variants.'
-- Brisk mitotic activity predicts aggressive potential in Leydig and Sertoli cell tumours but not in juvenile granulosa cell tumour; JGCT is listed among invariably indolent testicular SCST types.
-- Testicular adult granulosa cell tumour should be diagnosed only for prototypical morphology; FOXL2 p.C134W can support it (consensus 16/20, 80%).
-relevance_to_jgct: International pathology consensus that testicular JGCT is benign and distinct from ovarian JGCT, recommending the name 'benign juvenile granulosa cell tumour'.
+- Consensus statement of 20 genitourinary pathologists (modified Delphi, three questionnaires, live vote 3/23/2024 at Johns Hopkins) with 70% agreement threshold; testicular sex cord-stromal tumors are about 5% of testicular neoplasms, about 90% are indolent and about 10% aggressive.
+- 'Recommendation: juvenile granulosa cell tumor of the testis should be renamed ''benign juvenile granulosa cell tumour'' (consensus on need to rename 12/15, 80%; on the name 15/15, 100%), with a comment that it differs clinically and molecularly from ovarian JGCT, to avoid overtreatment.'
+- Panel states testicular JGCT is largely an infantile entity with more than 90% of cases in the first year of life, mostly hormonally inactive, a subset arising in dysgenetic gonads, and apparently without malignant potential; a genomic study of a limited number of cases showed they lack the alterations of ovarian JGCT.
+- Panel states ovarian JGCT mostly affects children (median age about 8 years) with a subset in post-pubertal children and adults including during pregnancy, characteristically produces sex steroids, and about 10% behave aggressively with abdominal/pelvic recurrence or distant metastasis; ovarian tumors carry AKT1 pleckstrin-homology-domain internal tandem duplications and hotspot GNAS gain-of-function variants.
+- Brisk mitotic activity predicts aggressive potential in Leydig and Sertoli cell tumors but not in juvenile granulosa cell tumor; JGCT, myoid gonadal stromal tumor, fibroma/thecoma are described as invariably indolent in published data.
+- Testicular adult granulosa cell tumor should be diagnosed only sparingly (consensus 16/20, 80%); FOXL2 p.C134W (present in more than 90-95% of ovarian adult GCT) is found only in a small subset of testicular homonyms.
+- 'Other recommendations: FH-deficient Leydig cell tumor (14/18, 78%), inflammatory and nested testicular sex cord tumor with EWSR1::ATF1 as a distinct entity (15/18, 83%), ''gonadal stromal tumour'' umbrella for pure spindle cell tumors (16/20, 80%), testicular Sertoli-Leydig cell tumor as a rare distinct entity (15/15), do not use pTNM staging for these tumors (14/15, 93%), and classify post-pubertal tumors without metastasis as low or high risk (13/13).'
+- No consensus on whether myoid gonadal stromal tumor is a distinct entity (12/20, 60%), FH IHC in Leydig tumors without worrisome features (12/20), a mixed germ cell/sex cord-stromal category (13/20) or Ki-67 for risk (9/18).
+relevance_to_jgct: Guideline-level statement that testicular JGCT is benign and genetically distinct from ovarian JGCT, with a proposed rename; also summarizes ovarian JGCT features for contrast.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC12522033) on 2026-10-30 (the abstract-only version of this record predates PMC availability). Pathology classification consensus; no treatment recommendations specific to JGCT beyond its benign behaviour.
-confidence: 5
+notes: Pathology classification guideline for testicular tumors, not a treatment guideline. Only the main text and tables were read; Supporting information (Data S1-S3, the questionnaires) is referenced but not included in the text. No patient counts are reported, so n_jgct_patients is null. Ovarian JGCT statements are the panel's summary of cited literature. Related to the 'genomic study of a limited number of cases' the paper cites for lack of AKT1/GNAS alterations in testicular JGCT.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

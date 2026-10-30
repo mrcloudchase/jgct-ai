@@ -2,11 +2,12 @@ source_id: '40350706'
 source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/40350706/
-retrieved_on: '2026-10-29'
-full_text_read: false
+retrieved_on: '2026-10-30'
+full_text_source: PMC12636111
 language: en
 pmid: '40350706'
 doi: 10.3802/jgo.2025.36.e100
+pmcid: PMC12636111
 title: 'Role of adjuvant chemotherapy in stage IC ovarian granulosa cell tumors: a systematic review and meta-analysis.'
 journal: Journal of gynecologic oncology
 year: 2025
@@ -14,23 +15,36 @@ first_author: Zhang T
 study_type: meta_analysis
 tumor_site: ovary
 n_jgct_patients: 33
-age_range: null
+age_range: 'JGCT studies: median ages 5 to 25 years across included studies (all-GCT cohort mostly adult)'
 alterations: []
-treatments: []
+treatments:
+- regimen: Adjuvant chemotherapy vs observation, stage IC GCT (adult and juvenile)
+  setting: 12 retrospective studies
+  n: 695
+  outcome: 255 chemotherapy, 440 observation; recurrence OR 1.32 (95% CI 0.67-2.58), mortality OR 0.83 (0.44-1.57), 5-year DFS OR 0.88 (0.18-4.18), 5-year OS OR 1.28 (0.60-2.74)
+- regimen: Adjuvant chemotherapy vs observation, stage IC JGCT
+  setting: 5 studies, 33 JGCT patients
+  n: 33
+  outcome: 4/17 relapsed with chemotherapy vs 0/16 with observation; OR 4.20 (95% CI 0.51-34.28; p=0.180; I2=0%)
+- regimen: BEP/EP vs TC/TP
+  setting: chemotherapy-treated patients, 7 studies
+  n: 45
+  outcome: 6/39 relapsed with BEP/EP, 0/6 with TC/TP; OR 1.53 (0.14-16.91; p=0.730)
 presentation: []
 key_findings:
-- Systematic review/meta-analysis of 12 retrospective studies (695 stage IC GCT patients; 255 adjuvant chemotherapy, 440 observation).
-- No significant difference between chemotherapy and observation in recurrence (OR 1.32), mortality (OR 0.83), 5-year DFS or OS.
-- 'JGCT subgroup: 5 studies, 33 JGCTs; of 17 who received adjuvant chemotherapy 4 relapsed; none of 16 observed relapsed; OR 4.20 (95% CI 0.51-34.28; p=0.180).'
-- Authors caution the JGCT sample is small and that non-randomized allocation likely assigns higher-risk patients to chemotherapy; stage IC1-IC3 subgroups could not be analysed.
-relevance_to_jgct: Only meta-analysis of adjuvant chemotherapy in stage IC GCT with a JGCT subgroup; finds no demonstrable benefit.
-conflicts_with:
-- pmid-40272823
+- PROSPERO CRD42024559478; PubMed, Embase and Cochrane searched to 1 December 2024; 703 records screened, 70 full texts assessed, 12 retrospective studies (695 stage IC GCT patients) included; 255 (36.7%) received adjuvant chemotherapy and 440 (63.3%) observation; follow-up 1-396 months.
+- Overall recurrence 18.7% (50/268; 11 studies reporting) and mortality 7.6% (45/590). Recurrence 21/110 (19.1%) with chemotherapy vs 29/158 (18.4%) with observation (OR 1.32; 95% CI 0.67-2.58; p=0.424; I2=33%); mortality 15/221 (6.8%) vs 30/369 (8.1%) (OR 0.83; 0.44-1.57; p=0.560).
+- Five-year DFS (OR 0.88; 95% CI 0.18-4.18; I2=54%) and 5-year OS (OR 1.28; 0.60-2.74; I2=0%) did not differ between adjuvant chemotherapy and observation; Egger test showed publication bias for recurrence (p=0.042) but trim-and-fill did not change results.
+- 'Only 33 JGCT patients across 5 studies were included (Calaminus 1997, Ndhlovu 2021, Parikshaa 2021, Hamzaoglu Canbolat 2022, Marino 2024): 17 received adjuvant chemotherapy and 4 relapsed; none of the 16 observed relapsed. The pooled JGCT OR for recurrence was 4.20 (95% CI 0.51-34.28; p=0.180), not significant; the adult GCT subgroup (195 AGCT, 5 studies) OR was 1.72 (0.22-13.16).'
+- No significant recurrence difference by fertility-sparing surgery (FSS group OR 3.4, 95% CI 0.47-24.51; non-FSS OR 7.3, 0.71-75.35) or by regimen (BEP/EP 6/39 relapsed vs TC/TP 0/6; OR 1.53). BEP was used in 57/107 (53.3%) of patients with regimen details.
+- The authors conclude that adjuvant chemotherapy did not add benefit for recurrence or mortality in stage IC GCT, in either adult or juvenile types, but caution that all studies were retrospective, JGCT numbers were very small, sicker patients probably received chemotherapy, and median follow-up was under 5 years.
+- The authors cite that JGCT tends to recur early (median recurrence 4.5-12 months in cited studies) and that ESMO recommends adjuvant chemotherapy for stage IC JGCT while ESGO/SIOPE allows surgery alone for IC1 and chemotherapy for IC2/IC3 JGCT; clinicians tend to follow ESMO because of JGCT's aggressive early recurrence.
+relevance_to_jgct: Most direct pooled evidence on whether adjuvant chemotherapy helps in stage IC granulosa cell tumors; the JGCT subgroup is only 33 patients and underpowered, and adult-type cases dominate.
+conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text fetched (PMC12636111); only abstract, JGCT subgroup, and discussion passages read. Conflicts with the STEP registry's conclusion (pmid-40272823) that adjuvant chemotherapy for stage IC2/IC3 reduced relapses.
-confidence: 3
+notes: 'Adult and juvenile GCT are pooled; JGCT data are a subgroup (33 patients, 5 studies). Some studies did not state type (Mangili, Nasioudis: ''GCT''). JGCT subgroup data are from case series that may overlap with other records in the knowledge base (e.g. Calaminus 1997, Ndhlovu 2021, Marino 2024 series). The abstract''s ''overall recurrence 18.7%'' is 50/268, not out of 695. Supplementary tables not available.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

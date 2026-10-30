@@ -2,36 +2,44 @@ source_id: 68575db179a7
 source_type: url
 source_tier: database
 source_url: https://clinicaltrials.gov/study/NCT01042522
-retrieved_on: '2026-10-29'
-full_text_read: true
+retrieved_on: '2026-10-30'
+full_text_source: https://clinicaltrials.gov/api/v2/studies/NCT01042522
 language: en
 pmid: null
 doi: null
+pmcid: null
 title: Randomized Phase II Trial of Paclitaxel and Carboplatin vs. BEP for Advanced Stage and Recurrent Chemonaive Sex Cord-Stromal Tumors of the Ovary (NCT01042522, GOG)
-journal: null
+journal: ClinicalTrials.gov
 year: 2010
 first_author: null
 study_type: trial
 tumor_site: ovary
 n_jgct_patients: null
-age_range: null
+age_range: adult, 20 to 60+ years (mean 47.33, SD 13.53)
 alterations: []
 treatments:
-- regimen: Paclitaxel + carboplatin vs BEP
-  setting: advanced or recurrent chemonaive ovarian SCST (adults)
-  n: 63
-  outcome: results not posted in fetched record fields
+- regimen: Paclitaxel plus carboplatin IV day 1 every 21 days x 6 courses (arm I)
+  setting: newly diagnosed stage IIA-IV or recurrent chemonaive ovarian SCST
+  n: 31
+  outcome: Median PFS 27.7 months (95% CI 11.2-41.0); response rate 0.43 (95% CI 0.21-0.67) in 14 with target lesions; 5 deaths; 23/31 completed 6 cycles
+- regimen: Bleomycin day 1, etoposide phosphate and cisplatin days 1-5, every 21 days x 4 courses (arm II, BEP)
+  setting: same
+  n: 32
+  outcome: Median PFS 19.7 months (95% CI 10.4-52.7); response rate 0.54 (95% CI 0.29-0.77) in 13 with target lesions; 8 deaths; 26/32 completed 4 cycles
 presentation: []
 key_findings:
-- 'Randomized phase II GOG Foundation trial: Arm I paclitaxel + carboplatin vs Arm II bleomycin, etoposide, cisplatin; primary outcome progression-free survival; actual enrollment 63; status UNKNOWN (last update 2022-01-25).'
-- 'Eligibility: age 18 years or older; histologically confirmed ovarian stromal tumors including granulosa cell tumor; newly diagnosed stage IIA-IV within eight weeks of surgery or chemonaive recurrent disease.'
-relevance_to_jgct: Only randomized chemotherapy trial identified for ovarian sex cord-stromal tumors; adults only, so pediatric JGCT patients were not eligible.
+- GOG-0264 (GOG Foundation/NRG Oncology; PI Jubilee Brown), randomized phase II of paclitaxel/carboplatin vs BEP in newly diagnosed stage IIA-IV or recurrent chemonaive ovarian sex cord-stromal tumors; start 2010-02-08; 63 patients enrolled (31 vs 32) of 128 planned; all female, age 20 or older (mean 47.33 years, SD 13.53).
+- 'Cell types enrolled: granulosa cell tumor 55 (28 vs 27), Sertoli-Leydig 3, unclassified SCST 4, lipid cell 1. Measurable disease in 23 (11 vs 12), none in 40.'
+- 'Primary outcome, median PFS (RECIST 1.1, ITT): paclitaxel/carboplatin 27.7 months (95% CI 11.2-41.0) vs BEP 19.7 months (95% CI 10.4-52.7); median follow-up 48 months.'
+- 'Secondary: response rate in patients with a target lesion 0.43 (95% CI 0.21-0.67; n=14) vs 0.54 (95% CI 0.29-0.77; n=13); deaths 5/31 vs 8/32; serious adverse events 6/31 vs 11/32; completed protocol cycles 23/31 vs 26/32.'
+- 'Limitations posted: study closed at the interim analysis (planned after 20 PFS events; futility threshold HR >1.10 for paclitaxel/carboplatin relative to BEP) and because of poor accrual, with 63 of 128 patients enrolled.'
+- Inhibin A and B changes were a pre-specified other outcome but results are not posted. Juvenile granulosa cell tumor is not a listed condition; participants were adults.
+relevance_to_jgct: Randomized comparison of TC vs BEP in ovarian sex cord-stromal tumors, predominantly adult-type granulosa cell tumor in adults; informs chemotherapy choices for advanced SCST but contains no pediatric or JGCT-specific data.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Fetched via ClinicalTrials.gov API v2; results section not examined. Does not specify juvenile vs adult GCT.
-confidence: 3
+notes: Registry results record; a derived publication is cited (PMID 39265466) but was not read for this record. Overall survival is reported only as death counts. Enrollment 63 vs planned 128.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

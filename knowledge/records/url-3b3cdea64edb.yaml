@@ -2,13 +2,14 @@ source_id: 3b3cdea64edb
 source_type: url
 source_tier: organization
 source_url: https://www.cancer.gov/types/ovarian/hp/child-ovarian-treatment-pdq
-retrieved_on: '2026-10-29'
-full_text_read: true
+retrieved_on: '2026-10-30'
+full_text_source: https://www.cancer.gov/types/ovarian/hp/child-ovarian-treatment-pdq
 language: en
 pmid: null
 doi: null
+pmcid: null
 title: 'Childhood Ovarian Cancer Treatment (PDQ) - Health Professional Version: Childhood Juvenile Granulosa Cell Tumors section'
-journal: National Cancer Institute PDQ Pediatric Treatment Editorial Board
+journal: NCI PDQ Cancer Information Summaries
 year: 2025
 first_author: null
 study_type: review
@@ -16,22 +17,36 @@ tumor_site: ovary
 n_jgct_patients: null
 age_range: null
 alterations: []
-treatments: []
-presentation: []
+treatments:
+- regimen: Unilateral salpingo-oophorectomy alone (fertility-sparing)
+  setting: FIGO stage I JGCT (as many as 90% of children)
+  n: 17
+  outcome: 'One series: 15 of 17 had fertility-sparing surgery and only 2 received adjuvant chemotherapy; no recurrences reported'
+- regimen: Cisplatin-based chemotherapy
+  setting: stage IC2/IC3, II-IV, or high mitotic activity; adjuvant and recurrent disease
+  n: null
+  outcome: Used 'with some success'; these patients are described as having poorer prognosis and requiring chemotherapy
+presentation:
+- precocious puberty (most common; estrogen secretion)
+- abdominal pain
+- abdominal mass
+- ascites
 key_findings:
-- PDQ states juvenile granulosa cell tumor is the most common sex cord-stromal tumor subtype in girls younger than 18 (median age 7.6 years; range birth to 17.5 years) and represents about 5% of ovarian tumors in children and adolescents.
-- 'Risk factors listed: reported in children with Ollier disease and Maffucci syndrome.'
-- 'Presentation listed: precocious puberty (most common; estrogen secretion), abdominal pain, abdominal mass, ascites.'
-- States as many as 90% of children have FIGO stage I disease, usually curable with unilateral salpingo-oophorectomy alone.
-- States patients with spontaneous rupture or malignant ascites (FIGO IC2, IC3), stages II-IV, or tumors with high mitotic activity have a poorer prognosis and require chemotherapy; cisplatin-based regimens used with some success in adjuvant and recurrent settings.
-- Notes US patients may be registered in the International Ovarian and Testicular Stromal Tumor Registry and that European PARTNER/EXPeRT recommendations exist; recommendations harmonized between registries.
-relevance_to_jgct: US National Cancer Institute's physician-oriented summary of pediatric JGCT management.
+- NCI PDQ summary (updated 03/03/2025, editorial changes only) on childhood ovarian cancer; most ovarian masses in children are not malignant; malignant types in order are germ cell, epithelial, stromal, other; most malignant ovarian tumors occur in girls aged 15 to 19 years.
+- Juvenile granulosa cell tumor (JGCT) is the most common sex cord-stromal tumor subtype in girls younger than 18 years (median age 7.6 years; range birth to 17.5 years); about 5% of ovarian tumors in children and adolescents; distinct from adult granulosa cell tumors.
+- 'Risk factors: JGCT has been reported in children with Ollier disease and Maffucci syndrome (cited case reports).'
+- 'Presentation: precocious puberty (most common, from estrogen secretion), abdominal pain, abdominal mass, ascites. Metastatic spread of sex cord-stromal tumors is rare, usually confined to the peritoneal cavity, and distant metastases mostly occur at relapse.'
+- As many as 90% of children with JGCT have FIGO stage I disease and are usually curable with unilateral salpingo-oophorectomy alone; in one series 15 of 17 had fertility-sparing surgery and only 2 got adjuvant chemotherapy, with no recurrences.
+- Patients with spontaneous rupture or malignant ascites (FIGO IC2, IC3), advanced disease (stages II-IV) or high mitotic activity have poorer prognosis and require chemotherapy; cisplatin-based regimens have been used with some success in adjuvant and recurrent settings.
+- 'Prognostic factors in pediatric sex cord-stromal tumors (German MAKEI, 54 patients, 48 stage I, 6 peritoneal metastases): stage IC, preoperative rupture, stages II-III and high mitotic count identify patients at risk. French TGM-95 registry (38 girls): of 15 with rupture and/or ascites, 11 received chemotherapy without recurrence while all 4 who did not receive chemotherapy recurred and 2 died.'
+- 'DICER1: the PDQ links Sertoli-Leydig cell tumors, not JGCT, to germline DICER1 variants (191 SLCT patients in registries; 58% of 156 tested had a germline P/LP variant; RNase IIIb hotspot variants in 97% (88/91) of intermediate/poorly differentiated tumors; 3-year RFS 93.6% stage IA vs 67.1% IC vs 60.6% stage II-IV).'
+- 'Registries and consensus: US International Ovarian and Testicular Stromal Tumor Registry; European national rare tumor groups; EXPeRT/PARTNER consensus recommendations on diagnosis and therapy; work-up, staging and therapy harmonized between registries. Table of FIGO staging for ovarian carcinoma provided (IA to IVB).'
+relevance_to_jgct: Authoritative NCI summary of JGCT epidemiology, presentation, stage distribution and the stage and mitotic-rate-based indication for cisplatin-based chemotherapy.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: 'Page ''Updated: March 3, 2025''. Fetched as raw HTML with curl and converted to text (verbatim). PDQ is an editorial-board evidence summary, not a society guideline, so tier organization.'
-confidence: 2
+notes: 'Read the full page this run, including epithelial, Sertoli-Leydig and small cell carcinoma sections (not recorded in detail). The PDQ gives no JGCT sample sizes of its own; figures are cited from other studies. Wording of the French registry subgroup: four patients with rupture/ascites did not get chemotherapy, all recurred, two died.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

@@ -2,13 +2,14 @@ source_id: 599767ff9c45
 source_type: url
 source_tier: database
 source_url: https://clinicaltrials.gov/study/NCT01970696
-retrieved_on: '2026-10-29'
-full_text_read: true
+retrieved_on: '2026-10-30'
+full_text_source: https://clinicaltrials.gov/api/v2/studies/NCT01970696
 language: en
 pmid: null
 doi: null
+pmcid: null
 title: International Ovarian & Testicular Stromal Tumor Registry (NCT01970696)
-journal: null
+journal: ClinicalTrials.gov
 year: 2011
 first_author: null
 study_type: registry
@@ -19,16 +20,18 @@ alterations: []
 treatments: []
 presentation: []
 key_findings:
-- Observational registry, recruiting, start 2011-12-08, sponsor Children's Hospitals and Clinics of Minnesota; estimated enrollment 500; last update posted 2026-10-23.
-- 'Eligibility: all patients with a suspected gonadal stromal tumor or similar tumor, any age; international enrollment encouraged; most participants expected to be under age 20.'
-- 'Collects clinical and biologic data; current work studies DICER1 and miRNA expression in ovarian stromal tumors. Primary outcome: DICER1 mutations in ovarian and testicular stromal tumors.'
-relevance_to_jgct: The international registry (IOTSTR) open to JGCT patients of any age; source of the 70-patient series pmid-40267023.
+- International OTST Registry (Children's Hospitals and Clinics of Minnesota; PI Kris Ann Schultz) collects clinical and biologic data on ovarian and testicular stromal tumors; status RECRUITING (verified 2026-10); start 2011-12-08; estimated enrollment 500; primary completion estimated 2030-12-31.
+- 'Arms: ovarian stromal tumors, testicular stromal tumors, ovarian small cell carcinoma; keywords include juvenile granulosa cell tumor, Sertoli, Leydig, gynandroblastoma. Eligibility: all patients with a suspected gonadal stromal tumor or similar tumor, any age, most expected under 20.'
+- 'Rationale stated: ovarian sex cord-stromal tumors have been associated with pleuropulmonary blastoma/DICER1; DICER1 mutations are seen in some patients with ovarian tumors; ovarian stromal tumors are highly curable when found at early stage but later-stage forms are aggressive and often fatal.'
+- 'Six registry goals: understand risk factors (age, subtype, histology, invasiveness, differentiation, metastasis); collect personal and family history incl. germline DICER1 status; relate gene expression/DNA alterations to predisposition, behavior and outcome; determine optimal screening; refine treatment algorithms; bank annotated tumor and germline specimens.'
+- Enrollment is by local diagnosis with central pathology review offered; requested materials are blood for DNA and lymphoblastoid cell lines, slides/blocks/snap-frozen/fresh tumor; cases come from clinician or pathologist referral, family self-referral, and requests to authors of published cases.
+- 'Primary outcome: DICER1 mutations in ovarian and testicular stromal tumors (germline and tumor sequencing, mRNA/miRNA expression correlated with outcome), 3 years; secondary: clinical factors associated with outcome (10 years) and pathologic/genetic correlations (5 years). No results posted.'
+relevance_to_jgct: The registry that underlies several JGCT-relevant reports (including the OTST conference abstracts); it explicitly lists juvenile granulosa cell tumor among its tumor types and enrolls patients, families and biospecimens.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Fetched via ClinicalTrials.gov API v2. Tier database = trial-registry entry, not a registry report.
-confidence: 4
+notes: Registry listing only; no results posted. Reference list in the record includes OTST registry publications (e.g. PMIDs 26289771, 29037807, 38657450).
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

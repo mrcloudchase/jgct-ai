@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/34487069/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC8477099
 language: en
 pmid: '34487069'
 doi: 10.23750/abm.v92i4.11572
+pmcid: PMC8477099
 title: A rare case of Ovarian Juvenile Granulosa Cell Tumor in an Infant with Isosexual Pseudo Puberty and a Revision of Literature.
 journal: 'Acta bio-medica : Atenei Parmensis'
 year: 2021
@@ -17,29 +18,30 @@ n_jgct_patients: 1
 age_range: 9 months
 alterations: []
 treatments:
-- regimen: left total salpingo-oophorectomy, no chemotherapy
-  setting: primary, FIGO 1a
+- regimen: Exploratory laparotomy, left total salpingo-oophorectomy; no chemotherapy or radiotherapy
+  setting: FIGO IA
   n: 1
-  outcome: no recurrence after 12 months
+  outcome: estradiol, AMH normalized within 1 week; breast development regressed within 6 months; no recurrence at 12 months
 presentation:
-- isosexual pseudo-puberty
-- vaginal bleeding
-- breast development
-- pubic hair
+- vaginal bleeding at 9 months
+- bilateral breast development (Tanner 2) from about 7 months
+- fine pubic hair
 - advanced bone age
+- no palpable mass
 key_findings:
-- 9-month-old girl with bloody vaginal secretions, bilateral breast development and fine pubic hair from about 7 months of age.
-- Elevated estradiol, AMH, inhibin A and B, and androstenedione; suppressed LH and FSH; bone age advanced.
-- 5.4 x 4.0 x 5.4 cm solid left adnexal mass; left total salpingo-oophorectomy; tumor 6.5 x 4 x 6.5 cm, 75 grams; JGCT FIGO stage 1a; no chemotherapy or radiotherapy.
-- Estradiol prepubertal and AMH/inhibin decreased at 1 week and 1 month; breast development regressed within 6 months; no recurrence after 12 months.
-- Includes a literature table of JGCT in infants under 1 year reported 1998-2021; cites Bouffet 1997 review of 36 cases before age 2 years, 21 younger than 1 year.
-relevance_to_jgct: Infant JGCT with endocrine follow-up showing AMH and inhibin normalization after surgery; literature compilation of infant cases.
+- A 9-month-old girl presented with vaginal bleeding; breast development and fine genital hair had been noticed 2 months earlier; Tanner stage 2 breasts, no palpable abdominal mass.
+- Estradiol 1,091 pmol/L (reference 0-132), AMH >1714 pmol/L (0.1-38.6), inhibin A 385 pg/mL (<4.7), inhibin B 3805 pg/mL (<111), androstenedione 6.8 nmol/L (high); FSH and LH <0.3 IU/L (suppressed); AFP 6 kIU/L, beta-hCG, DHEAS, testosterone normal.
+- Ultrasound showed a 5.4 x 4.0 x 5.4 cm solid heterogeneous left adnexal mass with enlarged uterus (5.2 x 2.4 x 2.3 cm); MRI confirmed a 5.4 x 4.12 x 5.39 cm enhancing solid lesion with minimal central necrosis; chest CT normal; bone age advanced by 1.8 years.
+- 'Surgery: left total salpingo-oophorectomy with biopsies of peritoneum, round ligament and omentum; encapsulated yellow solid tumor 6.5 x 4 x 6.5 cm, 75 g, no hemorrhage or necrosis; histology JGCT FIGO IA, calretinin and inhibin A positive.'
+- At 1 week and 1 month postoperatively estradiol (62, <55 pmol/L) and AMH (9 pmol/L) were normal; no evidence of recurrence at 12 months; no chemotherapy or radiotherapy needed.
+- 'Literature update in infants under 12 months (table of 10 cases, mostly case reports): presentations were premature thelarche/adrenarche or signs of puberty, abdominal mass or distension, acute abdomen from rupture, ascites; hormonal data often not reported. The authors cite a 1997 review by Bouffet et al. of 36 JGCT cases under 2 years, 21 under 1 year.'
+- The authors, citing other sources, state that stage is the most important prognostic factor (stage IA survival 83-98%, overall 78-92%), recurrences can occur up to 3 years after surgery, inhibin B and AMH are useful monitoring markers, and unilateral salpingo-oophorectomy appears curative.
+relevance_to_jgct: Well-documented infant JGCT with isosexual pseudo-puberty and a high inhibin/AMH profile that normalized after surgery, plus a short tabulated review of infant JGCT cases.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via PMC8477099. Text reports bone age advance inconsistently (1.8 years (+4 SD) in one place, 18 months (3.4 SD) in a figure legend).
-confidence: 4
+notes: Bone age is reported as +1.8 years (+4 SD) in the text but +3.4 SD in the Figure 2 legend and in the Discussion. Table 3 is titled 'from 1998 to 2021' but lists articles from 1992 and 1997. Several statements in the Discussion (incidence 0.4-1.7/100,000/year, survival ranges) are citations of other works. The infant cases in Table 3 may overlap with other single case reports in the knowledge base.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

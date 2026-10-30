@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/41797949/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC12965506
 language: en
 pmid: '41797949'
 doi: 10.4103/gmit.GMIT-D-24-00039
+pmcid: PMC12965506
 title: 'Juvenile Granulosa Cell Tumor of the Ovary in Pregnancy: A Case Report.'
 journal: Gynecology and minimally invasive therapy
 year: 2026
@@ -17,28 +18,28 @@ n_jgct_patients: 1
 age_range: 28 years
 alterations: []
 treatments:
-- regimen: right salpingo-oophorectomy + omentectomy + biopsies at 23 + 4 weeks; restaging lymphadenectomy at cesarean; no adjuvant chemotherapy
-  setting: primary, stage IA, during pregnancy
+- regimen: Fertility-sparing staging laparotomy at 23+4 weeks (right salpingo-oophorectomy, infracolic omentectomy, left ovarian biopsy, paracolic gutter biopsies); at 37 weeks elective cesarean with re-exploration and pelvic/para-aortic lymphadenectomy
+  setting: FIGO stage IA JGCT in pregnancy
   n: 1
-  outcome: disease-free at 24 months
+  outcome: no adjuvant chemotherapy; disease-free at 24 months; healthy 2072 g female baby delivered
 presentation:
-- abdominal pain
-- adnexal mass in pregnancy
-- ascites
+- dull abdominal pain for 1 month and weakness at 22+5 weeks gestation
+- abdominal distension with 10 x 15 cm mass
+- mild ascites and left pleural effusion
 key_findings:
-- 28-year-old primigravida at 22 + 5 weeks' gestation with abdominal pain; 15 cm x 11 cm right adnexal predominantly solid lesion with mild ascites and left mild pleural effusion.
-- Preoperative CA-125 785 U/ml, AFP 51 ng/ml, beta HCG 33547 mIU/ml (pregnancy).
-- 'Fertility-sparing staging laparotomy at 23 + 4 weeks: right salpingo-oophorectomy, infracolic omentectomy, left ovarian biopsy, paracolic gutter biopsies; IHC inhibin and calretinin positive; final diagnosis JGCT stage 1A.'
-- Inhibin B 86.5 at 32 weeks, rose to 118 at 36 weeks; repeat MRI showed no recurrence.
-- Elective cesarean at 37 weeks with re-exploration and pelvic/para-aortic lymphadenectomy; nodes negative; no adjuvant chemotherapy; disease-free at 24 months.
-- Literature table compiles 12 prior reports (15 patients) of JGCT in pregnancy since 1993, stages IA to IIIB.
-relevance_to_jgct: Adds an adult pregnancy-associated JGCT case and a compiled table of published JGCT in pregnancy with management and outcomes.
+- 28-year-old primigravida (conceived after ovulation induction) at 22+5 weeks presented with 1 month of dull abdominal pain; ultrasound showed a 15 x 11 cm predominantly solid right adnexal mass with mild ascites; MRI 14 x 11 x 13 cm solid-cystic right ovarian mass with omental thickening (O-RADS 5).
+- 'Markers: CA-125 785 U/ml, AFP 51 ng/ml, beta-hCG 33547 mIU/ml (in pregnancy); inhibin B within normal limits (86.5 ng/ml) at 32 weeks and raised at 36 weeks (118 ng/ml).'
+- 'Surgery at 23+4 weeks: about 500 ml ascites, 15 x 10 cm solid right ovarian mass with intact capsule, omental nodularity; right salpingo-oophorectomy, infracolic omentectomy, left ovarian biopsy and bilateral paracolic gutter biopsies; ascites cytology, left ovary, omentum and peritoneal biopsies negative.'
+- 'Histology: sheets and nests of small cuboidal-polygonal cells with scant cytoplasm and grooved nuclei, necrosis and hemorrhage; IHC inhibin and calretinin positive; final diagnosis JGCT FIGO stage IA.'
+- Because of rising inhibin B, repeat MRI showed no recurrence; elective cesarean at 37 weeks with re-exploration and pelvic and para-aortic lymphadenectomy (frozen and final histopathology negative); uterus and left ovary preserved; no adjuvant chemotherapy; disease-free at 24 months.
+- 'Literature table of 12 published JGCT-in-pregnancy cases (since 1993): stages from IA to IIIB; stage IIIB and IC cases received chemotherapy (BEP, paclitaxel-carboplatin, or methotrexate/actinomycin D/chlorambucil) with disease-free follow-up of 30, 84 months in some; one IC3 case recurred at 3 months.'
+- Authors state that adjuvant chemotherapy is advised for mitotic index >20 per 10 HPF or stage IC or above; inhibin B (unlike inhibin A) is not affected by pregnancy and is a sensitive marker; conclusion that stage IA has excellent prognosis and fertility-preserving surgery has a role.
+relevance_to_jgct: Adds a pregnancy-associated adult-onset JGCT case with surveillance by inhibin B and a tabulated review of published cases and management.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: 'Full text read via PMC12965506. Caveat: the histology description mentions ''bean-like grooved nuclei'', which are classically adult-type features, while IHC and final diagnosis are JGCT; the text does not reconcile this. Literature table lists Cummings 2023 (pmid-36992983) follow-up as 30 months, whereas that paper''s own abstract says over five years.'
-confidence: 4
+notes: 'Case report; literature table figures are from other papers. The paper''s reference citations in the introduction are garbled in the source text. Tumor size in text: 10 x 15 cm clinical, 15 x 11 cm USG, 14 x 11 x 13 cm MRI, 15 x 10 cm at surgery.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

@@ -3,41 +3,46 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/36112066/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC11590726
 language: en
 pmid: '36112066'
 doi: 10.4274/jcrpe.galenos.2022.2022-4-17
-title: 'Juvenile Granulosa Cell Tumor Mimicking HAIR-AN in a 4-year-old: A Case Report.'
+pmcid: PMC11590726
+title: 'Juvenile Granulosa Cell Tumor Mimicking HAIR-AN in a 4-year-old: A Case Report'
 journal: Journal of clinical research in pediatric endocrinology
 year: 2024
 first_author: Kim RC
 study_type: case_report
 tumor_site: ovary
 n_jgct_patients: 1
-age_range: 4 years
+age_range: 4 years 1 month
 alterations: []
 treatments:
-- regimen: unilateral salpingo-oophorectomy
-  setting: primary, stage 1A
+- regimen: Unilateral salpingo-oophorectomy via Pfannenstiel incision
+  setting: Stage 1A, androgen-secreting JGCT
   n: 1
-  outcome: laboratory results normalized; follow-up length not stated
+  outcome: Inhibin A/B, testosterone, 17-OH-progesterone, AMH and insulin normalized; hirsutism and acne resolved, acanthosis nigricans regressed; normal uterus/right ovary on ultrasound at age 6 years 3 months
 presentation:
-- hyperandrogenism
-- acanthosis nigricans
-- hyperinsulinism
-- insulin resistance
+- 6 months of pubic, arm and leg hair growth, greasy scalp hair, acne, mood swings
+- extensive acanthosis nigricans
+- Tanner 3 pubic hair without breast buds
+- obesity (BMI 23.79, +3.1 SD)
+- advanced bone age 6 years 4 months
+- no clitoromegaly
 key_findings:
-- 4-year-old girl with acanthosis nigricans and hyperinsulinism, mimicking hyperandrogenism, insulin resistance and acanthosis nigricans (HAIR-AN) syndrome.
-- Elevated insulin, inhibin A and B, and total testosterone.
-- All laboratory results normalized after unilateral salpingo-oophorectomy; final diagnosis Stage 1A JGCT.
-- Authors suggest hyperandrogenemia may promote hyperinsulinism.
-relevance_to_jgct: Androgen-secreting JGCT with insulin resistance in a young child; differential for virilization.
+- A 4-year-1-month-old girl presented with virilization (Tanner 3 pubic hair, hirsutism, acne) and extensive acanthosis nigricans mimicking HAIR-AN/type A insulin resistance; height 110.4 cm, weight 29 kg, BMI 23.79 kg/m2; bone age 6 years 4 months.
+- 'Pre-operative labs: total testosterone 205.6 ng/dL (normal <=20), inhibin B 1715 pg/mL (<73.0), inhibin A 43.7 pg/mL (<7-14), AMH 6.75 ng/mL, 17-OH-progesterone 145 ng/dL, insulin 45.2 uIU/mL (2.6-24.9), LDH 363 IU/L; estradiol 11.8 pg/mL normal, FSH and LH suppressed; beta-hCG, AFP and CA-125 normal.'
+- Pelvic ultrasound showed a 6.3 x 3.4 x 7.1 cm heterogeneous solid vascular left adnexal mass; CT showed a 4.4 x 4.6 x 4.2 cm solid left ovarian mass without metastasis or lymphadenopathy.
+- Unilateral salpingo-oophorectomy gave stage 1A JGCT; immunohistochemistry (data not shown) was positive for inhibin and negative for pancytokeratin, WT1 and calretinin; histology showed pleomorphic cells.
+- Within 2 weeks of surgery testosterone fell to <1 ng/dL, inhibin B to 25 pg/mL, inhibin A to 1.4 pg/mL and insulin to 2 uIU/mL; at 6 months-1 year testosterone was 4 ng/dL, inhibin B 15.2, insulin 17 uIU/mL; at age 6 years 3 months acne and hirsutism had resolved, acanthosis nigricans regressed substantially, and no residual mass was seen.
+- The authors suggest the androgen excess caused hyperinsulinemia (which improved after tumor removal despite increasing BMI); they note androgen-secreting JGCTs are uncommon (testosterone secretion 2-3% of GCTs), and cite Kalfa et al. reporting absent or low intratumoral aromatase in six hyperandrogenic JGCTs.
+- They considered DICER1 syndrome but the patient did not fit its clinical picture; no genetic testing is reported; family history included distant ovarian cancer at advanced ages.
+relevance_to_jgct: Rare androgen-secreting prepubertal JGCT with hyperinsulinemia and acanthosis nigricans reversed by tumor resection; inhibin A and B were markedly elevated and normalized after surgery.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC11590726 not read).
-confidence: 3
+notes: Published 2024 (journal issue) per the existing record; online 2022 identifier in DOI. Literature on hyperinsulinemia in JGCT (Larizza, Kwiatkowska, Brisigotti/Donohue syndrome) is cited secondhand. Age of 4 years is below that typical for HAIR-AN, as authors note. CA-125 unit printed as ug/dL in the table.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

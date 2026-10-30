@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/41416308/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC12711108
 language: en
 pmid: '41416308'
 doi: 10.7759/cureus.97068
+pmcid: PMC12711108
 title: Gynandroblastoma With a Juvenile Granulosa Cell Tumor Component Presenting as Ovarian Torsion in a 14-Year-Old Female Patient.
 journal: Cureus
 year: 2025
@@ -15,26 +16,35 @@ study_type: case_report
 tumor_site: ovary
 n_jgct_patients: 1
 age_range: 14 years
-alterations: []
+alterations:
+- gene: DICER1
+  alteration: pathogenic germline mutation (specific variant not stated)
+  frequency: 1/1
+  notes: Patient enrolled in a DICER1 surveillance program
 treatments:
-- regimen: left salpingo-oophorectomy
-  setting: primary
+- regimen: Left salpingo-oophorectomy; no adjuvant treatment
+  setting: FIGO stage I (2014 revision), gynandroblastoma with JGCT component
   n: 1
-  outcome: outcome not stated in abstract
+  outcome: uneventful recovery; under clinical surveillance, follow-up duration not stated
 presentation:
-- ovarian torsion
-- adnexal mass
+- several weeks of vague abdominal pain, then left lower quadrant pain
+- 16 x 12 x 10 cm left adnexal mass with suspected torsion
+- irregular menses since menarche at 10
+- no virilization
 key_findings:
-- 14-year-old female with a left adnexal mass suspected to be torsed on ultrasound.
-- 'Left salpingo-oophorectomy; histology: gynandroblastoma composed of a juvenile granulosa cell tumor and a moderately differentiated Sertoli-Leydig cell tumor component.'
-- Authors note the histologic grade of the SLCT component may influence prognosis.
-relevance_to_jgct: Mixed sex cord-stromal tumor with a JGCT component; relevant to differential diagnosis.
+- A 14-year-old girl presented with abdominal pain and a 16 x 12 x 10 cm predominantly solid left adnexal mass suspected to be torsed; menarche at 10 with irregular menses, no virilization or known syndrome.
+- 'Preoperative markers: LDH 480 U/L, CA-125 93.2 U/mL, inhibin B 1,453.1 pg/mL (reference <362), AFP 35.3 ng/mL (upper limit of normal); CEA and CA 19-9 normal.'
+- Left salpingo-oophorectomy removed a 20.5 x 14.2 x 14.0 cm solid yellowish mass with intact capsule; the tumor was gynandroblastoma with a JGCT component (30-40% of volume) and a moderately differentiated Sertoli-Leydig cell tumor component (60-70%).
+- Both components were positive for SF-1, calretinin and FOXL2, negative for SALL4, myogenin and MyoD1, with variable inhibin positivity.
+- Stage FIGO I (2014); no adjuvant treatment; a pathogenic germline DICER1 mutation was found and the patient entered a DICER1 surveillance program.
+- The authors cite that gynandroblastoma with a JGCT component has only 10 other English-language reports, mean age 28 years, and that the OTST Registry suggested DICER1-predisposed tumors present younger (16 vs 21 years) with better survival than tumor-limited mutations; poor prognostic factors cited are preoperative rupture and poorly differentiated SLCT.
+- The authors conclude that ovarian torsion can be the first presentation, that rupture would upstage the disease, and that germline DICER1 testing is recommended for ovarian SLCT or gynandroblastoma per cited International DICER1 Symposium guidance.
+relevance_to_jgct: Case of a mixed sex cord-stromal tumor with a JGCT component in an adolescent with a germline DICER1 mutation, relevant to the JGCT/DICER1 relationship and to differential diagnosis.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC12711108 not read). Gynandroblastoma, not pure JGCT.
-confidence: 2
+notes: 'The tumor is a gynandroblastoma, not a pure JGCT: 60-70% was a Sertoli-Leydig cell tumor, so findings do not generalize to pure JGCT. The DICER1 variant and follow-up length are not reported. Literature statements are the authors'' citations.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

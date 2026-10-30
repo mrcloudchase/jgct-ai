@@ -3,11 +3,12 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/27057263/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC4805138
 language: en
 pmid: '27057263'
 doi: 10.12659/PJR.896033
-title: 'Juvenile Granulosa Cell Tumour of the Ovary with Unilocular Pure Cystic Presentation: A Case Report and Review of Literature.'
+pmcid: PMC4805138
+title: 'Juvenile Granulosa Cell Tumour of the Ovary with Unilocular Pure Cystic Presentation: A Case Report and Review of Literature'
 journal: Polish journal of radiology
 year: 2016
 first_author: Anandpara KM
@@ -16,23 +17,28 @@ tumor_site: ovary
 n_jgct_patients: 1
 age_range: 18 years
 alterations: []
-treatments: []
+treatments:
+- regimen: Left ovarian cystectomy
+  setting: primary surgery
+  n: 1
+  outcome: Diagnosis of granulosa cell tumor on histology; no further treatment or follow-up reported
 presentation:
-- chronic abdominal pain
-- abdominal distension
-- facial hair
-- unilocular cystic ovarian mass
+- chronic abdominal pain and distension for 2 months
+- facial hair for 1 year (virilization features)
+- large pelvic cystic mass reaching xiphisternum
 key_findings:
-- 18-year-old with chronic pain, abdominal distension and facial hair.
-- Imaging showed a large, purely cystic, unilocular lesion without solid components, debris or septations; histology JGCT.
-- Authors propose a malignant ovarian lesion be included in the differential diagnosis of a unilocular purely cystic ovarian lesion.
-relevance_to_jgct: 'Imaging pitfall: JGCT can present as a purely cystic unilocular mass.'
+- 18-year-old unmarried girl with abdominal pain and distension for 2 months and facial hair for 1 year; no precocious puberty on retrospective evaluation.
+- Ultrasound showed a large anechoic cystic lesion with posterior acoustic enhancement and no internal echoes or septations; CT showed a large unilocular fluid-density lesion (reported as 85x110x125 cm AP x TR x CC, as printed) without enhancing soft tissue or septae; left ovary not seen separately.
+- Imaging diagnosis was a benign large left ovarian cyst. Estradiol was elevated at 450 pg/mL (reference 15-350); CA-125 and beta-hCG were normal.
+- Left ovarian cystectomy found a cyst wall with a few intervening solid areas; histology showed round to oval cells with moderately pleomorphic nuclei, prominent nucleoli, scanty cytoplasm, irregular nuclear margins, some grooves, and Call-Exner bodies, diagnosed as granulosa cell tumor (juvenile type per title and discussion).
+- The authors propose that a malignant ovarian lesion be included in the differential diagnosis of a unilocular, purely cystic ovarian lesion even when no malignant imaging criteria are present.
+- 'Discussion (literature-based statements by authors): juvenile form is about 5% of granulosa cell tumors, survival up to 97% cited, and about 70% of GCTs secrete estrogen; morphology and imaging cannot reliably separate adult from juvenile types.'
+relevance_to_jgct: Unusual purely cystic unilocular JGCT in an 18-year-old, older than typical, with elevated estradiol and virilization features.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only. Treatment and outcome not in abstract.
-confidence: 2
+notes: CT dimensions printed as 85x110x125 cm, evidently a unit error (likely mm). Case was treated by cystectomy only; no follow-up, staging or IHC reported. JGCT subtype is asserted in title/abstract; the case-description text says 'Granulosa cell tumour'.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

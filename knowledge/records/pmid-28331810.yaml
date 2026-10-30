@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/28331810/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC5358817
 language: en
 pmid: '28331810'
 doi: 10.1016/j.eucr.2017.02.013
+pmcid: PMC5358817
 title: Juvenile Granulosa Cell Tumor of the Testicle - Report of a Neonatal Case with Positive Alpha-fetoprotein Immunohistochemical Staining.
 journal: Urology case reports
 year: 2017
@@ -14,22 +15,30 @@ first_author: Dundas M
 study_type: case_report
 tumor_site: testis
 n_jgct_patients: 1
-age_range: neonate
+age_range: newborn (day 2 of life at surgery)
 alterations: []
-treatments: []
+treatments:
+- regimen: Left radical inguinal orchiectomy on day 2 of life
+  setting: neonatal testicular JGCT
+  n: 1
+  outcome: no recurrence; tumor markers followed every 3 months; at 7 months inhibin A 1 pg/ml, beta-hCG <1 mIU/ml, AFP 41.9 ng/ml
 presentation:
-- neonatal testicular mass
+- enlarged firm descended left testis at birth
+- 2.7 x 1.7 x 2.7 cm multicystic mass replacing the testis on ultrasound
+- no genital ambiguity
 key_findings:
-- Neonatal testicular JGCT with no genital ambiguity, anatomic abnormalities, or sex chromosome aneuploidy.
-- Tumor stained positive for alpha-fetoprotein (most consistent with yolk sac tumor), but all clinical, gross, histologic and other immunohistologic features were consistent with JGCT.
-- The AFP positivity remains unexplained.
-relevance_to_jgct: 'Diagnostic pitfall: AFP immunopositivity in testicular JGCT, which could suggest yolk sac tumor.'
+- Term male neonate (39 weeks, birth weight 3550 g) with an enlarged smooth firm translucent left testis; ultrasound showed a 2.7 x 1.7 x 2.7 cm multicystic mass with internal flow replacing the testis; no genital ambiguity, anatomic abnormalities or sex chromosome aneuploidy.
+- Serum LDH 885 IU/L (normal 160-450), beta-hCG 48.58 IU/L (normal <=50), AFP 113,200 ng/ml (no reference range given).
+- Left radical inguinal orchiectomy on day 2 of life; 2.5 x 2.0 x 1.0 cm gray-white multicystic mass with basophilic/mucicarminophilic fluid; tumor limited to testis/epididymis without spermatic cord extension.
+- IHC positive for inhibin, calretinin, CD99, SF-4 (as written), FOXL2 and AFP; negative for CD30, CD117, D2-40, PanCK, PLAP, glypican-3, OCT3/4. AFP tumor positivity was unexplained, though clinical, gross and other IHC features fit JGCT.
+- No recurrence; at 7 months inhibin A 1 pg/ml, beta-hCG <1, AFP 41.9 ng/ml; markers followed every 3 months. Authors suggest electron microscopy and GATA6/CSF1R staining may help exclude yolk sac tumor and recommend adding them routinely.
+- 'From literature cited: Prepubertal Testis Tumor Registry had 395 tumors (244 yolk sac, 43 stromal, 11 JGCT); a 70-case study (Kao) reported AFP uniformly negative apart from one focal case, making this the second AFP-positive JGCT report per the authors.'
+relevance_to_jgct: Highlights a diagnostic pitfall (AFP positivity mimicking yolk sac tumor) in neonatal testicular JGCT.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only; PMC5358817 not fetched. Treatment and follow-up not in abstract.
-confidence: 2
+notes: Short follow-up (7 months). Serum AFP in neonates is physiologically high, no reference given in paper. 'SF-4' in the paper likely refers to SF-1 (unverified); recorded as written.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

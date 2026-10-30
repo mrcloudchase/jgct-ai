@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/24371683/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC3862225
 language: en
 pmid: '24371683'
 doi: 10.1016/j.gynor.2013.02.003
+pmcid: PMC3862225
 title: 'Hypercalcemia in a child with juvenile granulosa cell tumor of ovary: Report of an unusual paraneoplastic syndrome and review of the literature.'
 journal: Gynecologic oncology case reports
 year: 2013
@@ -17,35 +18,35 @@ n_jgct_patients: 1
 age_range: 15 years
 alterations:
 - gene: FOXL2
-  alteration: no mutation found
+  alteration: c.402C>G (p.C134W) not found
   frequency: 0/1
-  notes: method not specified in text
+  notes: Authors state no FOXL2 mutation was found, confirming it was not adult GCT; testing method not described in the text
 treatments:
-- regimen: right salpingo-oophorectomy + omentectomy, no chemotherapy
-  setting: primary, FIGO IA
+- regimen: Hypercalcemia treatment (saline, pamidronate 1 mg/kg, furosemide), then right salpingo-oophorectomy, omentectomy, ascites drainage; no chemotherapy
+  setting: FIGO IA
   n: 1
-  outcome: no recurrence at 24 months; calcium normal
+  outcome: calcium stayed normal; no recurrence and normal ultrasound at 24 months
 presentation:
-- paraneoplastic hypercalcemia
-- abdominal pain
-- vomiting
-- fever
-- abdominal mass
-- elevated CA-125
+- abdominal pain and vomiting
+- fever 38 C
+- right lower quadrant mass
+- hypercalcemia (corrected calcium 14.9 mg/dL)
+- pelvic ascites
+- tachycardia and hypertension
 key_findings:
-- 15-year-old with abdominal pain, vomiting, fever 38 C; corrected serum calcium 14.9 mg/dl (3.70 mmol/l) with PTH-i 10 pg/ml; CA-125 204 U/ml; AFP and beta-HCG normal.
-- Hypercalcemia treated with saline, pamidronate (1 mg/kg) and furosemide; bone scan without metastasis.
-- Right salpingo-oophorectomy, omentectomy and ascites drainage on day six; 120 x 90 x 65 mm tumor, intact capsule, 7 mitoses per 10 HPF.
-- Positive for alpha-inhibin, calretinin, ER, PR, CD56, SMA; negative for TTF1, synaptophysin, chromogranin; FIGO IA; no FOXL2 mutation found.
-- No adjuvant chemotherapy; calcium normal and no recurrence, with normal ultrasound 24 months after surgery.
-- Authors describe this as the third reported JGCT with paraneoplastic hypercalcemia; of prior cases, an 11-year-old with stage III died of disease and a 25-year-old with stage IC was in remission at 10 months.
-relevance_to_jgct: Documents paraneoplastic hypercalcemia in JGCT and the need to exclude small cell carcinoma of hypercalcemic type; no FOXL2 mutation.
+- A 15-year-old girl (menarche at 14) presented with 2 days of abdominal pain, vomiting, fever and a painful right lower quadrant mass; appendicitis was initially suspected.
+- Corrected serum calcium was 14.9 mg/dL (3.70 mmol/L), phosphorus 0.50 mmol/L, intact PTH 10 pg/mL (normal 10-65), CA-125 204 U/mL, CRP 259 mg/L, LDH 348 U/L; AFP and beta-hCG normal; serum inhibin was never checked; PTHrP was not assayed.
+- Ultrasound and CT showed a semisolid right ovarian mass (125 x 105 x 65 mm) with pelvic ascites; bone scan showed no bone metastasis.
+- Hypercalcemia was treated with saline hydration, pamidronate 1 mg/kg and furosemide; right salpingo-oophorectomy, omentectomy and ascites drainage followed on day 6 and calcium remained normal.
+- Tumor 120 x 90 x 65 mm, intact capsule; histology solid nodular proliferation with pseudofollicles, necrosis, luteinization, 7 mitoses per 10 HPF; positive for alpha-inhibin, calretinin, estrogen and progesterone receptors, CD56, SMA, focal KL1; negative for TTF1, synaptophysin, chromogranin, S100, EMA and CD99; diagnosis JGCT, FIGO IA, excluding small cell and clear cell carcinoma.
+- No chemotherapy was proposed given stage IA; calcium checked every 3-4 months was normal and ultrasound at 24 months showed no recurrence. The authors attribute the hypercalcemia to tumor PTHrP secretion because it did not recur after resection (not measured).
+- The authors report this as the third published JGCT with hypercalcemia (Daubenton, age 11, stage III, died of disease at 4 months after surgery and chemotherapy; Piura, age 25, stage IC, remission at 10 months after chemotherapy) and note FOXL2 expression prognostic data in JGCT are controversial (cited).
+relevance_to_jgct: Documents paraneoplastic hypercalcemia as a rare presentation of JGCT, with a differential diagnosis against small cell carcinoma of the ovary, hypercalcemic type, and a note that the patient had stage IA disease.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text via PMC3862225. PTH-rp not assayed; authors infer PTH-rp-mediated hypercalcemia because it did not recur after tumor removal. Discussion notes conflicting literature on FOXL2 expression and prognosis (Kalfa 2007 vs D'Angelo 2011), cited second-hand.
-confidence: 4
+notes: PTHrP not measured, so mechanism is inferred. FOXL2 method not given. Table 1 abbreviation 'CT' means chemotherapy, not computed tomography. The review is limited to two previously published cases.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

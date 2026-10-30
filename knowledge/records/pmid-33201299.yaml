@@ -2,32 +2,55 @@ source_id: '33201299'
 source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/33201299/
-retrieved_on: '2026-10-29'
-full_text_read: false
-language: en
+retrieved_on: '2026-10-30'
+full_text_source: PMC7886839
+language: de
 pmid: '33201299'
 doi: 10.1007/s00120-020-01391-7
-title: '[Juvenile granulosa cell tumor-Testicular tumor of the very young : Report of three cases and contemporary recommendations].'
+pmcid: PMC7886839
+title: '[Juvenile granulosa cell tumor-Testicular tumor of the very young : Report of three cases and contemporary recommendations]'
 journal: Der Urologe. Ausg. A
 year: 2021
 first_author: Haider M
 study_type: case_series
 tumor_site: testis
 n_jgct_patients: 3
-age_range: null
+age_range: Neonates to 12 weeks at diagnosis (case A newborn, B 10-12 weeks, C newborn)
 alterations: []
-treatments: []
-presentation: []
+treatments:
+- regimen: Emergency inguinal exposure with resection of cystic lower pole, then scrotal orchiectomy at 4 months
+  setting: Case A, left testis, newborn
+  n: 1
+  outcome: No recurrence or metastasis at almost 11 years
+- regimen: Inguinal exposure and orchiectomy (tumor distinguishable from sparse testicular remnant only by ultrasound)
+  setting: Case B, right testis, age 12 weeks, AFP 121.4 ng/ml
+  n: 1
+  outcome: Discharged symptom-free on postoperative day 1; no later follow-up reported
+- regimen: Inguinal exposure with tumor enucleation and testis preservation on day 5 of life
+  setting: Case C, left testis, AFP 48,370 ng/ml
+  n: 1
+  outcome: Clinically and sonographically unremarkable at 4 months
+presentation:
+- enlarged hard testis in a newborn or young infant
+- multicystic intratesticular mass on ultrasound
+- elevated AFP (physiologically high in infancy)
+- no signs of hormonal activity typical
+- initial mimicry of testicular torsion (case A) or hydrocele (case B)
 key_findings:
-- Three cases of testicular JGCT with recommendations for diagnosis and treatment.
-- Authors describe it as a benign lesion requiring surgical treatment, with no metastases or recurrences described in the literature.
-relevance_to_jgct: German urology report on testicular JGCT management.
+- 'Case A: newborn (38+0 weeks, 3600 g) transferred for grunting and oxygen need had a hard left testis; ultrasound showed multiple intratesticular cysts in the lower pole with hyperperfusion, mimicking older torsion; at emergency inguinal exploration the lower pole was cystic with gelatinous cysts and no visible parenchyma; frozen section showed an epithelial cystic tumor of unclear malignant potential and the lower pole was removed.'
+- Case A final histology was juvenile granulosa cell tumor; chromosome analysis showed a normal male karyotype; at 4 months, residual testis with irregular ultrasound texture was removed by scrotal orchiectomy, again JGCT, and the specimen showed mostly fetal A-pale spermatogonia and very few A-dark type; follow-up is almost 11 years without recurrence or metastasis.
+- 'Case B: infant with hydrocele at birth, change on palpation and suspected malignant testicular tumor at 10 weeks (MRI confirmed, no metastasis), first urological presentation at 12 weeks; the right testis was almost wholly replaced by an inhomogeneous well-perfused mass; AFP 121.4 ng/ml with normal beta-hCG and LDH; orchiectomy was done because tumor could only be separated from sparse residual testis by ultrasound; histology showed multicystic JGCT confirmed by immunohistochemistry and reference pathology.'
+- 'Case C: term newborn (39+2 weeks, 3530 g) with enlarged hard left hemiscrotum and multicystic testicular parenchyma on ultrasound; AFP 48,370 ng/ml, beta-hCG 0.3 U/l, LDH 428 U/l; JGCT was suspected preoperatively and confirmed histologically and by reference pathology after day-5 inguinal enucleation with testis preservation; unremarkable at 4 months.'
+- The authors state that testicular JGCT is a benign lesion of neonates and early infancy, that no recurrences or metastases have been described, and that it behaves differently from adult granulosa cell tumor and ovarian JGCT; patients usually show no signs of hormonal activity.
+- 'Recommendations from the authors: ultrasound is the main diagnostic tool; beta-hCG is irrelevant in childhood; AFP is hard to interpret in the first months because of physiologically high values, and reliable differentiation from yolk sac tumor by AFP is possible only after about 6 months; classical staging imaging is not indicated unless yolk sac tumor is proven; treatment of choice is prompt inguinal exposure with tumor resection and organ preservation, with orchiectomy only when little or no residual parenchyma remains; frozen section is obligatory but immunohistochemistry is needed for final diagnosis; annual follow-up is clinical and sonographic only.'
+- Sex chromosome abnormalities in testicular JGCT are reported in the literature only with concomitant external genital abnormalities (marked/penoscrotal hypospadias, ambiguous genitalia, complex malformation syndromes), so the authors state chromosome analysis is no longer indicated for JGCT alone in an otherwise healthy patient.
+- The authors call for systematic registration of pediatric testicular masses with ultrasound correlation in a tumor registry, and note miRNA markers (miR-371~373, miR-302) as promising but not routine.
+relevance_to_jgct: German-language case series and practical recommendations on testicular JGCT of the newborn; supports organ-sparing surgery and surveillance limited to ultrasound.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: null
-confidence: 2
+notes: Original read in German. Three cases from one German center; case B was first diagnosed abroad in the EU. Follow-up for case B is not stated beyond discharge. Recommendations are the authors' synthesis, not a guideline. The full text states no recurrences described in the literature, which can be compared with the STEP registry report (pmid-40272823).
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: guideline
 source_url: https://pubmed.ncbi.nlm.nih.gov/41585072/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC12826784
 language: en
 pmid: '41585072'
 doi: 10.3332/ecancer.2025.2028
+pmcid: PMC12826784
 title: Minimally invasive surgery guidelines in paediatric surgical oncology - role of MIS in fertility preservation.
 journal: Ecancermedicalscience
 year: 2025
@@ -16,21 +17,25 @@ tumor_site: ovary
 n_jgct_patients: null
 age_range: null
 alterations: []
-treatments: []
+treatments:
+- regimen: Open (supra-pubic laparotomy) ovarian-sparing resection after laparoscopic exploration/staging for paediatric ovarian tumours
+  setting: paediatric ovarian tumours incl. rare cystic JGCT
+  n: null
+  outcome: authors' recommendation; no JGCT outcome data
 presentation: []
 key_findings:
-- IPSO minimally invasive surgery guideline chapter on fertility preservation in paediatric cancer.
-- In asymptomatic girls, imaging and tumour markers (alpha-fetoprotein, human chorionic gonadotrophin, Inhibin B, anti-Mullerian hormone and calcemia) are described before surgery; laparoscopic exploration recommended as first step.
-- Laparoscopic ovarian tumour resection is not recommended by the authors; laparotomy via a supra-pubic approach remains preferred.
-- Rationale includes potential malignancy even in cystic lesions (e.g., rare cases of juvenile granulosa cell tumours), where intraoperative rupture would significantly worsen prognosis.
-- Ovarian and genital tract-sparing surgery should be prioritised for benign ovarian tumours, which constitute 90% of childhood ovarian lesions.
-relevance_to_jgct: Paediatric surgical guidance noting that cystic-appearing ovarian masses may be JGCT and favoring open resection to avoid rupture.
+- Chapter on minimally invasive surgery (MIS) and fertility preservation in paediatric surgical oncology; JGCT is mentioned only once, as an example of rare malignancy that can occur even in cystic ovarian lesions.
+- Authors do not recommend laparoscopic ovarian tumour resection in children; laparotomy via supra-pubic approach remains preferred because malignancy may be present even in cystic lesions (e.g. rare cases of juvenile granulosa cell tumours) and intraoperative rupture would worsen prognosis.
+- In asymptomatic girls with an ovarian mass, work-up includes imaging and markers (alpha-fetoprotein, hCG, inhibin B, anti-Mullerian hormone, calcium); laparoscopic exploration is recommended as first step to assess the lesion and stage disease, followed by laparotomy for resection.
+- Benign tumours are ~90% of childhood ovarian lesions; ovarian-sparing surgery should always be considered; in acute torsion or rupture, laparoscopic exploration with ascites sampling and detorsion is advised, with oophorectomy discussed only if malignant features are seen.
+- Large tumours extending beyond the umbilicus are a contraindication to open-entry laparoscopy because of the rupture risk; laparotomy first.
+- Other fertility-preservation topics (ovarian transposition for pelvic radiotherapy, uterine transposition, ovarian tissue cryopreservation) are covered generally, not specific to JGCT.
+relevance_to_jgct: 'Surgical guidance relevant to JGCT management only by implication: favours open, rupture-avoiding ovarian-sparing surgery for paediatric ovarian masses where JGCT is possible.'
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC12826784). Authors' recommendation against laparoscopic resection is stated as the present authors' view within an IPSO guideline series. JGCT mentioned only as an example.
-confidence: 4
+notes: General paediatric fertility-preservation chapter; no JGCT patients or data. Recommendations are the chapter authors' practice, not JGCT-specific guideline.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

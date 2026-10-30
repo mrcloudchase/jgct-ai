@@ -2,13 +2,14 @@ source_id: 00efe8fac0ba
 source_type: url
 source_tier: database
 source_url: https://clinicaltrials.gov/study/NCT05773651
-retrieved_on: '2026-10-29'
-full_text_read: true
+retrieved_on: '2026-10-30'
+full_text_source: https://clinicaltrials.gov/api/v2/studies/NCT05773651
 language: en
 pmid: null
 doi: null
+pmcid: null
 title: Rare Tumours in Children and Adolescents (STEP 2.0) registry (NCT05773651)
-journal: null
+journal: ClinicalTrials.gov
 year: 2023
 first_author: null
 study_type: registry
@@ -19,16 +20,18 @@ alterations: []
 treatments: []
 presentation: []
 key_findings:
-- Observational registry of rare solid tumors in children and adolescents, recruiting, start 2023-01-11, sponsor University Hospital Tuebingen; estimated enrollment 10000.
-- 'Eligibility: rare solid tumor diagnosed from the neonatal period to 18 years, not registered in another GPOH study or registry; young adults may register on request.'
-- 'Primary outcome: event-free survival.'
-relevance_to_jgct: German STEP registry that collects pediatric JGCT cases; source of the 113-patient series pmid-40272823.
+- Observational, prospective, case-only patient registry (STEP 2.0) of rare solid tumors in children and adolescents; sponsor University Hospital Tuebingen; status RECRUITING (verified 2024-09); start 2023-01-11; estimated enrollment 10,000; target duration 50 years; primary completion estimated 2050-01.
+- 'Aim: collect and evaluate experience and data on diagnosis and treatment of rare childhood tumors; includes biological and molecular genetic research and collaboration with the European EXPeRT group.'
+- 'Eligibility: diagnosis of a rare solid tumor from the neonatal period to 18 years; written consent; not recorded in another GPOH (German Society for Pediatric Oncology and Hematology) study or register; young adults may be registered or referred on request with consent.'
+- 'Primary outcome: event-free survival (time from study entry to failure of induction therapy, recurrence or death from any cause), time frame 5 years.'
+- Data collected include pathology (reference pathology) findings, name, birth date, gender and consent; pseudonymised data are to be shared with national and international rare-tumor databases.
+- The registry record does not mention juvenile granulosa cell tumor or sex cord-stromal tumors by name and has no posted results.
+relevance_to_jgct: German national registry for rare pediatric tumors; JGCT is not named in the registry entry, so its role as a JGCT data source is not stated by this record itself.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Fetched via ClinicalTrials.gov API v2.
-confidence: 4
+notes: Earlier version of this record said the registry was the source of the 113-patient series pmid-40272823; the registry entry read this run does not state that, so the link is not asserted here. No results posted.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

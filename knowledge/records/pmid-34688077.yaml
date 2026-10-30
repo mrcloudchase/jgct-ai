@@ -3,39 +3,42 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/34688077/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC8536526
 language: en
 pmid: '34688077'
 doi: 10.1016/j.ijscr.2021.106531
-title: 'Adult granulosa cell tumor with minor foci of juvenile granulosa cell tumor in postmenopausal woman: A rare case report.'
+pmcid: PMC8536526
+title: 'Adult granulosa cell tumor with minor foci of juvenile granulosa cell tumor in postmenopausal woman: A rare case report'
 journal: International journal of surgery case reports
 year: 2021
 first_author: Rustamadji P
 study_type: case_report
 tumor_site: ovary
-n_jgct_patients: null
+n_jgct_patients: 1
 age_range: 63 years
 alterations: []
 treatments:
-- regimen: TAH-BSO
-  setting: primary
+- regimen: Bilateral salpingo-oophorectomy with total hysterectomy
+  setting: FIGO stage IC (no spill, rupture or malignant ascitic cells), adult GCT with minor JGCT foci
   n: 1
-  outcome: no recurrence at three months
+  outcome: No complications; no recurrence or metastasis at 3 months
 presentation:
-- abdominal distension
-- postmenopausal bleeding
+- abdominal distension and postmenopausal bleeding for 6 months
+- palpable mobile solid abdominal mass
+- CA125 186.3 U/mL
 key_findings:
-- 63-year-old postmenopausal woman with abdominal distension and postmenopausal bleeding; 18 x 15 x 14 cm right ovarian solid mass.
-- 'Pathology: diffuse adult GCT with Call-Exner bodies and nuclear grooves, plus minor foci resembling JGCT (well-defined margins, follicular-like structures).'
-- Bilateral salpingo-oophorectomy with total hysterectomy; no recurrence at three months.
-- Authors describe it as the first case of AGCT accompanied by focal JGCT in a postmenopausal woman.
-relevance_to_jgct: Mixed adult/juvenile granulosa histology; relevant to the pathologic distinction between subtypes.
+- A 63-year-old postmenopausal woman with 6 months of abdominal distension and postmenopausal bleeding had an 18 x 15 x 14 cm solid right ovarian mass at laparotomy (CT 13 x 18 x 19 cm with central necrosis, no ascites or seeding); beta-hCG <1.2 U/mL, AFP 6.51 ng/mL, LDH 185 U/L, CA125 186.3 U/mL.
+- 'The tumor was predominantly adult-type granulosa cell tumor (diffuse growth, Call-Exner bodies, nuclear grooves, 1-2 mitoses/10 HPF) with minor foci resembling JGCT: well-circumscribed solid areas with many follicle-like cavities of varying size containing thin eosinophilic secretion, small round deeply stained nuclei, no nuclear grooves and no Call-Exner bodies, with luteinization in the minor foci.'
+- Two expert gynecopathologists were consulted and agreed with the finding; no immunohistochemistry or molecular testing is reported.
+- The authors state this is the first report of adult GCT with minor foci of JGCT in a postmenopausal woman, and cite prior reports of JGCT with minor adult-type foci (Zhang et al., Young et al.).
+- 'Authors'' histologic criteria for JGCT: diffuse growth with follicle-like structures, absence of Call-Exner bodies, small round nuclei with deep chromatin and no grooves; they note follicle-like structures occur in a small part of adult GCT and 60% of adult GCT may lack Call-Exner bodies.'
+- The authors state that age and clinical symptoms cannot discriminate adult from juvenile GCT, imaging cannot either, and an experienced pathologist is needed; they state 3% of JGCTs occur in women over 30 years and that prognosis follow-up of mixed tumors needs more study (only 3 months here).
+relevance_to_jgct: Postmenopausal tumor that is not a JGCT in the usual sense; shows that juvenile-pattern foci can occur within an adult GCT, relevant to pathologic classification only.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC8536526 not read). n_jgct_patients left null because the tumor is predominantly adult-type with minor JGCT-like foci; no FOXL2 testing mentioned in abstract.
-confidence: 2
+notes: Not a juvenile-age or clinically juvenile GCT; JGCT component is a minor focus within an adult GCT, diagnosed by H&E morphology only. Follow-up 3 months. Clinically staged FIGO 1C in text, table lists 1C. Use cautiously in any JGCT outcome statistics.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

@@ -3,48 +3,52 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/41384702/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC12700056
 language: en
 pmid: '41384702'
 doi: 10.1111/his.70006
+pmcid: PMC12700056
 title: 'Advances in non-germ cell tumours of the testis: focus on new molecular developments in sex cord-stromal tumours.'
 journal: Histopathology
 year: 2026
 first_author: Lobo J
 study_type: review
-tumor_site: both
+tumor_site: testis
 n_jgct_patients: null
-age_range: null
+age_range: 'testicular JGCT: 90% in infants 6 months or younger'
 alterations:
-- gene: AKT1
-  alteration: internal tandem duplication (PH domain)
-  frequency: null
-  notes: ovarian JGCT; cited
-- gene: GNAS
-  alteration: codon 201 hotspot mutation
-  frequency: null
-  notes: ovarian JGCT; cited
 - gene: chromosome 10
-  alteration: monosomy
-  frequency: ~60%
-  notes: testicular JGCT; cited
+  alteration: monosomy/loss of chromosome 10
+  frequency: ~60% of testicular JGCT
+  notes: cited recurrent finding
+- gene: AKT1
+  alteration: internal tandem duplications in PH domain
+  frequency: recurrent in ovarian JGCT; not identified in testicular JGCT
+  notes: null
+- gene: GNAS
+  alteration: codon 201 hotspot mutations
+  frequency: recurrent in ovarian JGCT; not identified in testicular JGCT
+  notes: null
 treatments: []
 presentation:
-- testicular mass in infancy
-- gynecomastia (rare)
+- testicular mass (mostly)
+- gynecomastia in rare patients
+- presentation largely in first year of life
 key_findings:
-- Unlike ovarian JGCT, testicular JGCTs are described as an infantile disease that appears to be invariably benign, presenting largely during the first year of life (90% in infants <= 6 months), mostly as testicular masses, with gynecomastia in rare patients.
-- Macroscopically well-circumscribed, multicystic or solid and cystic; follicles lined by small round to oval cells; some show microcystic (reticular) architecture mimicking yolk sac tumour.
-- Some show prominent mitotic activity (>5-10 mitoses per 10 high-power fields), but this is stated not to be associated with aggressive clinical behaviour in the testis.
-- Ovarian JGCTs show recurrent AKT1 pleckstrin-homology domain internal tandem duplications and hotspot (codon 201) GNAS mutations; these have not been identified in testicular counterparts, which show monosomy 10 (~60%).
-- Reports the recommendation to reclassify the entity as 'benign juvenile granulosa cell tumour of the testis'.
-relevance_to_jgct: Pathology review contrasting testicular and ovarian JGCT clinically and molecularly.
+- Narrative review of testicular sex cord-stromal tumours (TSCSTs, 4%-8% of testicular neoplasms; ~90%-95% benign, 5%-10% malignant and unresponsive to chemo- and radiotherapy), summarizing molecular findings and TESST group classification recommendations.
+- Testicular juvenile granulosa cell tumour (JGCT) is described as an infantile disease that appears invariably benign, presenting largely in the first year of life (90% in infants 6 months or younger), mostly as a testicular mass; gynecomastia in rare patients; some associated with gonadal dysgenesis.
+- 'Pathology: well-circumscribed multicystic or solid and cystic tumours with follicles containing eosinophilic or basophilic secretions, small round cells with scant eosinophilic cytoplasm, fibrous/myxoid stroma bands; solid areas may have spindle cells or reticular pattern mimicking yolk sac tumour. Mitotic activity may be prominent (>5-10 per 10 HPF) without aggressive behaviour; necrosis, lymphovascular invasion and rete testis involvement described in rare cases.'
+- 'Molecular: ovarian JGCT show AKT1 PH-domain internal tandem duplications and codon 201 GNAS mutations, which have not been identified in testicular JGCT; testicular JGCT shows monosomy 10 in ~60%.'
+- 'Immunohistochemistry: beta-catenin membranous (no nuclear), SF1, inhibin, calretinin, SOX9 and FOXL2 variably positive; classic sex cord markers are non-specific.'
+- 'TESST recommendation 8: testicular JGCT should be re-classified as ''benign juvenile-type granulosa cell tumour'' to avoid confusion with ovarian JGCT, which has malignant potential (~10%), to prevent over-treatment and unnecessary work-ups; Table 4 lists JGCT as an example of invariably benign TSCST.'
+- Testicular adult-type granulosa cell tumour is a heterogeneous diagnostic category; FOXL2 p.C134W occurs only anecdotally in testicular cases (versus >90% of ovarian adult GCT).
+- Therapeutic section is about malignant TSCSTs generally (CDK4, mTOR, PARP, Wnt and CD30-directed options experimental); none JGCT-specific.
+relevance_to_jgct: Contrasts testicular JGCT (benign infantile tumour, monosomy 10, no AKT1/GNAS) with ovarian JGCT and endorses re-labelling it as benign juvenile-type granulosa cell tumour.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC12700056). Secondary review; molecular figures cite primary studies (e.g. pmid-36813116). Overlaps authors/content with the TESST classification pmid-42421431.
-confidence: 4
+notes: Review with no patient counts for JGCT; statements about JGCT are cited from other papers. Publication year in record is 2026 per existing metadata (online 2025). Written by authors of the TESST group recommendations.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

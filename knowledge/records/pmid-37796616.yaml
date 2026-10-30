@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/37796616/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC10721328
 language: en
 pmid: '37796616'
 doi: 10.1172/jci.insight.170079
+pmcid: PMC10721328
 title: Biallelic MAD2L1BP (p31comet) mutation is associated with mosaic aneuploidy and juvenile granulosa cell tumors.
 journal: JCI insight
 year: 2023
@@ -14,52 +15,56 @@ first_author: Abdel-Salam GMH
 study_type: genomic
 tumor_site: both
 n_jgct_patients: 2
-age_range: 11 and 14 months at JGCT surgery
+age_range: ovarian JGCT surgery at 14 months; testicular JGCT orchiectomy at 11 months
 alterations:
 - gene: MAD2L1BP
-  alteration: homozygous germline c.757C>T p.(Arg253*) (R253*)
-  frequency: 2 siblings (family 1)
-  notes: hypomorphic; partial NMD and unstable truncated p31comet; parents and sisters heterozygous
+  alteration: homozygous nonsense NM_014628.3:c.757C>T p.(Arg253*) (R253*)
+  frequency: 2/2 siblings with JGCT (family 1)
+  notes: Germline; consanguineous Egyptian parents (first cousins); gnomAD allele frequency 3/248,598, no homozygotes; hypomorphic with partial NMD and residual unstable truncated protein
 - gene: MAD2L1BP
-  alteration: homozygous germline c.679C>T p.(Arg227*)
-  frequency: 1 patient (family 2)
-  notes: no tumor; died at 23 months; moderate mosaic aneuploidy (10% of cells)
+  alteration: homozygous nonsense c.679C>T p.(Arg227*) (R227*)
+  frequency: 1 patient (family 2), no tumor
+  notes: Boy with microcephaly, epileptic encephalopathy, low-level aneuploidy (10% of 200 metaphases), died at 23 months
 - gene: MAD2L1BP
-  alteration: mutation screen
-  frequency: 0/23 sporadic JGCT
-  notes: WES of 23 unrelated nonsyndromic JGCT patients (1 testicular, 22 ovarian; age 1 month to 22 years)
+  alteration: no mutation found in sporadic JGCT
+  frequency: 0/23 unrelated sporadic JGCT patients
+  notes: WES also screened for FOXL2 c.402C>G and DICER1 variants in these 23
 - gene: NF1
-  alteration: oncogenic splice region variant at very low allele frequency
-  frequency: 1/2 sibling tumors
-  notes: patient 1a only; no oncogenic alterations in patient 1b tumor
+  alteration: oncogenic splice-region variant at very low allele frequency in ovarian JGCT of patient 1a
+  frequency: 1/2 tumors
+  notes: Considered possibly artifact-prone; a suggested low-level NF1 deletion was not confirmed by b allele frequencies and was considered a likely artifact; no oncogenic alterations in patient 1b tumor
 treatments:
-- regimen: surgery then tamoxifen for 12 months
-  setting: patient 1a, left ovarian JGCT at 14 months
+- regimen: Surgery for left ovarian JGCT then tamoxifen for 12 months
+  setting: patient 1a, age 14 months
   n: 1
   outcome: complete remission since then
-- regimen: radical left orchiectomy
-  setting: patient 1b, testicular JGCT at 11 months
+- regimen: Radical left orchiectomy for testicular JGCT
+  setting: patient 1b, age 11 months
   n: 1
-  outcome: null
+  outcome: no recurrence information beyond diagnosis stated in the text read
 presentation:
+- JGCT of ovary (sister) and testis (brother) in infancy
 - microcephaly
-- brain malformations (cysts, polymicrogyria)
+- brain malformations (cysts, polymicrogyria, thin corpus callosum)
 - seizures
 - developmental delay
-- high-grade mosaic variegated aneuploidy
+- nystagmus and retinal pigmentation abnormalities (family 1)
 key_findings:
-- Homozygous MAD2L1BP nonsense variant R253* in 2 siblings of consanguineous Egyptian parents with microcephaly, brain malformations, seizures, developmental delay and JGCT of the ovary (girl, surgery at 14 months, then tamoxifen for 12 months, complete remission) and testis (boy, radical orchiectomy at 11 months).
-- Both siblings had high-grade mosaic variegated aneuploidy in lymphocytes and fibroblasts; a second family's boy with homozygous R227* had moderate aneuploidy (10% of cells), no tumor, and died at 23 months.
-- No MAD2L1BP mutations in 23 unrelated nonsyndromic patients with sporadic JGCT (1 testicular, 22 ovarian; age at diagnosis 1 month to 22 years).
-- Sibling tumors had low TMB and were microsatellite stable, with no specific mutational signature; truncated p31comet was defective in Trip13 binding, SAC silencing and HDR, and lost interaction with tp53.
-- No history of aggregated tumor incidence in either family, so no indication of elevated tumor risk for heterozygous carriers.
-relevance_to_jgct: Describes a germline autosomal recessive predisposition (biallelic MAD2L1BP, mosaic variegated aneuploidy) for infantile ovarian and testicular JGCT; not found in sporadic JGCT.
+- Two siblings of consanguineous Egyptian parents carried a homozygous MAD2L1BP nonsense variant R253* (c.757C>T); the sister (patient 1a) had a left ovarian JGCT treated by surgery at 14 months and the brother (patient 1b) had a left testicular JGCT treated by radical orchiectomy at 11 months.
+- Patient 1a received tamoxifen for 12 months after surgery and has been in complete remission since; she also had microcephaly, brain cysts, dysgyria/polymicrogyria, IQ 56 and generalized tonic-clonic seizures from age 5.5 years. Patient 1b had microcephaly with less pronounced brain abnormalities and normal psychomotor development.
+- 'Testicular JGCT of patient 1b: macrofollicular pattern with cysts, progesterone receptor positive, diffuse S100, faint estrogen receptor, patchy inhibin. The ovarian JGCT of patient 1a showed macrofollicular architecture on H&E with reticulin and PAS staining typical for JGCT.'
+- Cultured lymphocytes and fibroblasts of both siblings showed high-grade mosaic variegated aneuploidy; parents and healthy sisters did not. A third patient (family 2, Saudi Arabia) with homozygous R227* had 10% aneuploid cells (200 metaphases reanalyzed), severe epileptic encephalopathy, elevated blood glucose and died at 23 months; he had no tumor.
+- Tumor WES of both JGCTs (FFPE, variants filtered to allele frequency >=5%) showed low tumor mutational burden, microsatellite stability, no mutational signature indicating a DNA repair defect, and no oncogenic alteration in patient 1b; patient 1a had only a very-low-frequency NF1 splice-region variant.
+- No MAD2L1BP mutations were found in 23 unrelated patients with sporadic JGCT (22 ovarian, 1 testicular; age at diagnosis 1 month to 22 years; no familial JGCT).
+- Functionally, R253* leads to partial nonsense-mediated decay and a truncated p31comet with half-life of about 15 minutes (reduced by more than 80% in fibroblasts); truncated p31comet could not bind Trip13, was defective in Mad2 and Rev7 binding, could not support spindle assembly checkpoint silencing or homology-directed repair, and lost its interaction with tp53. Patient fibroblasts proliferated slower and were more resistant to paclitaxel and slightly to etoposide.
+- In p31comet immunostaining, patient 1b's testicular JGCT showed faint nuclear expression in <5% of tumor cells versus about 50% in a reference testicular JGCT.
+- The authors conclude that biallelic germline MAD2L1BP mutations predispose to the (usually sporadic) infantile JGCT in both sexes, probably through high-grade aneuploidy, possibly with the impaired p31comet-tp53 interaction; they note no tumor history in heterozygous carriers' families and no increased mutational rate.
+relevance_to_jgct: Describes the first germline genetic cause (biallelic MAD2L1BP loss of function with mosaic variegated aneuploidy) of familial JGCT affecting both ovary and testis; sporadic JGCT lacked MAD2L1BP mutations.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC10721328) on 2026-10-30. Table 1 (clinical features) was not present in the extracted text. Results of the FOXL2 and DICER1 screen in the 23 sporadic JGCTs are in Supplemental Table 2, which was not retrieved.
-confidence: 4
+notes: 'Table 1 (clinical features) was not present in the extracted text; clinical details are taken from the Results text and figure legends. Treatment follow-up for patient 1b beyond orchiectomy is not stated in the text read. Discussion lists other germline contexts for JGCT: MBD4 biallelic variant, PTEN plus TP53 variants, TP53 nonsense variant, and Ollier/Maffucci disease with somatic IDH1/IDH2 mutations (as cited by authors).'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

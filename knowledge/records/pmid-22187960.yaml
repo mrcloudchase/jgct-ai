@@ -2,33 +2,46 @@ source_id: '22187960'
 source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/22187960/
-retrieved_on: '2026-10-29'
-full_text_read: false
+retrieved_on: '2026-10-30'
+full_text_source: https://iris.unito.it/bitstream/2318/115457/1/2012_Heravi-Moussavi%20et%20al_N%20Engl%20J%20Med.pdf
 language: en
 pmid: '22187960'
 doi: 10.1056/NEJMoa1102903
-title: Recurrent somatic DICER1 mutations in nonepithelial ovarian cancers.
+pmcid: null
+title: Recurrent somatic DICER1 mutations in nonepithelial ovarian cancers
 journal: The New England journal of medicine
 year: 2012
 first_author: Heravi-Moussavi A
 study_type: genomic
 tumor_site: ovary
-n_jgct_patients: null
+n_jgct_patients: 14
 age_range: null
-alterations: []
+alterations:
+- gene: DICER1
+  alteration: 'Somatic RNase IIIb hot-spot mutation: c.5126A>G, p.Asp1709Gly (D1709G) in 1 JGCT'
+  frequency: 1/14 juvenile granulosa-cell tumors (7%) in Table 1 (validation-inclusive tally)
+  notes: Table 1 lists 0/15 adult granulosa-cell tumors (all FOXL2-mutant). Four JGCTs were among the 14 discovery tumors sequenced by transcriptome/exome; the text does not say which discovery tumor carried the JGCT mutation, and no JGCT is listed in Table 2 (compound mutations).
+- gene: DICER1
+  alteration: Hot-spot RNase IIIb metal-binding-site mutations (E1705K, D1709N/G/E, D1810H/Y/N, E1813Q/G/K)
+  frequency: Sertoli-Leydig cell tumor 26/43 (60%); 30/102 nonepithelial ovarian tumors (29%); 33/159 tumors overall (discovery plus validation, ovarian, testicular, ERMS)
+  notes: Somatic in all 16 samples with germline DNA; mutually exclusive across the four metal-binding residues; 17 mutations at D1709; no RNase IIIa hot-spot mutations; 7 samples had an additional germline or somatic DICER1 mutation (none JGCT).
 treatments: []
 presentation: []
 key_findings:
-- DICER1 RNase IIIb domain mutations in 30 of 102 nonepithelial ovarian tumors (29%), predominantly Sertoli-Leydig cell tumors (26 of 43, 60%).
-- Mutations restricted to codons encoding metal-binding sites of RNase IIIb; somatic in all 16 samples with germline DNA available.
-- Mutant DICER1 had reduced RNase IIIb but retained RNase IIIa activity.
-relevance_to_jgct: Landmark paper establishing somatic DICER1 hotspot mutations in ovarian SCST, the basis for DICER1 testing in JGCT differential diagnosis.
+- Whole-transcriptome/exome sequencing of 14 discovery tumors (2 Sertoli-Leydig cell tumors, 4 juvenile granulosa-cell tumors, 8 yolk-sac primitive germ-cell tumors) found clustered DICER1 RNase IIIb mutations, including four missense changes at D1709; Sanger sequencing then screened 101 additional nonepithelial ovarian tumors and 39 testicular tumors.
+- 'JGCT-specific result (Table 1): a hot-spot DICER1 mutation was found in 1/14 juvenile granulosa-cell tumors (7%), c.5126A>G encoding p.Asp1709Gly (D1709G). Adult granulosa-cell tumors were 0/15, all with FOXL2 mutation.'
+- Overall, DICER1 RNase IIIb hot-spot mutations were found in 30/102 nonepithelial ovarian tumors (29%), predominantly Sertoli-Leydig cell tumors, 26/43 (60%); yolk sac tumor 2/15 (13%), mature teratoma 1/8 (12%); dysgerminoma 0/1, mixed germ-cell 0/1, immature teratoma 0/5.
+- 'Outside the ovarian sex cord-stromal and germ-cell groups: 1/14 nonseminomatous testicular germ-cell tumors (D1709N), 2/5 embryonal rhabdomyosarcomas, and 1/266 epithelial ovarian and endometrial carcinomas (an ovarian carcinosarcoma, E1813G); 33/159 tumors had hot-spot mutations across discovery and validation sets.'
+- Mutations were restricted to codons for metal-binding residues of the RNase IIIb catalytic centers, were somatic in all 16 cases with germline DNA, were heterozygous, and no RNase IIIa mutations were seen; they were absent from 1000 Genomes, TCGA public data, COSMIC hot spots, over 1000 cancer-sequencing libraries and the 15 FOXL2-mutant adult granulosa-cell tumors.
+- 'Seven samples carried a hot-spot mutation plus another germline or somatic DICER1 mutation (Table 2: 1 embryonal rhabdomyosarcoma, 1 yolk-sac tumor, 5 Sertoli-Leydig cell tumors); in six the second allele was predicted null. No JGCT is listed among them.'
+- In vitro RNA cleavage assays showed hot-spot mutants (D1709N, D1709E, E1705K) had markedly reduced RNase IIIb activity (22-nt product) but retained RNase IIIa activity (18-nt product); all tumors stained positive for DICER1 by immunohistochemistry.
+- Authors conclude the focal, recurrent pattern and retention of expressed mutant protein argue against a classic two-hit tumor suppressor and suggest an oncogene-like altered DICER1 function; they conclude aberrant miRNA processing from hot-spot mutations is a key oncogenic event in nonepithelial ovarian cancers.
+relevance_to_jgct: First report of recurrent somatic DICER1 RNase IIIb hot-spot mutations in nonepithelial ovarian tumors; JGCT showed a low rate (1/14) compared with Sertoli-Leydig tumors (60%), distinguishing it from adult GCT (FOXL2, DICER1 0/15).
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract does not give the number of JGCTs tested or mutated.
-confidence: 3
+notes: 'The PDF is the complete NEJM article (9 pages, abstract through references) but the Supplementary Appendix (Tables 1-5, Figs 1-8, where per-sample data and JGCT discovery-sample details are given) is NOT included in the text read; JGCT details (ages, sample sources, the single mutated tumor''s identity) are therefore not recorded. n_jgct_patients=14 is the denominator in Table 1, which may include discovery samples (the text states 4 JGCTs were in the discovery set of 14, and 101 additional ovarian tumors in validation). Table 1 footnote: frequencies are for specimens with both amplicons sequenced unless indicated. The text''s ''30 of 102'' versus ''101 additional'' validation tumors reflects the 14 discovery plus validation set as presented; sums were not recomputed. Discovery samples came from the Children''s Oncology Group (Nationwide Children''s Hospital) and OvCaRe.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

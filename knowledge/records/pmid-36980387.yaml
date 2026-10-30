@@ -3,36 +3,57 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/36980387/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC10047001
 language: en
 pmid: '36980387'
 doi: 10.3390/diagnostics13061080
-title: 'Therapeutic Management and Prognostic Factors for Ovarian Malignant Tumours in Adolescents: A Comprehensive Review of Current Guidelines.'
+pmcid: PMC10047001
+title: 'Therapeutic Management and Prognostic Factors for Ovarian Malignant Tumours in Adolescents: A Comprehensive Review of Current Guidelines'
 journal: Diagnostics (Basel, Switzerland)
 year: 2023
 first_author: Margioula-Siarkou C
 study_type: review
 tumor_site: ovary
 n_jgct_patients: null
-age_range: null
-alterations: []
-treatments: []
-presentation: []
+age_range: adolescents (children and adolescents)
+alterations:
+- gene: DICER1
+  alteration: Mutation testing recommended for suspected sex cord-stromal tumors and gynandroblastoma (not specific to JGCT)
+  frequency: null
+  notes: Guideline recommendation summarized by the review.
+treatments:
+- regimen: 'Sex cord-stromal early stage IA: surgery alone with fertility preservation if all macroscopic lesions excised; JGCT stage IA-IC1 with complete resection may avoid chemotherapy, stage IC2-IC3 chemotherapy recommended'
+  setting: guideline summary (Centres Experts TMRG 2022, ESGO-SIOPE 2020, ESMO 2018, EXPeRT/PARTNER 2021)
+  n: null
+  outcome: No patient outcome data (review of guidelines)
+- regimen: 'Advanced or higher-stage sex cord-stromal tumors: BEP 3-4 cycles; alternatives cisplatin-etoposide-ifosfamide (at least 4 cycles) or carboplatin-paclitaxel (6 cycles in some guidelines)'
+  setting: guideline summary; EXPeRT/PARTNER recommends 3-4 cycles in stage IC and 4 cycles in stages II-IV
+  n: null
+  outcome: No patient outcome data
+- regimen: 'Recurrent sex cord-stromal tumors: cytoreductive surgery followed by platinum-based chemotherapy; trial options include hormone therapy (GnRH agonists, tamoxifen, progestin, aromatase inhibitors), antiangiogenic and targeted drugs; bevacizumab, HIPEC, high-dose chemotherapy with stem cell transplant or radiotherapy individually'
+  setting: guideline summary
+  n: null
+  outcome: No patient outcome data
+presentation:
+- non-specific abdominal/pelvic pain, distension, rapid increase in abdominal volume
+- vaginal bleeding and menstrual irregularity rarer in early puberty
+- mass usually large at diagnosis
 key_findings:
-- Comparative narrative review of five guidelines (Centres Experts TMRG, BritSPAG, ESMO 2018, ESGO-SIOPE 2020, EXPeRT/PARTNER 2021) on malignant ovarian tumours in adolescents.
-- Adolescents with sex cord stromal tumours are mostly diagnosed with juvenile granulosa cell tumours, Sertoli cell tumours and Sertoli-Leydig cell tumours.
-- 'For JGCT, Centres Experts TMRG and ESGO-SIOPE: ''Stage IA-IC1: ChT may be avoided if complete surgical resection. Stage IC2-IC3: ChT is recommended.'' ESMO: ''Stage IC: ChT is recommended.'' EXPeRT/PARTNER: ''In stage IC tumours, three-four cycles of ChT are recommended.'''
-- AMH and inhibin B may indicate the presence of granulosa cell tumours (ESMO 2018, Centres Experts TRMG 2022, EXPeRT/PARTNER 2021).
-- EXPeRT/PARTNER recommends FOXL2 immunohistochemistry for granulosa cell tumours to distinguish adult and juvenile types (Table 2).
-- Ovarian stimulation for fertility preservation is permitted only for stage IA granulosa-type SCSTs after multidisciplinary discussion and contraindicated for stages > IA (Centres Experts TMRG 2022); HRT generally avoided in SCSTs except stage IA and IB granulosa-type tumours upon board approval.
-- Debulking surgery recommended for advanced stage granulosa cell tumours (ESMO, TMRG) but considered to have no role in SCSTs except palliation per EXPeRT/PARTNER.
-relevance_to_jgct: Side-by-side comparison of guideline recommendations for adolescent JGCT, documenting where guidelines disagree on chemotherapy for stage IC1 and on debulking.
+- 'Narrative review (search September 2022) comparing five guidelines on malignant ovarian tumors in children and adolescents: Centres Experts TMRG 2022 (France), BritSPAG 2018, ESMO 2018, ESGO-SIOPE 2020, EXPeRT/PARTNER 2021; 96 items screened, 5 guidelines included.'
+- 'Cited epidemiology: about 2.6 cases per 100,000 girls per year; 10-30% of ovarian masses in girls up to 17 are malignant; about 85% of preadolescent malignant ovarian masses are germ cell tumors, 8% epithelial, 5% sex cord-stromal and steroid cell tumors; adolescents mostly have juvenile granulosa cell, Sertoli and Sertoli-Leydig tumors.'
+- 'Diagnostics: ultrasound first, serum markers (beta-hCG, AFP, LDH, CA125) in all suspicious masses, hormonal profile if hormone production or precocious puberty; AMH and inhibin B may indicate granulosa cell tumors; immunohistochemistry (inhibin A, calretinin, SF1, FOXL2, WT1, CD99 and others) and DICER1 testing in suspected sex cord-stromal tumors; EXPeRT/PARTNER recommends FOXL2 to distinguish adult from juvenile granulosa cell tumors.'
+- 'Prognosis per ESMO: sex cord-stromal tumors generally have a better prognosis, with 20% relapsing or dying of metastatic cancer; advanced FIGO stage, intraperitoneal rupture and tumor size above 5 cm are adverse factors; only ESMO and ESGO-SIOPE give prognostic factor detail.'
+- Staging by FIGO 2014 with complete surgical staging; systematic lymphadenectomy not recommended in early sex cord-stromal tumors; total hysterectomy only in stage II+ (Centres Experts TMRG); omentectomy only if adhesions (EXPeRT/PARTNER); open approach preferred to avoid rupture.
+- 'JGCT-specific chemotherapy recommendations: stage IA-IC1 with complete resection may avoid chemotherapy and IC2-IC3 requires it (Centres Experts TMRG, ESGO-SIOPE; text says potentially IC1 per ESMO; ESMO table entry lists stage IC chemotherapy recommended); EXPeRT/PARTNER recommends 3-4 cycles in stage IC.'
+- For advanced stages debulking is recommended by ESMO and Centres Experts TMRG but EXPeRT/PARTNER states it has no role apart from palliation and advises biopsy and upfront chemotherapy followed by delayed resection; 4 cycles in stages II-IV with second-look surgery if incomplete resection.
+- 'Fertility: ovarian stimulation allowed only for stage IA granulosa-type tumors after multidisciplinary discussion and contraindicated above IA (Centres Experts TMRG); hormone replacement generally avoided in sex cord-stromal tumors except stage IA-IB granulosa-type; estrogen-containing contraceptives contraindicated for these tumors.'
+- Authors conclude there is substantial agreement among the guidelines but call for an international consensus.
+relevance_to_jgct: Compares adolescent ovarian cancer guidelines; gives the stage-based chemotherapy thresholds for JGCT and sex cord-stromal management, but contains no primary JGCT patient data.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC10047001). Secondary source summarizing guidelines; the underlying guidelines are the primary sources. Statement in Table 2 about FOXL2 IHC distinguishing adult and juvenile types is attributed to EXPeRT/PARTNER; FOXL2 protein is generally expressed in both, so this may reflect FOXL2 mutation testing rather than IHC - recorded verbatim. Discrepancy on stage IC1 chemotherapy (ESMO vs others) is within-source.
-confidence: 4
+notes: Review of guidelines for all adolescent malignant ovarian tumors (germ cell, sex cord-stromal, SCCOHT); JGCT content is limited to a few paragraphs and rows of Table 2. n_jgct_patients is null since no patients are reported. Table 2 columns for JGCT are partly misaligned in the extracted text, so the guideline-to-recommendation mapping for ESMO versus EXPeRT/PARTNER was read from the narrative where possible (the narrative says BEP for stage IC2-IC3 in the guideline quartet and 'potentially IC1 per ESMO'; the table lists ESMO stage IC chemotherapy recommended). The review itself is secondary (guidelines are not independently verified).
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

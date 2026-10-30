@@ -2,11 +2,12 @@ source_id: '26137586'
 source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/26137586/
-retrieved_on: '2026-10-29'
-full_text_read: true
+retrieved_on: '2026-10-30'
+full_text_source: PMC4485906
 language: en
 pmid: '26137586'
 doi: 10.1016/j.ebiom.2015.03.002
+pmcid: PMC4485906
 title: A Hot-spot of In-frame Duplications Activates the Oncoprotein AKT1 in Juvenile Granulosa Cell Tumors.
 journal: EBioMedicine
 year: 2015
@@ -17,38 +18,37 @@ n_jgct_patients: 16
 age_range: girls under 15 years
 alterations:
 - gene: AKT1
-  alteration: in-frame tandem duplication in exon 3 (pleckstrin-homology domain)
-  frequency: '>60% (9 of 16 by gel; 10 duplications sequenced)'
-  notes: Somatic status confirmed in 2 with peritumoral DNA.
+  alteration: in-frame tandem duplications in exon 3 affecting the pleckstrin-homology domain (6th beta strand)
+  frequency: 10/16 JGCTs
+  notes: All but two duplications were different; somatic status confirmed in the 2 tumors with peritumoral DNA available; none found in 10 adult GCTs, 15 colorectal carcinomas or 59 NCI cell lines; no duplications in AKT2 exon 3
 - gene: AKT1
-  alteration: point mutations at conserved residues (e.g., Q79K-W80R in cis, E91N, M458I, T21I, P348S)
-  frequency: 10 tumors
-  notes: 14 of 16 tumors had putative AKT1 driver alterations in total.
-- gene: GNAS
-  alteration: R201 hotspot
-  frequency: 0/16 (not detected)
-  notes: null
+  alteration: point mutations at highly conserved residues (e.g. Q79K and W80R on the same allele in T2; E91N, M458I, T21I, P348S; P24L, G232W, D274H, S378F in T4)
+  frequency: 10/16 tumors carried point mutations; 14/16 JGCTs had putative driver AKT1 alterations
+  notes: Somatic status confirmed for 7 where peritumoral DNA was available; several tumors without duplications carried two or more potentially damaging variants; two tumors had homozygous/hemizygous mutations
+- gene: GNAS (Galphas)
+  alteration: R201C/R201H activating mutations (exon 8 sequenced)
+  frequency: 0/16
+  notes: Absence suggested these tumors might harbor drivers elsewhere; previous study from the same group found them in about 30%
 - gene: PIK3CA
-  alteration: exons 9, 18, 20
-  frequency: 0/7
-  notes: null
+  alteration: exons 9, 18, 20 sequenced
+  frequency: 0/7 tumors
+  notes: No mutations found
 treatments: []
 presentation: []
 key_findings:
-- 16 histologically proven JGCTs in girls under 15 years (Necker-Enfants Malades Paris and Montpellier repositories, 1994-2014).
-- In-frame tandem duplications in exon 3 of AKT1, affecting the pleckstrin-homology domain, were found in more than 60% of tumors (10 duplications; all but two different); somatic status proven for the two with peritumoral DNA available.
-- AKT1 point mutations altering highly conserved residues were identified in 10 tumors (somatic status confirmed for seven); tumors without duplications often carried two or more point mutations. In total, 14 out of 16 JGCTs harbored putative driver alterations of AKT1.
-- No GNAS R201 mutation was found in this cohort; PIK3CA exons 9, 18, 20 were unmutated in 7 tumors; no AKT2 exon 3 duplications.
-- Duplications were not found in 10 adult GCTs, 15 colorectal carcinomas, or 59 NCI cell lines.
-- Duplicated AKT1 proteins localized almost exclusively at the plasma membrane, showed strong S473 phosphorylation and FOXO3a repression insensitive to serum deprivation; phospho-AKT confirmed on tumor sections.
-- Authors propose AKT1 alterations as driver events, useful for molecular diagnosis, and note PI3K-AKT-mTOR inhibitors as a targeted therapy perspective.
-relevance_to_jgct: Foundational genomic study identifying AKT1 in-frame duplications as the major recurrent driver alteration in ovarian JGCT.
+- Cohort of 16 histologically proven JGCTs in girls under 15 years (collected 1994-2014, Necker-Enfants Malades Paris and Montpellier); 12 FFPE and 4 frozen samples; peritumoral DNA was available for only 8.
+- In-frame tandem duplications of AKT1 exon 3 were found in 10 of 16 JGCTs (more than 60%); the 10 duplications had not been reported before and all but two were different, which the authors attribute to a dynamic mutational process (DNA-polymerase errors).
+- The two duplications tested against peritumoral DNA were somatic. No duplications were found in 10 adult-type GCTs, 15 colorectal carcinomas, 59 NCI cell lines, or in AKT2 exon 3.
+- Full AKT1 sequencing found conserved-residue point mutations in 10 tumors, confirmed somatic in 7 with peritumoral DNA; in total 14 of 16 JGCTs carried putative AKT1 driver alterations. GNAS R201C/H mutations were absent in all 16 and PIK3CA exons 9, 18, 20 had no mutations in the 7 tumors tested.
+- In HeLa cells the duplicated AKT1 proteins localized almost exclusively under the plasma membrane (with filopodia-like processes), were strongly phosphorylated at S473 compared with wild-type and E17K, and were hyperactive and serum-independent in a FOXO3a luciferase reporter; the Q79K-W80R double mutant (and each mutation alone) was also hyperactive.
+- Phospho-AKT immunostaining confirmed phosphorylated AKT1 in a tumor section (T5) bearing a duplication.
+- The authors conclude that somatic AKT1 mutations are a major driver event in JGCT, that the duplications could facilitate molecular diagnosis, and that PI3K-AKT-mTOR inhibitors in clinical trials open targeted-therapy perspectives; functional work was in HeLa cells, not patient-derived cells.
+relevance_to_jgct: Identifies recurrent activating AKT1 pleckstrin-homology-domain duplications in about 60% of pediatric JGCTs, one of the main known somatic drivers and a candidate therapeutic target.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text via Europe PMC (PMC4485906). Cohort overlaps the French groups that reported GNAS mutations in 30% (pmid-16507630); this cohort had none.
-confidence: 5
+notes: Table 1 (clinical features) was not present in the extracted text, so per-patient clinical data (stage, age, outcome) are not captured. Abstract says 'more than 60%', consistent with 10/16 in the text. Text states duplications in 9 of 16 by gel plus T1 (slow band only) = 10. Same group previously reported GNAS mutations in about one third of JGCTs (older cohort), so cohort overlap with earlier Kalfa papers is possible but not stated.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

@@ -3,87 +3,84 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/39773640/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC11707838
 language: en
 pmid: '39773640'
 doi: 10.1186/s13000-025-01599-1
-title: Complex immunohistochemical and molecular study on 5 cases of ovarian juvenile granulosa cell tumors reveals a consistent alteration in the PI3K/AKT/mTOR signaling pathway.
+pmcid: PMC11707838
+title: Complex immunohistochemical and molecular study on 5 cases of ovarian juvenile granulosa cell tumors reveals a consistent alteration in the PI3K/AKT/mTOR signaling pathway
 journal: Diagnostic pathology
 year: 2025
 first_author: Šafanda A
 study_type: genomic
 tumor_site: ovary
 n_jgct_patients: 5
-age_range: 6-43 years (median 16)
+age_range: 6 to 43 years (mean 19, median 16)
 alterations:
 - gene: AKT1
   alteration: internal tandem duplication
-  frequency: 2/5
-  notes: one AKT1-ITD tumor also had a likely pathogenic CHEK2 mutation; both AKT1-mutated tumors had lower Ki-67 than AKT1-wild-type tumors
+  frequency: 2/5 (40%)
+  notes: One of the two also had a likely pathogenic CHEK2 mutation (class 4); both AKT1-mutated tumors had lower Ki-67 than AKT1 wild-type tumors
 - gene: TERT
   alteration: promoter mutation c.-124C>T
   frequency: 1/5
-  notes: present in primary and recurrence; tumor recurred
+  notes: Present in the primary tumor and its recurrence (case 3); AKT1 wild type
 - gene: EP400
   alteration: mutation
   frequency: 1/5
-  notes: tumor recurred
-- gene: CHEK2
-  alteration: likely pathogenic (class 4) mutation
-  frequency: 1/5
-  notes: co-occurring with AKT1 ITD
+  notes: AKT1 wild type; chromatin remodeling gene
 - gene: PTEN
-  alteration: loss of protein expression (IHC)
-  frequency: 3/5
-  notes: all in AKT1-wild-type tumors; no PTEN mutation, deletion (CNV) or promoter hypermethylation found
+  alteration: loss of protein expression by IHC without mutation, deletion (CNV) or promoter hypermethylation
+  frequency: 3/5 (60%) lost expression
+  notes: All three were AKT1 wild type
 - gene: FOXL2
-  alteration: c.402C>G p.Cys134Trp
+  alteration: c.402C>G p.Cys134Trp not detected
   frequency: 0/5
-  notes: null
+  notes: FOXL2 protein expressed in 5/5
 - gene: DICER1
-  alteration: somatic mutation
+  alteration: no somatic mutations
   frequency: 0/5
-  notes: contrasts with 2/8 reported by Onder et al.
+  notes: ''
 treatments:
-- regimen: hysterectomy + bilateral adnexectomy; at recurrence chemotherapy and bevacizumab
-  setting: case 1, age 43, FIGO IC
+- regimen: Hysterectomy plus bilateral adnexectomy, then chemotherapy and bevacizumab for recurrence
+  setting: Case 1, age 43, FIGO IC, recurrence
   n: 1
-  outcome: recurrence; died of disease (follow-up 21 months)
-- regimen: unilateral adnexectomy
-  setting: case 2, age 6, FIGO IC
+  outcome: Died of disease, follow-up 21 months
+- regimen: Unilateral adnexectomy
+  setting: Case 2, age 6, FIGO IC
   n: 1
-  outcome: follow-up not available
-- regimen: unilateral adnexectomy + chemotherapy; at recurrence resection and chemotherapy
-  setting: case 3, age 16, FIGO IIIB, positive ascites
+  outcome: Follow-up not available
+- regimen: Unilateral adnexectomy with chemotherapy; recurrence treated by resection and chemotherapy
+  setting: Case 3, age 16, FIGO IIIB, positive ascites
   n: 1
-  outcome: recurrence; alive with disease (79 months)
-- regimen: unilateral adnexectomy; at recurrence resection and chemotherapy
-  setting: case 4, age 10, FIGO IC, torsion
+  outcome: Alive with disease at 79 months
+- regimen: Unilateral adnexectomy; recurrence treated by resection and chemotherapy
+  setting: Case 4, age 10, FIGO IC, acute abdomen from torsion
   n: 1
-  outcome: recurrence; NED (44 months)
-- regimen: unilateral adnexectomy
-  setting: case 5, age 21, FIGO IC
+  outcome: No evidence of disease at 44 months
+- regimen: Unilateral adnexectomy
+  setting: Case 5, age 21, FIGO IC, no recurrence
   n: 1
-  outcome: no recurrence; NED (20 months)
+  outcome: No evidence of disease at 20 months
 presentation:
-- abdominal pain (all cases with data)
-- acute abdomen due to torsion (1 case)
-- no hormonal manifestations in cases with data
+- abdominal pain in all four patients with available data
+- acute abdomen due to torsion (case 4)
+- no hormonal irregularities in any case with data
+- multicystic tumors 8-18 cm (median 12 cm)
 key_findings:
-- Five primary JGCTs (plus 1 recurrence) after central review of 10 archival cases (4 reclassified as other sex cord-stromal tumors, 1 duplicate); ages 6 to 43 years (median 16), follow-up 20 to 79 months.
-- Four stage IC and one stage IIIB; three of five recurred, all within the first year after diagnosis; platinum-based chemotherapy was most often used for recurrence; one patient (43 years) died of disease.
-- SF1, inhibin A, calretinin, FOXL2, ER, PR, AR, CKAE1/3 and CD99 positive in 100% (5/5); WT1 in 20% (1/5); p16 negative and p53 wild-type pattern in all; Ki-67 median 30 (range 4-47).
-- All tumors HER2 negative, PD-L1 negative (TPS <1%), MMR-proficient; tumor mutation burden low (average 5 mutations/megabase); BRG1 and INI1 retained (distinguishing from SCCOHT).
-- 'Pathogenic or likely pathogenic mutations in 80% of cases: AKT1 ITD in 40% (2/5), TERT promoter c.-124C>T in 1, EP400 in 1; no FOXL2 c.402C>G and no somatic DICER1 mutations.'
-- PTEN protein loss in 60% (3/5), all AKT1-wild-type, without PTEN mutation, deletion or promoter hypermethylation; authors interpret this as supporting PI3K/AKT/mTOR activation in most JGCTs.
-relevance_to_jgct: Supports PI3K/AKT/mTOR pathway activation as a common feature of JGCT (AKT1 ITD or PTEN protein loss) and reports predictive-marker negativity (HER2, PD-L1, MMR).
-conflicts_with:
-- pmid-17430735
+- Of 10 cases submitted as JGCT, central expert review reclassified 4 (2 Sertoli-Leydig cell tumors, 2 sex cord-stromal tumors NOS) and 1 was a duplicate (primary of a recurrent case), leaving 5 primary JGCTs and 1 recurrence; ages 6-43 years (mean 19, median 16), FIGO IC in 4 and IIIB in 1.
+- Recurrence occurred in 3 patients (cases 1, 3, 4), all within the first year of diagnosis per the text; chemotherapy for recurrence was mostly platinum-based, with some paclitaxel; case 1 also received bevacizumab with limited response and died of disease at 21 months; case 3 was alive with disease at 79 months; case 4 had no evidence of disease at 44 months.
+- 'Immunohistochemistry on tissue microarrays: SF1, inhibin A, calretinin, FOXL2, ER, PR, AR, CKAE1/3 and CD99 were positive in 5/5; WT1 in 1/5; GATA3, napsin A, SATB2, MUC4, CAIX, OCT3/4, SALL4, TTF1 and p16 negative; p53 wild type in all; BRG1, INI1, ARID1A, DPC4 and mismatch repair proteins retained; HER2 negative and PD-L1 negative (TPS <1%); Ki-67 median 30 (range 4-47).'
+- 'Targeted NGS (788-gene panel) found pathogenic or likely pathogenic mutations in 80% (4/5): AKT1 internal tandem duplication in 2/5 (40%), TERT promoter mutation in 1, EP400 in 1; none had the FOXL2 c.402C>G mutation or DICER1 mutations; tumor mutation burden was low (average 5 mutations/Mb); the case 3 recurrence had a mutational profile identical to its primary.'
+- PTEN protein expression was lost in 3/5 (60%) of tumors, all AKT1 wild type, without PTEN mutation, CNV deletion or promoter methylation, suggesting other mechanisms such as miRNA interference or post-translational modification.
+- The two tumors with TERT and EP400 mutations both recurred; the AKT1-mutated tumors had lower Ki-67.
+- The authors conclude that JGCT pathogenesis may be driven by PI3K/AKT/mTOR activation (AKT1 ITD or PTEN loss), that this needs a larger cohort, and note that PTEN/mTOR-targeted strategies are under investigation; they note Bessiere et al. found AKT1 ITD in 60% of 16 JGCTs restricted to patients under 15, and Onder et al. found DICER1 mutations in 2/8 (cited, not independently read).
+relevance_to_jgct: Small but deeply characterized ovarian JGCT cohort showing AKT1 ITD in 2/5 and PTEN loss in the AKT1-wild-type tumors, consistent with PI3K/AKT/mTOR pathway activation; also gives a broad negative and positive IHC panel useful for pathology.
+conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC11707838) on 2026-10-30. FOXL2 IHC positive in all 5 tumors, contrasting with absent FOXL2 expression in 10/26 JGCTs in pmid-17430735; the paper itself notes conflicting prior FOXL2-IHC prognostic findings (D'Angelo vs Kalfa). Small series; includes adult patients (21 and 43 years). Clinical data missing for case 2.
-confidence: 4
+notes: Only 5 cases; includes patients aged 21 and 43 years, so not purely juvenile age. The text says all recurrences occurred within the first year and that none had hormonal features, and that 'all cases with available data presented with abdominal pain' while case 4 is listed with acute abdomen; table lists case 2 clinical data as N/A. The abstract states TERT and EP400 mutated cases both recurred, but the full text assigns TERT to case 3 with recurrence while the location of the EP400 case is not given in the text (it is in Figure 1). The patient-level genotype-to-case mapping is in Fig. 1, which is not available as text.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

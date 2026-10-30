@@ -2,33 +2,45 @@ source_id: '26428316'
 source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/26428316/
-retrieved_on: '2026-10-29'
-full_text_read: false
+retrieved_on: '2026-10-30'
+full_text_source: PMC4666775
 language: en
 pmid: '26428316'
 doi: 10.1038/modpathol.2015.115
-title: A survey of DICER1 hotspot mutations in ovarian and testicular sex cord-stromal tumors.
+pmcid: PMC4666775
+title: A survey of DICER1 hotspot mutations in ovarian and testicular sex cord-stromal tumors
 journal: Modern pathology
 year: 2015
 first_author: Conlon N
 study_type: genomic
 tumor_site: both
-n_jgct_patients: null
+n_jgct_patients: 0
 age_range: null
-alterations: []
+alterations:
+- gene: DICER1
+  alteration: RNase IIIb hotspot mutations (E1705K, D1709N, E1813Q, G1809R)
+  frequency: ovarian Sertoli-Leydig cell tumor 20/32 (63%); Sertoli cell tumor 5/8 (63%); gynandroblastoma 2/5 (40%); testicular sex cord-stromal tumors 0/15
+  notes: No juvenile granulosa cell tumors were tested in this study.
+- gene: FOXL2
+  alteration: p.C134W (c.402C>G)
+  frequency: 2/2 DICER1 wild-type gynandroblastomas tested (both components)
+  notes: Reported in granulosa-like and Sertoli-Leydig-like areas of each.
 treatments: []
 presentation: []
 key_findings:
-- DICER1 hotspot mutations in 20 of 32 (63%) ovarian Sertoli-Leydig cell tumors (80% p.E1705K), 2/5 gynandroblastomas, 5/8 ovarian Sertoli cell tumors.
-- No DICER1 mutations in 15 testicular sex cord-stromal tumors.
-- Two DICER1 wild-type gynandroblastomas had FOXL2 p.C134W in both components.
-relevance_to_jgct: 'Context for JGCT differential diagnosis: DICER1 hotspots mark Sertoli-lineage tumors; absent in testicular SCST.'
+- Sanger sequencing of DICER1 exons 24 and 25 in 32 ovarian Sertoli-Leydig cell tumors, 8 Sertoli cell tumors, 5 gynandroblastomas, 1 sex cord tumor with annular tubules, 1 ovarian sex cord-stromal tumor NOS, 15 testicular sex cord-stromal tumors and 10 female genital tract tumors with rhabdomyosarcomatous differentiation. No juvenile granulosa cell tumors were included.
+- DICER1 hotspot mutations in 20/32 (63%) ovarian Sertoli-Leydig cell tumors, 16/20 (80%) of which were p.E1705K; frequencies were 6/10 (60%) in poorly differentiated, 14/20 (70%) in intermediately differentiated, and 0/2 in well-differentiated tumors; 9/14 (64%) with heterologous or retiform elements versus 11/18 (61%) without.
+- Gynandroblastomas 2/5 (40%) and ovarian Sertoli cell tumors 5/8 (63%) carried DICER1 hotspot mutations, all p.E1705K; the sex cord tumor with annular tubules (0/1) and sex cord-stromal tumor NOS (0/1) were wild-type.
+- Two DICER1 wild-type gynandroblastomas carried FOXL2 p.C134W in both granulosa-like and Sertoli-Leydig-like components, suggesting gynandroblastoma encompasses two genetic groups (FOXL2-mutant granulosa-like or DICER1-mutant Sertoli-Leydig-like); FOXL2 and DICER1 mutations appeared mutually exclusive.
+- No DICER1 hotspot mutations in 15 testicular sex cord-stromal tumors (8 classical Sertoli cell tumors, 3 large cell calcifying variants, 4 NOS); combined with the earlier report, 20 testicular tumors tested were all wild-type, so the authors suggest ovarian and testicular sex cord-stromal tumor pathogenesis differ.
+- DICER1 hotspot mutations were found in 2/10 female genital tract rhabdomyosarcomatous tumors (an adult cervical rhabdomyosarcoma metastasis p.D1709N and the rhabdomyosarcoma component of a uterine carcinosarcoma p.E1813Q); 0/2 pediatric cervical embryonal rhabdomyosarcomas.
+- Authors note in the introduction that adult granulosa cell tumors usually harbor somatic FOXL2 mutations and that germline DICER1 mutations cause the DICER1 syndrome; they re-analyzed TCGA endometrial data (6/248, 2.4% with DICER1 hotspot residue mutations).
+relevance_to_jgct: 'Contributes only context for JGCT: no JGCTs were tested, but the study shows DICER1 hotspot mutations cluster in Sertoli-lineage tumors and not in testicular sex cord-stromal tumors, and that FOXL2 C134W marks granulosa-like gynandroblastoma components.'
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract does not state whether testicular JGCTs were among the 15 testicular SCSTs or give JGCT counts.
-confidence: 3
+notes: 'IMPORTANT: this paper contains no juvenile granulosa cell tumor cases; n_jgct_patients is 0. JGCT is mentioned only in the introduction as a sex cord-stromal subtype. Earlier abstract-based records may have implied JGCT content. Tumor site ''both'' because ovarian and testicular tumors were studied. The Figure 1 legend says ''FOXL1'' where FOXL2 is meant. The paper compares its 63% SLCT rate with 26/43 (60%) from Heravi-Moussavi (pmid-22187960) and 6/19 (32%) from Goulvent et al.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

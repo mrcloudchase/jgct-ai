@@ -3,10 +3,11 @@ source_type: url
 source_tier: database
 source_url: https://clinicaltrials.gov/study/NCT02429700
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: https://clinicaltrials.gov/api/v2/studies/NCT02429700
 language: en
 pmid: null
 doi: null
+pmcid: null
 title: TC or BEP in Treating Patients With Ovarian Malignant Sex Cord-Stromal Tumors (NCT02429700)
 journal: ClinicalTrials.gov
 year: 2015
@@ -14,25 +15,30 @@ first_author: null
 study_type: trial
 tumor_site: ovary
 n_jgct_patients: null
-age_range: null
+age_range: 14-65 years
 alterations: []
 treatments:
-- regimen: paclitaxel + carboplatin vs BEP
-  setting: adjuvant, stage IIA-IVB, randomized
+- regimen: Paclitaxel 175 mg/m2 IV over 3 h plus carboplatin AUC 5-6 IV on day 1, every 21 days, 4-6 courses (arm 1, experimental)
+  setting: newly diagnosed stage IIA-IVB ovarian malignant sex cord-stromal tumor after initial surgery
   n: null
-  outcome: recruiting; no results
+  outcome: Planned; no results posted
+- regimen: Bleomycin 30000 IU IM days 1-3, etoposide 100 mg/m2 IV days 1-5, cisplatin 20 mg/m2 IV days 1-5, every 21 days, 3 courses (good risk) or 4 courses (poor risk) (arm 2, active comparator)
+  setting: same
+  n: null
+  outcome: Planned; no results posted
 presentation: []
 key_findings:
-- Multicenter, prospective, randomized phase 3 trial comparing paclitaxel plus carboplatin with bleomycin, etoposide and cisplatin (BEP) after surgery in newly diagnosed ovarian malignant sex cord-stromal tumors; sponsor Beihua Kong; status RECRUITING; start 2015-04; estimated completion 2030-05; estimated enrollment 132.
-- 'Eligibility: female Chinese women, ages 14 to 65 years, stage IIA-IVB, initial surgery within the past 8 weeks; histologies include granulosa cell tumor, Sertoli-Leydig cell tumor, gynandroblastoma, steroid cell tumor, unclassified sex cord-stromal tumor and sex cord tumor with annular tubules.'
-- 'Primary outcome: progression-free survival.'
-relevance_to_jgct: Only identified randomized chemotherapy trial for ovarian sex cord-stromal tumors whose age range reaches adolescents (from 14 years); juvenile granulosa cell tumor is not named separately.
+- Multicenter, prospective, randomized phase 3 trial (SCST-01; sponsor/PI Beihua Kong, Shandong University; Qilu Hospital, Jinan, China) comparing paclitaxel plus carboplatin (TC/PT) with BEP in newly diagnosed ovarian malignant sex cord-stromal tumors after surgery; start 2015-04; status RECRUITING (verified 2023-04); estimated enrollment 132.
+- 'Primary objective: progression-free survival of paclitaxel/carboplatin relative to BEP; secondary: toxicity, overall survival, response rate in measurable disease. Follow-up every 3 months for 2 years, every 6 months for 3 years, then yearly.'
+- 'Eligibility: Chinese women aged 14-65 years (listing says age 65 or younger; minimum age 14), stage IIA-IVB, histologically confirmed granulosa cell, granulosa-theca, Sertoli-Leydig, steroid cell, gynandroblastoma, unclassified SCST or SCTAT; surgery within 8 weeks; Karnofsky score 60 or more.'
+- 'Arms: PT (paclitaxel 175 mg/m2 + carboplatin AUC 5-6, 4-6 courses) vs BEP (bleomycin 30000 IU IM days 1-3, etoposide 100 mg/m2 and cisplatin 20 mg/m2 days 1-5, 3 courses good risk or 4 poor risk).'
+- Juvenile granulosa cell tumor is not named; the trial population is mainly adult-type ovarian stromal tumors, with a minimum age of 14. No results posted.
+relevance_to_jgct: Trial of first-line chemotherapy for malignant ovarian sex cord-stromal tumors; JGCT is not named as an eligible subtype and the minimum age of 14 means it could include only adolescent patients.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Fetched via ClinicalTrials.gov API v2. The brief title says TC, the brief summary says 'paclitaxel and cisplatin (PT)', and the official title says paclitaxel and carboplatin; this inconsistency is in the registry entry. Granulosa subtype (adult vs juvenile) is not specified.
-confidence: 3
+notes: Registry listing only; no results posted. The brief summary says 'paclitaxel and cisplatin (PT)' while the outline uses paclitaxel and carboplatin; the arms section specifies carboplatin.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

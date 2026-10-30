@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/37840846/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC10569971
 language: en
 pmid: '37840846'
 doi: 10.1016/j.gore.2023.101287
+pmcid: PMC10569971
 title: 'Juvenile granulosa cell tumor in a transgender male with Ollier disease: A case report.'
 journal: Gynecologic oncology reports
 year: 2023
@@ -17,29 +18,29 @@ n_jgct_patients: 1
 age_range: 34 years
 alterations: []
 treatments:
-- regimen: TAH-BSO, omentectomy, tumor reductive surgery to no gross residual
-  setting: primary, stage IA
+- regimen: Exploratory laparotomy, TAH, BSO, omentectomy, optimal cytoreduction to no gross residual disease; testosterone therapy discontinued on recommendation
+  setting: FIGO stage IA JGCT
   n: 1
-  outcome: no evidence of disease at four months post-surgery
+  outcome: no evidence of metastatic disease at 4 months; inhibin A/B surveillance planned; testosterone 31 ng/dL and estradiol 8 pg/mL at 4 months
 presentation:
-- abdominal pain
-- pelvic mass
-- Ollier disease
-- exogenous testosterone
+- one month of left lower quadrant pain
+- early satiety and bloating
+- abdominal distension and tenderness
+- amenorrhea on testosterone
 key_findings:
-- 34 year-old transgender male with Ollier disease (diagnosed at 1 year; prior low-grade chondrosarcoma) on long-term testosterone therapy since 2016, presenting with one month of left lower quadrant pain.
-- CA-125 198 U/mL, LDH 426 U/L, inhibin A 473 pg/mL, inhibin B 23,419 pg/mL; 15 cm cystic and solid right ovarian mass on CT.
-- Exploratory laparotomy, total abdominal hysterectomy, bilateral salpingo-oophorectomy, omentectomy to no gross residual; mass 3340 g; final pathology Stage IA JGCT.
-- 'Tumor IHC: estrogen receptor weakly to moderately positive (40 %), progesterone receptor (90 %), androgen receptor strongly positive (>90 %).'
-- A pleural nodule regressed spontaneously; no evidence of metastatic disease four months post-surgery; testosterone therapy discontinued on the authors' recommendation pending evidence.
-- Authors raise the question whether exogenous testosterone contributed to JGCT growth and suggest prescreening for hormonally responsive conditions.
-relevance_to_jgct: Adult JGCT in Ollier disease; raises the unanswered question of exogenous androgen exposure and hormone-receptor-positive JGCT.
+- 34-year-old transgender man (G0) with Ollier disease (history of low-grade chondrosarcoma 2011, right below-knee amputation) on testosterone since February 2016 (200 mg IM every 2 weeks for ~5 years, then 160 mg subcutaneously) presented with 1 month of left lower quadrant pain, early satiety and bloating.
+- 'Labs: CA-125 198 U/mL, LDH 426 U/L, inhibin A 473 pg/mL, inhibin B 23,419 pg/mL; hormone levels at presentation not obtained (last testosterone 567 ng/dL in 5/2022).'
+- 'CT: 15 cm cystic and solid right ovarian mass, 4.9 cm uterine fibroid, endometrial thickness 1.4 cm, omental stranding, trace right pleural effusion and 1.5 cm pleural nodule; ultrasound 20 cm right adnexal mass; Pap smear HPV 16 positive with atypical endometrial cells; endometrial biopsy non-atypical hyperplasia.'
+- 'Surgery: laparotomy, total abdominal hysterectomy, bilateral salpingo-oophorectomy, omentectomy with optimal cytoreduction; right ovarian mass 3340 g; pathology stage IA JGCT confined to right ovary, omentum negative; focal atypical endometrial hyperplasia in uterus.'
+- 'IHC on tumor: estrogen receptor 40% weak-moderate, progesterone receptor 90% moderate-strong, androgen receptor >90% strong.'
+- The pleural nodule regressed spontaneously before planned biopsy; no adjuvant therapy; surveillance by inhibin A and B every 3 months in year 1, every 4 months year 2, every 6 months year 3, then annually.
+- Authors discuss association of Ollier disease with granulosa cell tumors (proposed generalized mesodermal dysplasia; IDH1 mutation reported in both enchondroma and JGCT in cited studies; not tested here) and ask whether testosterone therapy contributed to tumor growth; they recommended stopping testosterone for now and suggest pre-screening for hormonally responsive conditions in patients on hormone therapy.
+relevance_to_jgct: Rare report of JGCT in an adult on long-term testosterone with Ollier disease, relevant to tumor hormone-receptor expression and to the link between enchondromatosis and granulosa cell tumors.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text read via PMC10569971. The text gives presentation as April 2024 in one place and April 2023 in another (surgery May 2023). No molecular testing of the tumor reported. Follow-up short (4 months).
-confidence: 4
+notes: 'Internal date inconsistency in paper: case section says presentation April 2024, later text says April 2023 with surgery in May 2023 (published 2023, so 2023 is likely). Tumor was not molecularly tested; IDH1 statements are literature citations. Another 2020 gender-dysphoria JGCT case is cited.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

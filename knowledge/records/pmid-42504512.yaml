@@ -3,11 +3,12 @@ source_type: pmid
 source_tier: guideline
 source_url: https://pubmed.ncbi.nlm.nih.gov/42504512/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: https://www.research.unipd.it/bitstream/11577/3605344/1/Pediatric%20Blood%20%20%20Cancer%20-%202026%20-%20Schneider%20-%20Ovarian%20Sex%20Cord%20Stromal%20Tumors%20in%20Children%20and%20Adolescents%20The%20European.pdf
 language: en
 pmid: '42504512'
 doi: 10.1002/1545-5017.70571
-title: Ovarian Sex Cord Stromal Tumors in Children and Adolescents-The European Standard Clinical Practice Recommendations.
+pmcid: null
+title: Ovarian Sex Cord Stromal Tumors in Children and Adolescents-The European Standard Clinical Practice Recommendations
 journal: Pediatric blood & cancer
 year: 2026
 first_author: Schneider DT
@@ -15,42 +16,62 @@ study_type: guideline
 tumor_site: ovary
 n_jgct_patients: null
 age_range: null
-alterations: []
+alterations:
+- gene: DICER1
+  alteration: germline/somatic pathogenic variants
+  frequency: germline in about 60% of Sertoli-Leydig cell tumors (per guideline); testing advised in anaplastic JGCT
+  notes: Metachronous contralateral tumors often arise with DICER1 predisposition
+- gene: IDH1/IDH2
+  alteration: somatic mosaic variants in Ollier disease and Maffucci syndrome associated with JGCT
+  frequency: null
+  notes: Guideline recommends analysing tumor tissue for IDH1/IDH2 variants; germline testing recommended in multiple enchondromatosis with JGCT (Level III, Grade B)
+- gene: GNAS
+  alteration: somatic mosaic mutations in McCune-Albright syndrome described with JGCT
+  frequency: null
+  notes: Mosaic tumor-prone condition rather than inherited predisposition
+- gene: FOXL2
+  alteration: mutation characteristic of adult granulosa cell tumor
+  frequency: null
+  notes: Used to distinguish adult GCT from JGCT
 treatments:
-- regimen: oophorectomy, surveillance
-  setting: FIGO IA/IB all histologies; IC1 JGCT (no adjuvant chemotherapy)
+- regimen: Oophorectomy (open approach, avoid rupture) then surveillance
+  setting: 'FIGO IA/IB, all histologies; IC1 JGCT and other histologies (JGCT with high mitotic count: consider adjuvant chemotherapy)'
   n: null
-  outcome: null
-- regimen: oophorectomy + (3-)4 cycles PEI/VIP or BEP
-  setting: FIGO IC2, IC3 JGCT
+  outcome: Prognosis favorable in stage IA-IC1 JGCT per Table 1
+- regimen: 'Oophorectomy then 3(-4) or 4 cycles cisplatin-based chemotherapy (PEI/VIP: cisplatin, etoposide, ifosfamide; or BEP)'
+  setting: FIGO IC2/IC3 JGCT; three cycles may be considered for JGCT with low mitotic index
   n: null
-  outcome: null
-- regimen: salpingectomy + 4(-6) cycles PEI/VIP or BEP
+  outcome: Level III, Grade A
+- regimen: Salpingectomy (adnexa) with resection of metastases then at least 4(-6) cycles PEI/VIP or BEP; neoadjuvant 2 cycles with delayed resection for infiltrating or metastatic disease
   setting: FIGO II-III
   n: null
-  outcome: null
-- regimen: 2 cycles neoadjuvant PEI/VIP or BEP, delayed resection, then 3-4 cycles
-  setting: IIIb / locally infiltrating or metastatic
+  outcome: Level III-IV, Grades A-B
+- regimen: Platinum-based chemotherapy, dose-intensified chemotherapy with autologous stem cell transplantation, resection with peritonectomy/HIPEC, regional deep hyperthermia (one German center), radiotherapy, GnRH antagonists
+  setting: Relapse (no harmonized strategy)
   n: null
-  outcome: null
-presentation: []
+  outcome: Long-term survival after relapse approximately 20% or lower
+presentation:
+- abdominal distension, pain, ovarian torsion at any age
+- 'infants and children: breast swelling, vaginal bleeding or discharge, pubic hair'
+- 'adolescents: amenorrhea, acne, hirsutism, voice change (androgenic tumors, mostly SLCT)'
+- bimodal age distribution of JGCT (children and adolescents/young adults)
 key_findings:
-- EXPeRT/ERN PaedCan European Standard Clinical Practice recommendations for pediatric ovarian SCSTs, built on national/European cohort analyses, systematic review and expert consensus; most recommendations Level III evidence, graded A-E.
-- 'JGCT: bimodal age (children vs adolescents/young adults), estrogen-producing, favorable prognosis in stage Ia-Ic1; ovarian small cell carcinoma, hypercalcemic type is the most important differential diagnosis (check calcium). Mitotic rate per 10 HPF is of prognostic relevance in JGCT (Level III, Grade B).'
-- 'Workup: AFP, beta-HCG/total HCG, inhibin (Level III, Grade B), estrogen, testosterone, DHEAS, LH, FSH, CA125; ultrasound plus pelvic/abdominal MRI from pelvic floor to diaphragm; chest imaging, PET/CT and cranial MRI not routinely recommended. Staging by FIGO; reference pathology review required.'
-- 'Surgery: open approach recommended to avoid rupture (laparoscopy only if rupture can be safely avoided); peritoneal cytology, inspection and biopsy of suspicious areas; unilateral oophorectomy usually sufficient for organ-confined tumors; no biopsy of a normal contralateral ovary, no systematic lymph node dissection, hysterectomy avoided. After ovary-sparing excision with high mitotic count in JGCT, re-excision with oophorectomy recommended.'
-- 'Chemotherapy: IA/IB none unless high-risk histology; IC1 JGCT no adjuvant chemotherapy (Level III, Grade D); IC2 JGCT four cycles cisplatin-based (Level III, Grade A), three cycles may be considered with low mitotic index; stages II-III at least four cycles; 5-6 cycles may be considered for JGCT with high mitotic index. Regimens PEB or PEI/VIP; carboplatin/paclitaxel data in adults included no JGCT.'
-- 'Genetics: DICER1 testing advised in anaplastic JGCTs (Level IV, Grade B); germline testing considered if history suggests multiple endocrine lesions or JGCT; in Ollier/Maffucci, tumor tissue should be analyzed for IDH1/IDH2 variants; McCune-Albright (somatic GNAS) also described with JGCT.'
-- 'Follow-up: tumor markers (inhibin, estrogen/testosterone, CA125) if elevated; examination plus abdominal/pelvic ultrasound every 3 months for the first 2 years after therapy, then extended intervals; no routine chest imaging; advice on earlier menopause and family planning.'
-- Relapse mostly within the first 2 years, mostly peritoneal; once relapse occurs long-term survival is approximately 20% or lower; options used include platinum chemotherapy, high-dose chemotherapy with autologous stem cell rescue, cytoreduction with HIPEC, regional hyperthermia, radiotherapy and GnRH antagonists (GnRH inhibition Level V, Grade C as add-on for relapse). Radiotherapy not routinely recommended first line.
-relevance_to_jgct: Current European pediatric consensus with stage- and mitotic-index-based JGCT management (surgery, chemotherapy indications and regimens, markers, follow-up).
-conflicts_with:
-- pmid-41367860
+- European Standard Clinical Practice guideline from EXPeRT/ERN PaedCan for ovarian sex cord stromal tumors (OSCST) in children and adolescents, based on national and one European cohort analyses, a systematic literature review and expert consensus; evidence mostly level III (prospective cohorts) with grades A-E; no high-level (I-II) evidence exists.
+- 'Diagnostic work-up: history (puberty, Ollier or Peutz-Jeghers, DICER1-spectrum family history), AFP, beta-hCG/total HCG to exclude germ cell tumor (note approximately 10% of SLCT show AFP up to 1000 ug/L), inhibin (Level III, Grade B), estrogen, DHEAS, LH, FSH, calcium (elevated calcium suggests small cell carcinoma, hypercalcemic type, the most important differential of JGCT), CA125; abdominal ultrasound and pelvic/abdominal MRI; chest imaging only if symptoms, abdominal metastases or DICER1 surveillance.'
+- 'JGCT characteristics per the guideline (Table 1): bimodal age (children versus adolescents/young adults), estrogen producing, signs of precocious puberty, abdominal distension or pain, favorable prognosis in stage IA-IC1; adult GCT is distinguished by FOXL2 mutation, occurs in adults and elderly and may recur very late (>10 years).'
+- 'Pathology: stage with the updated FIGO system for epithelial ovarian cancer, WHO classification, reference pathology required (Level III, Grade A); in JGCT the proliferation rate and mitotic index are prognostic (Level III, Grade B); SLCT should be checked for JGCT components and vice versa.'
+- 'Genetics: DICER1 testing advised in anaplastic JGCT (Level IV, Grade B) and in all SLCT; in multiple enchondromatosis (Ollier, Maffucci) with JGCT, germline testing is recommended and tumor tissue should be analysed for IDH1/IDH2; McCune-Albright (somatic GNAS) has also been described with JGCT.'
+- 'Surgery: open approach to avoid rupture (rupture is a major recurrence risk); laparoscopy only if rupture can be safely avoided; ascites or peritoneal lavage cytology, peritoneal biopsies of suspicious areas, lymph node biopsy only if suspicious; unilateral oophorectomy usually sufficient for encapsulated tumors; no contralateral biopsy, hysterectomy avoided, omentectomy not routine; after ovary-sparing excision with high mitotic count in JGCT, re-excision with oophorectomy is recommended (Level III, Grade B).'
+- 'Chemotherapy (Table 3): stage IA/IB surveillance; IC1 JGCT surveillance (consider chemotherapy if high mitotic count); IC2/IC3 JGCT 3(-4) or 4 cycles PEI/VIP or BEP; II-III at least 4(-6) cycles; extension to 5-6 cycles may be considered for JGCT with high mitotic index; carboplatin/paclitaxel proved as effective as cisplatin regimens in adults with OSCST in a study that included no JGCT.'
+- Radiotherapy not routinely recommended; GnRH blockade may be an add-on for relapsed tumors (Level V, Grade C), citing an infant with bilateral testicular JGCT who achieved complete remission with GnRH inhibitors as sole therapy.
+- 'Follow-up: tumor markers (inhibin, estrogen/testosterone, CA125) if previously elevated; examination with abdominal and pelvic ultrasound every 3 months for the first 2 years after therapy, then longer intervals; MRI only if ultrasound unclear; no routine imaging above the diaphragm.'
+- 'Relapse: usually within 2 years (except adult GCT), most often peritoneal, prognosis poor with long-term survival approximately 20% or lower even in chemotherapy-naive patients; metachronous contralateral tumors (often with DICER1) usually appear after 2 years or more and have prognosis comparable to a first tumor.'
+relevance_to_jgct: Current European consensus standard for staging, surgery, risk-based adjuvant chemotherapy (cisplatin-based, from IC2), genetic testing and follow-up of pediatric ovarian JGCT.
+conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: 'Full text read on 2026-10-30 from the CC-BY published version (Wiley typeset PDF) deposited in the University of Padua institutional repository (research.unipd.it/bitstream/11577/3605344), located via Unpaywall; text extracted with pypdf. Wiley''s own PDF link was blocked to scripted access. Not in PMC. Builds on the EXPeRT/PARTNER 2021 consensus (pmid-33760357) and ESGO-SIOPE 2020 (pmid-32615119). Conflict: pmid-41367860 questions adjuvant chemotherapy for FIGO IC2 jGCT, which this guideline recommends (Level III, Grade A). Recommendations describe guideline content only; they are not advice for any individual.'
-confidence: 5
+notes: Guideline text published 2026 (accepted June 2026); full text read from an institutional repository PDF of the open-access article; figure 1 flowchart text is garbled but mirrors Table 3; supplementary Tables S1-S2 (evidence grading, chemotherapy regimens) not included in the text read. Builds on EXPeRT/PARTNER 2021 recommendations and on the STEP registry analysis in pmid-40272823 (same lead author), so the evidence overlaps.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

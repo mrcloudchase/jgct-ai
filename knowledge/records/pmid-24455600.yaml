@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/24455600/
 retrieved_on: '2026-10-30'
-full_text_read: true
+full_text_source: PMC3892520
 language: en
 pmid: '24455600'
 doi: 10.4103/2278-330X.114137
+pmcid: PMC3892520
 title: Juvenile granulosa cell tumor with an unusual immunoprofile, presenting as precocious puberty.
 journal: South Asian journal of cancer
 year: 2013
@@ -17,28 +18,29 @@ n_jgct_patients: 1
 age_range: 4 years
 alterations: []
 treatments:
-- regimen: laparotomy with resection of left adnexal mass
-  setting: primary
+- regimen: Laparotomy with resection of left adnexal mass
+  setting: 4-year-old girl with 22 x 20 x 18 cm tumor
   n: 1
-  outcome: outcome not reported
+  outcome: no adjuvant therapy or follow-up reported in the text
 presentation:
-- precocious puberty
-- abdominal distension
-- abdominal pain
 - vomiting
+- abdominal distension
+- intermittent periumbilical pain for 6 months
+- breast development and pubic hair
+- palpable infraumbilical mass
 key_findings:
-- 4-year-old girl with vomiting, abdominal distension, periumbilical pain for 6 months, breast development and pubic hair.
-- Estradiol 234 pmol/L with LH and FSH <0.5 IU/L, consistent with peripheral precocious puberty; AFP 1 ng/mL.
-- Left adnexal mass 22 x 20 x 18 cm resected at laparotomy.
-- Tumor strongly calretinin-positive but inhibin-negative; negative for HCG, AFP, cytokeratin and EMA.
-- Authors note a negative inhibin stain does not exclude GCT and calretinin is useful in inhibin-negative sex cord-stromal tumors.
-relevance_to_jgct: 'Diagnostic pathology: inhibin-negative, calretinin-positive JGCT.'
+- A 4-year-old girl presented with 6 months of vomiting, abdominal distension and intermittent periumbilical pain, with significant breast development, pubic hair and an infraumbilical mass.
+- 'Hormones indicated peripheral precocious puberty: estradiol 234 pmol/L, LH <0.5 IU/L, FSH <0.5 IU/L, testosterone 0.5 ng/mL, DHEAS 46 ng/mL, 17-hydroxyprogesterone 0.3 ng/mL, AFP 1 ng/mL.'
+- Ultrasound and CT showed a large cystic-solid septated lower abdominal mass; the resected left adnexal tumor measured 22 x 20 x 18 cm, tan, multilobulated, variegated with solid and cystic areas.
+- Histology showed a cellular tumor with irregular, variably sized follicles containing eosinophilic fluid, round hyperchromatic nuclei without grooves and no Call-Exner bodies.
+- IHC was strongly positive for calretinin and negative for inhibin, hCG, AFP, cytokeratin and EMA; the diagnosis of JGCT was made despite negative inhibin, which the authors present as an unusual immunoprofile.
+- The authors conclude that inhibin negativity does not exclude granulosa cell tumor and that calretinin is useful in inhibin-negative sex cord-stromal tumors; they note adjuvant treatment may be unnecessary when completely excised at an early stage.
+relevance_to_jgct: Documents a JGCT with precocious puberty that was inhibin-negative but calretinin-positive, a diagnostic pitfall for immunohistochemistry.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Full text (letter) via PMC3892520. Stage and follow-up not reported.
-confidence: 3
+notes: Letter to the editor, very brief. Stage, postoperative course, follow-up and the estrogen-related changes after surgery are not reported. Whether inhibin was repeated or a panel including other markers (e.g. SF-1, FOXL2) was used is not stated, so the JGCT diagnosis rests on morphology plus calretinin.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: full_text

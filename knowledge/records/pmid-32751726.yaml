@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/32751726/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC7460169
 language: en
 pmid: '32751726'
 doi: 10.3390/diagnostics10080537
+pmcid: PMC7460169
 title: Ovarian Gynandroblastoma with a Juvenile Granulosa Cell Tumor Component in a Postmenopausal Woman.
 journal: Diagnostics (Basel, Switzerland)
 year: 2020
@@ -17,24 +18,27 @@ n_jgct_patients: 1
 age_range: 65 years
 alterations: []
 treatments:
-- regimen: TAH-BSO
-  setting: primary
+- regimen: Total hysterectomy with bilateral salpingo-oophorectomy; no adjuvant chemotherapy or radiation
+  setting: gynandroblastoma with JGCT component
   n: 1
-  outcome: outcome not stated in abstract
+  outcome: well without recurrence or metastasis at 2 months after surgery
 presentation:
 - abdominal mass
+- 20 cm multiseptated cystic left ovarian mass
+- CA 125 37.1 U/mL (slightly elevated)
+- postmenopausal for 15 years
 key_findings:
-- 65-year-old woman with a 20 cm multiseptated cystic ovarian mass; CA 125 37.1 U/mL; no seeding or metastasis.
-- Total hysterectomy with bilateral salpingo-oophorectomy.
-- 'Gynandroblastoma: JGCT female component (nodular growth, follicle-like structures, many mitotic figures) and intermediately/moderately differentiated SLCT male component.'
-- Described as the second case of gynandroblastoma with JGCT in an elderly patient.
-relevance_to_jgct: Mixed tumor with JGCT component in a postmenopausal woman; histologic reference.
+- 65-year-old woman (15 years postmenopausal) with an abdominal mass; MRI showed a 20 cm multiseptated cystic left ovarian mass without peritoneal seeding, lymphadenopathy or hematogenous metastasis; CA 125 37.1 U/mL, CA 19-9 32.1 U/mL (normal).
+- 'Treated as presumed ovarian cancer with total hysterectomy and bilateral salpingo-oophorectomy; gross: smooth glistening surface, yellow-tan solid areas with necrosis, myxoid change and hemorrhage plus multilocular cysts with serosanguinous fluid.'
+- 'Histology: ovarian gynandroblastoma with a juvenile granulosa cell tumor component (nodular growth, follicle-like spaces with eosinophilic/basophilic secretions, no nuclear grooves, up to 8 mitoses per 10 HPF, foci of coagulative necrosis) and a moderately differentiated Sertoli-Leydig cell tumor component (cords, solid tubules, nests, Sertoli tubules).'
+- 'IHC: inhibin-alpha positive in both components, Ki-67 about 70% in the JGCT component; negative for EMA, pan-cytokeratin and PAX8.'
+- No postoperative therapy; no recurrence at 2 months. Authors state this is the second reported gynandroblastoma with JGCT in a postmenopausal woman and that most gynandroblastomas have adult-type granulosa component and occur in children, adolescents or reproductive-age women.
+relevance_to_jgct: Shows a JGCT component within a gynandroblastoma in an elderly woman, extending the age range and highlighting the JGCT/Sertoli-Leydig morphologic overlap.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC7460169 not read). Gynandroblastoma, not pure JGCT.
-confidence: 3
+notes: Stage not stated in the text read. Only 2 months of follow-up. No molecular (e.g., DICER1) testing reported. Full text consists of abstract, figure legends and back matter (case narrative is in the abstract and legends).
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract

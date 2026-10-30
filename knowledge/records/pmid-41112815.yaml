@@ -3,10 +3,11 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/41112815/
 retrieved_on: '2026-10-30'
-full_text_read: false
+full_text_source: PMC12528874
 language: en
 pmid: '41112815'
 doi: 10.1016/j.radcr.2025.08.014
+pmcid: PMC12528874
 title: 'A rare ovarian tumor in childhood: Juvenile granulosa cell tumor revealed by pelvic pain and ovarian torsion.'
 journal: Radiology case reports
 year: 2026
@@ -17,26 +18,29 @@ n_jgct_patients: 1
 age_range: 5 years
 alterations: []
 treatments:
-- regimen: detorsion and partial oophorectomy
-  setting: primary
+- regimen: Detorsion, monobloc excision with partial oophorectomy of left ovary
+  setting: surgery within 48 hours of presentation
   n: 1
-  outcome: uneventful postoperative recovery; follow-up length not stated
+  outcome: uneventful postoperative recovery; no adjuvant therapy reported; no long-term follow-up reported
 presentation:
-- pelvic pain
-- ovarian torsion
-- pelvic mass
+- one month of pelvic heaviness
+- acute pelvic pain for 24 hours
+- fever
+- diffuse pelvic tenderness without palpable mass
+- ovarian torsion (2 twists)
 key_findings:
-- 5-year-old girl with a one-month history of pelvic heaviness and acute pelvic pain.
-- 'MRI: 41 x 57 x 48 mm solid mass with heterogeneous enhancement, restricted diffusion, necrosis, infiltrating the recto-sigmoid junction.'
-- AFP and beta-hCG negative; LDH mildly elevated.
-- Encapsulated left ovarian mass with 2 twists of the adnexa; detorsion and partial oophorectomy; histopathology JGCT; uneventful recovery.
-relevance_to_jgct: Prepubertal ovarian JGCT presenting with torsion rather than endocrine signs; imaging description.
+- 5-year-old girl with one month of pelvic heaviness and 24 hours of acute pelvic pain, febrile, diffuse pelvic tenderness, no palpable mass.
+- 'Ultrasound: large heterogeneous solid pelvic mass without cystic components or torsion signs; MRI: 41 x 57 x 48 mm solid mass, iso-intense T1, intermediate T2, restricted diffusion, heterogeneous enhancement with necrosis, abutting the recto-sigmoid junction suggesting possible infiltration; CT thorax-abdomen-pelvis showed no metastases.'
+- 'Markers: AFP and beta-hCG negative, LDH 269 U/L (normal 135-225), CA-125 20.4 U/mL, CA 15-3 7.2 U/mL; inhibin and AMH not measured (availability limited).'
+- 'Surgery: firm encapsulated 6 cm left ovarian mass, violaceous adnexa with 2 twists; detorsion and monobloc excision with partial oophorectomy; no bowel invasion; histopathology confirmed JGCT (no stage, IHC or mitotic details reported in the case section).'
+- Torsion was not recognized on preoperative imaging, which the authors attribute to the size and solid nature of the mass.
+- Authors conclude JGCT should be considered in prepubertal girls with pelvic masses and that early surgical management has an excellent prognosis; discussion (literature-based) notes fertility-sparing surgery is preferred and that inhibin and AMH can be used to monitor recurrence.
+relevance_to_jgct: Illustrates JGCT presenting as ovarian torsion in a 5-year-old with imaging mimicking malignancy and a fertility-sparing partial oophorectomy.
 conflicts_with: []
+overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only (PMC12528874 not read). Stage not given in abstract; partial oophorectomy is an unusual (ovary-sparing) approach.
-confidence: 2
+notes: 'Case report with sparse pathology detail and no follow-up duration. Size discrepancy: MRI 41 x 57 x 48 mm vs 6 cm at surgery. Authors used ChatGPT for language editing. Statements on prognosis, IHC (inhibin, calretinin, FOXL2) and FOXL2 402C>G are general literature in the discussion, not findings in this patient.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract
