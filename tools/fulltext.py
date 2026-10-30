@@ -5,9 +5,11 @@
   python3 -I tools/fulltext.py get <id> [--url URL]     # fetch full text to state/cache/fulltext/<stem>.txt
 
 <id> is pmid:<n>, doi:<doi>, or a bare PMID. `get` tries, in order:
-  1. PMC XML from Europe PMC (fullTextXML), then NCBI PMC efetch          -> full_text_source "PMC<id>"
+  1. PMC XML from Europe PMC (fullTextXML), then NCBI PMC efetch, then the PMC website article
+     page (browser UA; reaches non-OA free/author-manuscript PMC articles) -> full_text_source "PMC<id>"
   2. Unpaywall OA locations (PDF or landing HTML), then the DOI landing page -> full_text_source "<url>"
-  3. --url, if given (a PDF or HTML page you located yourself); tried first
+  3. --url, if given (a PDF or HTML page you located yourself); tried first. A PMC or Europe PMC
+     article URL is read from the PMC website and reported as "PMC<id>"
   --accept saves the --url text even if the length/section heuristic says it is not full text
   (for non-English articles or short complete items such as a conference abstract page)
 It prints `FULLTEXT_SOURCE <value>`, `TEXT <path>`, `CHARS <n>` on success, or `NO_FULLTEXT <routes tried>`.
@@ -26,13 +28,15 @@ EPMC = "https://www.ebi.ac.uk/europepmc/webservices/rest/"
 EU = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
 MAIL = os.environ.get("UNPAYWALL_EMAIL", "jgct-ai-research@example.org")
 UA = "Mozilla/5.0 (X11; Linux x86_64) jgct-ai/1.0 (research knowledge base; mailto:%s)" % MAIL
+# The PMC website answers a custom UA with reCAPTCHA but serves the article to a plain browser UA.
+BROWSER_UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
 
-def get(url, tries=2, binary=False, timeout=60):
+def get(url, tries=2, binary=False, timeout=60, ua=UA):
     last = None
     for i in range(tries):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
+            req = urllib.request.Request(url, headers={"User-Agent": ua, "Accept": "*/*"})
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 data = r.read()
                 ctype = r.headers.get("Content-Type", "")
@@ -170,6 +174,23 @@ def pdf_text(b):
     return "\n".join(f"\n[PAGE {n + 1}]\n" + (p.extract_text() or "") for n, p in enumerate(r.pages))
 
 
+def pmc_html_text(pmc):
+    """Article body from the PMC website (covers free-to-read and author-manuscript articles that
+    are outside the OA subset, for which fullTextXML/efetch return no body)."""
+    # PMC answers bursts with a reCAPTCHA page: back off and retry slowly, never try to solve it.
+    for wait in (0, 30, 90, 180):
+        time.sleep(wait)
+        h = get(f"https://pmc.ncbi.nlm.nih.gov/articles/{pmc}/", ua=BROWSER_UA)[0]
+        k = h.find('aria-label="Article content"')
+        if k >= 0 or "recaptcha" not in h.lower():
+            break
+    if k < 0:
+        return None
+    h = h[k:]
+    t = html_text("<section " + h)
+    return t
+
+
 def looks_full(t):
     """Heuristic: body-length text with at least two typical section words."""
     if not t or len(t) < 6000:
@@ -178,7 +199,14 @@ def looks_full(t):
     return sum(w in s for w in ("introduction", "case report", "case presentation", "discussion", "methods", "results", "references", "conclusion")) >= 2
 
 
+PMC_URL = re.compile(r"(?:ncbi\.nlm\.nih\.gov/pmc/articles/|pmc\.ncbi\.nlm\.nih\.gov/articles/|europepmc\.org/articles/)(?:PMC)?(\d+)", re.I)
+
+
 def fetch_url(u):
+    m = PMC_URL.search(u)
+    if m:
+        pmc = "PMC" + m.group(1)
+        return pmc_html_text(pmc), pmc
     data, ctype, final = get(u, binary=True)
     if data[:4] == b"%PDF" or "pdf" in ctype:
         return pdf_text(data), final
@@ -210,7 +238,7 @@ def get_full(i, url=None, accept=False):
         try:
             t, final = fetch_url(url)
             if looks_full(t) or (accept and t):
-                return save(stem, t, url)
+                return save(stem, t, final if final.startswith("PMC") else url)
             tried.append(f"{url}: too short/not body ({len(t or '')} chars)")
         except Exception as e:
             tried.append(f"{url}: {e}")
@@ -226,6 +254,13 @@ def get_full(i, url=None, accept=False):
                 tried.append(f"{name} {pmc}: no body")
             except Exception as e:
                 tried.append(f"{name} {pmc}: {e}")
+        try:
+            t = pmc_html_text(pmc)
+            if t and looks_full(t):
+                return save(stem, t, pmc)
+            tried.append(f"pmc-html {pmc}: no body ({len(t or '')} chars)")
+        except Exception as e:
+            tried.append(f"pmc-html {pmc}: {e}")
     else:
         tried.append("no PMCID")
     urls = loc["oa_urls"] + ([f"https://doi.org/{loc['doi']}"] if loc.get("doi") else [])
