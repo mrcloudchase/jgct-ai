@@ -1,0 +1,53 @@
+source_id: 039c1963d955
+source_type: url
+source_tier: conference_abstract
+source_url: https://doi.org/10.1002/pbc.25314#O-056
+retrieved_on: '2026-10-30'
+full_text_source: PMC7168141
+language: en
+pmid: null
+doi: 10.1002/pbc.25314
+pmcid: PMC7168141
+title: 'Sex cord stromal tumors in children and teenagers: results of the TGM95 study (SIOP 2014 abstract O-056)'
+journal: Pediatric Blood & Cancer (SIOP 2014 Toronto abstract supplement)
+year: 2014
+first_author: Fresneau B
+study_type: trial
+tumor_site: both
+n_jgct_patients: 27
+age_range: ovarian SCT median 10.7 years (0.58 to 17.7); testicular SCT median 0.83 years (0 to 8.8)
+alterations: []
+treatments:
+- regimen: Oophorectomy with or without salpingectomy, no adjuvant therapy
+  setting: ovarian SCT, complete primary resection
+  n: 23
+  outcome: 2 relapsed after 4 to 5 years (1 peritoneal, 1 contralateral); both reached second remission with surgery and VIP
+- regimen: VIP (etoposide 75 mg/m2 d1-5, ifosfamide 3 g/m2 d1-2, cisplatin 20 mg/m2 d1-5, every 3 weeks), 4 to 6 cycles
+  setting: ovarian SCT with incomplete resection because of rupture and/or malignant ascites
+  n: 11
+  outcome: no recurrence, median follow-up 5.8 years
+- regimen: No chemotherapy
+  setting: ovarian SCT with incomplete resection because of rupture and/or malignant ascites
+  n: 4
+  outcome: all relapsed at 2 to 18 months; 2 deaths, both Sertoli-Leydig cell tumors
+- regimen: Inguinal orchiectomy alone
+  setting: localized testicular SCT (4 JGCT among 11)
+  n: 11
+  outcome: no relapse, median follow-up 5.3 years
+presentation:
+- endocrine symptoms in 21 of 38 ovarian sex cord-stromal tumors
+key_findings:
+- 'French SFCE TGM95 study, 1995 to 2005: prospective registration of children under 18 with ovarian or testicular sex cord-stromal tumors (SCT). Complete, non-mutilating primary resection recommended; 4 to 6 cycles of VIP for disseminated disease or incomplete resection.'
+- '38 ovarian SCT (median age 10.7 years): 23 juvenile and 3 adult granulosa cell tumors, 11 Sertoli-Leydig cell tumors, 1 mixed germ cell-SCT. Outcomes are reported for all ovarian SCT together, not by histology.'
+- 'Complete primary resection in 23 without adjuvant therapy: 2 relapses after 4 to 5 years, both salvaged. Incomplete resection from rupture and/or malignant ascites in 15: 11 given VIP with no recurrence (median follow-up 5.8 years); 4 without chemotherapy all relapsed at 2 to 18 months, 2 died (both Sertoli-Leydig). Five-year OS 94.4% and EFS 85.3% for ovarian SCT.'
+- '11 localized testicular SCT (median age 0.83 years): 4 JGCT, 5 Sertoli and/or Leydig cell tumors, 2 SCT not otherwise specified; inguinal orchiectomy alone; none relapsed (median follow-up 5.3 years).'
+- Authors conclude ovarian surgery should be complete and non-mutilating, neoadjuvant chemotherapy is needed when complete resection is not feasible, tumor rupture is a formal indication for adjuvant chemotherapy, and testicular SCT prognosis with orchiectomy is excellent, raising the question of testis-sparing surgery.
+relevance_to_jgct: French national TGM95 prospective study of pediatric sex cord-stromal tumors in which JGCT were the largest group (23 ovarian, 4 testicular); supports adjuvant chemotherapy after rupture.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Conference abstract read whole in the SIOP 2014 supplement (Pediatr Blood Cancer 2014;61 Suppl 2, PMC7168141). The full TGM-95 paper (pmid:26206391, 2015) is in the ledger as needs_full_text; patients are the same. JGCT-specific outcomes are not separated from other histologies. n_jgct_patients counts 23 ovarian plus 4 testicular.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
