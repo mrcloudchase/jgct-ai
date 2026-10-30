@@ -1,32 +1,46 @@
-"""Helper for writing a record YAML from Python: from mkrecord import rec; rec(pmid, doi, title, journal, year, first_author, study_type, n, key_findings, relevance, ...).
-alts = (gene, alteration, frequency[, notes]); tx = (regimen, setting, n, outcome). Sets retrieved_on to D (edit per run) and review_status draft."""
-import yaml, sys, os
-import datetime
-D=datetime.date.today().isoformat()
-OUT=os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "knowledge", "records") + "/"
-def rec(pmid, doi, title, journal, year, fa, study_type, n, key, rel, tier="peer_reviewed", full=False, conf=3, age=None, alts=(), tx=(), pres=(), conflicts=(), notes=None, method="verbatim_abstract", site="ovary", lang="en"):
-    r = dict(source_id=pmid, source_type="pmid", source_tier=tier, source_url=f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
-             retrieved_on=D, full_text_read=full, language=lang, pmid=pmid, doi=doi or None, title=title, journal=journal,
-             year=year, first_author=fa, study_type=study_type, tumor_site=site, n_jgct_patients=n, age_range=age,
-             alterations=[dict(gene=a[0], alteration=a[1], frequency=a[2], notes=a[3] if len(a)>3 else None) for a in alts],
-             treatments=[dict(regimen=t[0], setting=t[1], n=t[2], outcome=t[3]) for t in tx],
-             presentation=list(pres), key_findings=list(key), relevance_to_jgct=rel, conflicts_with=list(conflicts),
-             superseded_by=None, retracted=False, notes=notes, confidence=conf, review_status="draft",
-             reviewed_by=None, reviewed_on=None, extraction_method=method)
-    yaml.safe_dump(r, open(OUT+f"pmid-{pmid}.yaml","w"), sort_keys=False, allow_unicode=True, width=1000)
-    print("wrote", pmid)
+"""Write one record YAML from Python and validate it against the schema on the spot.
+
+    import sys; sys.path.insert(0, "tools"); from mkrecord import write
+    write(source_type="pmid", source_id="23424695", full_text_source="PMC3570947",
+          title=..., year=2013, study_type="case_report", key_findings=[...], relevance_to_jgct=...,
+          tumor_site="ovary", n_jgct_patients=1, pmid="23424695", doi=..., pmcid="PMC3570947",
+          alterations=[dict(gene=..., alteration=..., frequency=..., notes=...)],
+          treatments=[dict(regimen=..., setting=..., n=..., outcome=...)], presentation=[...], notes=...)
+
+Defaults: source_url (PubMed URL for pmid, https://doi.org/<doi> for doi), source_tier peer_reviewed,
+retrieved_on today, language en, review_status draft. A record exists only for a source read in full;
+full_text_source is required. Raises on schema errors and writes nothing.
+File name: knowledge/records/<source_type>-<source_id with / replaced by _>.yaml.
+For url sources pass source_url; source_id defaults to sha1(source_url)[:12].
+"""
+import datetime, hashlib, json, os
+import yaml, jsonschema
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+OUT = os.path.join(ROOT, "knowledge", "records")
+SCHEMA = json.load(open(os.path.join(ROOT, "knowledge", "schema", "record.schema.json")))
+ORDER = list(SCHEMA["properties"])
 
 
-def rec_url(url, title, year, study_type, key, rel, tier, conf, n=None, notes=None, method="verbatim_abstract", tx=(), first_author=None, journal=None, extra=None, site=None):
-    """Record for a non-PMID source keyed by 12-char sha1 of the URL (source_type url)."""
-    import hashlib
-    sid = hashlib.sha1(url.encode()).hexdigest()[:12]
-    r = dict(source_id=sid, source_type="url", source_tier=tier, source_url=url, retrieved_on=D, full_text_read=True, language="en",
-             pmid=None, doi=None, title=title, journal=journal, year=year, first_author=first_author, study_type=study_type,
-             tumor_site=site, n_jgct_patients=n, age_range=None, alterations=[], treatments=[dict(regimen=t[0], setting=t[1], n=t[2], outcome=t[3]) for t in tx],
-             presentation=[], key_findings=list(key), relevance_to_jgct=rel, conflicts_with=[], superseded_by=None, retracted=False,
-             notes=notes, confidence=conf, review_status="draft", reviewed_by=None, reviewed_on=None, extraction_method=method)
-    r.update(extra or {})
-    yaml.safe_dump(r, open(OUT + f"url-{sid}.yaml", "w"), sort_keys=False, allow_unicode=True, width=1000)
-    print("wrote", f"url-{sid}", url)
-    return sid
+def write(**f):
+    st = f.setdefault("source_type", "pmid")
+    if st == "url" and not f.get("source_id"):
+        f["source_id"] = hashlib.sha1(f["source_url"].encode()).hexdigest()[:12]
+    sid = str(f["source_id"])
+    if st == "pmid":
+        f.setdefault("pmid", sid)
+        f.setdefault("source_url", f"https://pubmed.ncbi.nlm.nih.gov/{sid}/")
+    elif st == "doi":
+        f.setdefault("doi", sid)
+        f.setdefault("source_url", f"https://doi.org/{sid}")
+    d = dict(source_tier="peer_reviewed", retrieved_on=datetime.date.today().isoformat(), language="en",
+             pmid=None, doi=None, pmcid=None, journal=None, first_author=None, tumor_site=None, n_jgct_patients=None,
+             age_range=None, alterations=[], treatments=[], presentation=[], conflicts_with=[], overlaps_with=[],
+             superseded_by=None, retracted=False, notes=None, review_status="draft", reviewed_by=None, reviewed_on=None)
+    d.update(f)
+    d = {k: d[k] for k in ORDER if k in d} | {k: v for k, v in d.items() if k not in ORDER}
+    jsonschema.validate(d, SCHEMA)
+    path = os.path.join(OUT, f"{st}-{sid.replace('/', '_')}.yaml")
+    yaml.safe_dump(d, open(path, "w"), sort_keys=False, allow_unicode=True, width=1000)
+    print("wrote", os.path.relpath(path, ROOT))
+    return path

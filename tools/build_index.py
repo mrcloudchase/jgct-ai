@@ -19,7 +19,7 @@ SPLIT_AT = 300  # CLAUDE.md: split INDEX.md into topic indexes past ~300 lines
 
 def _line(stem, r, rel="records"):
     flags = (" RETRACTED" if r.get("retracted") else "") + (" [conflicts: " + ", ".join(r["conflicts_with"]) + "]" if r.get("conflicts_with") else "")
-    return (f"- [{stem}]({rel}/{stem}.yaml) | {r['year']} | {r['study_type']} | {r.get('tumor_site') or '-'} | {r['source_tier']} | c{r['confidence']}"
+    return (f"- [{stem}]({rel}/{stem}.yaml) | {r['year']} | {r['study_type']} | {r.get('tumor_site') or '-'} | {r['source_tier']}"
             f" | n={r.get('n_jgct_patients')} | {r.get('first_author') or ''} | {r['title'][:140]}{flags}")
 
 
@@ -29,7 +29,7 @@ def knowledge_index():
         r = yaml.safe_load(open(f)); stem = os.path.basename(f)[:-5]
         rows.append((r.get("study_type"), -r.get("year", 0), stem, r))
     rows.sort(key=lambda x: (x[0], x[1]))
-    legend = "One line per record: record id | year | study type | tumor site | tier | confidence | n JGCT | first author | title."
+    legend = "One line per record: record id | year | study type | tumor site | tier | n JGCT | first author | title."
     groups = {}
     for st, _, stem, r in rows:
         groups.setdefault(st, []).append((stem, r))

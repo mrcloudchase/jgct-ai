@@ -55,7 +55,7 @@
     "full_text_source": {
       "type": "string",
       "pattern": "^(https?://|PMC\\d+|file:)",
-      "description": "Where the full text was read from: the URL, PMC ID, or file. A record exists only when the full text was read start to finish."
+      "description": "Where the full text was read from: a PMC ID, URL, or file. A record exists only when the source was read start to finish. For a conference abstract, trial-registry entry or database query the complete item is the full text."
     },
     "language": {
       "type": [
@@ -75,6 +75,14 @@
         "string",
         "null"
       ]
+    },
+    "pmcid": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^PMC\\d+$",
+      "description": "PubMed Central ID, when the article is in PMC"
     },
     "title": {
       "type": "string",
@@ -228,6 +236,13 @@
         "type": "string"
       },
       "description": "record file stems this disagrees with"
+    },
+    "overlaps_with": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "record file stems that report some of the same patients (do not add their counts together)"
     },
     "superseded_by": {
       "type": [
