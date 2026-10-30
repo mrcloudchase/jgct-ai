@@ -56,6 +56,10 @@ mapfile -t ALLOWED < <(python3 -c 'import json; [print(r) for r in json.load(ope
 mapfile -t DENIED  < <(python3 -c 'import json; [print(r) for r in json.load(open(".claude/settings.json"))["permissions"]["deny"]]')
 OUT="$(mktemp -t research-XXXXXX.jsonl)"
 
+# The stream has no user turn: a headless run's only user input is the prompt. Print it so the log is complete.
+sed 's/^/< /' prompts/research.md
+echo
+
 # Stream every event to the log as it happens; keep the raw stream for the summary.
 set +e
 set -o pipefail

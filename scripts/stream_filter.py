@@ -4,28 +4,39 @@
 Reads JSON lines on stdin. Nothing is cut. Layout:
 
   == init ...                      session start: model, tools, permission mode
+  < user input                     the prompt (printed by the launcher; the stream itself has no user turn)
   ~ thinking text                  assistant thinking (when the model exposes it)
   > assistant text                 what the agent says
-    >> tool Name #id               a tool call, followed by its full input
-       | key: value
-    << result #id (Name)           the tool result the agent saw, in full
-       | line
-    [usage in=.. out=.. cache_read=.. cache_write=..]   per-turn tokens
+  |_ Name #id                      a tool call, with its full input beneath
+  |    key: value
+  |    |_ result (Name)            the tool result the agent saw, nested under its call, in full
+  |         line
+  [usage in=.. out=.. cache_read=.. cache_write=..]   per-turn tokens
   == result ...                    cost, turns, duration, per-model usage, permission denials
   ?? type                          any other event, as JSON
 """
 import json
 import sys
 
-PAD = "       | "
+CALL = "  |_ "
+ARG = "  |    "
+RES = "  |    |_ "
+RESBODY = "  |         "
 tool_names: dict[str, str] = {}
+pending_usage: list[str] = []
+
+
+def flush_usage() -> None:
+    """Print the previous turn's usage line after that turn's tool results, not between call and result."""
+    while pending_usage:
+        out(pending_usage.pop(0))
 
 
 def out(s: str = "") -> None:
     print(s, flush=True)
 
 
-def block(text, prefix=PAD) -> None:
+def block(text, prefix=ARG) -> None:
     """Print text with every line prefixed. Accepts str, list, dict, or None."""
     if text is None:
         return
@@ -61,6 +72,7 @@ def handle_init(e: dict) -> None:
 
 
 def handle_assistant(e: dict) -> None:
+    flush_usage()
     msg = e.get("message", {})
     for b in msg.get("content", []):
         t = b.get("type")
@@ -76,23 +88,24 @@ def handle_assistant(e: dict) -> None:
             block(b.get("text", ""), prefix="> ")
         elif t == "tool_use":
             tool_names[b.get("id", "")] = b.get("name", "")
-            out(f"    >> tool {b.get('name')} #{b.get('id')}")
+            out(f"{CALL}{b.get('name')} #{b.get('id')}")
             inp = b.get("input", {})
             if isinstance(inp, dict):
                 for k, v in inp.items():
                     if isinstance(v, str) and "\n" in v:
-                        out(f"{PAD}{k}:")
-                        block(v, prefix=PAD + "    ")
+                        out(f"{ARG}{k}:")
+                        block(v, prefix=ARG + "    ")
                     else:
-                        out(f"{PAD}{k}: {v if isinstance(v, str) else json.dumps(v, ensure_ascii=False)}")
+                        out(f"{ARG}{k}: {v if isinstance(v, str) else json.dumps(v, ensure_ascii=False)}")
             else:
-                block(inp)
+                block(inp, prefix=ARG)
         else:
-            out(f"    ?? content block {t}")
+            out(f"  ?? content block {t}")
             block(b)
     u = msg.get("usage") or {}
     if u:
-        out(f"    [usage in={u.get('input_tokens', 0)} out={u.get('output_tokens', 0)} "
+        pending_usage.append(
+            f"  [usage in={u.get('input_tokens', 0)} out={u.get('output_tokens', 0)} "
             f"cache_read={u.get('cache_read_input_tokens', 0)} cache_write={u.get('cache_creation_input_tokens', 0)}"
             f"{'  stop=' + str(msg.get('stop_reason')) if msg.get('stop_reason') else ''}]")
 
@@ -111,16 +124,17 @@ def handle_user(e: dict) -> None:
             tid = b.get("tool_use_id", "")
             name = tool_names.get(tid, "")
             flag = "  ERROR" if b.get("is_error") else ""
-            out(f"    << result #{tid} ({name}){flag}")
-            block(content_text(b.get("content")))
+            out(f"{RES}result ({name}) #{tid}{flag}")
+            block(content_text(b.get("content")), prefix=RESBODY)
         elif b.get("type") == "text":
             block(b.get("text", ""), prefix="< ")
         else:
-            out(f"    ?? user block {b.get('type')}")
+            out(f"  ?? user block {b.get('type')}")
             block(b)
 
 
 def handle_result(e: dict) -> None:
+    flush_usage()
     out(f"== result: {e.get('subtype')}  cost ${e.get('total_cost_usd')}  turns {e.get('num_turns')}  "
         f"duration {e.get('duration_ms', 0) / 1000:.0f}s (api {e.get('duration_api_ms', 0) / 1000:.0f}s)  is_error {e.get('is_error')}")
     u = e.get("usage") or {}
