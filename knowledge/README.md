@@ -1,152 +1,170 @@
 # Juvenile granulosa cell tumor: what the knowledge base says
 
-Two syntheses of the same recorded sources: one for clinicians and researchers, one for parents and patients. Neither is medical advice. Every factual sentence cites record IDs in brackets; open `records/<id>.yaml` for the source. All records are drafts until a human reviews them. Built from 262 records on 2026-10-30.
-
-- [For clinicians and researchers](#for-clinicians-and-researchers)
-- [For parents and patients](#for-parents-and-patients)
+Two summaries of the same records: one for clinicians and researchers, one for parents and patients. Each bracketed ID, such as `[pmid-40272823]`, is a record in `records/`; open it to see the source, its tier and what was taken from it. Since 2026-10-30 every record was written from a source read in full. Sources that could only be read as abstracts were withdrawn and wait in `../sources/INDEX.md` until their full text can be had, so some well-known papers are not cited here yet.
 
 ## For clinicians and researchers
 
-This is a synthesis of the sources recorded in this knowledge base, not medical advice, and every record is a `draft` until a human reviews it. It reports what sources say, records where they disagree, and recommends nothing for any individual patient. Most of the 262 records rest on abstracts only; the index (`INDEX.md`) gives each record's tier and confidence.
+This is a synthesis of the sources recorded in this knowledge base, not medical advice, and every record is a `draft` until a human reviews it. It reports what sources say and where they disagree. It recommends nothing for any individual patient.
 
 ### What JGCT is
 
-Juvenile granulosa cell tumor (JGCT, juvGCT) is a sex cord-stromal tumor of the ovary in children and young women and, separately, of the testis in newborn and young infant boys [pmid-40267023, pmid-40272823, pmid-26076062]. About 95% of granulosa cell tumors are adult-type and about 5% juvenile-type [pmid-40267023, pmid-40350706]. The NCI summary calls JGCT the most common sex cord-stromal subtype in girls under 18 [url-3b3cdea64edb]. Orphanet has no separate JGCT entry [url-7c7ae0b05976].
+Juvenile granulosa cell tumor is a sex cord-stromal tumor of the ovary or testis. It is cited as about 5% of granulosa cell tumors [pmid-38136408, pmid-23641362, url-3b3cdea64edb], but as the most common ovarian sex cord-stromal tumor of childhood [pmid-22525408, url-3b3cdea64edb]. Reviews put it at about 70% of ovarian sex cord-stromal tumors before age 20 [pmid-32355841, pmid-37508611] and about 75% of paediatric ones [pmid-40723200]. It is distinct from adult-type granulosa cell tumor, which carries the FOXL2 c.402C>G (p.C134W) mutation in most cases. That mutation is rare or absent in JGCT [pmid-23641362, pmid-38136408, pmid-32485873, url-6657783a29d4]. Adult-type tumors may recur after more than 10 years; JGCT relapses mostly within 2 years [pmid-42504512, pmid-36869369].
 
-Ovarian and testicular JGCT are now treated as different diseases. The 2025-2026 testicular sex cord-stromal tumour (TESST) pathology consensus renamed the testicular tumor "benign juvenile granulosa cell tumour," because it is infantile, hormonally inactive, appears to lack malignant potential, and lacks the AKT1 and GNAS changes of ovarian JGCT [pmid-40528632, pmid-42421431, pmid-41384702]. The same panel contrasted this with the roughly 10% of ovarian JGCTs that behave aggressively [pmid-40528632].
+Ovarian and testicular JGCT behave so differently that recent sources treat them as separate clinical entities [pmid-40272823]. A 2025-2026 international testicular pathology consensus renames the testicular tumor "benign juvenile granulosa cell tumour" [pmid-42421431, pmid-40528632, pmid-41384702].
 
 ### Who gets it and how it presents
 
-**Ovarian.** Age spans newborn to 67 years in the 125-case Young series (44% aged 10 or under) [pmid-6465418]. Pediatric registries report median ages of 7.6 [pmid-9190974], 9.8 [pmid-40272823] and 10 years [pmid-40267023]; a systematic review of 94 pediatric cases gave a mean of 7.2 years [pmid-41367860]. Adult cases exist, including a recurrence in a 40-year-old [pmid-32341591] and series with patients up to 53 and 56 years [pmid-21176530, pmid-2910225].
+**Ovary.** The largest prospective paediatric series is the German STEP/MAKEI registry: 89 ovarian JGCT, median age 9.8 years, 44% under 8 years [pmid-40272823]. The International Ovarian and Testicular Stromal Tumor (OTST) Registry reported 70 ovarian JGCT with median age 10 years (1 day to 38 years); 93% were under 20 [pmid-40267023]. JGCT also occurs in adults, including during pregnancy [pmid-36992983, pmid-41797949, pmid-30547828, pmid-29988841]. Pregnancy-associated cases are recorded at 17 to 35 years [doi-10.5350_semb2013470410, doi-10.32677_ijcr.v10i2.4357]. In a pooled review of published pregnancy-associated ovarian cancer, JGCT was the most common sex cord-stromal subtype [pmid-29988841].
 
-In prepubertal girls the leading sign is isosexual peripheral precocious puberty: 82% of prepubertal patients in the Young series and 71% of girls under 8 in STEP [pmid-6465418, pmid-40272823]. Across ages, abdominal pain (54-56%) and swelling (42-45%) are most common [pmid-40267023, pmid-40272823]. Virilization occurred in 12% of an international registry cohort [pmid-40267023] and was linked to absent intratumoral aromatase [pmid-20395670]. Case reports add massive ascites [pmid-23424695, pmid-29923976], estrogen-driven hyperprolactinemia [pmid-27047664], primary amenorrhea [pmid-22353374], elevated interleukin-6 with fever [pmid-31582893] and paraneoplastic hypercalcemia [pmid-24371683, pmid-17849133]. Purely cystic JGCTs are often androgenic and can be mistaken for follicle cysts [pmid-35353158]; a unilocular cyst presenting with precocious puberty has also been reported [pmid-39161564]. Tumors are large (median or mean 11 to 12.5 cm) and nearly always unilateral [pmid-40272823, pmid-40267023, pmid-6465418]. JGCT has been reported in a retroperitoneal location without ovarian involvement [pmid-33621150].
+In the OTST cohort, presentations were [pmid-40267023]:
 
-**Markers.** In the international registry, inhibin B was elevated in 90% (38/42), inhibin A in 65% (22/34), CA125 in 48% (20/42), testosterone in 43% (9/21) and AFP in 4% (2/46) [pmid-40267023]. The pediatric systematic review found inhibin A/B and AMH constantly elevated where measured [pmid-41367860]. Mildly elevated AFP has been reported in individual girls with ovarian JGCT, which can raise concern for a germ cell tumor [pmid-10891723, pmid-6175237, pmid-15123101].
+- abdominal pain in 54% and distension in 45%;
+- precocious puberty in 26% and virilization in 12%;
+- median size 12 cm, and 97% unilateral.
 
-**Testicular.** 90% of 70 patients were 6 months old or younger [pmid-26076062]; median age was 16 days in STEP [pmid-40272823]. It presents as a painless scrotal mass and has been detected on prenatal ultrasound [pmid-26076062, pmid-31871849, pmid-23217189]. Some arise in undescended or dysgenetic gonads with abnormal karyotypes [pmid-26076062, pmid-4061731, pmid-18008216]. A testicular JGCT has been reported in a 27-year-old [pmid-18313118].
+In STEP, 27 of 38 girls under 8 years had isosexual precocity, and 6% presented with torsion [pmid-40272823]. Peripheral precocious puberty with high estradiol and suppressed gonadotropins is the classic picture in infants and toddlers [pmid-34487069, pmid-42927143, pmid-34285730, pmid-29546931, doi-10.56951_medicinus.v33i3.66].
 
-**Associated conditions.** Ollier disease and Maffucci syndrome are repeatedly reported; 14 of 94 reviewed pediatric cases had Ollier disease [pmid-41367860]. Tumor IDH1 R132C was found in the tumor and enchondroma but not in blood in one child [pmid-37324278], and somatic IDH1 in others [pmid-35296906, pmid-42896236]. Enchondromas have been mistaken for bone metastases [pmid-28144098, pmid-35296906]. In McCune-Albright syndrome, the same GNAS R201C variant was found in the JGCT and fibrous dysplasia but not blood [pmid-34286167]. A homozygous germline MAD2L1BP variant caused JGCT of ovary and testis in two siblings [pmid-37796616]. JGCT appears in DICER1 families [pmid-21501861, url-1b49311e69d4]. JGCT in pregnancy has been managed with good outcomes in case series [pmid-34694430, pmid-41797949, pmid-36992983].
+Less typical presentations are recorded:
 
-### Pathology and diagnosis
+- virilization from androgen secretion [pmid-36112066, pmid-33362514, doi-10.18544_ep-01.16.01.1664, doi-10.18535_jmscr_v8i4.28];
+- massive ascites [pmid-23424695, pmid-29923976, pmid-37483405, doi-10.4103_cjhr.cjhr_39_20, doi-10.15406_jpnc.2015.03.00113], including pseudo-Meigs syndrome with CA-125 of 366 U/mL [doi-10.29333_ejgm_82225];
+- secondary amenorrhea [pmid-36647328, pmid-33241170], with hyperprolactinemia in one case [pmid-27047664];
+- paraneoplastic hypercalcemia [pmid-24371683];
+- fever with interleukin-6 elevation [pmid-31582893];
+- torsion [pmid-41112815, pmid-23776871].
 
-JGCT shows solid and follicular growth, follicles with secretions, luteinized cells with round nuclei lacking grooves, and variable mitotic activity [pmid-6465418]. Bizarre atypia alone has no proven adverse impact [pmid-40267023, pmid-35353158]. Immunohistochemistry is typically positive for inhibin, calretinin, SF-1 and often FOXL2 and CD99 [pmid-26076062, pmid-39773640, pmid-36813116], but inhibin-negative and calretinin-negative tumors are reported [pmid-24455600, pmid-21176530]. JGCTs lack EWSR1 rearrangement, separating them from Ewing sarcoma [pmid-24300529]. Mimics include yolk sac tumor [pmid-32561911], small cell carcinoma of the hypercalcemic type [pmid-42504512] and Sertoli-Leydig cell tumors with JGCT-like follicles [pmid-32815828].
+A girl developed JGCT 4 months after central precocious puberty was diagnosed [pmid-24198925]. Another developed central precocious puberty after JGCT treatment [pmid-35371651].
 
-An anaplastic variant (10 tumors, all with TP53 inactivation, four with MYC or MYCN amplification) carried an adverse prognosis; the four deaths were all stage II/III with MYC-family amplification [pmid-41036825].
+**Testis.** Testicular JGCT is a tumor of infancy. In STEP, 24 boys had median age 16 days, all stage I, with no hormone signs; none relapsed in a median 95 months of follow-up [pmid-40272823]. A systematic review of 239 testicular granulosa cell tumors counted 166 juvenile cases. Their mean age was 1.5 years, and none were metastatic or malignant [pmid-32719989]. Prenatal detection by ultrasound is reported [pmid-23217189, pmid-31871849]. Ultrasound shows a multicystic "Swiss cheese" mass [pmid-33209713, pmid-25715370, url-2d2d61fb2c99]. JGCT is linked to sex-chromosome mosaicism and ambiguous genitalia [pmid-25512812, pmid-32462465, pmid-35481403, pmid-27785439]. Serum AFP is physiologically high in neonates and hard to interpret [pmid-33201299, pmid-28331810, pmid-25715370]. One newborn had an AFP of 113,200 ng/mL with a JGCT diagnosis [pmid-28331810].
+
+### Markers
+
+Inhibin is the most consistently reported marker [pmid-22525408, pmid-36184758, pmid-40218072]. In the OTST cohort, inhibin B was elevated in 38 of 42 patients and inhibin A in 22 of 34. CA-125 was elevated in 20 of 42, testosterone in 9 of 21 and AFP in 2 of 46 [pmid-40267023]. AMH and inhibin can be very high and fall after resection [pmid-34487069, pmid-38513413, url-d9e99f99c3cf]. Inhibin B is used during pregnancy because pregnancy does not raise it [pmid-41797949]. Inhibin-negative JGCT on immunohistochemistry is recorded [pmid-24455600, pmid-38646138]. Among 1,128 paediatric and young-adult ovarian masses, inhibin B predicted malignancy with sensitivity 70% and specificity 85% [pmid-41000187].
+
+### Pathology and differential diagnosis
+
+Typical features recorded:
+
+- cystic tumors with solid areas, no Call-Exner bodies, and mitoses of 7-44 per 10 HPF [pmid-36748172];
+- on cytology, no nuclear grooves or microfollicles, unlike most adult-type tumors [pmid-34411449];
+- SF1, inhibin A, calretinin and FOXL2 expression in all five tumors of one series [pmid-39773640];
+- inhibin and vimentin in all evaluable tumors of another [pmid-23029311].
+
+In the OTST cohort, 37 of 60 tumors (62%) had a high mitotic index, more than 19 per 10 high-power fields [pmid-40267023].
+
+Reported diagnostic pitfalls:
+
+- **Small cell carcinoma of the ovary, hypercalcemic type (SCCOHT).** It was misdiagnosed as JGCT in 6 of 16 cases, and SMARCA4 (BRG1) immunohistochemistry separates them [pmid-31844183]. A 12-year-old first diagnosed with JGCT had SCCOHT with a germline SMARCA4 variant [pmid-30275002]. The European guideline names elevated calcium as a clue to SCCOHT [pmid-42504512]. The COV434 cell line, long used as a JGCT model, has been reassigned to SCCOHT [pmid-33328126, pmid-31311113].
+- **Sertoli-Leydig cell tumor and gynandroblastoma.** In the OTST registry, 2 DICER1-mutated tumors locally called JGCT were reclassified as gynandroblastoma [pmid-29037807]. A tumor called JGCT at age 5 was later reclassified as retiform Sertoli-Leydig cell tumor in DICER1 syndrome [pmid-37248399]. Gynandroblastomas with a juvenile granulosa component are recorded [pmid-41416308, pmid-30011982, pmid-32751726, pmid-37493465, pmid-34169133, doi-10.18203_2320-1770.ijrcog20200381].
+- **Adult-type granulosa cell tumor.** Mixed or overlapping juvenile and adult morphology occurs [pmid-34688077, url-a3c143927c76, pmid-38513413, pmid-25153212]. Some papers label adult-age tumors "juvenile" without supporting immunohistochemistry or molecular data [doi-10.17352_ijsrhc.000044, doi-10.36346_sarjmcr.2024.v05i02.003].
 
 ### Molecular biology
 
-**AKT1.** In-frame duplications in the AKT1 pleckstrin-homology domain occurred in more than 60% of 16 JGCTs in girls under 15 and activate the kinase [pmid-26137586, pmid-26362254]. Later cohorts confirm them [pmid-35031544, pmid-39773640, pmid-40267023]. AKT1-wild-type tumors in one series showed PTEN protein loss (3/5) [pmid-39773640]. Fly models show mixed gain- and loss-of-function effects [pmid-41237900]. A public cBioPortal GRCT sample from a 7-year-old carried an AKT1 insertion without FOXL2 mutation, though the database does not label it juvenile [url-6657783a29d4].
+**Somatic changes.** Somatic in-frame duplications in the AKT1 pleckstrin-homology domain were found in 10 of 16 JGCT in girls under 15. Fourteen of 16 carried a putative AKT1 driver; GNAS R201 was absent in that series [pmid-26137586]. In a Czech series, 2 of 5 had an AKT1 internal tandem duplication and 1 a TERT promoter mutation [pmid-39773640]. Activating GNAS R201 mutations, in about a third of cases, are reported in reviews [pmid-38136408, pmid-32485873, pmid-27104151]. One review also lists DICER1 in 6-23%, KMT2C, ARID1A, TERT and TP53 variants [pmid-38136408]. In the OTST registry the findings came from a small subset [pmid-40267023]:
 
-**GNAS.** GNAS R201 mutations were found in 9/30 French JGCTs and associated with stage Ic or recurrence [pmid-16507630]; a later French cohort of 16 had none [pmid-26137586].
+- AKT1 duplications in 3;
+- GNAS R201C in 2 and TERT promoter variants in 2;
+- TP53 variants in 4;
+- one somatic DICER1 RNase IIIb variant, in an anaplastic tumor.
 
-**Other.** A multi-omic study of 31 JGCTs found KMT2C truncations, SWI/SNF mutations, TERT rearrangements in 13%, and a methylation profile distinct from adult GCT [pmid-35031544]. Polysomy 12 and monosomy X are recurrent [pmid-21552888, pmid-10509309]. FOXL2 C134W is absent in JGCT in most cohorts [pmid-32910017, pmid-21623383, pmid-32561911].
+A metastatic JGCT had AKT1 gain and a subclonal MYC amplification [pmid-40985487]. In mice, oocyte PI3K activation and Smad1/5 loss produce JGCT-like tumors [pmid-27197196, pmid-27104151].
 
-**DICER1.** Somatic or germline DICER1 variants are uncommon: 3/47 in the largest cohort [pmid-32910017] and 0/5 by mutation and immunohistochemistry in another [pmid-41839237]. GeneReviews says JGCT is "rarely" associated with DICER1 [url-1b49311e69d4]. The DICER1 registry lists ovarian JGCT "especially if anaplasia and/or high mitotic index" as an indication for germline testing [pmid-39400264], and the 2026 European recommendations advise DICER1 testing in anaplastic JGCT and IDH1/IDH2 testing of tumor tissue in Ollier or Maffucci [pmid-42504512].
+**Germline and syndromic associations.**
 
-**Testicular JGCT** lacks AKT1 and GNAS variants and shows monosomy 10 (8/14) [pmid-36813116, pmid-42421431].
+- **DICER1.** The GeneReviews chapter calls JGCT "rarely associated" with DICER1 and suggests testing when anaplasia or a high mitotic index is present [url-1b49311e69d4]. The European guideline and the DICER1 registry say the same [pmid-42504512, pmid-39400264]. In the NEJM hotspot study, 1 of 14 JGCT carried a DICER1 hotspot mutation [pmid-22187960]. Adults with JGCT and germline DICER1 variants are reported [url-1c23e1dc296b, pmid-40076617].
+- **Ollier disease and Maffucci syndrome.** In one 4-year-old, the JGCT and an enchondroma shared somatic IDH1 R132C [pmid-37324278]. The AACR consensus counts at least 12 JGCT in Ollier/Maffucci [pmid-39601780]. Cases and reviews are recorded [pmid-28144098, pmid-35968204, pmid-37840846, pmid-30581564, pmid-32144835, pmid-36428825].
+- **McCune-Albright syndrome.** Mosaic GNAS R201C was shared by tumor and bone [pmid-34286167].
+- **Other associations:**
+  - biallelic germline MAD2L1BP in siblings with ovarian and testicular JGCT [pmid-37796616];
+  - xeroderma pigmentosum group C [pmid-37567969, pmid-41035579];
+  - neurofibromatosis type 1 [pmid-35848651];
+  - Donohue syndrome [pmid-25153212].
 
 ### Staging and treatment as reported
 
-The 2026 European standard recommendations (EXPeRT/ERN PaedCan, full text read) are the most detailed source [pmid-42504512]. They recommend an open approach to avoid rupture, unilateral oophorectomy for organ-confined tumors, peritoneal cytology, no biopsy of a normal contralateral ovary and no systematic lymph node dissection [pmid-42504512]. Workup includes AFP, hCG, inhibin, estrogen, testosterone and CA125 with MRI [pmid-42504512]. A pediatric surgical guideline also prefers laparotomy [pmid-41585072], while the MITO-9 group regarded laparoscopy as safe in stage I [pmid-33583630]. No lymph node involvement was found in sampled nodes across several series [pmid-40267023, pmid-34902562, pmid-25788847].
+Sources stage ovarian JGCT with FIGO [pmid-42504512, pmid-36184758, pmid-40267023]. The 2026 European Standard Clinical Practice recommendations (EXPeRT/ERN PaedCan), at evidence level III, recommend [pmid-42504512]:
 
-Chemotherapy in the 2026 European recommendations: none for IA/IB or IC1; four cycles of cisplatin-based chemotherapy (PEB or PEI/VIP) for IC2, three considered with low mitotic index; at least four for stage II-III, with 5-6 considered for high mitotic index [pmid-42504512]. STEP gave PEI to IC2 and above and observed IA and IC1 [pmid-40272823]. Guidelines differ on stage IC: TMRG and ESGO-SIOPE allow avoiding chemotherapy in IA-IC1, ESMO recommends it for stage IC, and EXPeRT/PARTNER 2021 recommends three to four cycles in stage IC [pmid-36980387].
+- open surgery that avoids rupture, usually unilateral oophorectomy, and reference pathology;
+- surveillance for stage IA/IB, and for IC1, with chemotherapy considered when the mitotic count is high;
+- 3 to 4 cycles of PEI/VIP or BEP for IC2/IC3, and at least 4 to 6 cycles for stage II-III;
+- ultrasound every 3 months for 2 years of follow-up.
 
-Organ-sparing surgery that removes only the tumor is a concern. In STEP, three of four relapsing patients had enucleation or partial ovariectomy [pmid-40272823], and one case recurred in the same ovary 9 months after enucleation [pmid-33362514]. Removal of the whole ovary with tube is reported as compatible with later pregnancies [pmid-33583630, pmid-34902562, pmid-30728165].
+A comparison of five guidelines found broad agreement that stage IA-IC1 completely resected may avoid chemotherapy while IC2-IC3 requires it. The guidelines differ on debulking and on chemotherapy at IC1 [pmid-36980387]. An earlier COG/MAKEI review recommended platinum chemotherapy for IC with preoperative rupture or malignant ascites, and for II-IV [pmid-22525408]. Lymphadenectomy is not recommended: no nodal metastases were found in reported JGCT series [pmid-35849655, doi-10.21037_gpm-22-45, pmid-40267023]. Testicular JGCT is managed by orchiectomy or testis-sparing surgery [pmid-33036134, pmid-33201299, pmid-41762432]. One neonate with bilateral testicular JGCT was tumor free after buserelin alone [pmid-40272823].
 
-Relapse treatments reported include platinum chemotherapy, high-dose chemotherapy, cytoreduction with HIPEC, radiotherapy and GnRH antagonists [pmid-42504512, pmid-41338896, pmid-18028383]. Long survival after salvage of stage III or relapsed disease is reported in case reports [pmid-24656706, pmid-11277661].
-
-**Testicular:** orchiectomy alone was curative in every registry series [pmid-40272823, pmid-23733594, pmid-26206391, pmid-20850634]. Testis-sparing surgery has been used, including for bilateral tumors [pmid-25053523, pmid-15076304], and an Italian guideline supports it in prepubertal boys with negative markers [pmid-41762432]. The TESST authors state that completely resected testicular JGCT needs no aggressive treatment or long-term follow-up [pmid-42421431].
+Fertility-sparing surgery is the norm in young patients. A review counted pregnancies after fertility-sparing surgery in 11 of 26 women with JGCT (42.3%) [pmid-35437273]. Small series report term births after such surgery [pmid-25788847, doi-10.4103_tofj.tofj_8_17].
 
 ### Outcomes and prognostic factors
 
-Recent pediatric registries report 5-year EFS 95% and OS 97% (89 ovarian, STEP) [pmid-40272823] and 3-year EFS 73.2% and OS 91.7% (70 patients, IOTSTR) [pmid-40267023]. A review of 94 published pediatric cases found 92.7% of 69 alive; 17.0% relapsed and 43.7% of those died [pmid-41367860]. After relapse, long-term survival is approximately 20% or lower [pmid-42504512].
-
-Relapses are usually early: median 8.5 months with 13 of 14 within two years [pmid-40267023]. Late relapses are reported, at 48 months [pmid-15295395], 5 years [pmid-32341591, pmid-37650316] and 17 years [pmid-24656706]. Stage IC disease without chemotherapy progressed to liver metastases within 3 months in one fully staged case [pmid-27843515].
-
-**Mitotic index** is the most consistent prognostic factor: all recurrences with known index were in tumors with more than 19 mitoses per 10 HPF in IOTSTR and STEP [pmid-40267023, pmid-40272823], and the 2026 European recommendations rate it prognostic [pmid-42504512]. Two small Chinese series disagree on whether mitotic activity predicted outcome [pmid-12411036, pmid-21176530]. **Stage** matters in most series [pmid-12805338, pmid-40267023], though not in STEP [pmid-40272823].
-
-**Survivorship.** Endocrine abnormalities persisted in 15 of 41 patients in a French registry [pmid-38259036]. A contralateral ovarian tumor occurred in 4.3% of reviewed cases [pmid-41367860], including benign cystadenomas [pmid-34306284, pmid-32745618]. Follow-up every 3 months for the first 2 years is recommended [pmid-42504512].
+- **STEP.** 5-year event-free survival was 0.95 and overall survival 0.97 for ovarian JGCT. Survival by stage was IA 98%, IC1 100%, IC2/IC3 100% and II/III 80%. EFS was 61/61 with a mitotic rate under 20 per 10 HPF versus 24/28 above 19 [pmid-40272823].
+- **OTST.** 14 relapsed, 13 of them within 2 years, and there were 8 deaths. Three-year EFS was 80.2% at IA, 87.4% at IC1, 63.6% at IC2-IC3 and 48.0% at II-IV. Every recurrence with a known mitotic index had a high index, and 3-year EFS was 55.5% with a high index versus 100% with a low one [pmid-40267023].
+- **Smaller series.** A 2017 OTST report had no deaths at stage IA/IB and 3 deaths among 11 patients at stage IC or above [pmid-29037807]. A Korean series of 11 had no recurrence over a mean 69.8 months [pmid-21998762]. A Chinese series of 8 recorded one death, at stage IIIC [doi-10.4103_2096-2924.255993]. Of 15 early-stage patients, 3 relapsed [doi-10.21037_gpm-22-45]. The South African national series had 2 deaths among 13 JGCT [pmid-33560080].
+- **Relapse.** Recurrence carries a poor prognosis, with about 20% long-term survival per the European guideline [pmid-42504512]. Median overall survival after first recurrence was 32.2 months in 14 pure JGCT, against 181.9 months in adult-type tumors [pmid-40815979]. Rapid distant spread after a stage IC tumor [pmid-27843515] and late fatal relapse [pmid-32341591] are recorded.
+- **Salvage.** Salvage approaches include cytoreduction with HIPEC [pmid-26500075] and carboplatin/paclitaxel [pmid-36748172, pmid-40901169]. Trials in adult sex cord-stromal tumors did not include JGCT-specific data [url-68575db179a7, url-809f17ade28d].
 
 ### Where the literature disagrees
 
-- **Recurrence after rupture (IC2/IC3).** STEP: no recurrences among 18 patients, most given chemotherapy [pmid-40272823]. IOTSTR: 3-year EFS 63.6% [pmid-40267023].
-- **Chemotherapy for IC2.** The 2026 European recommendations give four cycles [pmid-42504512]; a systematic review calls this questionable because 3 of 5 untreated IC2 patients were alive at 3-8 years [pmid-41367860].
-- **Chemotherapy in stage IC overall.** STEP and TGM-95 credit chemotherapy with fewer relapses [pmid-40272823, pmid-26206391]; a meta-analysis found no benefit, including a JGCT subgroup (4/17 relapsed with chemotherapy vs 0/16 observed) [pmid-40350706].
-- **Early-stage recurrence.** MITO-9: none in 17 stage I patients [pmid-33583630]; a Chinese series: 8 recurrences among 35 early-stage patients [pmid-34902562].
-- **FOXL2 expression.** Loss tied to aggressive disease [pmid-17430735]; high expression tied to worse survival [pmid-21623383]; positive in all 5 in another series [pmid-39773640].
-- **FOXL2 mutation.** 1 of 8 in one cohort [pmid-26033501]; reclassified as adult GCT in the largest cohort [pmid-32910017].
-- **JGCT vs adult GCT survival.** SEER-based: 59% for JGCT [pmid-39863551]; 92% disease-free in the Young series [pmid-6465418].
-- **Testicular JGCT in adults.** TESST says it has not been reported in adults [pmid-42421431]; a case in a 27-year-old exists [pmid-18313118].
+- **Chemotherapy at stage IC2.** The European guideline recommends 3 to 4 cycles [pmid-42504512]. A 2025 review of 94 paediatric cases found 3 of 5 IC2 patients alive without chemotherapy and questioned it [pmid-41367860]. A stage IC meta-analysis found no recurrence benefit of adjuvant chemotherapy; its JGCT subgroup was only 33 patients [pmid-40350706]. STEP saw no relapses at IC2/IC3 with chemotherapy, while OTST reported a 3-year EFS of 63.6% at IC2-IC3 [pmid-40272823, pmid-40267023].
+- **DICER1 in JGCT.** The OTST registry found 0 of 19 germline and 0 of 2 tumor DICER1 mutations [pmid-29037807]. A xeroderma pigmentosum C patient's JGCT carried DICER1 mutations [pmid-37567969]. Other sources report DICER1 at 1 of 14 [pmid-22187960] and 6-23% [pmid-38136408].
+- **FOXL2 in JGCT.** One review reports the FOXL2 mutation in 1 of 10 JGCT [pmid-23641362]; another calls it absent [pmid-38136408].
+- **Drivers.** A case report states that no genetic driver is known [pmid-39877787]. Sequencing series find AKT1 and other alterations [pmid-39773640, pmid-26137586].
+- **COV434.** Older work uses COV434 as a JGCT model [pmid-31311113]; it is now classed as SCCOHT [pmid-33328126].
 
-### Research and trials
-
-No interventional trial specific to JGCT was found in ClinicalTrials.gov, the EU registers or ISRCTN (see `sources/INDEX.md`). IOTSTR, STEP and the PPB/DICER1 registries enroll [url-599767ff9c45, url-00efe8fac0ba, url-f623903cbc28]. Randomized SCST chemotherapy trials comparing paclitaxel-carboplatin with BEP enrolled adults only (GOG) [url-68575db179a7] or ages 14 to 65 with stage IIA-IVB (a recruiting Chinese trial) [url-c7a8cfb06452]. AKT-directed therapy is of interest for recurrent disease [pmid-40267023, pmid-26137586].
+Pooled reviews re-count published cases, so counts across `overlaps_with` records must not be added together.
 
 ### Gaps in this base
 
-Full texts of EXPeRT/PARTNER 2021 and ESGO-SIOPE 2020 were not legally available, so only abstracts are recorded [pmid-33760357, pmid-32615119]. Most case reports rest on abstracts. About 1,800 ledger items remain unscreened, including 264 found only in OpenAlex.
+Several classic series and the 2020 ESGO-SIOPE and 2021 EXPeRT/PARTNER guidelines are not yet recorded because their full text could not be obtained (see `../sources/INDEX.md`, "Needs full text"). No JGCT-specific interventional trial was found [url-599767ff9c45, url-00efe8fac0ba].
 
 ## For parents and patients
 
-This is a plain-language summary of the sources in this knowledge base. It is not medical advice, and every record behind it is a draft until a person reviews it. The bracketed codes, like [pmid-40272823], point to the source. You can show any paragraph to your care team.
+This is a synthesis of recorded sources, not medical advice, and every record is a draft until a human has checked it. The bracketed codes point to the sources, so you can show a paragraph to a doctor.
 
 ### What is a juvenile granulosa cell tumor?
 
-A **tumor** is a lump of cells that grow when they should not. A **juvenile granulosa cell tumor (JGCT)** grows from cells that normally support eggs in the ovary [pmid-6465418]. The **ovaries** are two small organs in the belly that make eggs and the hormone estrogen. "Juvenile" means it is found mostly in children and young women [pmid-40267023, pmid-40272823]. It is a different tumor from the "adult" granulosa cell tumor, which is far more common [pmid-40267023].
-
-JGCT is rare. Of all granulosa cell tumors, about 5 in 100 are the juvenile kind [pmid-40267023]. Even so, it is the most common tumor of its group in girls under 18 [url-3b3cdea64edb].
-
-Baby boys can also get a JGCT in the **testis** (testicle). Experts now call that tumor "benign," which means it does not spread [pmid-40528632, pmid-42421431]. The rest of this summary is mostly about the ovarian tumor.
+A **tumor** is a lump of cells growing where they should not. "Granulosa cells" are cells in the ovary that normally help eggs grow and make the hormone **estrogen**. A juvenile granulosa cell tumor (JGCT) starts from these kinds of cells. It mostly affects children and young people [pmid-40272823, pmid-40267023]. In boys it can grow in the testis, almost always in babies [pmid-40272823, pmid-32719989]. It is rare. Among ovarian tumors that start from these hormone-making cells, it is the most common kind in children [pmid-22525408, url-3b3cdea64edb]. It is a different disease from the "adult" granulosa cell tumor of older women [pmid-23641362, pmid-42504512].
 
 ### What signs does it cause?
 
-The tumor often makes hormones. In young girls, the most common sign is **early puberty**: breast growth or vaginal bleeding much earlier than normal [pmid-6465418, pmid-40272823]. In one large German study, 71 in 100 girls under 8 had early puberty [pmid-40272823]. Other common signs are belly pain and a swollen belly [pmid-40267023, pmid-40272823]. Some tumors make male-type hormones and cause extra body hair [pmid-40267023, pmid-20395670]. The tumors are often large, around 11 to 12 cm across [pmid-40272823, pmid-40267023]. They almost always affect only one ovary [pmid-40267023].
-
-Doctors often measure **tumor markers**. These are substances in the blood that the tumor can make. **Inhibin B** was high in 90 in 100 girls in one large study [pmid-40267023]. Another substance, **AMH**, was also high when it was measured [pmid-41367860].
+Many girls have a swollen or painful belly [pmid-40267023]. Because the tumor can make estrogen, young girls may show early signs of puberty. These include breast growth and vaginal bleeding, sometimes in babies [pmid-40267023, pmid-40272823, pmid-34487069]. Less often the tumor makes male-type hormones and causes extra hair or a deeper voice [pmid-36112066, doi-10.18544_ep-01.16.01.1664]. Some children have fluid in the belly, called **ascites** [pmid-23424695, pmid-37483405]. In baby boys it usually shows up as a painless swelling of the scrotum [pmid-40272823].
 
 ### Is it linked to other conditions?
 
-Most children with JGCT have no other condition. In a review of 94 children, about 22 in 100 had a genetic or body-wide condition [pmid-41367860]. The most common was **Ollier disease**, a condition with benign growths of cartilage in the bones [pmid-41367860]. In these children the tumor can carry a change in a gene called **IDH1** [pmid-37324278]. JGCT can also occur with **McCune-Albright syndrome** [pmid-34286167]. Rarely it occurs in families with a change in a gene called **DICER1** [pmid-21501861, url-1b49311e69d4]. European experts suggest DICER1 testing for some tumors, especially ones that look very abnormal under the microscope [pmid-42504512, pmid-39400264].
+Most children have no other condition. A few have a known link:
+
+- **Ollier disease or Maffucci syndrome**, conditions with extra cartilage growths in the bones [pmid-37324278, pmid-39601780];
+- **McCune-Albright syndrome** [pmid-34286167];
+- changes in a gene called **DICER1**, which runs in some families [url-1b49311e69d4, pmid-42504512].
+
+Doctors may suggest a genetic test in some cases, for example when the tumor looks very abnormal under the microscope [pmid-42504512, url-1b49311e69d4].
 
 ### How is it diagnosed?
 
-A **pathologist** is a doctor who studies tissue under a microscope. A pathologist makes the diagnosis after the tumor is removed [pmid-6465418]. European experts say a second, expert pathologist should review it [pmid-42504512]. The pathologist counts **mitoses**. These are cells caught in the act of dividing. The count matters, as explained below [pmid-40267023, pmid-40272823].
-
-The **stage** describes how far the tumor has spread. Most JGCTs are found at **stage I**, which means the tumor is in the ovary only [pmid-40272823, pmid-41367860]. Stage I has sub-groups. **IA** means the tumor was whole and inside one ovary. **IC1** means it broke open during surgery. **IC2** means it broke open before surgery or grew on the outside of the ovary. **IC3** means tumor cells were found in fluid from the belly [pmid-42504512, pmid-40272823].
+Doctors use ultrasound, sometimes MRI, and blood tests [pmid-42504512, pmid-36184758]. A blood test for a protein called **inhibin** is often high and can drop after surgery [pmid-40267023, pmid-38513413]. The final answer comes from a **pathologist**, a doctor who looks at the tumor under a microscope. Sources advise that an expert pathologist review it, because a few other tumors can look similar [pmid-42504512, pmid-31844183, pmid-29037807].
 
 ### How is it treated?
 
-Every source agrees that **surgery** comes first [pmid-40272823, pmid-40267023, pmid-42504512]. The usual operation removes the ovary with the tumor and its tube, and leaves the other ovary and the womb [pmid-42504512]. European experts prefer an open operation, so the tumor does not break [pmid-42504512, pmid-41585072]. Some surgeons remove only the tumor and keep the ovary. In a German study, three of the four children whose tumor came back had that smaller operation [pmid-40272823]. One report describes a tumor that came back in the same ovary after it [pmid-33362514].
+Surgery is the main treatment. For a tumor in one ovary, surgeons usually remove that ovary and leave the other one and the womb [pmid-42504512]. Doctors describe how far the tumor has spread with a **stage**, from I (only in the ovary) to higher numbers.
 
-**Chemotherapy** means cancer medicines. Most children with stage IA or IC1 tumors do not get it [pmid-42504512, pmid-40272823]. For stage IC2 and higher, European experts recommend about four rounds of a cisplatin-based combination [pmid-42504512]. Experts do not fully agree on this. Some guidelines also give chemotherapy for all stage IC [pmid-36980387]. One review questions it for IC2 [pmid-41367860]. One pooled analysis found no clear benefit in stage IC [pmid-40350706].
-
-For boys with a testicular JGCT, surgery alone has cured every case in the large studies [pmid-40272823, pmid-23733594]. Sometimes the testis can be kept [pmid-25053523, pmid-41762432].
+- **Stage IA or IC1:** most sources say surgery alone is usually enough [pmid-42504512, pmid-36980387].
+- **Stage IC2 or higher:** guidelines add **chemotherapy**, medicines that kill tumor cells, usually 3 to 6 cycles [pmid-42504512, pmid-40272823]. Experts do not fully agree on whether every child with stage IC2 needs it [pmid-41367860, pmid-40350706].
+- **Baby boys:** surgery on the testis is usually the only treatment [pmid-40272823, pmid-32719989].
 
 ### What happens after treatment?
 
-**Well established:** most children do very well. In a German study of 89 girls, 97 in 100 were alive after 5 years [pmid-40272823]. In a review of published cases, 92.7% were alive at last check [pmid-41367860]. Many women have had children later [pmid-33583630, pmid-30728165, pmid-24656706].
+Most children do well. In the largest German group of girls, 97 in 100 were alive after 5 years [pmid-40272823]. In an international group of 70 patients, about 1 in 5 had the tumor come back. Most of those returns happened within 2 years [pmid-40267023]. When it comes back, it is much harder to treat, and some children die [pmid-40267023, pmid-42504512]. Two things linked to a higher chance of return are higher stage and many dividing cells under the microscope, called a high **mitotic index** [pmid-40267023, pmid-40272823]. In baby boys, the testicular tumor has not been reported to spread [pmid-32719989, pmid-42421431].
 
-**Also well established:** the tumor comes back in some girls. In one international study, 73 in 100 (73.2%) were free of any return or worsening 3 years after diagnosis [pmid-40267023]. In the review, 17 in 100 had it return, and a little under half of those died [pmid-41367860]. When the tumor comes back, long-term survival is about 20 in 100 or lower, according to European experts [pmid-42504512]. Most returns happen within two years [pmid-40267023]. A few happened after 4, 5, and even 17 years [pmid-15295395, pmid-32341591, pmid-24656706].
-
-**What seems to raise the risk:** a high count of dividing cells (more than 19 in a set microscope area) [pmid-40267023, pmid-40272823]. A higher stage also seems to raise it [pmid-40267023]. A rare "anaplastic" type, with very abnormal cells, can be more dangerous [pmid-41036825].
-
-**Follow-up:** experts suggest checkups with an exam, an ultrasound scan and blood markers every 3 months for the first 2 years [pmid-42504512]. Some survivors have lasting hormone problems [pmid-38259036].
+Check-ups usually mean an ultrasound and blood tests about every 3 months for the first 2 years [pmid-42504512]. Many young women have had children after surgery that kept one ovary [pmid-35437273, pmid-25788847].
 
 ### What is uncertain or unknown?
 
-- Whether chemotherapy helps after the tumor breaks open before surgery. Studies disagree [pmid-40272823, pmid-40267023, pmid-40350706].
-- How long follow-up should last, given that rare late returns happen [pmid-24656706, pmid-32341591].
-- Which gene changes matter most. Most tumors carry a change in a gene called **AKT1** [pmid-26137586]. No medicine aimed at it has been tested in a JGCT trial [pmid-40267023].
-- No clinical trial was found that is only for JGCT [url-599767ff9c45, url-00efe8fac0ba].
+- Whether every girl with stage IC2 needs chemotherapy [pmid-41367860, pmid-42504512].
+- Which gene changes matter most and how often DICER1 is involved [pmid-29037807, pmid-38136408].
+- The best treatment when the tumor comes back; there are no trials made just for JGCT [url-599767ff9c45, pmid-42504512].
 
 ### Questions families may want to ask the care team
 
-These come from topics the sources discuss. They are not advice.
-
-- What stage is the tumor, and how sure are we? Was the surgery complete? [pmid-42504512, pmid-40267023]
-- What was the mitotic count? Did an expert pathologist review the slides? [pmid-40272823, pmid-42504512]
-- Should the tumor or my child be tested for DICER1 or other gene changes? [pmid-42504512, pmid-39400264]
-- Is chemotherapy recommended at this stage, and why? [pmid-42504512, pmid-36980387]
-- What blood markers will you follow, and how often are scans? [pmid-42504512]
-- Can my child join a registry such as IOTSTR or STEP? [url-599767ff9c45, url-00efe8fac0ba]
-- What about future puberty and fertility? [pmid-38259036, pmid-31170563]
+- What stage is the tumor, and what is the mitotic index?
+- Has an expert pathologist reviewed the tumor?
+- Is genetic testing, such as for DICER1, suggested for us?
+- What is the plan for check-ups, and which blood tests will be followed?
+- How does treatment affect future puberty and fertility?
