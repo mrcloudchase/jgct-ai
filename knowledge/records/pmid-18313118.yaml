@@ -27,10 +27,11 @@ key_findings:
 - No recurrence during an 8-year follow-up.
 - Described as the first reported case of JGCT occurring in an adult testis; testicular JGCT typically occurs at age 4 years or younger.
 relevance_to_jgct: Adult testicular JGCT with benign course over 8 years.
-conflicts_with: []
+conflicts_with:
+- pmid-42421431
 superseded_by: null
 retracted: false
-notes: null
+notes: The 2026 TESST classification (pmid-42421431) states testicular JGCT has not been reported in adult patients; this report describes an adult case (linked 2026-10-30).
 confidence: 3
 review_status: draft
 reviewed_by: null

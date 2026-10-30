@@ -89,7 +89,7 @@ Records: 151
 - [pmid-27843515](../records/pmid-27843515.yaml) | 2009 | case_report | ovary | peer_reviewed | c4 | n=1 | Rusterholz KR | An Unusual Case of Juvenile Granulosa Cell Tumor of the Ovary.
 - [pmid-17849133](../records/pmid-17849133.yaml) | 2008 | case_report | ovary | peer_reviewed | c3 | n=1 | Piura B | Juvenile granulosa cell tumor of the ovary associated with hypercalcemia.
 - [pmid-18028383](../records/pmid-18028383.yaml) | 2008 | case_report | ovary | peer_reviewed | c3 | n=1 | Hirakawa M | Recurrent juvenile granulosa cell tumor of the ovary managed by palliative radiotherapy.
-- [pmid-18313118](../records/pmid-18313118.yaml) | 2008 | case_report | testis | peer_reviewed | c3 | n=1 | Lin KH | Juvenile granulosa cell tumor of adult testis: a case report.
+- [pmid-18313118](../records/pmid-18313118.yaml) | 2008 | case_report | testis | peer_reviewed | c3 | n=1 | Lin KH | Juvenile granulosa cell tumor of adult testis: a case report. [conflicts: pmid-42421431]
 - [pmid-18548396](../records/pmid-18548396.yaml) | 2008 | case_report | testis | peer_reviewed | c2 | n=1 | Dudani R | Juvenile granulosa cell tumor of testis: case report and review of literature.
 - [pmid-18760677](../records/pmid-18760677.yaml) | 2008 | case_report | testis | peer_reviewed | c2 | n=1 | Peterson C | Prenatal diagnosis of juvenile granulosa cell tumor of the testis.
 - [pmid-17406141](../records/pmid-17406141.yaml) | 2007 | case_report | other | peer_reviewed | c2 | n=1 | Gravas S | Juvenile granulosa cell tumor of the epididymis.

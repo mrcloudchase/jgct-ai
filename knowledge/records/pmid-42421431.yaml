@@ -30,10 +30,11 @@ key_findings:
 - Testicular JGCTs appear to be invariably indolent and cured by surgical resection; authors state they do not require aggressive treatment or long-term follow-up after complete resection.
 - Authors note a subset of ovarian JGCTs shows malignant clinical behaviour, so shared terminology may lead to overtreatment of testicular cases.
 relevance_to_jgct: Expert consensus classification formally separating testicular JGCT (benign, infantile, monosomy 10) from ovarian JGCT.
-conflicts_with: []
+conflicts_with:
+- pmid-18313118
 superseded_by: null
 retracted: false
-notes: Full text read via Europe PMC (PMC13551126). Expert-consensus classification proposal, not a formal clinical management guideline; tiered guideline as a professional society (GUPS/ISUP) consensus. Monosomy 10 figure is cited from earlier work (see pmid-36813116).
+notes: Full text read via Europe PMC (PMC13551126). Expert-consensus classification proposal, not a formal clinical management guideline; tiered guideline as a professional society (GUPS/ISUP) consensus. Monosomy 10 figure is cited from earlier work (see pmid-36813116). States testicular JGCT has not been reported in adults; pmid-18313118 reports a testicular JGCT in an adult (linked 2026-10-30).
 confidence: 4
 review_status: draft
 reviewed_by: null
