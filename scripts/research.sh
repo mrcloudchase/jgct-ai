@@ -12,10 +12,27 @@ MODEL="${CLAUDE_MODEL:-claude-opus-5-5}"
 echo "== research run $(date -u +%Y-%m-%d) on ${MODEL}, budget \$${BUDGET}"
 
 # Skip if a sweep PR is still open: review it first. Cheaper to check here than to spend a turn on it.
-open_pr=$(gh api "repos/{owner}/{repo}/pulls?state=open&per_page=50" --jq '[.[] | select(.labels[].name == "research-sweep")] | .[0].number // empty' 2>/dev/null || true)
+open_pr=$(gh api "repos/{owner}/{repo}/pulls?state=open&per_page=50" --jq '[.[] | select(.head.ref | startswith("research/"))] | .[0].number // empty' 2>/dev/null || true)
 if [ -n "${open_pr}" ]; then
-  echo "Sweep PR #${open_pr} is still open. Review and merge it before the next run. Exiting."
+  echo "Research PR #${open_pr} is still open. Review and merge it before the next run. Exiting."
   gh api -X POST "repos/{owner}/{repo}/issues/${open_pr}/comments" -f body="The scheduled research run for $(date -u +%Y-%m-%d) was skipped because this pull request is still open." >/dev/null || true
+  exit 0
+fi
+
+# If a previous run pushed a research/* branch but could not open its pull request, open it now and exit.
+# The branch's own run report is the body. No research is repeated.
+orphan=$(gh api "repos/{owner}/{repo}/branches?per_page=100" --jq '[.[] | select(.name | startswith("research/"))] | sort_by(.name) | last | .name // empty' 2>/dev/null || true)
+if [ -n "${orphan}" ]; then
+  echo "Found research branch ${orphan} without a pull request. Opening one."
+  git fetch origin "${orphan}"
+  report="state/runs/${orphan#research/}.md"
+  body="$(git show "origin/${orphan}:${report}" 2>/dev/null || echo "Run report missing from the branch.")"
+  gh api -X POST "repos/{owner}/{repo}/labels" -f name=research-sweep -f color=0E8A16 -f description="Automated knowledge base sweep" >/dev/null 2>&1 || true
+  pr_json=$(gh api -X POST "repos/{owner}/{repo}/pulls" -f title="Research run ${orphan#research/}" -f head="${orphan}" -f base=main -f body="${body}")
+  pr_num=$(printf '%s' "${pr_json}" | python3 -c 'import json,sys; print(json.load(sys.stdin)["number"])')
+  gh api -X POST "repos/{owner}/{repo}/issues/${pr_num}/labels" -f "labels[]=research-sweep" >/dev/null || true
+  gh api -X POST "repos/{owner}/{repo}/pulls/${pr_num}/requested_reviewers" -f "reviewers[]=mrcloudchase" >/dev/null || true
+  echo "Opened pull request #${pr_num} for ${orphan}. Review and merge it, then trigger the next run."
   exit 0
 fi
 
