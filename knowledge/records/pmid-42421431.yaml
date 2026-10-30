@@ -1,0 +1,41 @@
+source_id: '42421431'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/42421431/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '42421431'
+doi: 10.1111/his.70207
+title: 'A novel classification of testicular sex cord-stromal tumours from the Testicular Sex Cord-Stromal Tumour (TESST) group: a collaboration of the Genitourinary Pathology Society (GUPS) and the International Society of Urological Pathology (ISUP).'
+journal: Histopathology
+year: 2026
+first_author: Acosta AM
+study_type: guideline
+tumor_site: testis
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: chromosome 10
+  alteration: monosomy
+  frequency: ~60%
+  notes: testicular JGCT; cited from prior studies
+treatments: []
+presentation: []
+key_findings:
+- Expert pathology group (TESST, GUPS/ISUP) proposes a hierarchical classification of testicular sex cord-stromal tumours (group, category, entity, histological pattern).
+- '''Juvenile granulosa cell tumour'' of the testis is renamed ''benign juvenile granulosa cell tumour''.'
+- 'Rationale: unlike ovarian JGCT, testicular tumours are largely infantile (>90% occur within the first year of life), hormonally inactive and have not been reported in adult patients.'
+- Molecular alterations described in ovarian JGCT have not been identified in testicular counterparts, which instead show monosomy 10 as a recurrent finding (~60%).
+- Testicular JGCTs appear to be invariably indolent and cured by surgical resection; authors state they do not require aggressive treatment or long-term follow-up after complete resection.
+- Authors note a subset of ovarian JGCTs shows malignant clinical behaviour, so shared terminology may lead to overtreatment of testicular cases.
+relevance_to_jgct: Expert consensus classification formally separating testicular JGCT (benign, infantile, monosomy 10) from ovarian JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text read via Europe PMC (PMC13551126). Expert-consensus classification proposal, not a formal clinical management guideline; tiered guideline as a professional society (GUPS/ISUP) consensus. Monosomy 10 figure is cited from earlier work (see pmid-36813116).
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

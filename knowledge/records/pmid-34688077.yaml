@@ -1,0 +1,41 @@
+source_id: '34688077'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34688077/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '34688077'
+doi: 10.1016/j.ijscr.2021.106531
+title: 'Adult granulosa cell tumor with minor foci of juvenile granulosa cell tumor in postmenopausal woman: A rare case report.'
+journal: International journal of surgery case reports
+year: 2021
+first_author: Rustamadji P
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: null
+age_range: 63 years
+alterations: []
+treatments:
+- regimen: TAH-BSO
+  setting: primary
+  n: 1
+  outcome: no recurrence at three months
+presentation:
+- abdominal distension
+- postmenopausal bleeding
+key_findings:
+- 63-year-old postmenopausal woman with abdominal distension and postmenopausal bleeding; 18 x 15 x 14 cm right ovarian solid mass.
+- 'Pathology: diffuse adult GCT with Call-Exner bodies and nuclear grooves, plus minor foci resembling JGCT (well-defined margins, follicular-like structures).'
+- Bilateral salpingo-oophorectomy with total hysterectomy; no recurrence at three months.
+- Authors describe it as the first case of AGCT accompanied by focal JGCT in a postmenopausal woman.
+relevance_to_jgct: Mixed adult/juvenile granulosa histology; relevant to the pathologic distinction between subtypes.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (PMC8536526 not read). n_jgct_patients left null because the tumor is predominantly adult-type with minor JGCT-like foci; no FOXL2 testing mentioned in abstract.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

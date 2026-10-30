@@ -11,7 +11,8 @@ title: 'Role of adjuvant chemotherapy in stage IC ovarian granulosa cell tumors:
 journal: Journal of gynecologic oncology
 year: 2025
 first_author: Zhang T
-study_type: review
+study_type: meta_analysis
+tumor_site: ovary
 n_jgct_patients: 33
 age_range: null
 alterations: []

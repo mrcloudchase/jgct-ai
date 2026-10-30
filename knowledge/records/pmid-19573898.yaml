@@ -1,0 +1,35 @@
+source_id: '19573898'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19573898/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '19573898'
+doi: 10.1016/j.urology.2008.10.055
+title: Three-month-old boy with juvenile granulosa cell tumor of testis and ossifying renal tumor of infancy.
+journal: Urology
+year: 2009
+first_author: Seixas-Mikelus SA
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 3 months
+alterations: []
+treatments: []
+presentation:
+- gross hematuria (from renal tumor)
+- testicular mass
+key_findings:
+- 3-month-old male infant presented with gross hematuria and was found to have a renal mass (ossifying renal tumor of infancy) and a testicular mass (JGCT).
+- Described as the first case report of these two lesions presenting concomitantly.
+relevance_to_jgct: Testicular JGCT co-occurring with ossifying renal tumor of infancy.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

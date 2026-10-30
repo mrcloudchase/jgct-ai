@@ -1,0 +1,35 @@
+source_id: '3863589'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/3863589/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '3863589'
+doi: 10.1111/j.1479-828x.1985.tb00624.x
+title: Bilateral juvenile granulosa cell tumours associated with skeletal enchondromas.
+journal: The Australian & New Zealand journal of obstetrics & gynaecology
+year: 1985
+first_author: Pounder DJ
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years at first tumor
+alterations: []
+treatments: []
+presentation:
+- enchondromatosis
+- metachronous contralateral tumor at 7 years
+key_findings:
+- Asynchronous bilateral ovarian granulosa cell tumors in a patient with enchondromas.
+- First tumor at age 15 initially misdiagnosed as androblastoma; second tumor 7 years and 3 pregnancies later.
+relevance_to_jgct: Metachronous contralateral JGCT in enchondromatosis.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

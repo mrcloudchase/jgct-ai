@@ -1,0 +1,35 @@
+source_id: f623903cbc28
+source_type: url
+source_tier: database
+source_url: https://clinicaltrials.gov/study/NCT03382158
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: null
+doi: null
+title: International Pleuropulmonary Blastoma/DICER1 Registry (NCT03382158)
+journal: ClinicalTrials.gov
+year: 2016
+first_author: null
+study_type: registry
+tumor_site: both
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Observational registry, sponsor Children's Hospitals and Clinics of Minnesota; status RECRUITING; start 2016-12-06; estimated completion 2036-12-06; estimated enrollment 3400; ages 0 minutes to 100 years.
+- Inclusion includes 'Known or suspected sex-cord stromal tumor including Sertoli-Leydig cell tumor and gynandroblastoma (males or females)' and individuals with known or suspected DICER1 pathogenic variation.
+- 'Primary outcome: event-free survival.'
+- Registry entry lists 33 reference PMIDs, including GeneReviews (24761742) and 33760357.
+relevance_to_jgct: Companion registry to the International OTST Registry (NCT01970696); enrolls sex cord-stromal tumors including JGCT-component tumors and DICER1 carriers, and is a source of registry JGCT reports.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Fetched via ClinicalTrials.gov API v2. Juvenile granulosa cell tumor is not named in the conditions list; inclusion covers sex cord-stromal tumors generally.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

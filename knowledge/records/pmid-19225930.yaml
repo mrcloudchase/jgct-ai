@@ -1,0 +1,38 @@
+source_id: '19225930'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19225930/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '19225930'
+doi: 10.1007/s10147-008-0805-z
+title: Juvenile granulosa cell tumor of the ovary presenting with pleural effusion and ascites.
+journal: International journal of clinical oncology
+year: 2009
+first_author: Kaur H
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- ascites
+- pleural effusion
+- Meigs syndrome
+key_findings:
+- JGCT presenting with ascites and pleural effusion (Meigs' syndrome); preoperative diagnosis of fibroma/thecoma was considered.
+- Retroperitoneal lymph node sampling was not performed in this patient.
+- Authors state the majority (90%) of juvenile GCT occur in the prepubertal or under-30 age group and have a lower risk of late recurrence than adult type.
+- Authors advocate lymph node sampling for complete staging since a significant number of recurrences are reported in the retroperitoneum and in incompletely staged patients; inhibin described as still investigational.
+relevance_to_jgct: JGCT with Meigs syndrome; staging considerations.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract does not give patient age, stage, treatment details, or outcome.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

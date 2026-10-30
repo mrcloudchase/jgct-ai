@@ -1,0 +1,38 @@
+source_id: '1989922'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/1989922/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '1989922'
+doi: 10.1016/0090-8258(91)90094-l
+title: Juvenile granulosa cell tumor in association with a high serum inhibin level.
+journal: Gynecologic oncology
+year: 1991
+first_author: Nishida M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments:
+- regimen: tumor resection
+  setting: primary
+  n: 1
+  outcome: inhibin normalized
+presentation:
+- elevated serum inhibin
+key_findings:
+- Serum inhibin (radioimmunoassay) was extremely high preoperatively and returned to normal after tumor resection.
+- Suggests serum inhibin may be a useful marker of granulosa cell tumors.
+relevance_to_jgct: Early report of inhibin as a JGCT marker.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

@@ -1,0 +1,32 @@
+source_id: '17406141'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/17406141/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '17406141'
+doi: 10.1159/000099352
+title: Juvenile granulosa cell tumor of the epididymis.
+journal: Urologia internationalis
+year: 2007
+first_author: Gravas S
+study_type: case_report
+tumor_site: other
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- First reported case of JGCT of the epididymis, in a young man.
+relevance_to_jgct: Extragonadal (epididymal) JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract gives no clinical details (age, treatment, outcome).
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

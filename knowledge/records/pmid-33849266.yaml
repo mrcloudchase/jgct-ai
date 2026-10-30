@@ -1,0 +1,62 @@
+source_id: '33849266'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33849266/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '33849266'
+doi: 10.4274/jcrpe.galenos.2021.2021.0039
+title: Precocious Pseudo-puberty in a Two-year-old Girl, Presenting with Bilateral Ovarian Enlargement and Progressing to Unilateral Juvenile Granulosa Cell Tumour.
+journal: Journal of clinical research in pediatric endocrinology
+year: 2022
+first_author: Barakizou H
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 2.17 years
+alterations:
+- gene: GNAS
+  alteration: no mutation detected
+  frequency: 0/1
+  notes: null
+- gene: AKT1
+  alteration: no mutation in exon 3
+  frequency: 0/1
+  notes: exon 3 hotspot only; in-frame duplications elsewhere not assessed per abstract
+- gene: FOXL2
+  alteration: no mutation detected
+  frequency: 0/1
+  notes: null
+treatments:
+- regimen: tamoxifen 20 mg daily
+  setting: initial medical therapy for presumed ovarian PPP
+  n: 1
+  outcome: progression after seven weeks
+- regimen: excision of left ovarian tumour
+  setting: primary, FIGO IA
+  n: 1
+  outcome: follow-up not stated in abstract
+presentation:
+- precocious pseudo-puberty
+- breast development
+- rapid growth
+- bilateral ovarian enlargement
+- menorrhagia
+key_findings:
+- Girl aged 2.17 years with three months of breast development and rapid growth; Tanner B3P2A1; single cafe au lait patch; bone age 5 years.
+- Bilaterally enlarged multicystic ovaries (76 mL left, 139 mL right); suppressed LH/FSH; estradiol 130 pg/mL; tamoxifen 20 mg daily started.
+- After seven weeks, progression with menorrhagia, estradiol 184 pg/mL; right ovary now normal (1.8 mL) and a large left solid/cystic tumour (850 g) excised.
+- Histology JGCT FIGO stage IA.
+- Tumour DNA showed no mutation in GNAS, exon 3 of AKT1, or FOXL2.
+- Authors describe bilateral ovarian activity progressing to unilateral JGCT as novel and raise a possible relationship with McCune-Albright syndrome.
+relevance_to_jgct: Informative for differential diagnosis of ovarian precocious pseudo-puberty (MAS vs JGCT) and for a JGCT negative for GNAS, AKT1 exon 3 and FOXL2.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (PMC8900080 not read).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

@@ -12,6 +12,7 @@ journal: Hormone research in paediatrics
 year: 2010
 first_author: Kalfa N
 study_type: cohort
+tumor_site: ovary
 n_jgct_patients: 30
 age_range: null
 alterations: []

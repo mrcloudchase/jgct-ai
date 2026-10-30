@@ -1,0 +1,44 @@
+source_id: '23424695'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23424695/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '23424695'
+doi: 10.1155/2013/386725
+title: 'Massive ascites as the only sign of ovarian juvenile granulosa cell tumor in an adolescent: a case report and a review of the literature.'
+journal: Case reports in oncological medicine
+year: 2013
+first_author: Ashnagar A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 13 years
+alterations: []
+treatments:
+- regimen: left salpingo-oophorectomy + omentectomy, then 4 cycles carboplatin, bleomycin, etoposide, vinblastine
+  setting: primary, stage IC with residual tumor
+  n: 1
+  outcome: complete remission at 18 months
+presentation:
+- massive ascites
+- abdominal distention
+- elevated inhibin
+key_findings:
+- 13-year-old premenarchal girl with progressive painless abdominal distention for about two months and massive ascites.
+- CT showed a multiseptated cystic left ovarian mass; beta-hCG, AFP, CEA, CA 19-9 and CA-125 normal; about 10 liters of transudate ascites evacuated; cytology negative.
+- Left salpingo-oophorectomy and omentectomy; immunohistochemistry positive for calretinin, inhibin and CD99; FIGO stage IC.
+- Serum inhibin was not measured before surgery; it was increased when measured immediately after surgery; postoperative imaging showed residual pelvic tumor.
+- Four cycles of adjuvant carboplatin, bleomycin, etoposide and vinblastine; complete remission at 18-month follow-up.
+- Menarche began shortly after surgery.
+relevance_to_jgct: Reports massive ascites as the only manifestation of JGCT and onset of menarche after tumor removal.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text via PMC3570947. The abstract says serum inhibin was increased; full text clarifies it was measured immediately after surgery, not before.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

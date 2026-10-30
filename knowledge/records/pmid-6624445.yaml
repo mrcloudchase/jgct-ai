@@ -1,0 +1,40 @@
+source_id: '6624445'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/6624445/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '6624445'
+doi: 10.1111/j.1440-1827.1983.tb00360.x
+title: Juvenile granulosa cell tumor associated with rapid distant metastases.
+journal: Acta pathologica japonica
+year: 1983
+first_author: Takeuchi H
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 23 years
+alterations: []
+treatments:
+- regimen: surgery + anti-cancer therapy (not specified)
+  setting: primary and recurrence
+  n: 1
+  outcome: died of recurrence and distant metastasis
+presentation:
+- elevated estrogens
+- elevated testosterone
+key_findings:
+- JGCT in a 23-year-old nulliparous woman with diffuse or macrofollicular pattern and lipid-rich vacuolated cytoplasm.
+- Patient died unexpectedly rapidly from recurrence and distant metastasis despite anti-cancer therapy.
+- Very high estrogen and testosterone levels in urine and serum before surgery and after recurrence.
+relevance_to_jgct: Fatal rapidly metastatic JGCT in a young adult; hormone levels tracked disease.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

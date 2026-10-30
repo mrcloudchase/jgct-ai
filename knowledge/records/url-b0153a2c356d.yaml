@@ -1,0 +1,45 @@
+source_id: b0153a2c356d
+source_type: url
+source_tier: conference_abstract
+source_url: https://abstracts.eurospe.org/hrp/0092/hrp0092P3-196
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: null
+doi: null
+title: Precocious Pseudo-Puberty Presenting with Bilateral Ovarian Involvement and Progressing to Juvenile Granulosa Cell Tumor in a 2-Year-Old Girl
+journal: ESPE Abstracts 92 P3-196 (58th Annual ESPE Meeting, Vienna 2019)
+year: 2019
+first_author: Barakizou H
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 2 years 2 months
+alterations:
+- gene: GNAS
+  alteration: mutational analysis
+  frequency: negative (1 case)
+  notes: null
+treatments: []
+presentation:
+- peripheral precocious puberty
+- breast development
+- menorrhagia
+- advanced bone age
+- cafe au lait patch
+- ovarian torsion
+key_findings:
+- Girl aged 2 years 2 months with premature sexual development, Tanner B3P2A1, bone age 5 yrs, single cafe au lait patch; bilateral enlarged multicystic ovaries; McCune-Albright syndrome considered and tamoxifen started.
+- 'After 7 weeks: rapid growth, breast B3-4, menorrhagia, bone age 6.5 yrs; ultrasound showed a left vascular solid/cystic ovarian tumour 10x8x6 cm with normal right ovary.'
+- Tumour underwent torsion and was removed; 850 g; juvenile granulosa cell tumour FIGO stage IA; GNAS mutational analysis negative; AKT1 testing planned.
+- 'Authors: ''The aetiology in this case remains unclear, with MAS unproven, and evolution towards JGCT.'''
+relevance_to_jgct: Case linking a McCune-Albright-like bilateral ovarian presentation to later JGCT; illustrates diagnostic overlap in peripheral precocious puberty.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract text taken verbatim from the ESPE Abstracts landing page HTML (curl, tags stripped) on 2026-10-30; found via OpenAlex W3010433680. No DOI.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

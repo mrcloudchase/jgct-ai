@@ -1,0 +1,41 @@
+source_id: '16821059'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/16821059/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: de
+pmid: '16821059'
+doi: 10.1007/s00120-006-1095-6
+title: '[Congenital cystic juvenile granulosa cell tumor of the testes. Scrotal space-occupying lesion in a male neonate].'
+journal: Der Urologe. Ausg. A
+year: 2006
+first_author: Zugor V
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: newborn
+alterations: []
+treatments:
+- regimen: high inguinal orchiectomy
+  setting: primary
+  n: 1
+  outcome: not stated
+presentation:
+- scrotal mass
+- cystic testicular mass
+key_findings:
+- Full-term male neonate (2,260 g) with massive scrotal mass; right testis showed a 6x6x4 cm multiseptate cystic mass with Swiss cheese appearance.
+- Testosterone, beta-HCG and inhibin B normal; alpha-fetoprotein 35,350 ng/ml (described as physiologically elevated).
+- High inguinal orchiectomy performed because hardly any testicular parenchyma remained.
+- Authors state congenital granulosa cell tumors usually exhibit benign behavior in the neonatal period.
+relevance_to_jgct: Neonatal cystic testicular JGCT; normal inhibin B at presentation.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: German article; abstract text used (abstract appears in English in PubMed).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

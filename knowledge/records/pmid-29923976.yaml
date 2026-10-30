@@ -1,0 +1,43 @@
+source_id: '29923976'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/29923976/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '29923976'
+doi: 10.1097/MD.0000000000010916
+title: 'A rare case report of ovarian juvenile granulosa cell tumor with massive ascites as the first sign, and review of literature: Case report and review of literature.'
+journal: Medicine
+year: 2018
+first_author: Ma L
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 19 years
+alterations: []
+treatments:
+- regimen: left oophorectomy, right salpingo-oophorectomy, omental and peritoneal biopsies, then 6 courses nedaplatin + paclitaxel liposome
+  setting: primary, stage IC
+  n: 1
+  outcome: complete remission at 6-month follow-up
+presentation:
+- massive ascites
+- abdominal distention
+- elevated CA125
+key_findings:
+- 19-year-old woman with progressive painless abdominal distention for 1 week and massive ascites; serum and ascites CA125 markedly elevated, other markers normal.
+- Ascites cytology negative; CT showed a left adnexal teratoma and a right solid-cystic lesion; about 1200 mL ascites drained; right tumor capsule ruptured and omental/peritoneal nodules seen.
+- Left oophorectomy and right salpingo-oophorectomy with omental and peritoneal biopsies.
+- Immunohistochemistry positive for inhibin-a, CD99, vimentin, calretinin; Ki-67 >5%; stage IC.
+- Six courses of adjuvant nedaplatin and paclitaxel liposome; CA-125 normalized and complete remission without residual tumor at 6-month follow-up.
+relevance_to_jgct: Reports massive ascites with high CA125 as the first sign of JGCT in a young woman, treated with surgery and platinum-taxane chemotherapy.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text via PMC6023667. The histology description sentence is worded identically to Ashnagar 2013 [pmid-23424695]; the case details differ. Short follow-up. Concurrent contralateral teratoma.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

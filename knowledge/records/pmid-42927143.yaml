@@ -1,0 +1,45 @@
+source_id: '42927143'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/42927143/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '42927143'
+doi: 10.7759/cureus.116834
+title: Peripheral Precocious Puberty as the Initial Manifestation of Juvenile Granulosa Cell Tumor in Early Childhood.
+journal: Cureus
+year: 2026
+first_author: Bouramdane S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 2 years 9 months
+alterations: []
+treatments:
+- regimen: fertility-sparing left oophorectomy with comprehensive staging, no adjuvant chemotherapy
+  setting: primary, FIGO IA
+  n: 1
+  outcome: no recurrence after 12 months of follow-up
+presentation:
+- peripheral precocious puberty
+- breast development
+- vaginal bleeding
+- leukorrhea
+key_findings:
+- Previously healthy two-year-nine-month-old girl with progressive breast development, persistent leukorrhea, and vaginal bleeding.
+- Suppressed LH and FSH with markedly elevated inhibin B (>5000 pg/mL).
+- CT and pelvic MRI showed a large complex left ovarian mass with imaging features suggestive of malignancy.
+- Fertility-sparing left oophorectomy with comprehensive surgical staging; FIGO stage IA JGCT; no adjuvant chemotherapy, active surveillance.
+- Hormonal abnormalities normalized within two months after surgery; no recurrence after 12 months of follow-up.
+- Authors propose inhibin B as an individualized biomarker for postoperative surveillance when elevated at diagnosis.
+relevance_to_jgct: Typical early-childhood presentation of ovarian JGCT with peripheral precocious puberty, stage IA, surgery alone.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (PMC13695503 exists; not read). Case report.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

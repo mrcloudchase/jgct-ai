@@ -1,0 +1,42 @@
+source_id: '22353374'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/22353374/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '22353374'
+doi: 10.1111/j.1447-0756.2011.01735.x
+title: 'Primary amenorrhea due to juvenile granulosa-cell tumor of the ovary: a case report.'
+journal: The journal of obstetrics and gynaecology research
+year: 2012
+first_author: Adachi T
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 16 years
+alterations: []
+treatments:
+- regimen: tumor removal
+  setting: primary
+  n: 1
+  outcome: menarche after surgery
+presentation:
+- primary amenorrhea
+- elevated inhibin B
+- suppressed FSH
+key_findings:
+- 16-year-old girl with primary amenorrhea due to ovarian JGCT.
+- 'Preoperative hormones: extremely low FSH, relatively low estradiol, high inhibin B.'
+- Menarche followed tumor removal; postoperative FSH rose as tumor-produced inhibin fell.
+- Authors suggest an inhibin-secreting granulosa cell tumor be considered in girls with primary amenorrhea.
+relevance_to_jgct: Shows inhibin B secretion by JGCT can suppress FSH and cause primary amenorrhea.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. Stage and follow-up not in abstract.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

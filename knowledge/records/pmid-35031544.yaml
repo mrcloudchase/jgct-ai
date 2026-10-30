@@ -12,6 +12,7 @@ journal: Clinical cancer research
 year: 2022
 first_author: Vougiouklakis T
 study_type: genomic
+tumor_site: ovary
 n_jgct_patients: 31
 age_range: null
 alterations:

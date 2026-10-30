@@ -1,0 +1,38 @@
+source_id: '12893354'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/12893354/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '12893354'
+doi: 10.1016/s0090-4295(03)00355-8
+title: Juvenile granulosa cell tumor of the testis.
+journal: Urology
+year: 2003
+first_author: Fagin R
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments:
+- regimen: orchiectomy
+  setting: primary
+  n: 1
+  outcome: no recurrence on CT at 6 months
+presentation: []
+key_findings:
+- Authors state only 11 cases of testicular JGCT had been reported to the national tumor registry as of December 2001.
+- Additional case managed with orchiectomy; follow-up CT showed no recurrence at 6 months.
+- Described as a rare type of intermediate stromal cell tumor and a benign lesion.
+relevance_to_jgct: Testicular JGCT case; registry count of reported cases.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Patient age not given in abstract.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

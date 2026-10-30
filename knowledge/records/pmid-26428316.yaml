@@ -12,6 +12,7 @@ journal: Modern pathology
 year: 2015
 first_author: Conlon N
 study_type: genomic
+tumor_site: both
 n_jgct_patients: null
 age_range: null
 alterations: []

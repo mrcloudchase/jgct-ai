@@ -1,0 +1,36 @@
+source_id: '509394'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/509394/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '509394'
+doi: 10.1002/1097-0142(197912)44:6<2194::aid-cncr2820440632>3.0.co;2-q
+title: 'Juvenile granulosa cell tumor: a clinicopathologic study of three cases with ultrastructural observations.'
+journal: Cancer
+year: 1979
+first_author: Roth LM
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 3
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- precocious pseudopuberty
+key_findings:
+- Three cases of the juvenile type of granulosa cell tumor, with ultrastructural study of one.
+- Variant described as encountered almost exclusively in the first two decades, with macrofollicular or diffuse pattern, often extensive luteinization and hyperchromatic nuclei.
+- One patient developed precocious pseudopuberty.
+- Electron microscopy supported granulosa cell nature; spectrum from granulosa cells to fibroblast-like/theca-like stromal cells; intermediate cells with smooth endoplasmic reticulum proposed as possible steroid source.
+relevance_to_jgct: Early ultrastructural characterization of JGCT soon after its recognition as an entity.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

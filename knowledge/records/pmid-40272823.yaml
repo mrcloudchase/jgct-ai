@@ -1,53 +1,54 @@
-source_id: "40272823"
+source_id: '40272823'
 source_type: pmid
-source_tier: peer_reviewed
+source_tier: registry
 source_url: https://pubmed.ncbi.nlm.nih.gov/40272823/
-retrieved_on: "2026-10-29"
+retrieved_on: '2026-10-29'
 full_text_read: true
 language: en
-pmid: "40272823"
+pmid: '40272823'
 doi: 10.1002/cncr.35861
-title: "Testicular and ovarian Juvenile granulosa cell tumors in children and adolescents: Analysis of 113 patients registered to the German Registry for Rare Pediatric Tumors (STEP)."
+title: 'Testicular and ovarian Juvenile granulosa cell tumors in children and adolescents: Analysis of 113 patients registered to the German Registry for Rare Pediatric Tumors (STEP).'
 journal: Cancer
 year: 2025
 first_author: Schneider DT
 study_type: registry
+tumor_site: both
 n_jgct_patients: 113
-age_range: "ovarian: birth to 18 years (median 9.8); testicular: first day of life to 12 months (median 16 days)"
+age_range: 'ovarian: birth to 18 years (median 9.8); testicular: first day of life to 12 months (median 16 days)'
 alterations: []
 treatments:
-  - regimen: "PEI (cisplatin 100 mg/m2, etoposide 300 mg/m2, ifosfamide 7500 mg/m2 per cycle), up to four cycles, analogous to MAKEI 96"
-    setting: "adjuvant, recommended for ovarian stage IC2, IC3, II, III"
-    n: 21
-    outcome: "21 ovarian patients (24%) received adjuvant chemotherapy (all but one PEI; one BEP). Stage IC2/IC3: 13 chemotherapy, 4 W&W, 0 relapses. Stage II/III: 5 chemotherapy, 1 relapse."
-  - regimen: "Watch-and-wait after resection"
-    setting: "ovarian stage IA and IC1 (intraoperative spillage); all testicular stage I"
-    n: 67
-    outcome: "Stage IA W&W: 48 first CR, 2 relapses; IC1 W&W: 13 first CR, 0 relapses. No testicular relapse."
-  - regimen: "LH-RH blockade (buserelin)"
-    setting: "one neonate with bilateral diffuse testicular juvGCT"
-    n: 1
-    outcome: "histologically confirmed tumor free after 14 months"
+- regimen: PEI (cisplatin 100 mg/m2, etoposide 300 mg/m2, ifosfamide 7500 mg/m2 per cycle), up to four cycles, analogous to MAKEI 96
+  setting: adjuvant, recommended for ovarian stage IC2, IC3, II, III
+  n: 21
+  outcome: '21 ovarian patients (24%) received adjuvant chemotherapy (all but one PEI; one BEP). Stage IC2/IC3: 13 chemotherapy, 4 W&W, 0 relapses. Stage II/III: 5 chemotherapy, 1 relapse.'
+- regimen: Watch-and-wait after resection
+  setting: ovarian stage IA and IC1 (intraoperative spillage); all testicular stage I
+  n: 67
+  outcome: 'Stage IA W&W: 48 first CR, 2 relapses; IC1 W&W: 13 first CR, 0 relapses. No testicular relapse.'
+- regimen: LH-RH blockade (buserelin)
+  setting: one neonate with bilateral diffuse testicular juvGCT
+  n: 1
+  outcome: histologically confirmed tumor free after 14 months
 presentation:
-  - "ovarian: abdominal pain 56% (48/85), abdominal swelling 42% (36/85), pubertal precocity 32% (27/85; 71% of those younger than 8 years), abnormal vaginal bleeding 28% (24/85), secondary amenorrhea 8%, ovarian torsion 6%, hirsutism 4%"
-  - "testicular: painless scrotal swelling in infancy, no clinical hormone secretion, normal AFP and beta-HCG for age"
+- 'ovarian: abdominal pain 56% (48/85), abdominal swelling 42% (36/85), pubertal precocity 32% (27/85; 71% of those younger than 8 years), abnormal vaginal bleeding 28% (24/85), secondary amenorrhea 8%, ovarian torsion 6%, hirsutism 4%'
+- 'testicular: painless scrotal swelling in infancy, no clinical hormone secretion, normal AFP and beta-HCG for age'
 key_findings:
-  - "Prospective registry of 113 juvGCT patients (89 ovarian, 24 testicular) enrolled 2001-2019 in Germany, Austria, Switzerland; reference pathology for 85 of 89 ovarian tumors."
-  - "Testicular juvGCTs presented only in the first year of life, were all stage I, and no relapse was observed after median follow-up of 95 months."
-  - "Ovarian stage: IA 58% (52), IC1 14, IC2 14, IC3 4, II/III 5 (6%); no distant or lymph node metastases at diagnosis."
-  - "Ovarian outcome: four relapses and two deaths; 5-year EFS 0.95 +/- 0.03 (85 of 89) and OS 0.97 +/- 0.02 (87 of 89), median follow-up 53 months."
-  - "Three of four relapses were initially stage IA; all four relapsed tumors had high mitotic activity (20 to 67 mitoses per 10 HPF or high Ki-67); three of four had organ-sparing surgery (enucleation or partial ovariectomy)."
-  - "EFS was 1.0 (61 of 61) for tumors with <20 mitoses per 10 HPF vs 0.85 +/- 0.07 (24 of 28) for >19 mitoses per 10 HPF (log-rank p=.032); no significant correlation of stage with outcome."
-  - "No recurrences among stage IC2/IC3 patients, most of whom received chemotherapy; historical MAKEI cohort stage IC2/IC3 OS was 50% vs 100% in STEP."
-  - "Authors recommend caution with organ-sparing surgery in ovarian juvGCT and suggest second-look surgery and ovariectomy after organ-sparing surgery with high mitotic activity; propose testis-sparing strategies be considered for testicular juvGCT."
-relevance_to_jgct: "Largest prospective pediatric juvGCT cohort; validates a risk-stratified approach (adjuvant chemotherapy only for stage IC2 and above) and identifies mitotic rate and incomplete surgery as risk factors."
+- Prospective registry of 113 juvGCT patients (89 ovarian, 24 testicular) enrolled 2001-2019 in Germany, Austria, Switzerland; reference pathology for 85 of 89 ovarian tumors.
+- Testicular juvGCTs presented only in the first year of life, were all stage I, and no relapse was observed after median follow-up of 95 months.
+- 'Ovarian stage: IA 58% (52), IC1 14, IC2 14, IC3 4, II/III 5 (6%); no distant or lymph node metastases at diagnosis.'
+- 'Ovarian outcome: four relapses and two deaths; 5-year EFS 0.95 +/- 0.03 (85 of 89) and OS 0.97 +/- 0.02 (87 of 89), median follow-up 53 months.'
+- Three of four relapses were initially stage IA; all four relapsed tumors had high mitotic activity (20 to 67 mitoses per 10 HPF or high Ki-67); three of four had organ-sparing surgery (enucleation or partial ovariectomy).
+- EFS was 1.0 (61 of 61) for tumors with <20 mitoses per 10 HPF vs 0.85 +/- 0.07 (24 of 28) for >19 mitoses per 10 HPF (log-rank p=.032); no significant correlation of stage with outcome.
+- No recurrences among stage IC2/IC3 patients, most of whom received chemotherapy; historical MAKEI cohort stage IC2/IC3 OS was 50% vs 100% in STEP.
+- Authors recommend caution with organ-sparing surgery in ovarian juvGCT and suggest second-look surgery and ovariectomy after organ-sparing surgery with high mitotic activity; propose testis-sparing strategies be considered for testicular juvGCT.
+relevance_to_jgct: Largest prospective pediatric juvGCT cohort; validates a risk-stratified approach (adjuvant chemotherapy only for stage IC2 and above) and identifies mitotic rate and incomplete surgery as risk factors.
 conflicts_with:
-  - pmid-40267023
-  - pmid-40350706
+- pmid-40267023
+- pmid-40350706
 superseded_by: null
 retracted: false
-notes: "Stage IC2/IC3 outcomes (no recurrences) differ from the IOTSTR registry (pmid-40267023, 3-year EFS 63.6% for IC2-IC3). Testicular juvGCT stated to differ genetically (monosomy 10) citing pmid-36813116. Full text via Europe PMC (PMC12020984)."
-confidence: 5
+notes: 'Stage IC2/IC3 outcomes (no recurrences) differ from the IOTSTR registry (pmid-40267023, 3-year EFS 63.6% for IC2-IC3). Testicular juvGCT stated to differ genetically (monosomy 10) citing pmid-36813116. Full text via Europe PMC (PMC12020984). Tier set to registry (2026-10-30) per CLAUDE.md: a disease registry or consortium report is registry even in a peer-reviewed journal.'
+confidence: 4
 review_status: draft
 reviewed_by: null
 reviewed_on: null

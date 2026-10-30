@@ -1,0 +1,37 @@
+source_id: 991aeae8d365
+source_type: url
+source_tier: conference_abstract
+source_url: https://doi.org/10.1055/s-0039-1685322
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: null
+doi: 10.1055/s-0039-1685322
+title: Juvenile granulosa cell tumor
+journal: Asian Journal of Oncology
+year: 2016
+first_author: Tuteja G
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 1 year
+alterations: []
+treatments: []
+presentation:
+- abdominal mass
+- vaginal discharge
+- precocious puberty
+key_findings:
+- One-year-old girl with abdominal mass, vaginal discharge and rapid onset of pubertal development (isosexual precocious puberty).
+- Exploratory laparotomy for tumour resection; pathology juvenile granulosa cell tumour of the ovary.
+- Authors state early-stage surgically treated granulosa cell tumor has good prognosis and adjuvant chemotherapy is not indicated in this setting.
+relevance_to_jgct: Brief infant JGCT case with precocious puberty.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract reconstructed verbatim from OpenAlex abstract_inverted_index (W3128974657); OpenAlex types it conference-paper (Asian Journal of Oncology vol 02, 2016). An identical abstract is indexed under a second DOI 10.1055/s-0039-1685332 (W4239063190), treated as a duplicate.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

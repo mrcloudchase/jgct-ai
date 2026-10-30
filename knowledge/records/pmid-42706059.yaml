@@ -12,6 +12,7 @@ journal: Zhonghua fu chan ke za zhi
 year: 2026
 first_author: Huang Y
 study_type: case_series
+tumor_site: ovary
 n_jgct_patients: 18
 age_range: 5-30 years (median 14)
 alterations: []

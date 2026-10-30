@@ -1,0 +1,39 @@
+source_id: '21358338'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21358338/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '21358338'
+doi: 10.1097/MPH.0b013e318207cbf1
+title: 'Childhood ovarian juvenile granulosa cell tumor: a retrospective study with 3 cases including clinical features, pathologic results, and therapies.'
+journal: Journal of pediatric hematology/oncology
+year: 2011
+first_author: Wang Y
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 3
+age_range: null
+alterations: []
+treatments:
+- regimen: complete excision, no adjuvant therapy
+  setting: early stage
+  n: 3
+  outcome: good outcome at 2 to 13 y follow-up
+presentation:
+- abdominal signs
+key_findings:
+- Three childhood ovarian JGCT cases; main causes of hospitalization were abnormal abdominal signs and syndromes.
+- Imaging showed masses with multiple cysts and solid components.
+- Tumors excised completely; all had good outcome at follow-up (2 to 13 y) without adjuvant chemotherapy or radiotherapy.
+relevance_to_jgct: Small pediatric series supporting surgery alone for completely excised early-stage JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

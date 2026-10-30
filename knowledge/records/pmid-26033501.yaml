@@ -12,6 +12,7 @@ journal: Histopathology
 year: 2016
 first_author: Goulvent T
 study_type: genomic
+tumor_site: ovary
 n_jgct_patients: 8
 age_range: null
 alterations:

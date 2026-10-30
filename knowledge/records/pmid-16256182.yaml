@@ -1,0 +1,40 @@
+source_id: '16256182'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/16256182/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '16256182'
+doi: 10.1016/j.ygyno.2005.08.061
+title: 'Juvenile granulosa cell tumor associated with pregnancy: Report of a case and review of the literature.'
+journal: Gynecologic oncology
+year: 2006
+first_author: Hasiakos D
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 31 years
+alterations: []
+treatments:
+- regimen: cesarean section with right salpingo-oophorectomy
+  setting: primary, during pregnancy
+  n: 1
+  outcome: not stated in abstract
+presentation:
+- adnexal mass in pregnancy
+key_findings:
+- 31-year-old pregnant woman with a 9.5 cm adnexal mass detected at 34 weeks of gestation.
+- At 37 + 5 weeks a cesarean section with right salpingo-oophorectomy and tumor removal was performed; histology and IHC gave JGCT.
+- Background states JGCT account for about 5% of all granulosa cell tumors and nearly 80% are diagnosed in the first two decades; only 10% of granulosa cell tumors present during pregnancy.
+- Authors state JGCT confined to the ovary appears to have an excellent prognosis and can be treated by unilateral salpingo-oophorectomy.
+relevance_to_jgct: Adult JGCT in pregnancy; management during pregnancy.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

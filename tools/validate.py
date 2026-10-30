@@ -7,7 +7,7 @@ plus project rules the schema cannot express.
 Extra checks: file stem == <source_type>-<source_id>; confidence ceilings per tier
 (peer_reviewed abstract-only <=3, model_assisted_fetch <=3, conference/preprint <=3,
 organization/other <=2, registry/database <=4); new records must be draft;
-conflicts_with targets must exist and link back.
+conflicts_with targets must exist and link back; tumor_site key must be present.
 """
 import glob, json, os, sys
 import yaml, jsonschema
@@ -36,6 +36,10 @@ def main():
         exp = f"{r.get('source_type')}-{str(r.get('source_id')).replace('/', '_')}"
         if exp != stem:
             errs.append(f"{stem}: file stem should be {exp}")
+        if "tumor_site" not in r:
+            errs.append(f"{stem}: tumor_site missing (CLAUDE.md: set it on every record; null if not stated)")
+        if r.get("review_status") == "reviewed" and not r.get("reviewed_by"):
+            errs.append(f"{stem}: reviewed without reviewed_by")
         c, t = r.get("confidence", 0), r.get("source_tier")
         ceil = CEIL.get(t, 5)
         if t == "peer_reviewed" and not r.get("full_text_read"):

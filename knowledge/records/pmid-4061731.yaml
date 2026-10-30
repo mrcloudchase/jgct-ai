@@ -12,6 +12,7 @@ journal: The American journal of surgical pathology
 year: 1985
 first_author: Young RH
 study_type: case_series
+tumor_site: testis
 n_jgct_patients: 3
 age_range: null
 alterations: []

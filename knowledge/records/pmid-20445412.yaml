@@ -1,0 +1,33 @@
+source_id: '20445412'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20445412/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '20445412'
+doi: 10.1097/MPH.0b013e3181d69afa
+title: 'A rare neonatal testicular tumor: juvenile granulosa cell tumor of infant testis: a report of 3 cases.'
+journal: Journal of pediatric hematology/oncology
+year: 2010
+first_author: Gün F
+study_type: case_series
+tumor_site: testis
+n_jgct_patients: 3
+age_range: infants
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Three infants with testicular JGCT.
+- Authors state radical orchiectomy is sufficient for treatment.
+relevance_to_jgct: Infant testicular JGCT cases.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; very brief abstract.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

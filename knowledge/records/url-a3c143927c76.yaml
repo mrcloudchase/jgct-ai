@@ -1,0 +1,37 @@
+source_id: a3c143927c76
+source_type: url
+source_tier: conference_abstract
+source_url: https://doi.org/10.1007/s00428-019-02631-8#E-PS-09-021
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: null
+doi: 10.1007/s00428-019-02631-8
+title: Juvenile granulosa cell tumour or adult granulosa cell tumour - a diagnostic dilemma (ECP 2019 abstract E-PS-09-021)
+journal: Virchows Archiv 2019 (31st European Congress of Pathology abstracts)
+year: 2019
+first_author: Kirigin M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 16 years
+alterations: []
+treatments: []
+presentation:
+- irregular menstrual cycles
+- ovarian cyst
+key_findings:
+- 16-year-old girl with irregular cycles and a 12 cm right ovarian cyst; ovary-sparing cystectomy with morcellated fragments.
+- 'First specimen: up to 8 mitoses/10HPF; vimentin, CD99, CD56 positive; inhibin and calretinin positive only in larger cells; initially interpreted as luteinized granulosa cell tumour.'
+- 'Salpingo-oophorectomy specimen: macrofollicular and solid pattern, some solid areas with 40 mitoses/10HPF and proliferative activity up to 50%; small area with classic AGCT morphology.'
+- 'Conclusion: ''JGCT and AGCT share some morphologic characteristics, and diagnostic difficulty may result when JGCT contains elements of AGCT.'''
+relevance_to_jgct: Adolescent case illustrating JGCT/AGCT morphologic overlap and high mitotic activity; FOXL2 status not reported.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Verbatim from Europe PMC full text PMC7103147, abstract E-PS-09-021. Final diagnosis framed as JGCT with AGCT elements; no molecular testing reported. Morcellation/fragmentation of the first specimen noted in source.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

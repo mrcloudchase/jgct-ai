@@ -1,0 +1,49 @@
+source_id: '33362514'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33362514/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '33362514'
+doi: 10.1159/000510810
+title: 'Gender Dysphoria Disrupting the Course of Treatment of a Recurrent Juvenile Granulosa Cell Tumor in an Adolescent Female: A Case Report.'
+journal: Case reports in oncology
+year: 2020
+first_author: Kwiatkowska A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 17 years
+alterations: []
+treatments:
+- regimen: laparoscopic enucleation of ovarian tumor
+  setting: primary, FIGO IA
+  n: 1
+  outcome: ipsilateral recurrence at 9 months
+- regimen: unilateral salpingo-oophorectomy with staging
+  setting: recurrence, FIGO IA
+  n: 1
+  outcome: adjuvant chemotherapy recommended but declined; long-term follow-up not reported
+presentation:
+- hirsutism
+- irregular menses
+- elevated testosterone
+- insulin resistance
+key_findings:
+- Patient with hypothyroidism, insulin resistance, psoriasis and hirsutism from age 15; laparoscopic enucleation of a left ovarian tumor in 2018, FIGO IA.
+- At 9 months follow-up, a 7 cm recurrent tumor in the left ovary; testosterone and insulin elevated; E2 750 pg/mL, CA-125 27.96 U/mL, AFP 3.2 kU/L.
+- At 17 years, unilateral removal of the adnexa with staging after multidisciplinary consultations (patient requested hysterectomy and bilateral salpingo-oophorectomy; parental consent not granted).
+- Two days after surgery total testosterone declined to 4.87 nmol/L; pathology confirmed unilateral FIGO IA relapse of JGCT; IHC alpha-inhibin, CD99, calretinin positive.
+- Patient declined the recommended adjuvant chemotherapy.
+- Authors suggest the androgen-secreting tumor may have influenced gender dysphoria.
+relevance_to_jgct: Recurrence after ovarian-sparing enucleation (cystectomy) of stage IA JGCT; androgen-secreting JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text read via PMC7747049. A Research Square preprint of this report exists (doi:10.21203/rs.3.rs-41266/v1). The initial 2018 lesion was reported as 'folliculoma'.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

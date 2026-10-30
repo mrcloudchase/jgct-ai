@@ -1,0 +1,33 @@
+source_id: '11503097'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/11503097/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '11503097'
+doi: 10.1007/s00261-001-0004-0
+title: Juvenile granulosa cell tumor.
+journal: Abdominal imaging
+year: 2001
+first_author: Fink D
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 17 years
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Three-dimensional CT findings of a FIGO stage IA ovarian JGCT in a 17-year-old woman.
+- Most FIGO stage IA tumors described as having a favorable prognosis; higher stages less favorable.
+relevance_to_jgct: Imaging of JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

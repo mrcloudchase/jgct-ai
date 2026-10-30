@@ -1,0 +1,35 @@
+source_id: '11531301'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/11531301/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '11531301'
+doi: 10.1006/gyno.2001.6247
+title: Hyperprolactinemia complicating juvenile granulosa cell tumor of the ovary.
+journal: Gynecologic oncology
+year: 2001
+first_author: Santala M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- hyperprolactinemia
+key_findings:
+- Malignant JGCT associated with hyperprolactinemia.
+- Serum prolactin concentration closely reflected the behavior of the disease.
+- Authors conclude prolactin was a tumor marker in this patient.
+relevance_to_jgct: Prolactin as an unusual tumor marker in JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract gives no age, stage, treatment or outcome.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

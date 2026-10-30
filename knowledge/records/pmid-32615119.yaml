@@ -12,6 +12,7 @@ journal: The Lancet. Oncology
 year: 2020
 first_author: Sessa C
 study_type: guideline
+tumor_site: ovary
 n_jgct_patients: null
 age_range: null
 alterations: []
@@ -25,7 +26,7 @@ relevance_to_jgct: Society guideline covering the adolescent/young adult age ban
 conflicts_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only; no open-access full text (Europe PMC isOpenAccess=N). JGCT-specific recommendations not visible in the abstract; full text needed.
+notes: 'Abstract only; no open-access full text (Europe PMC isOpenAccess=N). JGCT-specific recommendations not visible in the abstract; full text needed. Full-text routes tried 2026-10-30: tools/fetch.py fulltext (no PMC/EPMC OA), Europe PMC fullTextUrlList (subscription only), Unpaywall (closed, Lancet Oncology), ESGO-hosted guideline PDF (guidelines.esgo.org/media/2020/05/ESGO-SIOPE_Ovarian_Cancer_in_Adolescents.pdf returns 404; current ESGO adolescent-tumours page lists no PDF of this guideline). No legal full text obtained. Journal is Lancet Oncology 2020;21:e360-e368.'
 confidence: 3
 review_status: draft
 reviewed_by: null

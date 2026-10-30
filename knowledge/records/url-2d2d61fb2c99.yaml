@@ -1,0 +1,37 @@
+source_id: 2d2d61fb2c99
+source_type: url
+source_tier: preprint
+source_url: https://doi.org/10.21203/rs.3.rs-9115875/v1
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: null
+doi: null
+title: 'Prepubertal Testicular Tumors in Children: Combined Ultrasound and Pathologic Study'
+journal: Research Square
+year: 2026
+first_author: Ma Y
+study_type: cohort
+tumor_site: testis
+n_jgct_patients: null
+age_range: prepubertal (peak first 3 years)
+alterations: []
+treatments: []
+presentation:
+- scrotal mass
+key_findings:
+- Retrospective single-institution series of consecutive pediatric testicular tumors (November 2016 to June 2024) with preoperative scrotal ultrasound correlated with histology; 118 lesions, peak incidence within the first 3 years of life.
+- Benign tumors (e.g., teratoma, epidermoid cyst) constituted 71.2% of cases.
+- 'Cystic or cystic-dominant pattern: PPV 96.1% for benignity, NPV 47.8%; solid or solid-dominant: NPV 91.5% for malignancy, PPV 49.2%.'
+- '''Uncommon entities like juvenile granulosa cell tumors exhibited pathognomonic "swiss-cheese" morphology'' on ultrasound.'
+- 'Solid pattern combined with AFP >300 ng/mL: PPV 94.7% and NPV 97.0% for yolk sac tumor.'
+relevance_to_jgct: Describes a 'swiss-cheese' ultrasound appearance for testicular JGCT within a prepubertal testicular tumor series; number of JGCT cases not stated in the abstract.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Europe PMC PPR1170007; abstract retrieved verbatim via Europe PMC REST. Not peer reviewed; no PubMed version found as of 2026-10-30. The abstract does not give the number of JGCT cases.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

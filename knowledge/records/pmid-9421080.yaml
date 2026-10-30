@@ -1,0 +1,35 @@
+source_id: '9421080'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9421080/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '9421080'
+doi: 10.1097/00004347-199710000-00016
+title: Gynandroblastoma with elements resembling juvenile granulosa cell tumor.
+journal: 'International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists'
+year: 1997
+first_author: Broshears JR
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Gynandroblastoma in which the ovarian-type element resembled JGCT; testicular-type elements accounted for 20% and resembled intermediate-grade Sertoli-Leydig cell tumor.
+- Sertoli cells stained for cytokeratin CAM 5.2 and estrogen/progesterone receptor; JGCT-like areas were negative for these.
+- Ultrastructurally JGCT-like areas had basal lamina-invested cell groups, low N:C ratios, lipid droplets, and simple junctional complexes.
+- Prognosis of gynandroblastoma described as favorable and similar to that of individual components, with limited follow-up.
+relevance_to_jgct: 'Differential diagnosis: gynandroblastoma with JGCT-like component.'
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Tumor is a gynandroblastoma with JGCT-like component, not pure JGCT; n_jgct_patients left null. Patient age not in abstract.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

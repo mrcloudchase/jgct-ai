@@ -12,6 +12,7 @@ journal: Fertility and sterility
 year: 2007
 first_author: Kalfa N
 study_type: cohort
+tumor_site: ovary
 n_jgct_patients: 26
 age_range: null
 alterations:

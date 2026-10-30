@@ -1,0 +1,38 @@
+source_id: c7a8cfb06452
+source_type: url
+source_tier: database
+source_url: https://clinicaltrials.gov/study/NCT02429700
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: null
+doi: null
+title: TC or BEP in Treating Patients With Ovarian Malignant Sex Cord-Stromal Tumors (NCT02429700)
+journal: ClinicalTrials.gov
+year: 2015
+first_author: null
+study_type: trial
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments:
+- regimen: paclitaxel + carboplatin vs BEP
+  setting: adjuvant, stage IIA-IVB, randomized
+  n: null
+  outcome: recruiting; no results
+presentation: []
+key_findings:
+- Multicenter, prospective, randomized phase 3 trial comparing paclitaxel plus carboplatin with bleomycin, etoposide and cisplatin (BEP) after surgery in newly diagnosed ovarian malignant sex cord-stromal tumors; sponsor Beihua Kong; status RECRUITING; start 2015-04; estimated completion 2030-05; estimated enrollment 132.
+- 'Eligibility: female Chinese women, ages 14 to 65 years, stage IIA-IVB, initial surgery within the past 8 weeks; histologies include granulosa cell tumor, Sertoli-Leydig cell tumor, gynandroblastoma, steroid cell tumor, unclassified sex cord-stromal tumor and sex cord tumor with annular tubules.'
+- 'Primary outcome: progression-free survival.'
+relevance_to_jgct: Only identified randomized chemotherapy trial for ovarian sex cord-stromal tumors whose age range reaches adolescents (from 14 years); juvenile granulosa cell tumor is not named separately.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Fetched via ClinicalTrials.gov API v2. The brief title says TC, the brief summary says 'paclitaxel and cisplatin (PT)', and the official title says paclitaxel and carboplatin; this inconsistency is in the registry entry. Granulosa subtype (adult vs juvenile) is not specified.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

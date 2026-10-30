@@ -1,0 +1,39 @@
+source_id: 809f17ade28d
+source_type: url
+source_tier: database
+source_url: https://clinicaltrials.gov/study/NCT00006227
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: null
+doi: null
+title: Phase II Study of Paclitaxel for Ovarian Stromal Tumors as Second-Line Therapy (NCT00006227)
+journal: ClinicalTrials.gov
+year: 2000
+first_author: null
+study_type: trial
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments:
+- regimen: paclitaxel
+  setting: second-line, recurrent measurable disease
+  n: 31
+  outcome: complete clinical response 3.2%; median PFS 10.0 months; median OS 73.6 months
+presentation: []
+key_findings:
+- Gynecologic Oncology Group phase II single-arm trial of paclitaxel IV every 21 days for recurrent measurable ovarian stromal tumors after no more than one prior chemotherapy regimen; start 2000-11-20, completion 2016-07-16; 31 enrolled.
+- No age limits listed; eligible histologies include granulosa cell tumor, granulosa cell-theca cell tumor, Sertoli-Leydig cell tumor, steroid cell tumor, gynandroblastoma, unclassified sex cord stromal tumor, sex cord tumor with annular tubules.
+- 'Posted baseline ages: <40 years 7, 40-49 8, 50-59 9, >=60 7 participants.'
+- 'Posted results: probability of complete clinical response 3.2% (80% CI 0.74-15.30); median progression-free survival 10.0 months (80% CI 6.0-19.6); median overall survival 73.6 months (80% CI 63.7-112.9).'
+relevance_to_jgct: Second-line paclitaxel in recurrent ovarian stromal tumors had a low complete response rate; the population was mostly adult and results are not reported by histologic subtype, so applicability to JGCT is unknown.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Fetched via ClinicalTrials.gov API v2 including resultsSection. Conditions list 'Adult Type Ovarian Granulosa Cell Tumor' but eligibility text says granulosa cell tumor without subtype. No JGCT-specific data.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

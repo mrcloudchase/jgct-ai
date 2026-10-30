@@ -12,6 +12,7 @@ journal: Ginekologia polska
 year: 2022
 first_author: Hamzaoğlu Canbolat K
 study_type: case_series
+tumor_site: ovary
 n_jgct_patients: 5
 age_range: null
 alterations: []

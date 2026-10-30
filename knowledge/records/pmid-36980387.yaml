@@ -1,0 +1,38 @@
+source_id: '36980387'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/36980387/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '36980387'
+doi: 10.3390/diagnostics13061080
+title: 'Therapeutic Management and Prognostic Factors for Ovarian Malignant Tumours in Adolescents: A Comprehensive Review of Current Guidelines.'
+journal: Diagnostics (Basel, Switzerland)
+year: 2023
+first_author: Margioula-Siarkou C
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Comparative narrative review of five guidelines (Centres Experts TMRG, BritSPAG, ESMO 2018, ESGO-SIOPE 2020, EXPeRT/PARTNER 2021) on malignant ovarian tumours in adolescents.
+- Adolescents with sex cord stromal tumours are mostly diagnosed with juvenile granulosa cell tumours, Sertoli cell tumours and Sertoli-Leydig cell tumours.
+- 'For JGCT, Centres Experts TMRG and ESGO-SIOPE: ''Stage IA-IC1: ChT may be avoided if complete surgical resection. Stage IC2-IC3: ChT is recommended.'' ESMO: ''Stage IC: ChT is recommended.'' EXPeRT/PARTNER: ''In stage IC tumours, three-four cycles of ChT are recommended.'''
+- AMH and inhibin B may indicate the presence of granulosa cell tumours (ESMO 2018, Centres Experts TRMG 2022, EXPeRT/PARTNER 2021).
+- EXPeRT/PARTNER recommends FOXL2 immunohistochemistry for granulosa cell tumours to distinguish adult and juvenile types (Table 2).
+- Ovarian stimulation for fertility preservation is permitted only for stage IA granulosa-type SCSTs after multidisciplinary discussion and contraindicated for stages > IA (Centres Experts TMRG 2022); HRT generally avoided in SCSTs except stage IA and IB granulosa-type tumours upon board approval.
+- Debulking surgery recommended for advanced stage granulosa cell tumours (ESMO, TMRG) but considered to have no role in SCSTs except palliation per EXPeRT/PARTNER.
+relevance_to_jgct: Side-by-side comparison of guideline recommendations for adolescent JGCT, documenting where guidelines disagree on chemotherapy for stage IC1 and on debulking.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text read via Europe PMC (PMC10047001). Secondary source summarizing guidelines; the underlying guidelines are the primary sources. Statement in Table 2 about FOXL2 IHC distinguishing adult and juvenile types is attributed to EXPeRT/PARTNER; FOXL2 protein is generally expressed in both, so this may reflect FOXL2 mutation testing rather than IHC - recorded verbatim. Discrepancy on stage IC1 chemotherapy (ESMO vs others) is within-source.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

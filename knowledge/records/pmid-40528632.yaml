@@ -2,8 +2,8 @@ source_id: '40528632'
 source_type: pmid
 source_tier: guideline
 source_url: https://pubmed.ncbi.nlm.nih.gov/40528632/
-retrieved_on: '2026-10-29'
-full_text_read: false
+retrieved_on: '2026-10-30'
+full_text_read: true
 language: en
 pmid: '40528632'
 doi: 10.1111/his.15482
@@ -12,21 +12,26 @@ journal: Histopathology
 year: 2025
 first_author: Acosta AM
 study_type: guideline
+tumor_site: testis
 n_jgct_patients: null
 age_range: null
 alterations: []
 treatments: []
 presentation: []
 key_findings:
-- ISUP/GUPS-sponsored TESST expert panel consensus (first meeting 2024) on classification and management of testicular sex cord-stromal tumours.
-- Notes testicular SCST classification still relies on morphology, with some types (including granulosa cell tumour) defined by resemblance to ovarian counterparts, and that molecular findings have not yet impacted classification.
-relevance_to_jgct: Pathology consensus framework that includes testicular juvenile granulosa cell tumour classification.
+- ISUP/GUPS-endorsed TESST expert panel (20 voting genitourinary pathologists) used a modified Delphi process with a 70% consensus threshold; live meeting 3/23/2024.
+- Recommends that juvenile granulosa cell tumour of the testis be renamed 'benign juvenile granulosa cell tumour' (consensus on need to rename 12/15, 80%; on the name 15/15, 100%), to avoid overtreatment.
+- 'Rationale: testicular JGCTs are a largely infantile entity (>90% within the first year of life), mostly hormonally inactive, a subset arise in dysgenetic gonads, and they appear to lack malignant potential; a limited genomic study found they do not harbour the alterations seen in ovarian JGCT.'
+- 'Contrasts with ovarian JGCT: median age about 8 years, steroid hormone production, about 10% behave aggressively, and pathogenic AKT1 internal tandem duplications and hotspot GNAS variants.'
+- Brisk mitotic activity predicts aggressive potential in Leydig and Sertoli cell tumours but not in juvenile granulosa cell tumour; JGCT is listed among invariably indolent testicular SCST types.
+- Testicular adult granulosa cell tumour should be diagnosed only for prototypical morphology; FOXL2 p.C134W can support it (consensus 16/20, 80%).
+relevance_to_jgct: International pathology consensus that testicular JGCT is benign and distinct from ovarian JGCT, recommending the name 'benign juvenile granulosa cell tumour'.
 conflicts_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only; specific JGCT recommendations are in the full text, not retrieved.
-confidence: 2
+notes: Full text read via Europe PMC (PMC12522033) on 2026-10-30 (the abstract-only version of this record predates PMC availability). Pathology classification consensus; no treatment recommendations specific to JGCT beyond its benign behaviour.
+confidence: 5
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract
+extraction_method: full_text

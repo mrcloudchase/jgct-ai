@@ -1,0 +1,37 @@
+source_id: 1c23e1dc296b
+source_type: url
+source_tier: conference_abstract
+source_url: https://doi.org/10.54053/001c.93947
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: null
+doi: 10.54053/001c.93947
+title: Atypical presentations of dicer1 syndrome in adults with juvenile granulosa cell tumor
+journal: North American Proceedings in Gynecology & Obstetrics 3(2)
+year: 2024
+first_author: Hamai C
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: adults
+alterations:
+- gene: DICER1
+  alteration: germline (DICER1 syndrome)
+  frequency: 2 cases
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- Describes 'two uncommon presentations of DICER1 syndrome in adults with juvenile granulosa cell tumors (JGCT), rarely seen with this syndrome.'
+- No clinical details, ages, or variant data in the abstract.
+relevance_to_jgct: Two adult JGCT cases with DICER1 syndrome; supports a rare DICER1-JGCT association.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract reconstructed verbatim from OpenAlex abstract_inverted_index (W4391915874). Tiered conference_abstract because the venue is a proceedings outlet and the item is a brief abstract; peer-review status not verified. Thin abstract.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

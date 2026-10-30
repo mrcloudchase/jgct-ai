@@ -1,6 +1,6 @@
 source_id: '12910419'
 source_type: pmid
-source_tier: peer_reviewed
+source_tier: registry
 source_url: https://pubmed.ncbi.nlm.nih.gov/12910419/
 retrieved_on: '2026-10-29'
 full_text_read: false
@@ -12,6 +12,7 @@ journal: Virchows Archiv
 year: 2003
 first_author: Schneider DT
 study_type: registry
+tumor_site: ovary
 n_jgct_patients: 48
 age_range: null
 alterations: []
@@ -27,7 +28,7 @@ relevance_to_jgct: Pathology registry study first quantifying the >=20 mitoses/1
 conflicts_with: []
 superseded_by: null
 retracted: false
-notes: EFS and mitotic analysis are for all OSCST, of which 48/72 were JGCT.
+notes: 'EFS and mitotic analysis are for all OSCST, of which 48/72 were JGCT. Tier set to registry (2026-10-30) per CLAUDE.md: a disease registry or consortium report is registry even in a peer-reviewed journal.'
 confidence: 3
 review_status: draft
 reviewed_by: null

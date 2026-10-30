@@ -12,6 +12,7 @@ journal: EBioMedicine
 year: 2015
 first_author: Bessière L
 study_type: genomic
+tumor_site: ovary
 n_jgct_patients: 16
 age_range: girls under 15 years
 alterations:

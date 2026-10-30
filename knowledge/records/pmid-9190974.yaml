@@ -1,6 +1,6 @@
 source_id: '9190974'
 source_type: pmid
-source_tier: peer_reviewed
+source_tier: registry
 source_url: https://pubmed.ncbi.nlm.nih.gov/9190974/
 retrieved_on: '2026-10-29'
 full_text_read: false
@@ -12,6 +12,7 @@ journal: Gynecologic oncology
 year: 1997
 first_author: Calaminus G
 study_type: registry
+tumor_site: ovary
 n_jgct_patients: 33
 age_range: 6 months-17.5 years (median 7.6)
 alterations: []
@@ -41,7 +42,7 @@ relevance_to_jgct: Early prospective German cooperative-study cohort of pediatri
 conflicts_with: []
 superseded_by: null
 retracted: false
-notes: null
+notes: 'Tier set to registry (2026-10-30) per CLAUDE.md: a disease registry or consortium report is registry even in a peer-reviewed journal.'
 confidence: 3
 review_status: draft
 reviewed_by: null

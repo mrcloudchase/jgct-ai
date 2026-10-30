@@ -1,0 +1,42 @@
+source_id: '31582893'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/31582893/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '31582893'
+doi: 10.33160/yam.2019.09.004
+title: Juvenile Granulosa Cell Tumor with Elevated Peripheral Interleukin-6 Level Shows Prolonged Fever and Delayed Puberty.
+journal: Yonago acta medica
+year: 2019
+first_author: Okuno K
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 13 years
+alterations: []
+treatments:
+- regimen: tumorectomy
+  setting: primary
+  n: 1
+  outcome: symptoms resolved, IL-6 decreased, entered puberty
+presentation:
+- prolonged fever
+- delayed puberty
+- elevated serum interleukin-6
+key_findings:
+- 13-year-old girl with prolonged fever and delayed puberty diagnosed with JGCT of the left ovary.
+- Serum IL-6 level was very high; it was not clear whether IL-6 was secreted by the tumor cells.
+- After tumorectomy, symptoms immediately disappeared, IL-6 level decreased, and she entered puberty.
+- Authors propose tumor-induced IL-6 secretion as a potential cause of prolonged fever and/or delayed puberty.
+relevance_to_jgct: Describes an unusual presentation (fever, delayed rather than precocious puberty) linked to elevated serum IL-6 in JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; PMC6739248 full text fetch failed (HTTP 500 / publisher-restricted). Stage and follow-up length not stated in abstract.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

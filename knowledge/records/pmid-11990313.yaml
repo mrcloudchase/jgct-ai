@@ -1,0 +1,44 @@
+source_id: '11990313'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/11990313/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '11990313'
+doi: 10.1097/00043426-200203000-00015
+title: Successful multimodality therapy of recurrent multifocal juvenile granulosa cell tumor of the ovary.
+journal: Journal of pediatric hematology/oncology
+year: 2002
+first_author: Erdreich-Epstein A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 10 years
+alterations: []
+treatments:
+- regimen: resection only
+  setting: primary, stage IA
+  n: 1
+  outcome: unresectable multifocal pelvic recurrence
+- regimen: surgery; cisplatin/paclitaxel alternating with cisplatin/cyclophosphamide/etoposide/bleomycin; carboplatin/etoposide/melphalan with autologous bone marrow transplant; pelvic radiation
+  setting: recurrence
+  n: 1
+  outcome: complete remission 69 months after recurrence
+presentation:
+- multifocal pelvic recurrence after stage IA
+key_findings:
+- 10-year-old girl with stage IA JGCT initially treated with resection only presented with extensive unresectable multifocal pelvic recurrence.
+- Treated with surgery, chemotherapy (cisplatin/paclitaxel alternating with cisplatin/cyclophosphamide/etoposide/bleomycin), myeloablative chemotherapy (carboplatin/etoposide/melphalan) with autologous bone marrow transplant, and pelvic radiation.
+- In complete remission 69 months after her recurrence.
+- Authors state advanced and recurrent JGCT carries a very poor prognosis.
+relevance_to_jgct: Recurrence after stage IA resection-only; durable remission after multimodal salvage including high-dose chemotherapy with autologous transplant and radiation.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

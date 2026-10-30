@@ -12,6 +12,7 @@ journal: American journal of clinical pathology
 year: 2020
 first_author: Ye Y
 study_type: case_series
+tumor_site: ovary
 n_jgct_patients: 7
 age_range: null
 alterations:

@@ -1,0 +1,43 @@
+source_id: '36112066'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/36112066/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '36112066'
+doi: 10.4274/jcrpe.galenos.2022.2022-4-17
+title: 'Juvenile Granulosa Cell Tumor Mimicking HAIR-AN in a 4-year-old: A Case Report.'
+journal: Journal of clinical research in pediatric endocrinology
+year: 2024
+first_author: Kim RC
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 4 years
+alterations: []
+treatments:
+- regimen: unilateral salpingo-oophorectomy
+  setting: primary, stage 1A
+  n: 1
+  outcome: laboratory results normalized; follow-up length not stated
+presentation:
+- hyperandrogenism
+- acanthosis nigricans
+- hyperinsulinism
+- insulin resistance
+key_findings:
+- 4-year-old girl with acanthosis nigricans and hyperinsulinism, mimicking hyperandrogenism, insulin resistance and acanthosis nigricans (HAIR-AN) syndrome.
+- Elevated insulin, inhibin A and B, and total testosterone.
+- All laboratory results normalized after unilateral salpingo-oophorectomy; final diagnosis Stage 1A JGCT.
+- Authors suggest hyperandrogenemia may promote hyperinsulinism.
+relevance_to_jgct: Androgen-secreting JGCT with insulin resistance in a young child; differential for virilization.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (PMC11590726 not read).
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

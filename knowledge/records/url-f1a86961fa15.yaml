@@ -1,0 +1,40 @@
+source_id: f1a86961fa15
+source_type: url
+source_tier: conference_abstract
+source_url: https://doi.org/10.1186/1687-9856-2013-S1-P80
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: null
+doi: 10.1186/1687-9856-2013-S1-P80
+title: Precocious puberty and ovarian tumors – 2 case reports
+journal: International Journal of Pediatric Endocrinology 2013 Suppl 1:P80 (7th APPES Biennial Scientific Meeting, 2012)
+year: 2013
+first_author: Ramkumar S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 3 years
+alterations: []
+treatments: []
+presentation:
+- breast enlargement
+- vaginal bleeding
+- pubic hair
+- advanced bone age
+- elevated estradiol
+key_findings:
+- 'Case 1: 3-year-old girl with progressive bilateral breast enlargement over 1 year, irregular vaginal bleeding for 10 months, pubic hair for 2 months; Tanner B3P3; bone age 8yr 10months.'
+- LH <0.1 mIU/ml, FSH <0.1 mIU/ml, estradiol >1000 pg/ml; CT showed a heterogeneously enhancing abdomino-pelvic mass.
+- Resection of right tubo-ovarian mass suggestive of juvenile granulosa cell tumor; estradiol fell to 17 pg/ml; no vaginal bleeding at one-year follow-up.
+- Case 2 (6-year-old) was a mixed germ cell sex cord stromal tumor, not JGCT.
+relevance_to_jgct: Meeting case report of JGCT with very high estradiol presenting as peripheral precocious puberty in a 3-year-old.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Verbatim from Europe PMC full text PMC3850124 (open access). Only case 1 is JGCT.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

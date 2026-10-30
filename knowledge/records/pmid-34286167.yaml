@@ -1,0 +1,54 @@
+source_id: '34286167'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34286167/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '34286167'
+doi: 10.1210/jendso/bvab098
+title: Juvenile Granulosa Cell Tumor as the Presenting Feature of McCune-Albright Syndrome.
+journal: Journal of the Endocrine Society
+year: 2021
+first_author: Marks BE
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years
+alterations:
+- gene: GNAS
+  alteration: c.601C>T (p.R201C)
+  frequency: 1/1
+  notes: 42% of 478 reads in tumor; same variant in fibrous dysplasia bone; wild-type in blood (mosaic, not germline)
+treatments:
+- regimen: right salpingo-oophorectomy
+  setting: primary, FIGO Ic2 (rupture)
+  n: 1
+  outcome: complete resection
+- regimen: bleomycin, cisplatin, etoposide x4 cycles
+  setting: adjuvant, stage Ic2
+  n: 1
+  outcome: in remission 16 months following therapy
+presentation:
+- secondary oligomenorrhea
+- hyperestrogenism
+- hyperprolactinemia
+- McCune-Albright syndrome
+- polyostotic fibrous dysplasia
+key_findings:
+- 15-year-old girl with secondary oligomenorrhea; suppressed LH and FSH, estradiol 1074 pg/mL (immunoassay), inhibin B >4325 pg/mL, prolactin 56.67 ng/mL, low IGF-I.
+- 12-cm heterogeneous right adnexal mass; MRI/PET showed bone lesions initially concerning for metastases but pattern characteristic of polyostotic fibrous dysplasia (McCune-Albright syndrome).
+- Right salpingo-oophorectomy; 14.5 cm JGCT (inhibin, calretinin, SF1 positive); rupture noted, staged FIGO Ic2.
+- 'Targeted NGS (447 genes): GNAS c.601C>T (p.R201C) in 42% of 478 reads, no other tier 1-3 mutations or copy number variants; same variant in tibial bone biopsy; wild-type in peripheral blood.'
+- 4 cycles of bleomycin, cisplatin, and etoposide; hormones normalized; in remission 16 months after therapy.
+- First report of the same GNAS mutation in both JGCT and MAS tissue in one patient; authors question whether MAS patients should be surveilled for JGCT and vice versa.
+relevance_to_jgct: Direct molecular evidence linking McCune-Albright syndrome mosaic GNAS mutation with JGCT; relevant to germline/syndromic evaluation and surveillance.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text read via PMC8282215. No AKT1 alteration reported on the 447-gene panel (stated no other tier 1-3 mutations). Pathology text mentions coffee-bean nuclei despite JGCT diagnosis.
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

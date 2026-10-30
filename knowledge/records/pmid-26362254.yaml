@@ -12,6 +12,7 @@ journal: Human molecular genetics
 year: 2015
 first_author: Auguste A
 study_type: genomic
+tumor_site: null
 n_jgct_patients: 4
 age_range: null
 alterations:

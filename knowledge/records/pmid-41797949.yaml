@@ -1,0 +1,44 @@
+source_id: '41797949'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41797949/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '41797949'
+doi: 10.4103/gmit.GMIT-D-24-00039
+title: 'Juvenile Granulosa Cell Tumor of the Ovary in Pregnancy: A Case Report.'
+journal: Gynecology and minimally invasive therapy
+year: 2026
+first_author: Khoiwal K
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 28 years
+alterations: []
+treatments:
+- regimen: right salpingo-oophorectomy + omentectomy + biopsies at 23 + 4 weeks; restaging lymphadenectomy at cesarean; no adjuvant chemotherapy
+  setting: primary, stage IA, during pregnancy
+  n: 1
+  outcome: disease-free at 24 months
+presentation:
+- abdominal pain
+- adnexal mass in pregnancy
+- ascites
+key_findings:
+- 28-year-old primigravida at 22 + 5 weeks' gestation with abdominal pain; 15 cm x 11 cm right adnexal predominantly solid lesion with mild ascites and left mild pleural effusion.
+- Preoperative CA-125 785 U/ml, AFP 51 ng/ml, beta HCG 33547 mIU/ml (pregnancy).
+- 'Fertility-sparing staging laparotomy at 23 + 4 weeks: right salpingo-oophorectomy, infracolic omentectomy, left ovarian biopsy, paracolic gutter biopsies; IHC inhibin and calretinin positive; final diagnosis JGCT stage 1A.'
+- Inhibin B 86.5 at 32 weeks, rose to 118 at 36 weeks; repeat MRI showed no recurrence.
+- Elective cesarean at 37 weeks with re-exploration and pelvic/para-aortic lymphadenectomy; nodes negative; no adjuvant chemotherapy; disease-free at 24 months.
+- Literature table compiles 12 prior reports (15 patients) of JGCT in pregnancy since 1993, stages IA to IIIB.
+relevance_to_jgct: Adds an adult pregnancy-associated JGCT case and a compiled table of published JGCT in pregnancy with management and outcomes.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: 'Full text read via PMC12965506. Caveat: the histology description mentions ''bean-like grooved nuclei'', which are classically adult-type features, while IHC and final diagnosis are JGCT; the text does not reconcile this. Literature table lists Cummings 2023 (pmid-36992983) follow-up as 30 months, whereas that paper''s own abstract says over five years.'
+confidence: 4
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

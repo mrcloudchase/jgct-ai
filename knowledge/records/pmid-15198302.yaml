@@ -1,0 +1,39 @@
+source_id: '15198302'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/15198302/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '15198302'
+doi: 10.1515/jpem.2004.17.4.679
+title: Pseudo-precocious puberty caused by a juvenile granulosa cell tumour secreting androstenedione, inhibin and insulin-like growth factor-I.
+journal: 'Journal of pediatric endocrinology & metabolism : JPEM'
+year: 2004
+first_author: Chan LF
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 3.92 years
+alterations: []
+treatments: []
+presentation:
+- pseudo-precocious puberty
+- elevated estradiol
+- elevated androstenedione
+- elevated inhibin
+- elevated IGF-I
+key_findings:
+- Girl presented at age 3.92 years with a 2-year history of consonant pubertal development from a large right ovarian JGCT.
+- Tumor associated with raised serum oestradiol, androstenedione, inhibin and IGF-I.
+- Immunohistochemistry positive for MIC-2, inhibin, melan A, IGF-I and IGFBP-2.
+relevance_to_jgct: Endocrine profile of JGCT including IGF-I secretion.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: null
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

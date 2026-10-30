@@ -12,6 +12,7 @@ journal: Journal of clinical oncology
 year: 1988
 first_author: Vassal G
 study_type: case_series
+tumor_site: ovary
 n_jgct_patients: 15
 age_range: 22 months-15 years 7 months
 alterations: []

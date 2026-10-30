@@ -2,8 +2,8 @@ source_id: '41237900'
 source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/41237900/
-retrieved_on: '2026-10-29'
-full_text_read: false
+retrieved_on: '2026-10-30'
+full_text_read: true
 language: en
 pmid: '41237900'
 doi: 10.1016/j.mcpro.2025.101466
@@ -12,22 +12,34 @@ journal: Molecular & cellular proteomics
 year: 2025
 first_author: Veitia RA
 study_type: other
+tumor_site: null
 n_jgct_patients: 0
 age_range: null
-alterations: []
+alterations:
+- gene: AKT1
+  alteration: in-frame tandem duplications in exon 3 (pleckstrin homology domain; variants T1, T5, T12, T15)
+  frequency: null
+  notes: JGCT-derived variants expressed in Drosophila; hyperphosphorylated vs WT
+- gene: AKT1
+  alteration: Q79K-W80R double substitution
+  frequency: null
+  notes: JGCT-derived; strongest phenotypic and transcriptomic effects in the model
 treatments: []
 presentation: []
 key_findings:
-- Transgenic Drosophila expressing WT AKT1 and four JGCT pathogenic variants.
-- Mutant AKT1 increased wing surface and reduced trichome density (larger cells); in ovarian follicular cells mutant AKT1 associated with plasma membrane and caused morphological abnormalities and increased cell size.
-- Proteomics showed changes in glycolysis and Rho GTPase signaling; transcriptomics showed gain of function for a subset of genes but weaker activation of others than WT AKT1.
-relevance_to_jgct: Model-organism functional study of JGCT AKT1 variants.
+- Transgenic Drosophila expressing human WT AKT1, four JGCT-derived AKT1 tandem duplications (T1, T5, T12, T15) and the Q79K-W80R double mutant; mutant proteins showed stronger phosphorylation than WT.
+- Mutant AKT1 in ovarian follicle cells caused abnormally enlarged follicle cells, nuclei closer to the basal membrane (polarity defects), and abnormal dorsal appendages; the effect was strongest for Q79K-W80R.
+- In wings, mutant AKT1 increased wing surface and decreased trichome density, indicating larger cells (growth) rather than more cells.
+- 'Proteomics: 255 DEPs between all mutants and WT AKT1 (202 up, 53 down), enriched for Rho GTPase signaling, autophagy, cytoskeleton organization and transport; WT AKT1 overexpression affected glycolysis.'
+- 'RNA-seq: 624 DEGs between mutants and WT (353 up, 271 down); some genes showed gain of function while others were less activated than by WT AKT1, i.e. partial loss of function; T15 (smallest insertion) had the fewest DEGs.'
+- 'Background stated by authors: more than 60% of JGCT samples harbored in-frame AKT1 duplications in their earlier series.'
+relevance_to_jgct: Model-organism functional study showing that JGCT-derived AKT1 duplications and Q79K-W80R drive cell growth, polarity defects and complex gain- and loss-of-function transcriptional effects.
 conflicts_with: []
 superseded_by: null
 retracted: false
-notes: null
-confidence: 3
+notes: Full text read via Europe PMC (PMC12757477) on 2026-10-30. Preclinical (Drosophila) study; no patients. Confidence reflects a well-described experimental study, not clinical evidence.
+confidence: 4
 review_status: draft
 reviewed_by: null
 reviewed_on: null
-extraction_method: verbatim_abstract
+extraction_method: full_text

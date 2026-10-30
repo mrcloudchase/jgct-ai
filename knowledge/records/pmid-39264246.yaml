@@ -1,0 +1,40 @@
+source_id: '39264246'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39264246/
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: '39264246'
+doi: 10.1158/1078-0432.CCR-24-1098
+title: Update on Recommendations for Cancer Screening and Surveillance in Children with Genomic Instability Disorders.
+journal: 'Clinical cancer research : an official journal of the American Association for Cancer Research'
+year: 2024
+first_author: Nakano Y
+study_type: review
+tumor_site: both
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: MAD2L1BP
+  alteration: biallelic germline mutation
+  frequency: 2 siblings
+  notes: cited from primary report pmid-37796616
+treatments: []
+presentation: []
+key_findings:
+- AACR 2023 Childhood Cancer Predisposition Workshop review of genomic instability disorders including mosaic variegated aneuploidy (MVA).
+- Genes reported to cause MVA include BUB1B, CEP57, TRIP13 and more recently CENATAC, SLF2, SMC5 and MAD2L1B.
+- The two reported siblings of consanguineous parents with biallelic mutations in MAD2l1B developed juvenile granulosa cell tumors of the ovary and testis, respectively.
+- A third unrelated affected individual did not develop cancer, and other (modifying) genetic cancer risk factors in the siblings cannot be excluded.
+- A convincing increased childhood cancer risk is described only for MVA1 and MVA3.
+relevance_to_jgct: Expert-workshop review that cites the MAD2L1BP sibling JGCT report and frames the association cautiously.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Full text read via Europe PMC (PMC11705613). JGCT content is a single passage citing the primary report (pmid-37796616). Text spells the gene 'MAD2L1B'/'MAD2l1B'; primary report uses MAD2L1BP.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: full_text

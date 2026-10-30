@@ -1,0 +1,34 @@
+source_id: '33621150'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33621150/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '33621150'
+doi: 10.1080/08880018.2020.1850953
+title: 'Extraovarian juvenile granulosa cell tumor in a prepubertal child: novel location of a rare tumor.'
+journal: Pediatric hematology and oncology
+year: 2021
+first_author: User İR
+study_type: case_report
+tumor_site: other
+n_jgct_patients: 1
+age_range: 3.5 years
+alterations: []
+treatments: []
+presentation:
+- retroperitoneal mass
+key_findings:
+- 3.5-year-old girl with JGCT located in the retroperitoneum without ovarian involvement.
+- Authors describe it as the first case of JGCT in an extragonadal location.
+relevance_to_jgct: First reported extragonadal (retroperitoneal) JGCT.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; no PMC. Treatment and outcome not given in abstract.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

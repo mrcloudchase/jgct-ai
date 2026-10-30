@@ -1,0 +1,36 @@
+source_id: ad760335194f
+source_type: url
+source_tier: database
+source_url: https://clinicaltrials.gov/study/NCT01572467
+retrieved_on: '2026-10-30'
+full_text_read: true
+language: en
+pmid: null
+doi: null
+title: DICER1 Mutations and miRNA in Ovarian and Testicular Sex Cord Stromal Tumors of Childhood (NCT01572467)
+journal: ClinicalTrials.gov
+year: 2012
+first_author: null
+study_type: genomic
+tumor_site: both
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Children's Oncology Group observational biology study, status COMPLETED, start 2012-04; estimated enrollment 50.
+- Tissue from the ATBR01 B1 tissue bank and from the International Pleuropulmonary Blastoma Registry, Children's Hospital of Boston, and Massachusetts General Hospital.
+- Eligible ovarian histologies include juvenile granulosa cell tumor, adult granulosa cell tumor, Sertoli-Leydig cell tumor, gynandroblastoma and others; testicular histologies include granulosa cell tumor, Sertoli, Leydig, Sertoli-Leydig and undifferentiated stromal tumors.
+- 'Primary outcome: ''Correlation between DICER1 mutations and miRNA pathways with outcomes using descriptive analysis.'''
+- No results posted on ClinicalTrials.gov.
+relevance_to_jgct: COG laboratory study that explicitly includes ovarian JGCT and testicular granulosa cell tumors in a pediatric DICER1/miRNA analysis.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Fetched via ClinicalTrials.gov API v2 (/api/v2/studies/NCT01572467). No completion date or publication listed in the registry entry.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

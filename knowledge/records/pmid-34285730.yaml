@@ -1,0 +1,40 @@
+source_id: '34285730'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34285730/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '34285730'
+doi: 10.1016/j.radcr.2021.06.006
+title: Juvenile granulosa cell tumor diagnosed in 6-month-old infant with precocious puberty.
+journal: Radiology case reports
+year: 2021
+first_author: Hansen R
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 6 months
+alterations: []
+treatments:
+- regimen: surgical resection (left ovarian mass)
+  setting: primary
+  n: 1
+  outcome: not reported in abstract
+presentation:
+- precocious puberty
+- mixed cystic-solid pelvic mass
+key_findings:
+- 6-month-old female with precocious puberty.
+- Large mixed cystic and solid mass with internal solid enhancement and restricted diffusion, arising from the left ovary at surgery.
+- Histopathology confirmed JGCT; includes literature review of imaging characteristics.
+relevance_to_jgct: Infant JGCT with imaging description.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (PMC8278142 not read). An erratum exists (pmid:39022116, PMC466968); its OA text contained only a patient-consent statement, suggesting the correction added that statement.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

@@ -1,0 +1,39 @@
+source_id: '39877787'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39877787/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '39877787'
+doi: 10.7759/cureus.76546
+title: 'A Rare Case of Juvenile Granulosa Cell Tumor in a Premenarchal Female: Clinical Presentation, Diagnosis, and Management.'
+journal: Cureus
+year: 2024
+first_author: Kanna E
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 4.5 years
+alterations: []
+treatments:
+- regimen: fertility-sparing unilateral salpingo-oophorectomy
+  setting: primary
+  n: 1
+  outcome: no recurrence after one year
+presentation:
+- precocious puberty
+key_findings:
+- 4.5-year-old girl with precocious puberty and a left ovarian JGCT confirmed by imaging and histopathology.
+- Fertility-sparing unilateral salpingo-oophorectomy; no recurrence after one year of follow-up.
+- Authors state the role of adjuvant chemotherapy in advanced cases remains unclear.
+relevance_to_jgct: Typical prepubertal ovarian JGCT with precocious puberty treated by surgery alone.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (PMC11772895 not read). Stage not stated in abstract.
+confidence: 2
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract

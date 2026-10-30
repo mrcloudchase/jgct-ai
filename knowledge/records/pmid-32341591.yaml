@@ -1,0 +1,39 @@
+source_id: '32341591'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32341591/
+retrieved_on: '2026-10-30'
+full_text_read: false
+language: en
+pmid: '32341591'
+doi: 10.18926/AMO/58275
+title: 'Juvenile Granulosa Cell Tumor with an Unusual Clinical Course: A Late-onset and Late Recurrent Case.'
+journal: Acta medica Okayama
+year: 2020
+first_author: San TH
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 40 years
+alterations:
+- gene: FOXL2
+  alteration: 402C>G (C134W) not detected
+  frequency: 0/1
+  notes: used to exclude adult GCT
+treatments: []
+presentation:
+- late recurrence
+key_findings:
+- Recurrent JGCT in a 40-year-old woman 5 years after initial presentation.
+- Histology and lack of the FOXL2 402C>G missense mutation allowed differentiation from adult GCT.
+- Authors state most JGCTs (~97%) occur in individuals <30 years old and suggest long-term surveillance because late recurrence can occur.
+relevance_to_jgct: Late recurrence of JGCT (5 years) in an older woman, contrasting with the usual early-recurrence pattern.
+conflicts_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; no PMC. Treatment details not given in abstract.
+confidence: 3
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+extraction_method: verbatim_abstract
