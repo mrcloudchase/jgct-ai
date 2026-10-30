@@ -33,7 +33,8 @@ key_findings:
 - Authors note ultrasound is more sensitive than biochemical markers for gynecologic tumor surveillance and that rupture is associated with higher stage and worse prognosis (stated for SLCT).
 relevance_to_jgct: Supports DICER1 germline testing in JGCT with anaplasia or high mitotic index and gives context on pelvic surveillance for DICER1 carriers; very few JGCT cases in the cohort (n=2).
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-40267023
 superseded_by: null
 retracted: false
 notes: Not a JGCT study; JGCT counts come only from a figure legend (n=2). Likely patient overlap with the International OTST Registry JGCT report (pmid-40267023). Guideline recommendations apply to DICER1 carriers generally. Existing tier 'registry' kept.

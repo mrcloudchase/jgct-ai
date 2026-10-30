@@ -35,7 +35,8 @@ key_findings:
 - The discussion states approximately 90% of JGCTs are FIGO stage I with 5-year disease-free survival 90-100%, contralateral involvement is rare (3%), BEP is the commonest adjuvant regimen for stage IC-IV, ESMO advises BEP for stage IC while ESGO suggests surgery alone may suffice for IC1 and chemotherapy for IC2/IC3; these are literature statements by the authors.
 - The authors list recurrence risk factors from the literature as nuclear pleomorphism, mitoses >4/10 HPF, rupture, residual disease and FOXL2 mutation expression, and state no analogous genetic driver has been linked to JGCT (AGCT has FOXL2).
 relevance_to_jgct: Prepubertal stage I ovarian JGCT with gonadotropin-independent precocious puberty and elevated testosterone and 17-OHP, cured by fertility-sparing surgery.
-conflicts_with: []
+conflicts_with:
+- pmid-39773640
 overlaps_with: []
 superseded_by: null
 retracted: false

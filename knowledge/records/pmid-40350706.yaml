@@ -40,7 +40,8 @@ key_findings:
 - The authors conclude that adjuvant chemotherapy did not add benefit for recurrence or mortality in stage IC GCT, in either adult or juvenile types, but caution that all studies were retrospective, JGCT numbers were very small, sicker patients probably received chemotherapy, and median follow-up was under 5 years.
 - The authors cite that JGCT tends to recur early (median recurrence 4.5-12 months in cited studies) and that ESMO recommends adjuvant chemotherapy for stage IC JGCT while ESGO/SIOPE allows surgery alone for IC1 and chemotherapy for IC2/IC3 JGCT; clinicians tend to follow ESMO because of JGCT's aggressive early recurrence.
 relevance_to_jgct: Most direct pooled evidence on whether adjuvant chemotherapy helps in stage IC granulosa cell tumors; the JGCT subgroup is only 33 patients and underpowered, and adult-type cases dominate.
-conflicts_with: []
+conflicts_with:
+- pmid-42504512
 overlaps_with: []
 superseded_by: null
 retracted: false

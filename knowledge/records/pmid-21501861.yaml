@@ -43,7 +43,8 @@ key_findings:
 - The authors note that juvenile granulosa cell tumors have been described with Ollier disease and Maffucci syndrome (citing literature) and that the prevalence of germline DICER1 mutations in OSCST in general cannot be determined from this group.
 relevance_to_jgct: Early registry evidence linking jGCT (and gynandroblastoma) to germline DICER1 mutations in familial pleuropulmonary blastoma syndrome, though only two jGCT patients are reported.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- url-f623903cbc28
 superseded_by: null
 retracted: false
 notes: Registry report; only 2 of 12 OSCST patients had jGCT, so findings are mainly about SLCT. Genetic results are aggregated by the authors so a patient-level jGCT genotype for case 8 is unknown. The same family/sisters (cases 11 and 12) may be reported again in later DICER1 or OSCST series.

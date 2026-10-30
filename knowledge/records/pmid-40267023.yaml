@@ -74,7 +74,9 @@ key_findings:
 - Among low-risk surgery-only patients (n=41) larger tumor dimension (HR 1.13, 1.01-1.27) and MI as continuous variable (HR 1.15, 1.02-1.28) were associated with recurrence; >12 cm HR 4.48 (0.50-40.26), age and intraoperative rupture not significant. Authors strongly recommend MI assessment for all juvGCT, support chemotherapy beyond stage IC1, suggest considering chemotherapy individually for low-stage high-MI tumors, surveillance with imaging and markers up to 5 years, and tumor testing for targetable alterations (e.g. AKT-directed therapy).
 relevance_to_jgct: Largest registry cohort of ovarian JGCT with central review; quantifies stage distribution, treatment and stage- and mitotic-index-specific survival, identifying high mitotic index as the main prognostic factor.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-39400264
+- url-599767ff9c45
 superseded_by: null
 retracted: false
 notes: 'Abstract and full text agree on key numbers. Staging rules: missing staging components assumed negative; IX grouped with IA; ICX when rupture status unknown. Local and central MI pooled. Chemotherapy was not randomized so its effect could not be assessed. Possible patient overlap with other IOTSTR/DICER1 registry publications. Small sample, few events, enrollment/ascertainment bias acknowledged. Table 1 lists elevated inhibin B ''median [range]'' n=37.'

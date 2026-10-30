@@ -76,7 +76,8 @@ key_findings:
 - The two tumors with TERT and EP400 mutations both recurred; the AKT1-mutated tumors had lower Ki-67.
 - The authors conclude that JGCT pathogenesis may be driven by PI3K/AKT/mTOR activation (AKT1 ITD or PTEN loss), that this needs a larger cohort, and note that PTEN/mTOR-targeted strategies are under investigation; they note Bessiere et al. found AKT1 ITD in 60% of 16 JGCTs restricted to patients under 15, and Onder et al. found DICER1 mutations in 2/8 (cited, not independently read).
 relevance_to_jgct: Small but deeply characterized ovarian JGCT cohort showing AKT1 ITD in 2/5 and PTEN loss in the AKT1-wild-type tumors, consistent with PI3K/AKT/mTOR pathway activation; also gives a broad negative and positive IHC panel useful for pathology.
-conflicts_with: []
+conflicts_with:
+- pmid-39877787
 overlaps_with: []
 superseded_by: null
 retracted: false

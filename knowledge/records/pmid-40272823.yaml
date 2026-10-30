@@ -64,7 +64,8 @@ key_findings:
 - 'The authors conclude testicular and ovarian JGCT are clinically distinct entities: testicular JGCT presents only in infancy with excellent prognosis, while ovarian JGCT can arise at any age and be aggressive.'
 relevance_to_jgct: 'Largest prospective pediatric JGCT cohort (113, testis and ovary): defines the stage-based chemotherapy stratification (chemotherapy for IC2 and higher), high mitotic rate as a risk factor, and testicular JGCT as benign with no relapses.'
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-42504512
 superseded_by: null
 retracted: false
 notes: Registry report in a journal. Table 7 lists 17 patients for IC2/IC3 versus 18 in other tables (one with incomplete data). The text says Ki-67/MIB-1 staining ranged '5% to 8%', which appears to be a typo (relapsed cases reached 20-50%). Overlaps in time and country with the historical MAKEI cohort (Schneider 2003) and probably with the European recommendations in pmid-42504512 and testicular case reports from Germany (pmid-33201299 is a single-center series, overlap possible).

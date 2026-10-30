@@ -56,7 +56,8 @@ key_findings:
 - 'Genetic or systemic conditions were found in 21 (22.3%) of 94: Ollier disease 14, Maffucci syndrome 1, ovotesticular DSD 1, DICER1 syndrome 1, Beckwith-Wiedemann 1, Li-Fraumeni plus PTEN hamartoma tumor syndrome 1, NF1 1, tuberous sclerosis 1. Both the DICER1 and the LFS/PHTS patient died of tumor. Secondary malignancy occurred in 6 (6.4%), including 2 contralateral metachronous jGCT.'
 - 'Recommendations summarized (as authors'' recommendations from EXPeRT/PARTNER and ESGO/SIOPE sources): fertility-sparing unilateral salpingo-oophorectomy for stage I with staging inspection, tumorectomy not generally recommended, no debulking in disseminated disease except palliative, PEB or PEI 4 cycles (6 if metastatic) for advanced disease, follow-up every 3 months for the first 3 years, and genetic counselling; authors propose multidisciplinary flowcharts for diagnosis and follow-up.'
 relevance_to_jgct: Pediatric-focused synthesis and 94-case literature review of juvenile granulosa cell tumor providing pooled presentation, stage, relapse and syndrome-association figures plus a multidisciplinary management flowchart.
-conflicts_with: []
+conflicts_with:
+- pmid-42504512
 overlaps_with: []
 superseded_by: null
 retracted: false

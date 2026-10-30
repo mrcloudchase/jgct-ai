@@ -45,7 +45,8 @@ key_findings:
 - Therapeutic section is about malignant TSCSTs generally (CDK4, mTOR, PARP, Wnt and CD30-directed options experimental); none JGCT-specific.
 relevance_to_jgct: Contrasts testicular JGCT (benign infantile tumour, monosomy 10, no AKT1/GNAS) with ovarian JGCT and endorses re-labelling it as benign juvenile-type granulosa cell tumour.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-42421431
 superseded_by: null
 retracted: false
 notes: Review with no patient counts for JGCT; statements about JGCT are cited from other papers. Publication year in record is 2026 per existing metadata (online 2025). Written by authors of the TESST group recommendations.

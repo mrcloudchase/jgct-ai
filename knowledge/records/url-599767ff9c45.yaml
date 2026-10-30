@@ -28,7 +28,8 @@ key_findings:
 - 'Primary outcome: DICER1 mutations in ovarian and testicular stromal tumors (germline and tumor sequencing, mRNA/miRNA expression correlated with outcome), 3 years; secondary: clinical factors associated with outcome (10 years) and pathologic/genetic correlations (5 years). No results posted.'
 relevance_to_jgct: The registry that underlies several JGCT-relevant reports (including the OTST conference abstracts); it explicitly lists juvenile granulosa cell tumor among its tumor types and enrolls patients, families and biospecimens.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-40267023
 superseded_by: null
 retracted: false
 notes: Registry listing only; no results posted. Reference list in the record includes OTST registry publications (e.g. PMIDs 26289771, 29037807, 38657450).

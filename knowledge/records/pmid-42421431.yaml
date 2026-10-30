@@ -37,7 +37,8 @@ key_findings:
 - 'Limitations stated: relies on limited datasets, limited molecular validation for some entities, considerable interobserver variability, some entities provisional.'
 relevance_to_jgct: Formal expert-consensus nomenclature that separates benign infantile testicular JGCT from ovarian JGCT, relevant to counselling and to avoiding overtreatment of testicular cases.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-41384702
 superseded_by: null
 retracted: false
 notes: Classification paper without patient data; JGCT statements are cited from other sources. Companion to the TESST review/white paper (pmid-41384702, same group). Source tier guideline kept (consensus classification).

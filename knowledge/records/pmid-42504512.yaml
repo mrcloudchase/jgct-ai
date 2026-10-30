@@ -67,8 +67,11 @@ key_findings:
 - 'Follow-up: tumor markers (inhibin, estrogen/testosterone, CA125) if previously elevated; examination with abdominal and pelvic ultrasound every 3 months for the first 2 years after therapy, then longer intervals; MRI only if ultrasound unclear; no routine imaging above the diaphragm.'
 - 'Relapse: usually within 2 years (except adult GCT), most often peritoneal, prognosis poor with long-term survival approximately 20% or lower even in chemotherapy-naive patients; metachronous contralateral tumors (often with DICER1) usually appear after 2 years or more and have prognosis comparable to a first tumor.'
 relevance_to_jgct: Current European consensus standard for staging, surgery, risk-based adjuvant chemotherapy (cisplatin-based, from IC2), genetic testing and follow-up of pediatric ovarian JGCT.
-conflicts_with: []
-overlaps_with: []
+conflicts_with:
+- pmid-41367860
+- pmid-40350706
+overlaps_with:
+- pmid-40272823
 superseded_by: null
 retracted: false
 notes: Guideline text published 2026 (accepted June 2026); full text read from an institutional repository PDF of the open-access article; figure 1 flowchart text is garbled but mirrors Table 3; supplementary Tables S1-S2 (evidence grading, chemotherapy regimens) not included in the text read. Builds on EXPeRT/PARTNER 2021 recommendations and on the STEP registry analysis in pmid-40272823 (same lead author), so the evidence overlaps.

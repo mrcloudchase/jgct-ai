@@ -28,7 +28,8 @@ key_findings:
 - 'Primary outcome: event-free survival (7 years); secondary: response, overall survival, quality of life, cardiac and pulmonary outcomes, and incidence of neoplasms in individuals with germline DICER1 variants. Tumor tissue, blood, urine and CSF may be banked. No results posted.'
 relevance_to_jgct: Registry of DICER1-related tumors and carriers; it enrolls sex cord-stromal tumors (Sertoli-Leydig, gynandroblastoma) but does not name JGCT, so relevance to JGCT is indirect (DICER1 context).
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-21501861
 superseded_by: null
 retracted: false
 notes: Registry listing only; no results posted. JGCT is not named anywhere in the record.

@@ -1,0 +1,46 @@
+source_id: '21526089'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21526089/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3082815
+language: en
+pmid: '21526089'
+doi: null
+pmcid: PMC3082815
+title: Granulosa cell tumor in a six-year-old girl presented as precocious puberty
+journal: null
+year: 2010
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 6 years
+alterations: []
+treatments:
+- regimen: Left salpingo-oophorectomy (left ovary resected with mass); before diagnosis medroxyprogesterone 5-10 mg/day and an LHRH agonist had been given for presumed precocious puberty
+  setting: primary surgery
+  n: 1
+  outcome: 'good response at 4-6 months follow-up: breast size regressed and serum estradiol decreased'
+presentation:
+- breast enlargement (Tanner III) with pubic hair
+- intermittent periumbilical abdominal pain and nausea for 4 months
+- intermittent vaginal bleeding
+- peripheral (gonadotropin-independent) precocious puberty
+key_findings:
+- A 6-year-old girl presented with 4 months of breast enlargement and periumbilical abdominal pain with nausea, followed by vaginal bleeding; she was initially treated with medroxyprogesterone and then an LHRH agonist for presumed precocious puberty.
+- 'Labs showed peripheral precocious puberty: estradiol 216 pmol/L, FSH <0.5 IU/L, LH <0.4 IU/L, alpha-fetoprotein 2 ng/ml; the LHRH test produced no rise in LH or FSH.'
+- Pelvic ultrasound showed a 6.2 x 5 x 4.1 cm hypoechoic solid left adnexal mass with multiple cysts up to 1.2 cm; CT showed a large non-uniform solid mass with necrotic regions. The right ovary and uterus were normal.
+- At laparotomy a 5 x 7 cm left ovarian mass was resected with the left ovary; no pelvic lymphadenopathy; histology was reported as ovarian juvenile granulosa cell tumor (no staging reported in the case).
+- At 4-6 months of follow-up the response was good, with regression of breast size and a fall in serum estradiol.
+- The authors state that GCTs are 0.1% of ovarian tumors and 4-5% of GCTs occur in children, isosexual precocity occurs in 70-80% of prepubertal girls with GCT, about 90% of JGCT are stage I, and that unilateral oophorectomy is appropriate for stage I without adjuvant chemotherapy (literature statements cited by the authors).
+- The authors conclude that ovarian tumors must be considered among causes of precocious puberty, and that persistent ovarian cysts with a solid component beyond three months should raise suspicion of JGCT.
+relevance_to_jgct: Case report of ovarian JGCT presenting as peripheral precocious puberty in a 6-year-old; illustrates presentation and surgical cure.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Title says 'granulosa cell tumor'; histology described as juvenile type. Journal, author, DOI not present in the fetched text. Stage not stated. Authors describe JGCT as 'benign tumors', which conflicts with the malignant potential described elsewhere.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
