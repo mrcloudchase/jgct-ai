@@ -30,7 +30,7 @@ relevance_to_jgct: Interim International OTST Registry JGCT analysis; superseded
 conflicts_with: []
 superseded_by: pmid-40267023
 retracted: false
-notes: ASCO 2020 abstract, J Clin Oncol 38(15_suppl):6064. Abstract text reconstructed verbatim from the OpenAlex abstract_inverted_index (W3032108714). Same registry as pmid-40267023 (Harris AK 2025, n=70); patients overlap and the journal report supersedes this interim abstract.
+notes: ASCO 2020 abstract, J Clin Oncol 38(15_suppl):6064. Abstract text reconstructed verbatim from the OpenAlex abstract_inverted_index (W3032108714). Same registry as pmid-40267023 (Harris AK 2025, n=70); patients overlap and the journal report supersedes this interim abstract. Interim 2020 ASCO report; superseded by the full IOTSTR JGCT paper pmid-40267023 (set 2026-10-30).
 confidence: 3
 review_status: draft
 reviewed_by: null

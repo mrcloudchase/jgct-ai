@@ -9,6 +9,9 @@ All scripts run with `python3` from the repository root. Dependencies: `pyyaml`,
 | `mkrecord.py` | Library: `rec(...)` writes a `pmid-<id>.yaml` record; `rec_url(...)` writes a `url-<sha1[:12]>.yaml` record for non-PMID sources. Sets `retrieved_on` to today and `review_status: draft`. `site=` sets `tumor_site` (default `ovary` for `rec`, null for `rec_url`); `lang=` sets language. Typical use: write a throwaway batch script outside the repo that imports it. |
 | `validate.py` | Schema validation plus project rules: file stem matches source, confidence ceilings per tier (abstract-only peer_reviewed <= 3, model_assisted_fetch <= 3, etc.), confidence 5 requires full_text, `conflicts_with` targets exist and are reciprocal, `tumor_site` key present on every record. Exit 1 on errors. |
 | `check_meta.py` | Cross-checks every pmid record's DOI, year, and title against PubMed esummary. Run after writing records. |
+| `openalex_discover.py` | OpenAlex discovery: `fetch '<search>' <out.jsonl> [filter]` pages /works and reconstructs abstracts verbatim from `abstract_inverted_index`; `compare <out.jsonl> .` lists items whose PMID/DOI is not in the ledger. Set `OPENALEX_MAILTO`. Run with `python3 -I`. |
+| `cbio_grct_scan.py`, `cbio_grct_detail.py` | cBioPortal public API: scan all studies for samples labelled granulosa (OncoTree GRCT, cancer type text), then pull clinical data and mutations for one study. Output in `state/cache/cbio/`. GENIE instance needs login (HTTP 401). |
+| `epmc_supplement_grep.py` | Fetch a congress-supplement full text from Europe PMC (fallback NCBI) and print each abstract-sized unit matching a regex (default JGCT terms), verbatim. For conference abstracts. |
 | `build_index.py` | Regenerates `knowledge/INDEX.md` (with tumor site column; automatically splits into `knowledge/index/<study_type>.md` topic indexes once it would pass ~300 lines) and the ledger snapshot section of `sources/INDEX.md` (below the `<!-- LEDGER-SNAPSHOT -->` marker; text above it is hand-maintained). |
 
 ## Typical run
@@ -28,4 +31,4 @@ python3 tools/build_index.py
 
 - `fetch.py` priority scoring is keyword-based and noisy; consider using PubMed publication types and MeSH.
 - `ledger.py search` cannot search by author; add an `authors` column when next touching discovery.
-- No conference-abstract or non-US trial-registry fetchers yet.
+- Conference abstracts: `epmc_supplement_grep.py` plus OpenAlex; ESPE abstracts are on abstracts.eurospe.org. Non-US trial registries (EU CTR/CTIS, ISRCTN, JRCT, ChiCTR) were probed by curl on 2026-10-30 but there is no fetcher yet.

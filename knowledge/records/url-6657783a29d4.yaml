@@ -37,7 +37,7 @@ relevance_to_jgct: 'Public genomic database view of granulosa cell tumors: only 
 conflicts_with: []
 superseded_by: null
 retracted: false
-notes: 'Queried by script (/tmp/scratch/cbio_grct_scan.py and cbio_grct_detail.py, to be moved to tools/) via https://www.cbioportal.org/api: GET /studies; GET /studies/{id}/clinical-data?clinicalDataType=SAMPLE&attributeId=...; POST /clinical-data/fetch; POST /molecular-profiles/{id}/mutations/fetch. Counts of samples are tallies of API rows retrieved on 2026-10-30 (not numbers published by an author) and will change as studies are updated. n_jgct_patients=1 counts only the explicitly labeled patient (P-0013654). Any reading of the unlabeled young-patient GRCT samples as JGCT is an inference, not a database statement. Panel sequencing (MSK-IMPACT) does not detect all alterations; ''no mutations called'' does not exclude AKT1 duplications or other events outside panel/caller scope.'
+notes: 'Queried by script (tools/cbio_grct_scan.py and tools/cbio_grct_detail.py) via https://www.cbioportal.org/api: GET /studies; GET /studies/{id}/clinical-data?clinicalDataType=SAMPLE&attributeId=...; POST /clinical-data/fetch; POST /molecular-profiles/{id}/mutations/fetch. Counts of samples are tallies of API rows retrieved on 2026-10-30 (not numbers published by an author) and will change as studies are updated. n_jgct_patients=1 counts only the explicitly labeled patient (P-0013654). Any reading of the unlabeled young-patient GRCT samples as JGCT is an inference, not a database statement. Panel sequencing (MSK-IMPACT) does not detect all alterations; ''no mutations called'' does not exclude AKT1 duplications or other events outside panel/caller scope.'
 confidence: 3
 review_status: draft
 reviewed_by: null
