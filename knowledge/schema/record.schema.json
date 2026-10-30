@@ -104,12 +104,27 @@
         "cohort",
         "genomic",
         "review",
+        "meta_analysis",
         "trial",
         "registry",
         "guideline",
         "database_entry",
         "other"
       ]
+    },
+    "tumor_site": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "ovary",
+        "testis",
+        "both",
+        "other",
+        null
+      ],
+      "description": "Site of the JGCT the source is about. 'both' for sources covering ovarian and testicular tumors; null if not stated or not applicable."
     },
     "n_jgct_patients": {
       "type": [

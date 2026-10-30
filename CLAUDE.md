@@ -21,7 +21,7 @@ You own everything below except the files marked fixed. Create what does not exi
 | `knowledge/schema/record.schema.json` | The record schema. Fixed. Every record validates against it. |
 | `knowledge/records/<source_type>-<source_id>.yaml` | One record per source. |
 | `knowledge/INDEX.md` | Index of the knowledge base: one line per record. When it passes about 300 lines, split it into topic indexes under `knowledge/index/` and make `INDEX.md` an index of those. |
-| `knowledge/SUMMARY.md` | Narrative synthesis of what the base says about JGCT, under 2,500 words, every factual sentence citing record IDs in brackets. Rewritten whenever records change. |
+| `knowledge/README.md` | Narrative synthesis of what the base says about JGCT, in two parts. Rewritten whenever records change. See "The knowledge README" below. |
 | `sources/INDEX.md` | Index of every source: where it is, how to query it, its tier, when you last checked it, what you found. This is yours to build and keep the best it can be. |
 | `state/` | Your ledger of every source item found, processed, unreachable, or skipped, in whatever format you choose, plus `state/runs/<date>.md`, one run report per run. |
 | `tools/` | Scripts you write to fetch, extract, validate, and index. Reuse and improve what earlier runs left; do not rewrite from scratch. Keep `tools/README.md` current so the next run knows what exists. |
@@ -56,6 +56,8 @@ Every record carries a `source_tier`. Pick the lowest tier that honestly describ
 | `organization` | Foundation, hospital, or rare disease organization page | 2 |
 | `other` | Credible but unclassified | 2 |
 
+Tiering decisions already made, so runs stay consistent: a ClinicalTrials.gov or other trial registry entry is `database`. A disease registry's own report, such as a STEP or International Ovarian and Testicular Stromal Tumor Registry paper, is `registry` even when it appears in a peer-reviewed journal. An NCI PDQ summary is `organization`; it is expert-written but not peer-reviewed in the journal sense. Set `tumor_site` on every record: `ovary`, `testis`, `both`, `other`, or null when the source does not say.
+
 Rules that do not bend:
 
 - **Only cite what you fetched this run.** A record is written from text you retrieved. Never from memory of a paper.
@@ -66,6 +68,15 @@ Rules that do not bend:
 - **Patient communities, forums, social media, and personal stories are never sources.**
 - **No medical advice.** Records say what sources report. The summary synthesizes literature and says so. Nothing here recommends treatment for any person.
 - **Retractions stay in the base** with `retracted: true` so nobody re-adds them.
+
+## The knowledge README
+
+`knowledge/README.md` renders when anyone opens the `knowledge/` folder on GitHub. It has exactly two parts, in this order, each under 2,500 words:
+
+1. **For clinicians and researchers.** Technical synthesis: epidemiology, presentation, pathology, molecular biology, staging, treatment, outcomes, prognostic factors, open questions. Every factual sentence cites one or more record IDs in brackets, like `[pmid-40272823]`. Where sources conflict, say so and cite both.
+2. **For parents and patients.** The same knowledge in plain language for someone with no medical training who has just heard the words "juvenile granulosa cell tumor." Define every term the first time it is used. Keep sentences short. Every factual sentence still cites record IDs, so a parent can hand the paragraph to a doctor. Say clearly what is well established, what is uncertain, and what is unknown. It must not tell anyone what to do; it points to the questions worth asking a care team. It does not soften bad findings and does not dramatize them.
+
+Both parts open with one sentence saying the text is a synthesis of recorded sources, not medical advice, and that all records are drafts until a human reviews them.
 
 ## How to work within a run
 
@@ -81,7 +92,7 @@ Start finishing with at least fifteen percent of the budget left. In this order:
 
 1. Validate every record against the schema with your validator. Fix every error.
 2. Rebuild `knowledge/INDEX.md` and `sources/INDEX.md`.
-3. Rewrite `knowledge/SUMMARY.md` if any record changed.
+3. Rewrite `knowledge/README.md` if any record changed.
 4. Complete `state/runs/<today>.md`: plan, what was added and updated with tier and confidence (lowest confidence first), what was unreachable and why, conflicts noted, what remains in the backlog, approximate spend, and suggested changes to this file or the schema that you may not make yourself.
 5. Create a branch named `research/<today>`, commit everything with a clear message, push it, and open a pull request to `main` with the run report as the body, the label `research-sweep`, and `mrcloudchase` requested as reviewer. Use `gh pr create`; if it fails, use the REST API through `gh api`. Never merge, never approve, never push to main.
 
