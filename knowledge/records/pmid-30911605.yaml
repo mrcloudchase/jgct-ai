@@ -1,0 +1,45 @@
+source_id: '30911605'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30911605/
+retrieved_on: '2026-10-30'
+full_text_source: PMC6386511
+language: en
+pmid: '30911605'
+doi: 10.1515/pp-2016-0002
+pmcid: PMC6386511
+title: 'Hyperthermic intraperitoneal chemotherapy for women with granulosa cell tumors of the ovary: a systematic review of the literature.'
+journal: Pleura and peritoneum
+year: 2016
+first_author: Tempfer CB
+study_type: review
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: null
+alterations: []
+treatments:
+- regimen: Cytoreductive surgery plus HIPEC with oxaliplatin 360 mg/m2 + irinotecan 360 mg/m2 for 30 min (Gouy et al. 2013), recurrent JGCT
+  setting: recurrent disease; 1 JGCT among 7 patients (6 AGCT)
+  n: 1
+  outcome: complete cytoreduction (CCR0) in all 7 patients; for the 7 patients overall, 5 relapsed (3 peritoneal, 2 liver) at median 32 months follow-up; the outcome of the single JGCT patient is not separated in this review
+- regimen: Cytoreductive surgery plus HIPEC with cisplatin 100 mg/m2 for 90 min, closed technique (Hayes-Jordan et al. 2015), after neoadjuvant chemotherapy
+  setting: pediatric girl with JGCT, multiple recurrences over 8 years, prior high-dose total abdominal radiation, 'frozen abdomen'
+  n: 1
+  outcome: enterocutaneous fistula; recurrence and death 12 months after the procedure
+presentation: []
+key_findings:
+- Systematic search (PubMed 3 March 2016, plus Cochrane CENTRAL; one in-press article by personal communication) found 5 reports of cytoreductive surgery (CRS) plus hyperthermic intraperitoneal chemotherapy (HIPEC) in recurrent granulosa cell tumor; no report in a first diagnosis.
+- 'Pooled in the Results text and Table 1: 19 patients, of whom 2 had recurrent JGCT and 17 recurrent adult GCT (AGCT). The abstract says 19 recurrent AGCT and one JGCT; the review''s own table and discussion give 2 JGCT among 19.'
+- 'JGCT patient 1 (Gouy et al., 7 patients with 6 AGCT and 1 JGCT): oxaliplatin 360 mg/m2 + irinotecan 360 mg/m2 HIPEC for 30 min; complete cytoreduction in all 7, no grade 4 morbidity or procedure mortality; 5/7 relapsed (3 peritoneal carcinomatosis, 2 liver) during median 32 months (range 25-56). The JGCT patient''s individual outcome is not given.'
+- 'JGCT patient 2 (Hayes-Jordan et al., pediatric ovarian tumors; 8 of 101 children undergoing CRS/HIPEC had ovarian primaries with multifocal peritoneal disease, one a JGCT): cisplatin 100 mg/m2 for 90 min; this girl had multiple recurrences over 8 years, prior high-dose total abdominal radiation and a ''frozen abdomen'', developed an enterocutaneous fistula and died of disease 12 months after the procedure.'
+- 'Pooled for all 19: complete cytoreduction 95% (18/19), severe morbidity 16% (3/19), no procedure-related mortality; median follow-up 30 months (range 3-72); recurrence 6/19 (31%), disease-related death 2/19 (10%).'
+- Authors conclude CRS plus HIPEC is a feasible, potentially effective option for selected women with recurrent GCT limited to the abdomen, and that prior abdominal radiotherapy appears to be a contraindication, citing the JGCT patient with a frozen abdomen. They note no standardized HIPEC regimen and no randomized data; they recommend the approach mainly for recurrent adult-type disease because most reports concern that group.
+relevance_to_jgct: Only two JGCT patients are covered (one with outcome not separated), so this gives almost no efficacy evidence for JGCT; it records that HIPEC after prior abdominal radiation ended in fistula and death in a child with multiply recurrent JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Systematic review whose 19 patients are almost all adult-type; JGCT data are 2 patients drawn from two source papers (Gouy 2013; Hayes-Jordan 2015). Internal inconsistencies: abstract says one JGCT, text/table say two; oxaliplatin dose given as 460 or 360 mg/m2 in different places; the 6 recurrences among 19 are computed from the table, whose recurrence counts (5+0+0+1+0) include the JGCT death. Table 1 follow-up for Hayes-Jordan is 12 months. Figure 2 (images) shows adult tumors. Authors report a case (Dogan et al., AGCT) as part of the pool.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
