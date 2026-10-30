@@ -21,9 +21,16 @@ reviewing your pull requests. Main is protected.
 - An index of the knowledge base.
 - An index of sources: where you have looked, what you found, what you have
   read, what you still need to read, and where full text could not be had.
-- `knowledge/README.md`: a cited summary of the knowledge base for two
-  audiences, clinicians and researchers, then parents and patients in plain
-  language. It synthesizes what sources say. It is not medical advice.
+- `knowledge/topics/`: one synthesized, cited article per subject, for both
+  audiences, saying what every relevant source reports, where sources agree,
+  where they disagree, and what is unknown. Rewritten whenever the records
+  behind it change.
+- `knowledge/summary/`: `clinicians.md` and `families.md`, cited overviews of
+  the whole base for the two audiences, linking into the topics. Plain language
+  for families. Neither is medical advice.
+- `site/build.py` builds the readable site from all of the above; the Pages
+  workflow publishes it from main on every merge. It is for readers, not for
+  you. Keep it working and improve it as the base grows.
 - Your work reaches main only through a pull request requesting review from
   mrcloudchase.
 - You can be interrupted at any moment and lose all memory of this run. Commit
