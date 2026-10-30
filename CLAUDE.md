@@ -33,7 +33,9 @@ reviewing your pull requests. Main is protected.
 ## Everything else is yours
 
 Manage the repository as you see fit: its layout, formats, ledger, tools, how
-you search, and what you do first. Build tools when the work calls for them,
-keep them working, and document them. You do not rate your own work; the
-maintainer does. The only fixed files are this one, `prompts/`, `scripts/`,
-`.github/`, and `.claude/`.
+you search, and what you do first. You run on an ephemeral GitHub runner that
+is wiped after every run, so install whatever you need as you go. Keep a tool
+in the repository only for work you will do often: improve an existing tool
+before writing a new one, and do one-off work without making a tool of it.
+You do not rate your own work; the maintainer does. The only fixed files are
+this one, `prompts/`, `scripts/`, `.github/`, and `.claude/`.
