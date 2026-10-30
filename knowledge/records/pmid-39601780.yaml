@@ -1,0 +1,42 @@
+source_id: '39601780'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/39601780/
+retrieved_on: '2026-10-30'
+full_text_source: PMC11790369
+language: en
+pmid: '39601780'
+doi: 10.1158/1078-0432.CCR-24-2171
+pmcid: PMC11790369
+title: Update on Cancer Screening in Children with Syndromes of Bone Lesions, Hereditary Leiomyomatosis and Renal Cell Carcinoma Syndrome, and Other Rare Syndromes.
+journal: 'Clinical cancer research : an official journal of the American Association for Cancer Research'
+year: 2025
+first_author: Michaeli O
+study_type: guideline
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: IDH1 / IDH2
+  alteration: somatic IDH1 p.Arg132 or IDH2 p.Arg172Ser in enchondromatosis lesions
+  frequency: about 80% of Ollier disease/Maffucci syndrome patients; same IDH variant as in the enchondromas reported in some JGCT cases
+  notes: post-zygotic mosaicism, not constitutional
+treatments: []
+presentation:
+- lower abdominal pain in women with Ollier disease/Maffucci syndrome as a symptom prompting suspicion of juvenile granulosa cell tumor
+key_findings:
+- Consensus-based review from the 2023 AACR Childhood Cancer Predisposition Workshop on cancer surveillance in children with syndromes of bone lesions (Ollier disease, Maffucci syndrome, hereditary multiple osteochondromas and related), HLRCC, Schinzel-Giedion and Rubinstein-Taybi syndromes.
+- For Ollier disease (OD) and Maffucci syndrome (MS), the paper states juvenile granulosa cell tumors were reported in at least twelve cases, some with molecular data showing the same IDH variant as in the enchondromas.
+- Overall tumor risk in OD/MS is up to 50%; chondrosarcoma about 30% (median transformation age 30-52 years, rarely as young as 10); gliomas 1.2-16.3%; in MS 8.5% of vascular lesions become malignant. Somatic IDH1 (p.Arg132) or IDH2 (p.Arg172Ser) variants occur in about 80%.
+- 'Surveillance recommended for OD/MS: baseline whole-body MRI (deferred to about 6-8 years to avoid general anesthesia), physical examination every 6-12 months until adulthood (12-24 months in adults), plain radiographs of known lesions every 2-3 years, yearly MRI for lesions >5-6 cm or in pelvis/scapula, WBMRI with dedicated brain MRI every 1-2 years from age 20.'
+- No JGCT-specific imaging or marker screening is proposed; the panel advises a high index of suspicion for other symptoms, specifically lower abdominal pain in women (juvenile granulosa cell tumor) and neurological symptoms (glioma). Table 1 groups vascular malignancies, gliomas and JGCT as a 1-16% risk category with 6-12 monthly physical examination.
+- The panel acknowledges that higher malignancy risk in enchondromatoses may reflect ascertainment bias and that the key supporting study needs prospective validation.
+relevance_to_jgct: Consensus surveillance recommendations that name JGCT as a tumor associated with Ollier disease and Maffucci syndrome and give a symptom-based (lower abdominal pain) surveillance prompt; no JGCT patient series.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Guideline/consensus document covering several syndromes; JGCT content limited to OD/MS paragraph and Table 1. The count of at least twelve JGCT cases is the paper's citation of earlier reports. Journal and first author not stated in the retrieved full text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

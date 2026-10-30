@@ -1,0 +1,48 @@
+source_id: 10.18544/ep-01.16.01.1664
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.18544/ep-01.16.01.1664
+retrieved_on: '2026-10-30'
+full_text_source: http://endokrynologiapediatryczna.pl/contents/files/a_1664.pdf
+language: pl
+pmid: null
+doi: 10.18544/ep-01.16.01.1664
+pmcid: null
+title: Juvenille granulosa cell tumor of the ovary in 15-year-old patient (Ziarniszczak jajnika u 15-letniej pacjentki wczesniej leczonej z powodu guza mozgu)
+journal: Endokrynologia Pediatryczna / Pediatric Endocrinology
+year: 2017
+first_author: Jablonska K
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years
+alterations: []
+treatments:
+- regimen: Laparoscopic enucleation of the right ovarian tumor (left ovary hypoplastic), then re-operation with removal of the remaining right ovary and fallopian tube; adjuvant PVB (cisplatin, vinblastine, bleomycin) x3 cycles every 21 days
+  setting: stage I (at least T1a Nx Mx) JGCT; tumor cells at the coagulation line of the enucleation
+  n: 1
+  outcome: Hormones normalized after surgery; no tumor cells in re-resection specimen or pelvic fluid; menses resumed 23 days after first surgery; no follow-up duration reported
+presentation:
+- lowered voice (timbre change) for about 6 months, age 14.5 years
+- very scant 2-day vaginal spotting at age 13
+- no hirsutism or other virilization; primary amenorrhea-like state (not menstruating), Ferriman-Gallwey 2 points
+- height 149.5 cm (<3rd centile)
+- prior brain tumor (pleomorphic xanthoastrocytoma WHO II/III, left thalamus) treated 2010-2012 with chemotherapy including cisplatin, temozolomide, 60 Gy radiotherapy and subtotal resection
+key_findings:
+- 'Case report from the Children''s Memorial Health Institute, Warsaw (article in Polish with English abstract): 15-year-old girl with a testosterone-secreting juvenile granulosa cell tumor of the right ovary whose main sign was a lowered voice for about 6 months.'
+- 'Pre-operative labs: testosterone 2.920 and 3.410 ng/ml (reference <0.950), androstenedione 410 ng/dl (90-300), 17-OHP 2.79 ng/ml (0.11-1.14), DHEAS 1648 ng/ml (normal range), estradiol 21 pg/ml and gonadotropins normal (LH 14.12, FSH 4.85 mIU/ml); tumor markers negative (beta-hCG 0.16, AFP 1.26, CA 125 10.10 U/ml, HE4 20 pmol/l).'
+- 'Ultrasound: enlarged right ovary 43x30x41 mm, solid-cystic, smooth wall; left ovary not seen. MRI: right ovary entirely replaced by a well-demarcated solid-cystic tumor with septa and mural nodules enhancing after contrast, about 39x31x43 mm, no fat, no lymphadenopathy; left ovary 14x6x12 mm.'
+- Laparoscopy found left ovarian hypoplasia; karyotype 46,XX and FISH excluded Y chromosome material. Tumor enucleated to preserve fertility.
+- 'Histology: 4x2.5x2.5 cm cystic beige-brown tumor with a hyperemic capsule area; cystic and solid fields, edema, many luteinized cells; tumor tissue in the coagulation line; 6 mitoses per 10 HPF; Ki-67 up to 30%; inhibin alpha positive, CK7 negative, Melan-A focally positive, EMA negative; stage at least T1a Nx Mx (FIGO I).'
+- Because of tumor cells at the coagulation line and the tumor's character, a second laparoscopy removed the remaining right ovary and tube (no tumor cells; pelvic fluid negative; left ovarian cyst biopsy normal), followed by 3 cycles of PVB.
+- After surgery testosterone fell to 0.464 ng/ml, androstenedione to 99 ng/dl, and urinary steroid profile normalized; estradiol remained normal.
+- 'Authors'' discussion: androgen secretion is more often reported in adult-type GCT; they cite Young et al. (125 JGCT: precocious puberty 82%, irregular or absent menses 15%, 2 with Ollier disease and 2 with Maffucci syndrome) and note that late recurrence can occur even in stage I JGCT, so long follow-up is needed. They conclude that an optimal treatment strategy for JGCT is needed to avoid unnecessary procedures and preserve quality of life and fertility.'
+relevance_to_jgct: Case of androgen-secreting JGCT in an adolescent with prior brain tumor chemo-radiotherapy; shows fertility-sparing enucleation followed by completion surgery and PVB because of positive margin.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Original in Polish with English abstract; read in Polish. The authors state they cannot tell whether the tumor shares a genetic basis with, is independent of, or is a complication of the earlier brain tumor treatment. Text gives units for post-op testosterone as 464 pg/ml and 0.464 ng/ml (consistent). 'No follow-up duration' is stated beyond normal control hormone tests. Literature statements (e.g. incidence figures) are cited, not original.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

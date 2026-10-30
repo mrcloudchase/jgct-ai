@@ -1,0 +1,47 @@
+source_id: 10.38029/babcockuniv.med.j..v7i2.560
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.38029/babcockuniv.med.j..v7i2.560
+retrieved_on: '2026-10-30'
+full_text_source: https://bumj.babcock.edu.ng/index.php/bumj/article/download/560/167
+language: en
+pmid: null
+doi: 10.38029/babcockuniv.med.j..v7i2.560
+pmcid: null
+title: 'Pseudo-precocious puberty secondary to Juvenile Granulosa cell tumour in a 30-month-old female toddler: A case report'
+journal: Babcock University Medical Journal
+year: 2024
+first_author: Oni TE
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 30 months
+alterations: []
+treatments:
+- regimen: Exploratory laparotomy with left oophorectomy, 7 months after presentation; no adjuvant therapy
+  setting: primary surgery
+  n: 1
+  outcome: no recurrence of symptoms 17 months after surgery; follow-up limited by finances
+presentation:
+- vaginal bleeding for 3 months (up to 6 changes of underwear a day, interval shortening to 14 days)
+- breast enlargement and sparse pubic and axillary hair (Tanner 2)
+- height 97th centile, temper tantrums
+- palpable 4 x 6 cm lower abdominal mass
+- 2-year history of steroid-containing skin cream use
+key_findings:
+- A 30-month-old Nigerian girl presented with 3 months of vaginal bleeding, breast enlargement, sparse pubic/axillary hair, accelerated height (94 cm, 97th centile) and temper tantrums; Tanner stage 2 breast and pubic hair; a 4 x 6 cm firm lower abdominal mass; bone age was normal; no cafe-au-lait spots.
+- A 2-year history of maternal use of a steroid-containing skin cream (stopped 3 months before symptom onset) initially clouded the work-up.
+- Estradiol was <9.0 pg/ml at presentation, 64.6 pg/ml 6 months later (reference <15), and 26.9 pg/ml 1 month after surgery; FSH and LH stayed low-normal; AFP, CA-125 and beta-hCG were normal.
+- Ultrasound showed a 62.1 x 33.6 x 53.8 mm heterogeneous left lower abdominal mass; pelvic MRI showed a 47.8 x 38.6 x 50.4 mm round heterogeneous mass with multiple cystic foci inseparable from the left ovary.
+- 'At laparotomy 7 months after presentation: encapsulated 6 x 4 cm left ovary with adherent tube, about 60 ml ascites, normal pelvic and para-aortic nodes; left oophorectomy was done. Peritoneal fluid cytology showed no malignant cells.'
+- 'Histology: solid sheets of tumor cells with small immature follicles containing secretions, round hyperchromatic ungrooved nuclei, occasional Call-Exner bodies, consistent with JGCT; no IHC is reported. Staged FIGO IA.'
+- No recurrence of symptoms 17 months after surgery; authors note that follow-up was hampered by financial difficulties, and conclude that rare causes such as JGCT should be considered in prepubertal girls with pseudo-precocious puberty.
+relevance_to_jgct: Toddler ovarian JGCT with peripheral precocious puberty in Nigeria, stage IA, treated by oophorectomy alone.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The abstract says 'cytological analysis of excised tissues revealed Call-Exner bodies', whereas the text shows these were histological findings. No immunohistochemistry reported. The 7-month interval between presentation and surgery is stated. Authors state the 'staging according to FIGO 2014'.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

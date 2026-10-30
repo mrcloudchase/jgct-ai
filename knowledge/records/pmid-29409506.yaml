@@ -1,0 +1,48 @@
+source_id: '29409506'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/29409506/
+retrieved_on: '2026-10-30'
+full_text_source: PMC5802052
+language: en
+pmid: '29409506'
+doi: 10.1186/s13048-018-0384-1
+pmcid: PMC5802052
+title: The molecular mechanism of ovarian granulosa cell tumors.
+journal: Journal of ovarian research
+year: 2018
+first_author: Li J
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: 402C>G (C134W) somatic missense mutation
+  frequency: reported by the review in more than 97% of adult GCT (AGCT)
+  notes: the review states FOXL2 expression is also downregulated in aggressive JGCT; cited reports, not original data
+- gene: SMAD1/SMAD5
+  alteration: conditional deletion in mouse granulosa cells causes metastatic GCT that phenocopies human JGCT
+  frequency: null
+  notes: mouse model
+- gene: TGF-beta/SMAD2/3 pathway
+  alteration: reported active in JGCT
+  frequency: null
+  notes: cited statement; TGF-beta may promote JGCT by inhibiting apoptosis
+treatments: []
+presentation: []
+key_findings:
+- Narrative review of molecular mechanisms of ovarian granulosa cell tumor (GCT), which it describes as 2-5% of ovarian cancers; about 95% are adult (AGCT) and the rest juvenile (JGCT); the review says JGCT occurs only in people younger than 30 years (the review's wording attributes hypoestrogenism and abdominal mass to JGCT, although GCT is estrogen-secreting).
+- 'Most of the review concerns AGCT: FOXL2 402C>G (C134W) in more than 97% of AGCT; the review adds that FOXL2 expression was reported to be downregulated in aggressive JGCT.'
+- 'JGCT-specific molecular statements: conditional deletion of SMAD1 and SMAD5 in mouse granulosa cells causes metastatic GCT that phenocopies human JGCT, and the TGF-beta/SMAD2/3 pathway is active in JGCT, where TGF-beta may promote tumor growth by inhibiting apoptosis (cited work).'
+- 'Other pathways covered, mostly from cell lines (KGN) and mouse models rather than JGCT: PI3K/AKT-FOXO-PTEN, Notch, activin/inhibin, BMP, AMH, GATA4 and VEGF; the review notes the relationship between these pathways and human GCT is often unclear.'
+- 'Review conclusion: 5-year survival is up to 90%, recurrence is the main cause of death, surgery remains the most important treatment, and hormonal, anti-VEGF and pathway-targeted strategies remain at an early, adjunctive stage.'
+relevance_to_jgct: Molecular review dominated by AGCT; contains only a few JGCT-specific statements (FOXL2 downregulation in aggressive JGCT, SMAD1/5 knockout mouse phenocopy, active TGF-beta/SMAD2/3 pathway). No patient data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Review does not mention AKT1 or GNAS mutations in JGCT. Its FOXL2 frequency (>97% in AGCT) differs from other sources (86/89, about 97%). Statements about JGCT are secondhand citations.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

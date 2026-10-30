@@ -1,0 +1,45 @@
+source_id: 10.51288/00810113
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.51288/00810113
+retrieved_on: '2026-10-30'
+full_text_source: https://www.sogvzla.org.ve/sogvzla20186/cms/svcobtenerpdfrevista.php?id=0000000102&tipo=normal&fila=12
+language: es
+pmid: null
+doi: 10.51288/00810113
+pmcid: null
+title: Tumor de células de la granulosa juvenil de ovario. Presentación inusual. Reporte de un caso
+journal: Revista de Obstetricia y Ginecología de Venezuela
+year: 2021
+first_author: Lara E
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 31 years
+alterations: []
+treatments:
+- regimen: Total hysterectomy, right salpingo-oophorectomy, pelvic and para-aortic lymphadenectomy, infracolic omentectomy, peritoneal sampling (staging surgery); referred for adjuvant chemotherapy
+  setting: primary
+  n: 1
+  outcome: Discharged at 72 hours; no follow-up outcome reported
+presentation:
+- abdominal distension and 10-15 kg weight loss for 6 months
+- massive ascites (5 L)
+- solid pelvic mass 22 cm on examination
+- no hormonal symptoms
+key_findings:
+- Spanish-language case report of a 31-year-old woman with 6 months of abdominal enlargement and 10-15 kg weight loss; massive ascites and a large multilobulated pelvic tumor (25 x 20 cm on ultrasound, 24 x 18.5 cm on CT, 30 x 20 cm at surgery); 5 L of ascites.
+- CA-125 389.4 IU/mL; AFP, CEA, CA 19-9 and beta-hCG were normal; no hormonal symptoms were present and preoperative inhibin B could not be measured.
+- Laparotomy with frozen section positive for malignancy led to total hysterectomy, right salpingo-oophorectomy, pelvic and para-aortic lymphadenectomy, omentectomy and peritoneal sampling; the lymphadenectomy was done because malignancy of epithelial origin could not be excluded.
+- 'Final pathology: sex cord-stromal tumor suggestive of malignant juvenile granulosa cell tumor, vascular invasion present, ovarian surface involvement; ascitic fluid, peritoneal samples and right iliac nodes contained tumor cells; inhibin B positive; staged IIIA2.'
+- The patient was referred to medical oncology for adjuvant chemotherapy (regimen not stated); no follow-up data are reported.
+- Authors conclude JGCT should be in the differential for young women with massive ascites and an ovarian tumor, stage at diagnosis is the main prognostic factor, and diagnosis requires histology and immunohistochemistry.
+relevance_to_jgct: Adult-age (31 years) advanced-stage JGCT (IIIA2) presenting with massive ascites; limited by lack of treatment detail and follow-up.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Original in Spanish. Abstract states a right ovarian tumor whereas the text describes a left ovarian tumor (30 x 20 cm) with the right ovary 4 x 3 x 2 cm and a right salpingo-oophorectomy performed; the surgical laterality is internally inconsistent. Diagnosis rests on H&E and inhibin B only; the term 'suggestive of' JGCT is used. A 31-year-old age is atypical for JGCT, as the authors note.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

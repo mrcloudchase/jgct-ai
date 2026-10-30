@@ -1,0 +1,42 @@
+source_id: '32677969'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32677969/
+retrieved_on: '2026-10-30'
+full_text_source: PMC7364467
+language: en
+pmid: '32677969'
+doi: 10.1186/s13000-020-01000-3
+pmcid: PMC7364467
+title: 'Ovarian cancer: diagnostic accuracy and tumor types distribution in East Africa compared to North America.'
+journal: Diagnostic pathology
+year: 2020
+first_author: Rambau PF
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: protein expression by IHC
+  frequency: 50% of JGCT (adult GCT 66.7%)
+  notes: n=4 JGCT per Table 4 percentages; protein expression not a mutation test
+treatments: []
+presentation: []
+key_findings:
+- Retrospective study of 210 ovarian cancer cases (2002-2017) from three Tanzanian centers and Makerere University, Uganda, re-reviewed with H&E and a 20-antibody IHC panel on tissue microarrays and compared with the Alberta Cancer Registry.
+- Sex cord stromal tumors were 30/210 (14.3%) in East Africa versus 17 (0.92%) in Alberta; among East African SCST, 24 (80.0%) were adult GCT, 4 (13.3%) juvenile GCT, 2 (6.7%) Sertoli-Leydig; no JGCT among the Alberta SCST (adult GCT 12, Sertoli-Leydig 4, other 1).
+- 'JGCT IHC (Table 2, 4 cases): FOXL2 positive 50%, vimentin diffuse 75%, p16 abnormal 75%, PAX8 positive 25%, ER positive 50%; WT-1, PR, p53 mutant, Napsin A and MSH6/PMS2/ARID1A loss all 0%.'
+- 'Comparator adult GCT (24 cases): FOXL2 66.7%, vimentin 95.8%, WT-1 47.8%, PR 33.3%.'
+- Concordance of original vs IHC-integrated diagnosis was 83.3% for SCST (kappa 0.70 for major categories); one case of carcinoma NOS was re-diagnosed as adult GCT after a new H&E stain; one 'neuroblastoma' was reclassified as SCCOHT (BRG1 loss).
+- Stage was available for only four patients and no recurrence or survival data were collected; JGCT age, stage and outcomes are not reported individually.
+- Authors caution that selection bias (younger women with GCT/SCST more likely to reach tertiary care) limits comparison of incidence and tumor-type proportions.
+relevance_to_jgct: Shows JGCT as 4 of 210 East African ovarian cancers and gives IHC marker frequencies for 4 JGCT; no clinical outcomes.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT count (4) is read from Table 4; the FOXL2 etc. percentages imply n=4 (25/50/75%). Text Table 2 FOXL2 for AGCT/JGCT 66/50%. The 'Sex cord stromal' mean age differs between original and revised diagnosis. Selection bias acknowledged by the authors. Journal and first author not in fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

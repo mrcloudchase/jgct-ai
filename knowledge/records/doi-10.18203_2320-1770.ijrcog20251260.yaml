@@ -1,0 +1,44 @@
+source_id: 10.18203/2320-1770.ijrcog20251260
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.18203/2320-1770.ijrcog20251260
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ijrcog.org/index.php/ijrcog/article/download/15286/9508
+language: en
+pmid: null
+doi: 10.18203/2320-1770.ijrcog20251260
+pmcid: null
+title: 'A rare encounter with juvenile granulosa cell tumor: diagnosis, management, and outcome'
+journal: International Journal of Reproduction, Contraception, Obstetrics and Gynecology
+year: 2025
+first_author: Gupta S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 19 years
+alterations: []
+treatments:
+- regimen: Fertility-sparing staging laparotomy (infracolic omentectomy, peritoneal biopsies), then 4 cycles adjuvant paclitaxel + carboplatin
+  setting: primary + adjuvant
+  n: 1
+  outcome: In remission at 1 year, 3-monthly surveillance
+presentation:
+- 8 months of intermittent lower abdominal pain and bloating
+- regular menses, no virilization
+- firm 20-week-sized pelvic mass
+key_findings:
+- A 19-year-old nulliparous woman had 8 months of lower abdominal pain and bloating with regular menses; a firm 20-week-sized pelvic mass was palpable.
+- CA-125, AFP, LDH, beta-hCG and CA 19.9 were normal; ultrasound showed an 18 x 9 cm multiseptated cyst and MRI a large multiseptated right abdominopelvic mass read as suggestive of mucinous cystadenoma.
+- Intraoperatively a trilobed 15 x 10 x 18 cm adnexal mass had one lobe ruptured; frozen section suggested a borderline surface epithelial tumor; staging was FIGO IC1 intraoperatively.
+- 'Final histopathology: JGCT with omental micrometastasis, pT3aN0; IHC positive for inhibin, PR, calretinin, WT1; negative for p63, CK7, CK20, synaptophysin, chromogranin, ER.'
+- Tumor board recommended adjuvant paclitaxel and carboplatin; four cycles were completed and the patient was in remission at one year under three-monthly surveillance.
+- Authors conclude for early recognition, comprehensive surgical staging and adjuvant therapy and long-term follow-up; discussion (literature-based) says chemotherapy is reserved for advanced/recurrent cases and late recurrence beyond 4 years has been reported.
+relevance_to_jgct: Young-adult (19 y) JGCT with omental micrometastasis treated with fertility-sparing surgery and carboplatin/paclitaxel.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Internal stage inconsistency: intraoperative FIGO IC1, final pT3aN0 (omental micrometastasis); discussion says ''stage III''. Frozen section misdiagnosed as borderline epithelial tumor; MRI suggested mucinous cystadenoma. Follow-up only 1 year.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,41 @@
+source_id: '39215355'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39215355/
+retrieved_on: '2026-10-30'
+full_text_source: PMC11363365
+language: en
+pmid: '39215355'
+doi: 10.1186/s13000-024-01541-x
+pmcid: PMC11363365
+title: The role of stathmin expression in the differential diagnosis, prognosis, and potential treatment of ovarian sex cord-stromal tumors.
+journal: Diagnostic pathology
+year: 2024
+first_author: Šafanda A
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 5
+age_range: JGCT median 26 years (range 21-43), mean 30 +/- 11.5
+alterations:
+- gene: STMN1 (stathmin protein)
+  alteration: immunohistochemical overexpression (cytoplasmic)
+  frequency: JGCT 5/5 positive, all strong (>50%)
+  notes: JGCT overall % positive range 90-100, mean 98 +/- 4; H-score mean 257.8 +/- 42, median 280
+treatments: []
+presentation: []
+key_findings:
+- 'Tissue-microarray immunohistochemistry (clone EP247) in 390 ovarian sex cord-stromal tumors: 281 adult GCT, 5 JGCT, 33 Sertoli-Leydig tumors, 50 fibromas/thecomas, 11 Leydig/steroid cell tumors, 5 SCST-NOS, 3 Sertoli cell tumors, 2 sclerosing stromal tumors.'
+- All 5 JGCTs expressed stathmin diffusely and strongly (>50% of cells in 5/5; overall positivity 90-100%, mean 98 +/- 4; H-score median 280, mean 257.8 +/- 42), the same as adult GCT (281/281).
+- 'JGCT patients: median age 26 years (range 21-43), mean 30 +/- 11.5; FIGO stage I in 2 cases and not available in 3; survival, disease status and recurrence data were not available for any of the 5 JGCTs.'
+- Negative cases (<5% positive) occurred only in fibroma/thecoma (12/50, 24%) and Leydig/steroid cell tumors (7/11, 64%); expression did not correlate with recurrence or FIGO stage and was not prognostic in adult GCT (the only group with enough clinical data).
+- ROC analysis separated adult GCT from fibroma/thecoma (H-score cut-off 180, AUC 0.915, sensitivity 0.889, specificity 0.803), but the authors conclude stathmin has limited diagnostic value since morphology and molecular testing are more practical, and that it is not a prognostic marker; they speculate that lowering stathmin could increase taxane sensitivity (hypothesis, not tested).
+relevance_to_jgct: 'Immunohistochemistry of 5 JGCTs within a large sex cord-stromal series: uniform strong stathmin expression, so no discriminatory value against adult GCT; no clinical outcomes for JGCT.'
+conflicts_with: []
+overlaps_with:
+- pmid-41870959
+superseded_by: null
+retracted: false
+notes: Series is from the same Prague pathology group as other FRalpha/sex cord-stromal TMA studies; JGCT cases likely overlap with those series. Only 5 JGCTs; the JGCT median age of 26 years suggests many are not pediatric cases. Journal, first author and DOI not stated in the fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

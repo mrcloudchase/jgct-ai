@@ -1,0 +1,58 @@
+source_id: '30275002'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30275002/
+retrieved_on: '2026-10-30'
+full_text_source: PMC6169825
+language: en
+pmid: '30275002'
+doi: 10.1101/mcs.a002956
+pmcid: PMC6169825
+title: Multimodal molecular analysis of an atypical small cell carcinoma of the ovary, hypercalcemic type.
+journal: Cold Spring Harbor molecular case studies
+year: 2018
+first_author: David MP
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: 12 years
+alterations:
+- gene: SMARCA4
+  alteration: c.1141C>T p.Arg381Ter nonsense; heterozygous germline; CN-LOH of 19p13.3-p13.2 as second hit
+  frequency: 1/1 (VAF 88%)
+  notes: Diagnosis revised from JGCT to SCCOHT
+- gene: TP53
+  alteration: c.594_611del18 p.Gly199_Glu204del in-frame; mosaic CN-LOH 17p13.3-p11.2
+  frequency: 1/1 (VAF 25.9%)
+  notes: strong diffuse p53 IHC
+treatments:
+- regimen: 'Initial: debulking + 4 cycles etoposide, ifosfamide, cisplatin (as JGCT)'
+  setting: primary
+  n: 1
+  outcome: pelvic recurrence at 9 months
+- regimen: Resection of recurrence, then bevacizumab, paclitaxel, carboplatin and autologous stem cell transplant
+  setting: recurrence
+  n: 1
+  outcome: died 5 months after SCCOHT diagnosis of transplant complications
+presentation:
+- periumbilical abdominal pain
+- 22 cm left ovarian tumor with spontaneous rupture
+- normocalcemic
+- pelvic recurrence 9 months after initial diagnosis, CA-125 89 U/mL
+key_findings:
+- A 12-year-old girl (mild von Willebrand disease) with a ruptured 22 cm left ovarian tumor was initially diagnosed with juvenile granulosa cell tumor at an outside hospital and treated with debulking and four cycles of etoposide, ifosfamide and cisplatin.
+- A pelvic recurrence appeared 9 months later; CA-125 89 U/mL, while inhibin, AFP, hCG and calcium were normal.
+- The recurrence showed sheets and nests of mitotically active small blue cells with cysts and focal mucinous differentiation; EMA, mucicarmine, WT1, CD56 positive; inhibin and calretinin patchy; strong p53; ER equivocal; PR and Melan A negative.
+- Differential considered JGCT, mixed sex cord stromal tumor with heterologous elements, and SCCOHT; the diagnosis was revised to small cell carcinoma of the ovary, hypercalcemic type (SCCOHT) after NGS found SMARCA4 p.Arg381Ter (germline) and an in-frame TP53 deletion, with 46,XX karyotype and CN-LOH on SNP array.
+- The authors report this as the first SCCOHT with patchy inhibin positivity, a pitfall because inhibin is considered a way to separate JGCT (positive) from SCCOHT (negative); they note EMA positivity has also been described in some JGCT and normocalcemia does not exclude SCCOHT.
+- Authors recommend SMARCA4 sequencing or BRG1 IHC for high-grade small round blue cell tumors of the ovary, and germline testing when SMARCA4 mutation is found; the family declined genetic counseling follow-up.
+- 'Outcome: after additional chemotherapy and autologous stem cell transplant the patient died 5 months after the revised diagnosis from transplant complications.'
+relevance_to_jgct: 'Documents a diagnostic pitfall: an ovarian tumor in a 12-year-old first diagnosed as JGCT was SCCOHT with patchy inhibin staining; the case is not a JGCT, but informs JGCT differential and the value of SMARCA4/BRG1 testing.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Not a JGCT case after revision; n_jgct_patients=0. Original tumor tissue was not available to test for TP53 or SMARCA4. Journal (Cold Spring Harbor Molecular Case Studies) and author names were not in the fetched text; confirm against PubMed.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,46 @@
+source_id: '35371651'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35371651/
+retrieved_on: '2026-10-30'
+full_text_source: PMC8966063
+language: en
+pmid: '35371651'
+doi: 10.7759/cureus.22676
+pmcid: PMC8966063
+title: Transformation of Peripheral Sexual Precocity to Central Sexual Precocity Following Treatment of Granulosa Cell Tumor of the Ovary.
+journal: Cureus
+year: 2022
+first_author: Gaikwad PM
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 5 years 5 months
+alterations: []
+treatments:
+- regimen: Laparotomy with tumor resection, then cisplatin, etoposide, bleomycin (cycles not stated)
+  setting: juvenile granulosa cell tumor, stage not stated
+  n: 1
+  outcome: Tumor markers normalized, no mass on ultrasound at 1.5 years; central precocious puberty developed and was treated with leuprolide depot 11.25 mg every 3 months with stoppage of spotting and gradual breast regression
+presentation:
+- progressive bilateral breast enlargement
+- intermittent vaginal spotting every 4-7 days for 2.5 years
+- growth acceleration, no pubic or axillary hair
+- right adnexal mass 9.46 x 9.2 x 6.4 cm on ultrasound
+key_findings:
+- 'Case report: 5 year 5 month old girl with 2.5 years of progressive bilateral breast enlargement, intermittent vaginal spotting and growth acceleration; no pubic or axillary hair; hormones initially indicated peripheral precocious puberty.'
+- 'Preoperative labs: LH 0.28 IU/L, FSH 0.81 IU/mL, estradiol 21.10 pg/mL, CA 125 48.31 U/mL (0-35), LDH 310 U/L (140-280); triptorelin stimulation preoperatively gave basal LH 0.01 and 60/180-minute LH 2.2 and 1.7 (not pubertal).'
+- 'Ultrasound: uterine volume 6 mL, uterus 3.6 x 1.2 x 2.6 cm, right adnexal mass 9.46 x 9.2 x 6.4 cm.'
+- 'Laparotomy with tumor resection; histology: large atypical cells in tubulocystic and solid sheet patterns, nuclear atypia, eosinophilic cytoplasm, basophilic mucin secretion and mitoses; IHC positive for inhibin, vimentin, calretinin, CD56 and CD99; diagnosis JGCT; she then received cisplatin, etoposide, bleomycin.'
+- At 1.5 years after surgery breast development had progressed (Tanner 3), spotting persisted (every 15-20 days), height 121 cm (+1.81 SD), weight 24 kg, bone age 11 years; pelvic ultrasound showed no mass and CA 125 (15.2 U/mL) and LDH (207 U/L) were normal, excluding recurrence.
+- 'Postoperative hormones: LH 0.70 IU/L, FSH 3.6 IU/mL, estradiol 11 pg/mL; post-triptorelin LH 5.2 at 60 and 180 minutes with basal 0.01, confirming central precocious puberty; leuprolide depot 11.25 mg every 3 months stopped spotting and regressed breasts.'
+- 'Authors'' conclusion: JGCT causing peripheral precocious puberty is known; central precocious puberty after resection is rarer and justifies close follow-up of such patients.'
+relevance_to_jgct: Illustrates a late endocrine sequela of JGCT-related precocious puberty (secondary central puberty after tumor removal and chemotherapy), relevant to long-term follow-up of young JGCT patients.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Stage, chemotherapy cycle number and mitotic count are not stated. Discussion states 30% of granulosa cell tumors do not produce estradiol and that estradiol is not a reliable activity marker (cited). Journal and first author not in cached text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -30,6 +30,7 @@ relevance_to_jgct: The registry that underlies several JGCT-relevant reports (in
 conflicts_with: []
 overlaps_with:
 - pmid-40267023
+- pmid-29037807
 superseded_by: null
 retracted: false
 notes: Registry listing only; no results posted. Reference list in the record includes OTST registry publications (e.g. PMIDs 26289771, 29037807, 38657450).

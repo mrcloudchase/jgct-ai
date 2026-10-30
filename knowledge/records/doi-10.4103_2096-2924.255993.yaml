@@ -1,0 +1,56 @@
+source_id: 10.4103/2096-2924.255993
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.4103/2096-2924.255993
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ovid.com/jnls/rdm/fulltext/10.4103/2096-2924.255993~clinicopathological-evaluation-of-ovarian-juvenile-granulosa
+language: en
+pmid: null
+doi: 10.4103/2096-2924.255993
+pmcid: null
+title: 'Clinicopathological Evaluation of Ovarian Juvenile Granulosa Cell Tumor: Is Fertility-Sparing Surgery Safe?'
+journal: Reproductive and Developmental Medicine
+year: 2019
+first_author: Guo L
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 8
+age_range: 9-32 years
+alterations: []
+treatments:
+- regimen: Fertility-sparing surgery (unilateral salpingo-oophorectomy, with or without pelvic lymphadenectomy and omentectomy)
+  setting: stage I (6 stage IC, 1 stage IA)
+  n: 7
+  outcome: No recurrence; overall survival 100%; survivors had normal menstruation; none had attempted pregnancy
+- regimen: Complete surgery
+  setting: stage IIIC, childbearing completed
+  n: 1
+  outcome: Recurred and died 1 month after initial treatment
+- regimen: 'Adjuvant chemotherapy: bleomycin, etoposide, carboplatin (4); bleomycin, vincristine, carboplatin (3); 2-7 courses'
+  setting: 7 of 8 patients (6 of 7 in the fertility-sparing group and the stage IIIC patient)
+  n: 7
+  outcome: see above
+presentation:
+- irregular vaginal bleeding in 6/8
+- abdominal mass and abdominal pain in 2/8
+- 5/8 had a pelvic mass over 10 cm
+- all tumors unilateral
+- 7/8 tumors ruptured, 1 intact
+key_findings:
+- Retrospective single-center series (Obstetrics and Gynecology Hospital of Fudan University, China; January 2004 to October 2018) of 8 surgically treated JGCT patients, ages 9 to 32 years; JGCT was 8.7% (8/92) of the center's granulosa cell tumors (AGCT 84/92).
+- 'Presentation: irregular vaginal bleeding in 6, abdominal mass and pain in 2; 5/8 (62.5%) had a pelvic mass over 10 cm; all unilateral; 7 ruptured tumors; cytology negative in the 5 patients tested.'
+- 'Staging (FIGO 2009): 7 patients stage I (6 IC, 1 IA) had fertility-sparing surgery, median age 17 years (range 9-31); 1 patient with stage IIIC who had completed childbearing had complete surgery.'
+- 'Immunohistochemistry: inhibin A positive in the stage I patients and negative in the stage IIIC patient; calretinin positive in patients 1-3, 6 and 7; CD99 and vimentin positive (patients 1, 2-8 as stated); EMA negative.'
+- Mitotic counts available for only 3 patients; one had more than 20 per 10 HPF and no recurrence. Of 4 patients with pelvic lymphadenectomy versus 3 without, no difference in recurrence-free survival was found.
+- '7 of 8 received adjuvant chemotherapy (2-7 courses): bleomycin-etoposide-carboplatin in 4 and bleomycin-vincristine-carboplatin in 3.'
+- Median follow-up was 64 months (range 2-117). No recurrence in the fertility-sparing group (overall survival 100%); the stage IIIC patient recurred and died 1 month after initial treatment.
+- 'Authors'' conclusion: fertility-sparing surgery seems safe for stage I JGCT in carefully selected, informed patients treated by gynecologic oncology specialists, with complete surgery considered after childbearing; the small number of cases requires larger or multicenter confirmation.'
+relevance_to_jgct: Small JGCT series (n=8) with outcomes after fertility-sparing surgery in stage I disease and adjuvant chemotherapy in nearly all; supports but cannot prove oncologic safety of fertility sparing.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The cached text from the publisher page contains the full article text but Tables 1-3 (per-patient data) are images and were not readable, so per-patient details are limited to what the text states. The text calls follow-up 'mean 64 months' in Results and 'median 64 months' elsewhere. The text says all patients 'received' normal menses 'those who survived'. Year in 2019 issue (Jan-Mar).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

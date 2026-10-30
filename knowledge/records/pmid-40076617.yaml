@@ -1,0 +1,52 @@
+source_id: '40076617'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/40076617/
+retrieved_on: '2026-10-30'
+full_text_source: PMC11900300
+language: en
+pmid: '40076617'
+doi: 10.3390/ijms26051990
+pmcid: PMC11900300
+title: A Novel Pathogenic Variant of DICER1 Gene in a Young Greek Patient with 2 Different Sex-Cord Ovarian Tumors and Multinodular Goiter.
+journal: International journal of molecular sciences
+year: 2025
+first_author: Roumpou A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 21 years at JGCT diagnosis
+alterations:
+- gene: DICER1
+  alteration: germline frameshift, exon 16, c.2685dupA (NM_001195573), p.Phe896Ilefs*5; novel, classified pathogenic (ACMG/AMP)
+  frequency: heterozygous (WES/NGS, >100x reads); mother carries same variant, asymptomatic
+  notes: found after SLCT diagnosis in 2019; JGCT tissue not separately sequenced
+treatments:
+- regimen: Surgical excision of JGCT (right parametrial multilocular cystic lesion), no adjuvant therapy
+  setting: stage IA JGCT at age 21
+  n: 1
+  outcome: 'referred for follow-up; no recurrence reported (ESMO: stage IA needs no adjuvant therapy)'
+- regimen: Left oophorectomy plus right ovarian tumor excision, then 3 cycles BEP
+  setting: earlier bilateral SLCT at age 18, FIGO IB
+  n: 1
+  outcome: menses normalized; no recurrence at about 6 years
+presentation:
+- asymptomatic JGCT found on follow-up abdominal MRI 3 years after SLCT surgery
+- 'earlier: irregular menses, acne, hyperandrogenemia, bilateral SLCT with 20.6 cm mass and ascites'
+key_findings:
+- 'Young Greek woman with germline DICER1 syndrome: multinodular goiter at 16 (7 nodules, benign FNA), irregular menses with testosterone 3.1 ng/mL and low FSH at 17, bilateral moderately differentiated Sertoli-Leydig cell tumors (SLCT) at 18 (20.6 cm left mass, 5.6 cm right mass, ascites; inhibin 443 pg/mL, CA125 359.7 U/mL; FIGO IB), and a JGCT at 21.'
+- 'JGCT: 13 x 9 x 7.5 cm multilocular cystic lesion in the right parametrial area found on follow-up MRI 3 years after SLCT surgery; no capsular tearing, 7 right pelvic lymph nodes tumor-free, FIGO stage IA; managed by excision and follow-up without adjuvant chemotherapy.'
+- 'JGCT immunohistochemistry: positive for CKAE1/AE3 (focal dot-like juxtanuclear), vimentin, inhibin, CD56, CD99, WT-1, PR and focally calretinin; histology showed a diffuse growth pattern with round hyperchromatic nuclei and rare grooves.'
+- WES found a novel heterozygous DICER1 frameshift variant in exon 16 (c.2685dupA, p.Phe896Ilefs*5), pathogenic by ACMG/AMP criteria; her mother carries it and is asymptomatic at 50; a maternal aunt had uterine rhabdomyosarcoma at 11 and goiter requiring thyroidectomy at 21.
+- 'SLCT treatment: unilateral left oophorectomy and right tumor excision, 3 cycles of BEP; hormones and markers normalized within about 20 days of surgery; no recurrence at about 6 years.'
+- 'Literature statements: JGCT is a very rare DICER1-syndrome phenotype associated mainly with somatic DICER1 mutations; two probable germline-associated JGCT cases cited (age 16, and age 2 in a patient with a relative with pleuropulmonary blastoma); stage I JGCT survival about 97% as cited; about 5% (by age 10) and 19% (by age 50) of germline carriers develop a neoplasm.'
+- Authors conclude clinicians should consider germline DICER1 variants when multinodular goiter in young patients coexists with other neoplasms and that genetic testing and family screening are warranted.
+relevance_to_jgct: Case of germline DICER1 syndrome with a stage IA JGCT arising 3 years after bilateral SLCT, with JGCT immunohistochemistry and a novel exon 16 DICER1 frameshift variant.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT is the second ovarian sex-cord tumor in this patient (after bilateral SLCT); somatic second hits were not assessed. Paper reports JGCT was asymptomatic. Journal and first author not stated in the retrieved full text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

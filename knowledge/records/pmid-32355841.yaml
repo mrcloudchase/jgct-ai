@@ -1,0 +1,45 @@
+source_id: '32355841'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32355841/
+retrieved_on: '2026-10-30'
+full_text_source: PMC7186636
+language: en
+pmid: '32355841'
+doi: 10.21037/atm.2020.02.41
+pmcid: PMC7186636
+title: Gynecological cancer among adolescents and young adults (AYA).
+journal: Ann Transl Med
+year: 2020
+first_author: Triarico S
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments:
+- regimen: 'Platinum-based chemotherapy (PEI: cisplatin/ifosfamide/etoposide; or PEB: cisplatin/etoposide/bleomycin)'
+  setting: stromal ovarian tumors (juvenile granulosa/theca) at FIGO stage IC or higher
+  n: null
+  outcome: review statement; no outcome data given
+presentation:
+- isosexual precocious puberty in about 80% of prepubertal girls with JGCT
+- torsion and rupture as acute complications
+- rarely androgen production with virilization
+key_findings:
+- Narrative review of gynecological tumors in adolescents and young adults (AYA, age 15-39 per NCI/ENCCA) with a proposed multidisciplinary model of care covering fertility, ovarian failure, contraception and psychosocial effects; it reports no new patient data.
+- The review states JGCT accounts for about 70% of ovarian sex cord-stromal tumors in patients younger than 20 years.
+- Approximately 80% of prepubertal girls with JGCT present with isosexual precocious puberty related to estrogen secretion; rarely the tumor produces androgen with virilizing features; in children JGCT is more frequently associated with acute complications such as torsion and rupture.
+- Inhibin is described as a useful serum tumor marker for diagnosis and follow-up.
+- Up to 90% of JGCT are low-stage disease confined to the ovary and are usually curable with conservative surgery; patients with advanced disease or high mitotic activity have a poorer prognosis and should be treated with chemotherapy.
+- Surgery is needed for histological diagnosis, staging and debulking; chemotherapy is indicated for FIGO stage IC or higher, based on cisplatin with ifosfamide and etoposide (PEI) or etoposide and bleomycin (PEB).
+- For fertility, conservative surgery preserving uterus and contralateral ovary is advised for malignant germ cell tumors and selected stage 1 lesions; AMH is suggested as a marker of ovarian reserve; alkylating agents (ifosfamide, cyclophosphamide) carry high gonadotoxicity, platinum agents moderate risk.
+relevance_to_jgct: General AYA gynecologic oncology review; JGCT is covered in two paragraphs (epidemiology, presentation, marker, staging-based treatment) plus generic oncofertility guidance relevant to JGCT survivors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Secondary review; JGCT statements rely on cited sources not read in this run (e.g. 70% of pediatric SCST, ~80% precocious puberty). The review does not separate ovarian from other sites for fertility advice.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

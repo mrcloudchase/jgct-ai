@@ -1,0 +1,45 @@
+source_id: 10.17352/ijsrhc.000044
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.17352/ijsrhc.000044
+retrieved_on: '2026-10-30'
+full_text_source: https://www.peertechzpublications.org/articles/IJSRHC-7-144.pdf
+language: en
+pmid: null
+doi: 10.17352/ijsrhc.000044
+pmcid: null
+title: 'Juvenile granulosa cell ovarian tumors: Report of a case'
+journal: International Journal of Sexual and Reproductive Health Care
+year: 2024
+first_author: Djelti S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 33 years
+alterations: []
+treatments:
+- regimen: Enucleation cystectomy with ascitic fluid sampling, then completion total hysterectomy, bilateral adnexectomy, pelvic lymph node dissection and omentectomy
+  setting: staged pT1a pN0 pMx; capsular rupture and ascites cited as reasons for radical surgery
+  n: 1
+  outcome: No residual tumor, 7 reactive lymph nodes; no follow-up reported
+presentation:
+- paroxysmal left pelvic pain
+- 10 cm heterogeneous left adnexal mass with moderate ascites
+- CA 125 62.84 U/ml
+key_findings:
+- 'Case report from Oran, Algeria: 33-year-old mother of two, labeled juvenile granulosa cell tumor, presenting with paroxysmal left pelvic pain.'
+- 'Ultrasound: heterogeneous left lateral uterine mass 10 cm with solid and fluid components and moderate ascites. CT: well-circumscribed pelvic mass about 80x110 mm enhancing after contrast with fluid areas and calcification, free ascites, no lymphadenopathy. CA 125 62.84 U/ml; biology otherwise unremarkable.'
+- 'Laparotomy: solid-cystic grayish-white tumor of about 8x12 cm with necrotic and hemorrhagic changes and citrine ascites; enucleation cystectomy done first; ascitic fluid cytology negative for malignant cells.'
+- Pathology of the specimen suggested granulosa cell tumor (no immunohistochemistry or mitotic counts are given for this patient).
+- 'A second laparotomy completed surgery with total hysterectomy, bilateral adnexectomy, pelvic lymph node dissection and omentectomy: no residual tumor; three right and four left lymph nodes reactive; staged pT1a pN0 pMx.'
+- 'Authors'' discussion (cited statements): JGCT is 5% of granulosa tumors; classically in women under 30 or prepubertal; 92% 5-year survival; poor prognostic factors are large size, ascites and capsular rupture; pseudo-precocious puberty reveals the tumor in 70% of cases; surgery is the treatment, conservative in young women wanting pregnancy with stage Ia.'
+- The authors chose radical surgery for this stage Ia patient because of the ascites and capsular rupture.
+relevance_to_jgct: Low-value single report of a tumor labeled JGCT in a 33-year-old with no IHC or mitotic data, so the juvenile-type classification is unsupported in the text; shows radical completion surgery chosen over fertility sparing for a ruptured stage Ia tumor.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Classification concerns: patient is 33 years old and the text says mitotic activity is evident in juvenile form but gives no counts, IHC or molecular data for this patient; Figure 4 is described as juvenile-type morphology. The authors call the tumor stage Ia while also describing capsular rupture (which would normally upstage to IC). No follow-up duration or outcome is reported. Text contains translation artifacts from French.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

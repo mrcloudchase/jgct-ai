@@ -1,0 +1,42 @@
+source_id: '34728912'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34728912/
+retrieved_on: '2026-10-30'
+full_text_source: PMC8515539
+language: en
+pmid: '34728912'
+doi: 10.4103/jiaps.JIAPS_136_20
+pmcid: PMC8515539
+title: 'Surgical Management of Adnexal Masses in the Pediatric and Adolescent Age Group: Our Experience.'
+journal: Journal of Indian Association of Pediatric Surgeons
+year: 2021
+first_author: Luthra M
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: Series newborn to 17 years (median 11 years 9 months); JGCT patient age not stated
+alterations: []
+treatments:
+- regimen: Laparotomy, salpingo-oophorectomy with peritoneal and lymph node biopsies, then adjuvant BEP (bleomycin, etoposide, cisplatin) x3 cycles
+  setting: JGCT pT1NX, adjuvant
+  n: 1
+  outcome: PET-CT 9 months postoperatively normal; alive with follow-up as part of 100% overall survival in series (3 tumor patients followed 6, 4 and 1 years)
+presentation:
+- large abdominal lump (JGCT patient was one of three with a large lump managed by laparotomy)
+- CA-125 raised and LDH raised in the JGCT case
+key_findings:
+- 'Retrospective review of 28 girls under 17 years (2000-2020) with adnexal masses treated at tertiary centers in Delhi-NCR by one surgeon; median age 11 years 9 months; histology: functional nonneoplastic lesions 18 (66.7%), benign neoplasms 8 (29.6%), malignant 1 (3.7%).'
+- The single malignant lesion was a juvenile granulosa cell tumor (malignant sex cord-stromal tumor), a large solid ovarian mass seen on CT/PET-CT; AFP and beta-hCG were normal in all 19 tested patients, CA-125 raised in the JGCT (also in mucinous cystadenoma and fibroma) and LDH raised in the JGCT.
+- The JGCT patient had laparotomy, salpingo-oophorectomy with peritoneal and lymph node biopsies (liver metastases ruled out); histopathology JGCT pT1NX; she received 3 cycles of adjuvant BEP and serum AFP was monitored; PET-CT at 9 months was normal.
+- Overall survival in the series was 100%; the three patients with ovarian tumors who had laparotomy were followed for 6, 4 and 1 years without complaints.
+- The authors conclude that adnexal masses in children are generally benign, ovary-sparing surgery should be favored, and that with accurate staging, complete resection and chemotherapy for malignant tumors patients showed excellent survival.
+relevance_to_jgct: Minor. Single JGCT case within a small pediatric adnexal-mass surgical series, with a short description of staging, BEP chemotherapy and follow-up.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Which of the three tumor follow-up durations (6, 4, 1 years) belongs to the JGCT patient is not stated. The text cites AFP monitoring although AFP was reported normal in tested patients. JGCT age and FIGO stage not given (pT1NX only). Journal, first author and DOI not stated in the fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

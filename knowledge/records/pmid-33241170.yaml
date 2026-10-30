@@ -1,0 +1,45 @@
+source_id: '33241170'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33241170/
+retrieved_on: '2026-10-30'
+full_text_source: PMC7672807
+language: en
+pmid: '33241170'
+doi: 10.1210/jendso/bvaa159
+pmcid: PMC7672807
+title: 'An Unusual Cause of Secondary Amenorrhea in an Adolescent: Expanding the Differential.'
+journal: Journal of the Endocrine Society
+year: 2020
+first_author: Okawa ER
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years 10 months at first visit (16 years 9 months at diagnosis work-up)
+alterations: []
+treatments:
+- regimen: Right oophorectomy with salpingectomy (resection of right ovary and tube)
+  setting: localized, no evidence of local spread; 4.8 cm tumor
+  n: 1
+  outcome: Menses resumed; inhibin A and B normalized at 3 months
+presentation:
+- secondary amenorrhea after 4 years of regular cycles, preceded by 3 months of metrorrhagia
+- later right lower quadrant discomfort and temporal headaches
+- Tanner V, no hirsutism, acne or galactorrhea
+key_findings:
+- 'Case report: adolescent (15 years 10 months at first visit) with secondary amenorrhea after 4 years of regular cycles; FSH low (<2 then 0.2 IU/L), LH normal (9.1 then 7.0 IU/L), estradiol low (21 pg/mL); pregnancy, DHEA-S, 17-OHP, prolactin, thyroid studies and brain MRI normal; no withdrawal bleeding after medroxyprogesterone.'
+- 'Transabdominal ultrasound: enlarged right ovary 5.0 x 4.6 x 3.6 cm (42.6 mL) with central echogenicity and absent Doppler flow, initially read as a hemorrhagic cyst, persisting at 6 weeks; left ovary normal; endometrium 2.3 mm.'
+- 'Because of the specific FSH suppression, inhibin A and B were measured: inhibin A 49 pg/mL (reference 1.8-17.3) and inhibin B 2220 pg/mL (reference 10-290).'
+- 'Right ovary and fallopian tube were resected; a 4.8 cm tumor with smooth capsule, yellow fleshy partly cystic/hemorrhagic cut surface; pathology: juvenile granulosa-cell tumor with no evidence of local spread.'
+- Postoperatively cyclic menses resumed; at 3 months inhibin A was 81 pg/mL (reference <97.5) and inhibin B 34 pg/mL (reference <36), i.e. normal.
+- There was an 11-month gap before return to clinic after the first visit, which the authors note could have delayed diagnosis.
+- 'Authors'' discussion: inhibin-secreting tumors can cause primary or secondary amenorrhea; tumor stage is the most important prognostic factor in girls with JGCT; good prognostic factors cited are low stage, size under 10 cm and absence of rupture. They conclude that atypical hormone patterns, such as isolated FSH suppression with normal LH, should prompt consideration of an inhibin-producing tumor.'
+relevance_to_jgct: Documents an uncommon JGCT presentation (secondary amenorrhea with very high inhibin B and suppressed FSH, no precocious puberty), supporting inhibin measurement as a diagnostic clue and normalization as postoperative confirmation.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The abstract describes the patient as 15 years old; the case text gives 15 years 10 months at first visit and 16 years 9 months at follow-up work-up. Tumor stage (FIGO) is not stated. Follow-up beyond 3 months is not reported. Journal and first author not in cached text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

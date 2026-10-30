@@ -1,0 +1,52 @@
+source_id: '23641362'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23641362/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3639433
+language: en
+pmid: '23641362'
+doi: 10.3389/fonc.2013.00095
+pmcid: PMC3639433
+title: MicroRNAs and Recent Insights into Pediatric Ovarian Cancers.
+journal: Frontiers in oncology
+year: 2013
+first_author: Francis JC
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: somatic c.C>G missense mutation at position 412 (as written in the paper)
+  frequency: 86/89 adult GCT, 1/10 JGCT, 3/14 thecomas; 0/49 other sex cord-stromal tumors
+  notes: cited from Shah et al. 2009
+- gene: DICER1
+  alteration: somatic hot-spot mutations (Asp1709, Glu1813, RNase IIIb domain)
+  frequency: up to 60% of Sertoli-Leydig tumors (not JGCT)
+  notes: germline DICER1 in familial PPB and multinodular goiter; ovarian sex cord-stromal tumors in 9/325 PPB-syndrome individuals
+- gene: chromosomes
+  alteration: monosomy 22, gains of 12 and 14, loss of X
+  frequency: recurrent in adult and juvenile GCT (cited)
+  notes: null
+treatments: []
+presentation:
+- premature menarche / isosexual precocious puberty from estrogen secretion
+key_findings:
+- Review of pediatric ovarian cancers with emphasis on microRNA biology; states that about 40% of ovarian tumors in the young are germ cell tumors and 25% sex cord-stromal tumors, and that 2-8% of pediatric adnexal masses are ultimately cancer.
+- Granulosa cell tumors are the most common sex cord-stromal tumor; juvenile GCT occurs mainly in premenarchal girls and is roughly 5% of GCTs. Coffee-bean nuclei and Call-Exner bodies are typical of adult GCT and only rarely seen in JGCT.
+- Estrogen secretion by GCT can present as premature menarche or isosexual precocious puberty (elevated serum estrogen, no gonadotropin response to GnRH stimulation); contrasexual precocity with virilization is attributed mainly to Sertoli-Leydig tumors.
+- 'Ollier disease: nine cases of ovarian JGCT reported in individuals with Ollier disease (cited as a number greater than expected by chance); the ovarian tumors are usually unilateral and often on the same side as the most recently resected enchondroma. Estimated Ollier prevalence about 1 per 100,000.'
+- The FOXL2 somatic mutation was found in 86/89 adult GCTs but only 1/10 JGCTs and 3/14 thecomas, and none of 49 other sex cord-stromal tumors or 329 unrelated tumors; the authors state that juvenile and adult GCTs may be molecularly distinct despite shared clinical and histologic features.
+- DICER1 germline mutations occur in familial pleuropulmonary blastoma and multinodular goiter; somatic DICER1 mutations are reported in up to 60% of Sertoli-Leydig tumors, a finding not described for JGCT in this review.
+- 'Mouse models: Smad1/Smad5 conditional knockout in granulosa cells and inhibin-alpha knockout give granulosa cell tumors; PI3K/mTORC1 hyperactivation is common to human and mouse GCT, but everolimus only slowed tumor growth in one mouse model.'
+relevance_to_jgct: Narrative review; JGCT content is limited to epidemiologic context (about 5% of GCTs), Ollier disease association, FOXL2 mutation absent in 9/10 JGCTs and the idea that JGCT and adult GCT are molecularly distinct. No original patient data.
+conflicts_with:
+- pmid-38136408
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Secondary review. FOXL2 mutation position given as 'position 412 (C to G)' in the paper (commonly written c.402C>G); recorded as written. Journal, first author and DOI are not stated in the fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

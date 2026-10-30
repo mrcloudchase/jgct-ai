@@ -1,0 +1,39 @@
+source_id: '40473112'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/40473112/
+retrieved_on: '2026-10-30'
+full_text_source: https://iris.unisr.it/bitstream/20.500.11768/188716/1/PIIS0893395225001000.pdf
+language: en
+pmid: '40473112'
+doi: 10.1016/j.modpat.2025.100804
+pmcid: null
+title: 'Observer Variation in the Diagnosis of Testicular Sex Cord-Stromal Tumors by a Genitourinary Pathology Society and International Society of Urological Pathology Panel: Paving the Way for a New Classification.'
+journal: Modern Pathology
+year: 2025
+first_author: Berney DM
+study_type: other
+tumor_site: testis
+n_jgct_patients: 3
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'TEsticular Sex cord-Stromal Tumor (TESST) group, cosponsored by ISUP and GUPS: 44 scanned H&E slides of testicular sex cord-stromal tumors reviewed online by 17 of 18 invited expert pathologists; consensus defined as 70% or more agreement.'
+- Consensus was reached in 26/44 cases (59%); a majority (over 50%) diagnosis was reached in 75% of cases.
+- All 3 juvenile granulosa cell tumors reached consensus (100% for cases 35 and 36; 70%-79% for case 4); the authors conclude JGCT of the testis can be reliably identified on morphology with minimal workup.
+- Only the single adult granulosa cell tumor case (with FOXL2 p.C134W, 14/17 = 82%) reached consensus; adult GCT was frequently diagnosed by some experts in other tumor types, suggesting overdiagnosis, and a cited analysis found FOXL2 pathogenic variant in only 1/13 testicular adult GCT.
+- Table 2 states that because testicular JGCT is very different from its ovarian counterpart, a renaming emphasizing its benign nature is suggested.
+- 'Consensus statements: WHO 2022 classification is not aligned with best evidence; terminology for gonadal stromal tumors, Sertoli, granulosa and mixed tumors needs standardization; referral to a specialist genitourinary pathologist is recommended; recommendations on diagnostic workup in pediatric sex cord-stromal tumors are needed.'
+- 'Other categories: Sertoli cell tumor consensus 8/12, sex cord-stromal NOS 2/8, Leydig cell tumor 6/6, large cell calcifying Sertoli cell tumor 2/4.'
+relevance_to_jgct: Testicular tumor pathology consensus exercise; JGCT is reported as 3 of 44 cases. Supports that testicular JGCT is reproducibly recognizable.
+conflicts_with: []
+overlaps_with:
+- pmid-32719989
+superseded_by: null
+retracted: false
+notes: Peer-reviewed expert-panel study rather than a formal guideline; tier set to guideline because it issues consensus statements and recommendations for a classification. Genetic results were withheld from participants. Supplementary tables not read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

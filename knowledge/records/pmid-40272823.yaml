@@ -8,7 +8,7 @@ language: en
 pmid: '40272823'
 doi: 10.1002/cncr.35861
 pmcid: PMC12020984
-title: 'Testicular and ovarian Juvenile granulosa cell tumors in children and adolescents: Analysis of 113 patients registered to the German Registry for Rare Pediatric Tumors (STEP)'
+title: 'Testicular and ovarian Juvenile granulosa cell tumors in children and adolescents: Analysis of 113 patients registered to the German Registry for Rare Pediatric Tumors (STEP).'
 journal: Cancer
 year: 2025
 first_author: Schneider DT
@@ -66,6 +66,7 @@ relevance_to_jgct: 'Largest prospective pediatric JGCT cohort (113, testis and o
 conflicts_with: []
 overlaps_with:
 - pmid-42504512
+- pmid-22525408
 superseded_by: null
 retracted: false
 notes: Registry report in a journal. Table 7 lists 17 patients for IC2/IC3 versus 18 in other tables (one with incomplete data). The text says Ki-67/MIB-1 staining ranged '5% to 8%', which appears to be a typo (relapsed cases reached 20-50%). Overlaps in time and country with the historical MAKEI cohort (Schneider 2003) and probably with the European recommendations in pmid-42504512 and testicular case reports from Germany (pmid-33201299 is a single-center series, overlap possible).

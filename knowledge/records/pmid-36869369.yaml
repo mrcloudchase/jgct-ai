@@ -1,0 +1,47 @@
+source_id: '36869369'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/36869369/
+retrieved_on: '2026-10-30'
+full_text_source: PMC9983179
+language: en
+pmid: '36869369'
+doi: 10.1186/s13048-023-01125-1
+pmcid: PMC9983179
+title: Immunohistochemical markers of prognosis in adult granulosa cell tumors of the ovary - a review.
+journal: Journal of ovarian research
+year: 2023
+first_author: Jung D
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: 402C>G (C134W) somatic mutation
+  frequency: 97% of adult-type GCT (cited); rare in JGCT
+  notes: strong FOXL2 immunoreactivity correlated with decreased DFS and OS in JGCT (D'Angelo, as summarized by this review)
+- gene: TP53 (p53 IHC)
+  alteration: p53 overexpression
+  frequency: 12/30 GCT (AGCT and JGCT) in Staibano
+  notes: correlated with progression (metastasis and/or death), predominantly in the JGCT group
+treatments: []
+presentation: []
+key_findings:
+- Systematic PubMed review (409 English full-text results 1965-2021; 54 articles in total) of immunohistochemical prognostic markers in ovarian granulosa cell tumors; the title and focus are adult-type (AGCT), and JGCT is covered only where the primary studies included it.
+- 'Background statements: GCT are 1-2% of ovarian neoplasms; AGCT is 90-95% of GCT; JGCT mostly affects younger patients (commonly before age 30); AGCT tend to recur late, even more than 10 to 20 years after diagnosis, whereas JGCT generally recur within a few years.'
+- 'JGCT-containing studies cited: King 1996 (2 JGCT among 40 GCT), Sakr 2017 (12 JGCT among 125), Costa 1995 (7 JGCT among 56), Staibano (11 JGCT among 30, ER-beta); the review notes that many studies did not separate AGCT from JGCT.'
+- 'FOXL2: in JGCT, where FOXL2 mutation is rare, strong FOXL2 immunoreactivity correlated with decreased disease-free and overall survival (D''Angelo); in AGCT, the mutation (70% in that study) and FOXL2 mRNA correlated with reduced DFS, but FOXL2 IHC did not.'
+- 'p53: in Staibano, 12/30 GCT overexpressed p53, with correlation to progression predominantly in JGCT; other studies were inconsistent and older p53 IHC interpretation is considered outdated.'
+- 'Estrogen receptor-beta: in 30 GCT (19 AGCT, 11 JGCT) loss of ER-beta was significantly associated with worse prognosis (Staibano); other studies found no ER-prognosis association.'
+- Across all markers the review concludes that only CD56, GATA-4 and SMAD3 showed prognostic value for worse outcome; ER, AMH and inhibin IHC were not prognostic; mitotic rate, Ki-67, p53, beta-catenin and HER2 results were inconsistent.
+- The authors call for large multicenter studies with a clear distinction between AGCT and JGCT, and for national and international tumor registries.
+relevance_to_jgct: Adult-type focused review; relevant to JGCT for a few subtype-specific IHC statements (FOXL2, p53, ER-beta) and for documenting that most prognostic marker studies pool or exclude JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Journal and first author not in cached text (left null). JGCT-specific data are second-hand summaries of cited primary studies. The text says inhibin and AMH IHC are diagnostic but not established as prognostic.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,42 @@
+source_id: '32462465'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32462465/
+retrieved_on: '2026-10-30'
+full_text_source: PMC7253550
+language: en
+pmid: '32462465'
+doi: 10.1186/s13244-020-00867-6
+pmcid: PMC7253550
+title: 'Testicular tumours in children: an approach to diagnosis and management with pathologic correlation.'
+journal: Insights into imaging
+year: 2020
+first_author: Sangüesa C
+study_type: review
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 16 days (illustrative case)
+alterations: []
+treatments: []
+presentation:
+- swollen scrotal mass present since birth (illustrative case)
+- can be detected on prenatal ultrasound
+- up to 20% have ambiguous external genitalia
+key_findings:
+- Narrative imaging/management review of pediatric testicular tumours drawing on histologically confirmed cases from the authors' hospital; JGCT is covered in short passages and one illustrative case (Fig. 15), not a series.
+- JGCT is described as the most frequent congenital testicular tumour and the most frequent testicular tumour detectable on prenatal ultrasound; the left testis is most often affected and up to 20% have ambiguous external genitalia.
+- Sex cord-stromal tumours (Sertoli, Leydig, juvenile granulosa cell) account for about 10% of pediatric testicular neoplasms; the 2016 WHO classification lists granulosa cell tumour among the sex cord-stromal tumours.
+- 'Pathology: reticular appearance with follicle-like structures filled with mucoid material; the illustrated case showed many layers of granulosa cells with oval nuclei and abundant cytoplasm in a multilocular mass.'
+- 'Ultrasound: well-circumscribed, non-invasive multilocular cystic mass with thick septations, or less often a solid mass with intralesional cysts; color Doppler shows hypervascularity of solid components and septations. MRI: hypointense on T1, hyperintense on T2, with wall and septal enhancement.'
+- 'Illustrative case: 16-day-old boy with a left scrotal mass since birth, multiseptated cystic intratesticular mass with hydrocele on US, treated by radical inguinal orchiectomy.'
+- 'Management statement: JGCT is considered a borderline tumour; radical inguinal orchiectomy is normally performed, though tumour enucleation could be sufficient when healthy testicular tissue is present.'
+- Testicular tumours overall are 2-4% of childhood cancers; AFP physiologically high under 12 months must be considered when interpreting markers; percutaneous biopsy is generally avoided because of lymphatic seeding risk.
+relevance_to_jgct: 'Source for the testicular JGCT: its congenital presentation, imaging features and surgical approach in the context of all pediatric testicular tumours. No outcome data and no patient series.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Journal and first author not present in cached text (left null). The JGCT case is an illustration in a figure legend, hence n_jgct_patients 1 as the only JGCT patient shown; no JGCT count is given for the hospital series.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

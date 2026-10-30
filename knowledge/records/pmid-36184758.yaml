@@ -1,0 +1,38 @@
+source_id: '36184758'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/36184758/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10642215
+language: en
+pmid: '36184758'
+doi: 10.1002/pbc.29995
+pmcid: PMC10642215
+title: 'Imaging of pediatric ovarian tumors: A COG Diagnostic Imaging Committee/SPR Oncology Committee White Paper.'
+journal: Pediatric blood & cancer
+year: 2023
+first_author: Behr GG
+study_type: guideline
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Consensus imaging recommendations from the COG Diagnostic Imaging Committee and SPR Oncology Committee for pediatric patients with known or suspected primary ovarian malignancy, at diagnosis and during follow-up.
+- Girls with sex cord stromal tumors tend to present with smaller tumors because of hormone production; isosexual precocious puberty is the example given for juvenile granulosa cell tumor.
+- Sex cord stromal and epithelial ovarian tumors are staged with FIGO, whereas ovarian germ cell tumors use the COG surgical staging (2004), so distinguishing tumor types before resection is important.
+- Table 1 lists JGCT as a sex cord stromal tumor with a 'sponge-like' imaging appearance and inhibin as the tumor marker; Sertoli-Leydig tumors are linked to DICER1 mutation.
+- 'Recommendations: transabdominal US first; MRI abdomen/pelvis with IV contrast for further evaluation (and for cystic lesions >7.5 cm, lesions not fully seen, or with solid components); CT acceptable if MRI not possible; chest CT if malignancy present; pelvic US or MRI surveillance in all girls with a resected ovarian tumor (GRADE C, SOR 1.40).'
+- 'Surveillance statement: adult granulosa cell tumor can recur 10 years after treatment and needs long-term follow-up, though JGCTs ''may be less aggressive''; serum inhibin may be followed for recurrence; adult sex cord stromal data suggest recurrence is unlikely after three years.'
+- No formal guidelines exist for post-treatment imaging surveillance in children and none for tumor response assessment specific to pediatric ovarian tumors.
+relevance_to_jgct: Imaging consensus covering all pediatric ovarian tumors; JGCT-specific content is limited to presentation, marker (inhibin), MRI 'sponge-like' appearance, staging system and surveillance remarks.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Multi-tumor white paper dominated by germ cell tumors; JGCT is a minor topic. Statements on JGCT behavior are the authors' citations to other work.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

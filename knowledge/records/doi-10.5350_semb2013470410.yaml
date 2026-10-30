@@ -1,0 +1,45 @@
+source_id: 10.5350/semb2013470410
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5350/semb2013470410
+retrieved_on: '2026-10-30'
+full_text_source: https://pdf.journalagent.com/sislietfaltip/pdfs/SETB-41033-CASE_REPORT-TEMIZKAN.pdf
+language: tr
+pmid: null
+doi: 10.5350/semb2013470410
+pmcid: null
+title: A rare tumor during pregnancy; juvenile granulosa cell tumor (Gebelik sirasinda nadir gorulen bir tumor; juvenil granuloza hucreli tumor)
+journal: Sisli Etfal Hastanesi Tip Bulteni (The Medical Bulletin of Sisli Etfal Hospital)
+year: 2013
+first_author: Temizkan O
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 17 years at diagnosis (abstract says 20)
+alterations: []
+treatments:
+- regimen: Right salpingo-oophorectomy at cesarean delivery (no frozen section); no adjuvant therapy because early stage; surveillance with serum inhibin
+  setting: primary surgery in pregnancy at 38 weeks
+  n: 1
+  outcome: no recurrence at 3 years of follow-up; inhibin did not rise; spontaneous pregnancy later
+presentation:
+- pain at 38 weeks of gestation
+- 17 cm right adnexal mass found on ultrasound
+- no precocious puberty or menstrual irregularity reported
+key_findings:
+- 'Case of a patient with ovarian JGCT found during late pregnancy: she presented with pain at 38 weeks and ultrasound showed a 17 cm right adnexal mass; cesarean delivery with right salpingo-oophorectomy was done (no frozen section in an emergency).'
+- 'Gross: 17 x 14 x 9 cm smooth solid-cystic mass with yellow soft contents; microscopy: necrosis within fibrovascular stroma, diffuse spindle cells with vacuolated cytoplasm and mild pleomorphic nuclei, atypical mitoses.'
+- 'IHC: EMA, cytokeratin 7, CA125 and calretinin negative; inhibin focally positive; diagnosed as poorly differentiated juvenile-type granulosa cell tumor; staged IA.'
+- Because of early stage and incomplete fertility (patient was 17 and parous), surgery was limited to unilateral salpingo-oophorectomy; no adjuvant treatment was given; follow-up used serum inhibin, which did not rise.
+- Three years later (age 20), surveillance ultrasound showed a left ovarian cystic mass and PET/CT showed a hypermetabolic left adnexal focus; she was found to be 5 weeks pregnant with a 5x4 cm simple cyst thought to be a corpus luteum cyst, and after counselling about PET/CT she chose to terminate; one month later transvaginal ultrasound showed a normal left ovary, so this was considered a pregnancy luteoma/false positive, not recurrence.
+- The authors note PET/CT should not be done without excluding pregnancy, and cite from literature that stage I 5-year survival is 75-90%, adjuvant chemotherapy is recommended for stage IC-IV, and recurrence may occur after a mean 4-6 years.
+- The authors claim this is the youngest patient with JGCT diagnosed in pregnancy in the literature.
+relevance_to_jgct: Ovarian JGCT diagnosed during pregnancy at age 17, with 3-year inhibin-based follow-up and a PET false-positive scenario.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Original in Turkish; read in Turkish. Internal discrepancy: the abstract says the patient was 20 years old with a 17 cm mass during pregnancy, but the case text says the tumor was found 3 years earlier at age 17 (38 weeks) and she was 20 at the follow-up pregnancy. Statement that JGCT incidence among ovarian tumors in pregnancy is 10% is the authors'' citation and appears implausible. Title translation is the English title given on the article.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

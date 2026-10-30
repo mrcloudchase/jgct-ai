@@ -1,0 +1,47 @@
+source_id: '33328126'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33328126/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10039450
+language: en
+pmid: '33328126'
+doi: 10.1016/j.ygyno.2020.12.004
+pmcid: PMC10039450
+title: Re-assigning the histologic identities of COV434 and TOV-112D ovarian cancer cell lines.
+journal: Gynecologic oncology
+year: 2021
+first_author: Karnezis AN
+study_type: other
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: 'COV434 donor: 26 years'
+alterations:
+- gene: SMARCA4
+  alteration: splice-site mutation chr19:11145589 G:C, homozygous, in COV434 primary tumour and cell line
+  frequency: 1/1
+  notes: dual loss of SMARCA4 and SMARCA2 protein in COV434
+- gene: FOXL2
+  alteration: protein negative by IHC in COV434 original tumour
+  frequency: 1/1
+  notes: 'original report: no FOXL2 hotspot mutation'
+treatments: []
+presentation: []
+key_findings:
+- COV434 was originally described as a granulosa cell tumour line from a 26-year-old woman; absence of the adult-type FOXL2 mutation and young age had led others to regard it as consistent with juvenile granulosa cell tumor.
+- Re-review of the original COV434 tumour found diffuse sheets of monotonous small cells with occasional pseudofollicles, clusters of larger rhabdoid-appearing cells and high mitotic activity; the histologic differential was JGCT versus SCCOHT.
+- 'Original COV434 tumour IHC: negative for SMARCA4 and nuclear SMARCA2, inhibin A, FOXL2, CD10, synaptophysin, chromogranin and CD56; positive for SMARCB1/INI1 and diffuse WT1; focal AE1/AE3; p53 wild-type pattern; mismatch repair intact.'
+- Exome and Sanger sequencing found a homozygous SMARCA4 splice-site mutation in both the COV434 primary tumour and the cell line; the line is diploid-like with no copy number alterations.
+- COV434 xenografts in NRG mice (n=6) raised serum calcium from 2.42 +/- 0.11 to 2.87 +/- 0.05 mM (P<0.001), analogous to SCCOHT hypercalcemia; re-expression of SMARCA4 strongly suppressed COV434 proliferation.
+- Authors conclude COV434 is a bona fide SCCOHT cell line rather than a granulosa cell tumour line; TOV-112D (original endometrioid carcinoma) is a dedifferentiated carcinoma line, not SCCOHT.
+- The authors state that COV434 had no further clinical information available beyond the original report; the ovarian cell line OVK18 is also discussed as likely a dedifferentiated carcinoma.
+relevance_to_jgct: 'Cell-line identity study: COV434, sometimes used as a JGCT/granulosa cell tumor model, is reassigned to SCCOHT, so experiments using it as a JGCT model should be interpreted accordingly.'
+conflicts_with:
+- pmid-31311113
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: No JGCT patients; laboratory/pathology re-review. TOV-112D is irrelevant to JGCT. The JGCT-consistent inference about COV434 originates from the cited original report, not from this study's data. Journal and first author not in fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

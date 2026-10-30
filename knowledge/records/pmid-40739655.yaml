@@ -1,0 +1,40 @@
+source_id: '40739655'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/40739655/
+retrieved_on: '2026-10-30'
+full_text_source: PMC12411814
+language: en
+pmid: '40739655'
+doi: 10.1002/ijgo.70283
+pmcid: PMC12411814
+title: New histopathological and molecular findings in gynecological cancers.
+journal: Int J Gynaecol Obstet
+year: 2025
+first_author: McCluggage WG
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: TERT, AKT1 (printed 'AKTC'), GNAS, KMT2C
+  alteration: listed as 'other molecular events (may be useful in prognostication)' in JGCT
+  frequency: null
+  notes: Table 1 gives no frequencies; no recurrent diagnostic molecular event is listed for JGCT
+treatments: []
+presentation: []
+key_findings:
+- Narrative pathology review of recent developments in gynecological tumor classification (2020 WHO 5th edition and later); no new data; 6th WHO edition expected 2026.
+- 'Table 1 (molecular events in ovarian sex cord-stromal tumors): for juvenile granulosa cell tumor (JGCT) there are no recurrent molecular events useful in diagnosis; other molecular events that may be useful for prognostication are TERT, AKT1 (printed ''AKTC'' in the table), GNAS and KMT2C; associated tumor syndromes are Ollier disease and Maffucci syndrome.'
+- By contrast, adult granulosa cell tumors contain somatic FOXL2 (C134W missense) mutations in well over 90% of cases, and moderately/poorly differentiated Sertoli-Leydig cell tumors very commonly contain DICER1 mutations (somatic or germline); these are the molecular events the author highlights as diagnostically useful.
+- The author notes immunohistochemistry confirms a sex cord-stromal tumor but is of minimal value in distinguishing between tumor types, and that rarity and morphologic overlap mean many cases benefit from specialist pathology referral, which also facilitates case-series accrual.
+- The review otherwise covers endometrial TCGA classification, LVSI, mesonephric-like adenocarcinoma, uterine mesenchymal tumors, HPV-associated/independent cervical, vulvar and vaginal carcinomas and STK11 adnexal tumors, with no further JGCT content.
+relevance_to_jgct: 'Minimal but useful for molecular pathology: a 2025 expert review stating that JGCT lacks a recurrent diagnostic molecular event (unlike FOXL2 in adult granulosa cell tumor), with only candidate prognostic genes and Ollier/Maffucci association listed.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT content is one table row and no narrative discussion; the table's gene list (AKTC, probably AKT1) has no cited primary data or frequencies in the text, and frequencies of the other events are not given.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,43 @@
+source_id: '35849655'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35849655/
+retrieved_on: '2026-10-30'
+full_text_source: PMC9415218
+language: en
+pmid: '35849655'
+doi: 10.1097/CCO.0000000000000860
+pmcid: PMC9415218
+title: Use of staging for sex cord stromal tumours.
+journal: Current opinion in oncology
+year: 2022
+first_author: Negri S
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments:
+- regimen: Fertility-sparing surgery (cystectomy vs unilateral salpingo-oophorectomy), staging, laparoscopy
+  setting: JGCT-specific cited data
+  n: null
+  outcome: 'Cystectomy in early JGCT: recurrence rate 25% in a cited review (one of four relapsing at 3 months in the same ovary); incomplete staging the only risk factor for recurrence in that review'
+presentation:
+- JGCT can manifest with hyperestrogenism and pseudoprecocity
+key_findings:
+- Narrative review of surgical staging of ovarian sex cord-stromal tumors (SCST), mainly granulosa cell and Sertoli-Leydig tumors; SCSTs are 3-7% of ovarian tumors, incidence about 2.1 per million women in Europe.
+- JGCT is described as the most common SCST in children and adolescents, mean age of onset 13 years; adult GCT accounts for up to 95% of GCTs, mean onset 50-55 years.
+- JGCT can manifest with hyperestrogenism and pseudoprecocity, but no studies suggest an association with endometrial pathology (unlike adult GCT, where endometrial hyperplasia occurs in 20-60% and cancer in 1-20%).
+- 'Lymph node data: in cited series with JGCT (Karalok 10 JGCTs 0/5 positive nodes; Wang 35 JGCTs 0/14; Brown 27 JGCTs, 0/7 in stage I-II and 0/2 in III-IV) no node metastasis was found; lymphadenectomy did not improve disease-free or overall survival and is not recommended by international guidelines for SCST.'
+- Cystectomy 'might be well tolerated' in JGCT but a recent review of early-stage JGCT described a 25% recurrence rate with one of four relapsing after 3 months in the same ovary; in that review incomplete surgical staging was significantly associated with disease-free survival and was the only risk factor for recurrence.
+- Laparoscopy seems well tolerated in JGCTs (small series and case reports); surgical staging (peritoneal washing, omentectomy, peritoneal biopsies, no routine lymphadenectomy) should always be performed, and restaging is suggested after incomplete staging.
+- 'Authors'' conclusion: unilateral salpingo-oophorectomy is safer than cystectomy for fertility-sparing surgery in adult GCT, and most evidence comes from retrospective studies and case reports.'
+relevance_to_jgct: Review of staging in ovarian SCST with several JGCT-specific statements (nodal metastasis, cystectomy recurrence, laparoscopy, staging). Only secondary data; no original patients.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Secondary review; the JGCT figures (25% recurrence after cystectomy, 35-JGCT series) come from a cited review and are not independently reported. Journal, first author and DOI not stated in the fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

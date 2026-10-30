@@ -1,0 +1,43 @@
+source_id: '31311113'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/31311113/
+retrieved_on: '2026-10-30'
+full_text_source: PMC6678151
+language: en
+pmid: '31311113'
+doi: 10.3390/ijms20143471
+pmcid: PMC6678151
+title: RUNX3 Promotes the Tumorigenic Phenotype in KGN, a Human Granulosa Cell Tumor-Derived Cell Line.
+journal: International Journal of Molecular Sciences
+year: 2019
+first_author: Chen H
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 5
+age_range: null
+alterations:
+- gene: RUNX3
+  alteration: protein not detected in 5/5 JGCT tissues (RUNX2 detected); high in COV434 cell line
+  frequency: 'JGCT tissues n=5; AGCT: low in 11/11 Alberta tissues, absent in 6/6 Baylor tissues'
+  notes: RUNX3 promoter methylated in 15 (14 in discussion) of 25 GCT tissues per cited prior study
+treatments: []
+presentation: []
+key_findings:
+- Laboratory study of RUNX proteins in GCT cell lines (KGN, labelled adult GCT; COV434, labelled juvenile GCT; immortalized granulosa SVOG) and human GCT tissue.
+- RUNX3 was undetectable in KGN and SVOG but highly expressed in COV434; RUNX2 was absent in COV434. Re-expressing RUNX3 in KGN increased growth, soft-agar colonies and motility (+59%), raised cyclin D2 mRNA 2.7-fold, lowered p27Kip1 protein by 58%, and 4 of 6 injections of KGN/RUNX3 (0 of 6 vector) formed small tumors in NSG mice.
+- A dominant-negative RUNX3 reduced proliferation of COV434 cells.
+- 'Human tissue: five JGCT samples (Baylor College of Medicine), three normal ovaries, six AGCT (Baylor) and 11 AGCT (Alberta). RUNX2 was detected in all JGCT samples, whereas RUNX3 protein was not detected in any JGCT sample; RUNX1-3 mRNA by qRT-PCR varied.'
+- The authors conclude RUNX3 may play an oncogenic role in a subset of GCT, but note that RUNX3 expression may not be common in human GCT, and that JGCT conclusions are limited.
+- The authors state COV434 may be misidentified and possibly a small cell carcinoma of the ovary, hypercalcemic type (SCCOHT) line, so its use as a JGCT model is uncertain; its RUNX2/RUNX3 pattern did not resemble the primary JGCT samples.
+- 'Background statements: AGCT is about 95% of GCT; the FOXL2 C134W (402C>G) mutation is in 97% of AGCT but not in JGCT (cited).'
+relevance_to_jgct: Basic-science paper; only 5 primary JGCT tissues (RUNX protein/mRNA expression) and the disputed COV434 line. Mainly relevant to cautions about COV434 as a JGCT model.
+conflicts_with:
+- pmid-33328126
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Mostly about KGN (adult GCT). Text uses '15 of 25' in Results and '14 of 25 (56%)' in Discussion for the prior methylation study. COV434 identity uncertainty is stated by the authors.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

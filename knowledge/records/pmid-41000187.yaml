@@ -1,0 +1,37 @@
+source_id: '41000187'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41000187/
+retrieved_on: '2026-10-30'
+full_text_source: PMC12459912
+language: en
+pmid: '41000187'
+doi: 10.3389/fped.2025.1639582
+pmcid: PMC12459912
+title: 'Pediatric and young adult ovarian masses: clinical approach, diagnostic evaluation, and management.'
+journal: Frontiers in pediatrics
+year: 2025
+first_author: Bayramoglu Z
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 15
+age_range: 'whole cohort: under 30 years, mean 13.7 +/- 4.02'
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Single-center retrospective cohort of 1,128 females under 30 who had surgery for ovarian masses (2003-2024); mean age 13.7 +/- 4.02 years; 760 (67.38%) non-neoplastic and 368 (32.62%) neoplastic.
+- Juvenile granulosa cell tumor was recorded in 15 patients (1.33% of the cohort), listed third among malignant diagnoses after dysgerminoma (44) and immature teratoma (28).
+- One JGCT patient also had Ollier syndrome, which the authors cite in support of genetic evaluation in pediatric ovarian tumors.
+- 'Tumor markers for predicting malignancy across all tumors (not JGCT-specific): Inhibin B sensitivity 70%, specificity 85%, PPV 72%, NPV 84% (p = 0.03); AFP 92/88%; beta-hCG 85/90%; LDH 78/82%; CA-125 60/75% (p = 0.08).'
+- Malignant neoplasms were larger than benign (18.4 +/- 8.5 vs 6.3 +/- 5.7 cm); recurrence was reported for borderline tumors (31%), grade 2-3 immature teratomas (33%), grade 1 immature teratomas (5%) and malignant germ cell tumors (12%); no JGCT-specific recurrence, stage, treatment or survival data are given.
+- Authors conclude that fertility-sparing surgery is feasible and should be prioritized and that structured long-term follow-up is needed; follow-up was not standardized.
+relevance_to_jgct: Large pediatric/young-adult ovarian mass surgical series; JGCT contributes only a count (15), one Ollier syndrome association, and cohort-wide inhibin B marker performance.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Bibliographic details (journal, first author, DOI) were not in the fetched text. Internal inconsistencies: abstract and table report different mean ages for benign/malignant groups and the age-comparison p value (0.124) vs text; Table 1 percentages and Table 3 sum oddly (tumor counts in Table 3 do not sum to 368). Treat JGCT numbers as a count only. Journal metadata should be checked against PubMed before review.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

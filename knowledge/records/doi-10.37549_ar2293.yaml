@@ -1,0 +1,42 @@
+source_id: 10.37549/ar2293
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.37549/ar2293
+retrieved_on: '2026-10-30'
+full_text_source: https://www.appliedradiology.com/articles/neonatal-juvenile-granulosa-cell-tumor-of-the-testis
+language: en
+pmid: null
+doi: 10.37549/ar2293
+pmcid: null
+title: Neonatal juvenile granulosa cell tumor of the testis
+journal: Applied Radiology
+year: 2016
+first_author: Liu S
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: Newborn (enlarged testicle at birth, 39 weeks gestation)
+alterations: []
+treatments:
+- regimen: Partial orchiectomy
+  setting: primary
+  n: 1
+  outcome: Uneventful recovery, discharged day of life 8; follow-up with urology and pediatrician
+presentation:
+- enlarged right testicle on newborn exam
+- bilateral moderate hydroceles
+key_findings:
+- Newborn boy (39 weeks gestation) with an enlarged right testicle at birth; ultrasound showed a 7 mm mixed solid and cystic mass at the inferior pole of the right testicle (testis 0.8 x 0.7 x 1.3 cm) with internal color Doppler flow; left testis normal; AFP and other tumor markers normal for age.
+- Partial orchiectomy was performed; histology showed a mucinous lesion with cystic regions surrounded by granulosa cells; final diagnosis juvenile granulosa cell tumor; he recovered uneventfully and was discharged on day 8.
+- 'Discussion (from cited literature): testicular JGCT is benign, about 3% of primary testicular tumors in boys under 12, the most common testicular sex cord-stromal tumor in infancy with fewer than 100 reported cases; about half present in the first days of life and over 90% by 6 months.'
+- 'Cited features: normal AFP for age (excludes yolk sac tumor), inhibin-alpha positivity, no precocious puberty, association with Y-chromosome structural abnormalities, ultrasound showing cystic or partly cystic mass 0.8-5.0 cm; no recurrence or metastasis reported after orchiectomy or testis-sparing enucleation, and enucleation is advocated when AFP is normal.'
+relevance_to_jgct: Neonatal testicular JGCT treated with partial orchiectomy; background statements summarize benign behavior and testis-sparing options.
+conflicts_with: []
+overlaps_with:
+- pmid-32719989
+superseded_by: null
+retracted: false
+notes: Short imaging case summary; follow-up beyond discharge is not reported and no immunohistochemistry or karyotype is given for the patient. Literature statements are citations (Ross 2002, Shukla 2004, Lawrence 1985, Harms 1997 and others).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

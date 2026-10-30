@@ -1,0 +1,45 @@
+source_id: '30581564'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30581564/
+retrieved_on: '2026-10-30'
+full_text_source: PMC6287085
+language: en
+pmid: '30581564'
+doi: 10.1016/j.amsu.2018.11.011
+pmcid: PMC6287085
+title: 'Case series: Five pediatric germ cell/sex cord stroma tumors.'
+journal: Annals of medicine and surgery (2012)
+year: 2019
+first_author: Glasser JG
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 13 years (JGCT case)
+alterations: []
+treatments:
+- regimen: Surgical resection (ovarian tumor with torn capsule and tumor spillage); no chemotherapy given
+  setting: primary surgery
+  n: 1
+  outcome: tumor never recurred (follow-up duration not stated)
+presentation:
+- abdominal distension and discomfort
+- isosexual precocious puberty
+- huge 33 x 15.5 x 33 cm ovarian tumor adherent to surrounding structures and omentum
+- Ollier's disease (enchondromatosis)
+key_findings:
+- Series of five unrelated pediatric tumors from one surgeon's practice (two ovarian, one gastric teratoma, one mesenteric teratoma, one metastatic choriocarcinoma); only case 2 is a JGCT, summarized as stage II JGCT of the right ovary with tumor spillage and Ollier's syndrome.
+- 'Case 2: a 13-year-old pubertal girl presented with abdominal distension, discomfort and isosexual precocious puberty; the tumor was 33 x 15.5 x 33 cm and adherent to surrounding structures with omental neovascularity; dissection tore the capsule with torrential hemorrhage that was controlled at the ovarian pedicle.'
+- She was followed with tumor markers and imaging and the tumor never recurred; no chemotherapy is reported. The author takes this as consistent with the observation that syndromic patients, even with rupture, have an excellent prognosis.
+- The text calls case 2 a 'juvenile germ cell tumor' in one heading although the series table and glossary state JGCT (juvenile granulosa cell tumor); no histology details, IHC or marker values are given for this case.
+- 'The author''s background statements (not data): JGCT incidence peaks in childhood, tumors grow large but have moderate to low virulence; complete resection gives overall survival 95% in children under 10 years even if the tumor ruptures; JGCT arise from uncommitted mesenchymal stem cells beneath the urogenital ridge; inhibin B and AMH are useful markers; cisplatin, etoposide and bleomycin are used for advanced disease (unresectable, recurrent, high mitotic activity or nuclear atypia, or ascites).'
+- 'Table 7 lists syndromes associated with sex cord stromal tumors: Peutz-Jeghers, Maffucci and Ollier''s disease are associated with JGCT; the author states syndromic sex cord stroma tumors usually occur in the first decade and are benign.'
+relevance_to_jgct: Narrative case series where one of five cases is a JGCT in a girl with Ollier's disease; useful for the Ollier/Maffucci association and rupture outcome, but with sparse pathology and follow-up.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Heading error: ''Juvenile Germ Cell Tumor'' in the case 2 title versus juvenile granulosa cell tumor elsewhere. Case 2 is described as 13 years old yet ''Stage II'' only in the summary table. Follow-up duration not given. Other four cases are not JGCT and omitted.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

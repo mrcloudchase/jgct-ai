@@ -1,0 +1,44 @@
+source_id: '25484595'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25484595/
+retrieved_on: '2026-10-30'
+full_text_source: PMC4240190
+language: en
+pmid: '25484595'
+doi: 10.2147/OTT.S69799
+pmcid: PMC4240190
+title: 'Large malignant ovarian tumors during pregnancy: two cases.'
+journal: OncoTargets and therapy
+year: 2014
+first_author: Xu D
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 24 years (JGCT patient)
+alterations: []
+treatments:
+- regimen: Cesarean section at 32 weeks with fertility-preserving surgery (right adnexectomy, partial omentectomy, pelvic lymph node dissection, peritoneal biopsies), then 3 cycles of BEP (bleomycin, etoposide, cisplatin) plus leuprolide (to preserve ovarian function), starting 10 days after surgery
+  setting: adjuvant after surgery in pregnancy
+  n: 1
+  outcome: healthy at 2-year follow-up
+presentation:
+- huge right cystic pelvic/abdominal mass found on ultrasound at 32 weeks
+- weight gain 18 kg
+- free pelvic fluid
+key_findings:
+- Two cases of large ovarian malignancy in pregnancy at Zhejiang University Women's Hospital are reported; only case 2 was a juvenile granulosa cell tumor (case 1 was a grade I borderline mucinous tumor, 45 cm, and is not JGCT).
+- 'JGCT patient: 24-year-old at 32 weeks of gestation with a 28x25x12 cm multiloculated cystic right ovarian mass with rich blood flow; AFP 266.8 ng/mL, CA-125 466.9 U/L, CEA 0.4 ng/mL.'
+- Lower segment cesarean (live girl, 1,800 g, Apgar 10) with right adnexectomy (30x25x15 cm smooth, unruptured tumor; 2,000 mL cyst fluid aspirated), partial omentectomy, pelvic lymph node dissection and peritoneal biopsies; pelvic fluid cytology negative; frozen section suggested JGCT and final pathology confirmed right ovarian JGCT with fallopian tube and 19 lymph nodes negative.
+- Postoperative AFP fell to 39.5 ng/mL and CA-125 to 359.9 U/mL at day 6; she received three cycles of first-line BEP (from 23 Nov 2012, then 25 Dec 2012 and 23 Jan 2013) with leuprolide, which the authors say is recommended by FIGO for cord stromal tumors; stage is not explicitly stated.
+- Follow-up at 2 years showed she remained healthy.
+- The authors state that stage Ia granulosa cell tumors can be treated conservatively in pregnancy, and that BEP, etoposide-cisplatin and cisplatin-vinblastine-bleomycin protocols show no adverse effects on the fetus (their general statements, not data from the cases).
+relevance_to_jgct: Case series of two large ovarian tumors in pregnancy, one a JGCT with elevated AFP and CA-125 treated with surgery plus BEP; only that case is JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Stage of the JGCT not stated although pelvic fluid and nodes were negative; the choice of adjuvant BEP is not explained by stage. Case 1 (borderline mucinous) is out of scope.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

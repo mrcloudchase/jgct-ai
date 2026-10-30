@@ -64,6 +64,9 @@ def sources_index():
     out += ["", "### Next 40 unprocessed items by priority", ""]
     for r in c.execute("SELECT id,priority,year,substr(title,1,120) FROM items WHERE status='found' ORDER BY priority DESC, year DESC LIMIT 40"):
         out.append(f"- {r[0]} (p{r[1]}, {r[2]}) {r[3]}")
+    out += ["", "### Needs full text (relevant; full text could not be obtained, routes tried in the note)", ""]
+    for r in c.execute("SELECT id,year,substr(title,1,100),note FROM items WHERE status='needs_full_text' ORDER BY priority DESC, year DESC"):
+        out.append(f"- {r[0]} ({r[1]}) {r[2]} — {r[3]}")
     out += ["", "### Unreachable", ""]
     for r in c.execute("SELECT id,year,substr(title,1,100),note FROM items WHERE status='unreachable' ORDER BY year DESC"):
         out.append(f"- {r[0]} ({r[1]}) {r[2]} — {r[3]}")

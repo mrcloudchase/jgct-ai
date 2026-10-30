@@ -77,6 +77,7 @@ conflicts_with: []
 overlaps_with:
 - pmid-39400264
 - url-599767ff9c45
+- pmid-29037807
 superseded_by: null
 retracted: false
 notes: 'Abstract and full text agree on key numbers. Staging rules: missing staging components assumed negative; IX grouped with IA; ICX when rupture status unknown. Local and central MI pooled. Chemotherapy was not randomized so its effect could not be assessed. Possible patient overlap with other IOTSTR/DICER1 registry publications. Small sample, few events, enrollment/ascertainment bias acknowledged. Table 1 lists elevated inhibin B ''median [range]'' n=37.'

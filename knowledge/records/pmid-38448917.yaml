@@ -1,0 +1,39 @@
+source_id: '38448917'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/38448917/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10916017
+language: en
+pmid: '38448917'
+doi: 10.1186/s12885-024-12047-6
+pmcid: PMC10916017
+title: A clinicopathological study about the epidemiology of granulosa cell tumors in Lebanon.
+journal: BMC cancer
+year: 2024
+first_author: Yaacoub S
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 6
+age_range: mean 21 years in Table 1 (discussion text says 13)
+alterations: []
+treatments: []
+presentation:
+- abdominal pain, postmenopausal or intermenstrual bleeding in GCT overall (not broken down for JGCT)
+key_findings:
+- Retrospective single-center (National Institute of Pathology, Beirut) study of 65 consecutive ovarian granulosa cell tumors (GCT) referred from Lebanese hospitals January 2000 to January 2020; 6 (9.2%) juvenile and 59 (90.8%) adult type. Calculated GCT incidence 16.2 per million per year (authors describe this as upper end of international range).
+- 'JGCT group (n=6): mean age 21 years (adult group 60); high tumor size >10 cm in 4/6 (66.7%) versus 20/59 (33.9%) adults; high mitotic index 1/6; grooved nuclei 1/6; Call-Exner bodies 1/6; microfollicular 3/6, macrofollicular 1/6, trabecular 1/6, insular 1/6. Authors report significant association of JGCT with young age and large size (p<0.05).'
+- 'Recurrence: 13/65 (20%) overall, 12 adult and 1 JGCT (1/6, 16.7%); recurrence not significantly related to type (p=0.09); recurrent cases were stage 3 (6) or 4 (6) except one stage 2, and had high mitotic index (10/13) and tumor size >10 cm (12/13).'
+- Stage was known for only 35 patients because of loss to follow-up; stage was not reported separately for JGCT.
+- 'Immunohistochemistry (tests performed varied): inhibin positive 30/40 overall with 3 JGCT positive and 2 negative; calretinin 18/23 overall, JGCT 2 positive; cytokeratin 10/20, JGCT 1 positive and 1 negative; CD99 19/23, JGCT 2 positive; vimentin 18/18, JGCT 2 positive.'
+- FOXL2 testing was not performed because it is not covered by payers in Lebanon; authors suggest some tumors may be classified as GCT by default and possibly over-diagnosed.
+- Authors conclude older age, high mitotic index, large size and advanced stage predict recurrence, and call for FOXL2 access and further Mediterranean epidemiology; JGCT conclusions rest on 6 patients.
+relevance_to_jgct: Epidemiology and pathology series of ovarian granulosa cell tumors in Lebanon; JGCT is a 6-patient subgroup with age, size, histology and immunohistochemistry compared against adult-type tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Internal inconsistencies: abstract states 91% adult versus 19% juvenile (sums above 100%; text and Table 1 give 6/65 = 9.2% JGCT); JGCT mean age is 21 years in Table 1 but 13 in the Discussion; the p-value cited for recurrent-case predictors is given as 0.09 in the same sentence as ''significant''. Table 3 inhibin counts imply 3 JGCT positive and 2 negative (the percent columns in the paper are mislabeled). No survival data. No FOXL2 testing. Journal and first author not stated in the retrieved full text.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

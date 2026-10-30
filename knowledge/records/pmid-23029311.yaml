@@ -1,0 +1,56 @@
+source_id: '23029311'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/23029311/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3454334
+language: en
+pmid: '23029311'
+doi: 10.1371/journal.pone.0045914
+pmcid: PMC3454334
+title: 'GATA-4 and FOG-2 expression in pediatric ovarian sex cord-stromal tumors replicates embryonal gonadal phenotype: results from the TREP project.'
+journal: PloS one
+year: 2012
+first_author: Virgone C
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 6
+age_range: 7 to 118 months (JGCT subgroup); whole series 7 to 224 months
+alterations:
+- gene: FOG-2 (ZFPM2)
+  alteration: protein expression by IHC (nuclear)
+  frequency: strong in 5/6 JGCT (negative in case 3)
+  notes: expression, not mutation
+- gene: GATA-4
+  alteration: protein expression by IHC (nuclear)
+  frequency: negative in 4/5 evaluable JGCT, weak (+) in 1 (case 4, 21 mitoses/10 HPF); not assessable in 1
+  notes: expression, not mutation
+treatments:
+- regimen: Surgery alone
+  setting: JGCT stage I (cases 1,2,4,5) and stage II (case 3)
+  n: 5
+  outcome: all in complete remission, follow-up 36 to 72 months
+- regimen: Surgery plus cisplatin, etoposide, bleomycin (PEB)
+  setting: JGCT stage I (case 6)
+  n: 1
+  outcome: complete remission, follow-up 15 months
+presentation:
+- JGCT diameter 3 to 22 cm, cysts present in 5 of 6
+- mitotic rate 1 to 21/10 HPF in JGCT, generally high
+key_findings:
+- 'Italian TREP project (registry of very rare pediatric tumors; patients 18 years or younger): 15 girls with ovarian sex cord-stromal tumors: 6 JGCT, 6 Sertoli-Leydig cell tumors (SLCT), 1 fibrothecoma, 1 fibroma (bilateral, Gorlin syndrome), 1 sclerosing stromal tumor. COG/POG staging: stage I 12, II 2, IV 1 in the whole series.'
+- 'JGCT patients (ages 31, 7, 40, 73, 97 and 118 months): stage I in 5 and stage II in 1 (case 3, age 40 months); tumor size 3 to 22 cm (case 1 3 cm, case 2 8 cm, case 3 10 cm, case 5 9 cm, case 6 22 cm); mitotic rate <1, >10, >10, 21, 6, >10 per 10 HPF; cysts in 5/6.'
+- 'JGCT outcome: all six in complete remission, with follow-up of 67, 57, 36, 72, 52 and 15 months; only case 6 (stage I, 22 cm) received PEB chemotherapy. No JGCT was clinically malignant despite frequently high mitotic rates.'
+- 'JGCT immunohistochemistry: inhibin and vimentin positive in all evaluable JGCT (inhibin not available in 1), pancytokeratin focally positive in 3/6; FOG-2 strongly expressed in 5/6; GATA-4 negative in 4 of 5 evaluable cases and weakly positive in 1 (the case with 21 mitoses/10 HPF).'
+- In the whole series inhibin was positive in 11/15, vimentin 13/15, pancytokeratin 6/15, GATA-4 5/13 and FOG-2 11/15. SLCT expressed FOG-2 in 4/6 and GATA-4 in 3/5; fibroma/thecoma expressed both, sclerosing stromal tumor was FOG-2 negative.
+- 'Whole-series outcome: 13 in first complete remission, 1 second remission after a metachronous contralateral SLCT, 1 death of disease (a stage II SLCT with retiform pattern and heterologous elements, relapsed pelvis with rhabdomyosarcoma-like component, died at 33 months). PEB was given in 3/15 (stage I, II, IV).'
+- Authors conclude pediatric JGCT show a FOG-2/GATA-4 pattern resembling primordial ovarian follicles, that low GATA-4 may relate to the good JGCT outcome, and that FOG-2 may have prognostic value; they stress the very small numbers and that histology and complete excision remain the main prognostic factors.
+relevance_to_jgct: Small Italian TREP series of pediatric ovarian sex cord-stromal tumors with a 6-patient JGCT subgroup reporting stage, size, mitoses, chemotherapy, outcome and FOG-2/GATA-4/inhibin immunohistochemistry.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Ages in Table 2 are in months. The TREP project is a collaborative registry; patients may overlap with other TREP-derived Italian papers (not checked). IHC data not available for every case (n.a.). Mitotic cut-offs: high is 10 or more per 10 HPF. Journal and first author not stated in the retrieved full text.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

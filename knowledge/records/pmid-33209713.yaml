@@ -1,0 +1,38 @@
+source_id: '33209713'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33209713/
+retrieved_on: '2026-10-30'
+full_text_source: PMC7658131
+language: en
+pmid: '33209713'
+doi: 10.21037/tau-19-815
+pmcid: PMC7658131
+title: Partial orchiectomy vs. radical orchiectomy for pediatric testis tumors.
+journal: Translational Andrology and Urology
+year: 2020
+first_author: Woo LL
+study_type: review
+tumor_site: testis
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- 'juvenile granulosa cell tumor on ultrasound: discrete multi-septated hypoechoic cystic lesion (''Swiss-cheese'' appearance)'
+key_findings:
+- Narrative review (commissioned article, peer reviewed) of partial versus radical orchiectomy in pediatric testis tumors; contains no patient series of its own for JGCT.
+- States that stromal tumors such as Sertoli cell tumor, Leydig cell tumor and juvenile granulosa cell tumor generally behave in a benign fashion in pre-pubertal patients, whereas pure yolk sac tumor is the most common malignant tumor in pre-pubertal boys.
+- 'Ultrasound: the review states juvenile granulosa cell tumors may appear as discrete multi-septated hypoechoic cystic lesions reminiscent of ''Swiss-cheese''; calcifications in a lesion help differentiate teratoma from granulosa cell tumors; yolk sac tumors and other malignant lesions tend to be hypervascular and more solid.'
+- Partial orchiectomy is described in numerous reports as safe and effective for benign tumors including teratoma, epidermoid cyst, Sertoli cell tumor, Leydig cell tumor and juvenile granulosa cell tumor, performed if intraoperative frozen section shows benign histology and with normal age-adjusted AFP.
+- 'General recommendations: pre-pubertal patients with normal age-adjusted AFP are candidates for testis-sparing surgery; serum AFP is elevated in 90% of children with yolk sac tumor but is physiologically high in infancy (normal by about 1 year); radical inguinal orchiectomy remains standard for malignant tumors and for most post-pubertal patients.'
+- Benign lesions treated with partial orchiectomy showed no atrophy or recurrence after mean follow-up of 5-10 years in cited series; long-term functional data in children are lacking according to the authors.
+relevance_to_jgct: Review of testis-sparing surgery in children that mentions testicular JGCT only briefly (benign behavior in pre-pubertal boys, characteristic Swiss-cheese ultrasound appearance, eligibility for partial orchiectomy).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT content limited to three statements; no JGCT counts. Review of the same topic as pmid-33036134 (systematic review); no patient overlap since this is a narrative review.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,45 @@
+source_id: 10.5455/2320-1770.ijrcog20141259
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5455/2320-1770.ijrcog20141259
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ijrcog.org/index.php/ijrcog/article/download/2251/1961
+language: en
+pmid: null
+doi: 10.5455/2320-1770.ijrcog20141259
+pmcid: null
+title: 'Juvenile granulosa cell tumour: a rare clinical entity'
+journal: International Journal of Reproduction, Contraception, Obstetrics and Gynecology
+year: 2014
+first_author: Reddy KH
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 17 years
+alterations: []
+treatments:
+- regimen: Exploratory laparotomy, left salpingo-oophorectomy with intact capsule, omental and peritoneal biopsies; no adjuvant therapy
+  setting: stage IA primary surgery
+  n: 1
+  outcome: Well and under follow-up at 1 year; oncologist advised follow-up for at least 3 years
+presentation:
+- irregular cycles for 3 months followed by 6 months of amenorrhea
+- non-tender firm mobile lower abdominal mass of 18 weeks size
+- hypothyroid on treatment, BMI 30, secondary sexual characters well developed
+key_findings:
+- 17-year-old unmarried girl, menarche at 14, with 3 months of irregular cycles then 6 months of amenorrhea; known hypothyroid; abdominal mass of about 18 weeks size.
+- Serum CA-125, CEA, AFP, beta-hCG and LDH were within normal limits; thyroid function, prolactin and testosterone were normal; inhibin was not measured.
+- 'Ultrasound: 11.2 x 6.2 cm well-defined predominantly cystic mass with increased vascularity, probably from the left ovary, no solid component; CECT: heterogeneously enhancing left lower abdominal/pelvic mass with mild left hydroureteronephrosis, no free fluid; MRI not done.'
+- At laparotomy a 20 x 15 cm left ovarian tumor with intact capsule, no free fluid, negative saline-wash cytology and no omental, hepatic or nodal disease; left salpingo-oophorectomy performed because the tube merged with the capsule; omental and peritoneal biopsies were negative.
+- 'Histopathology: well-differentiated juvenile granulosa cell tumor with hyaline globules; vimentin positive; inhibin and smooth muscle actin could not be done for lack of reagents; staged IA.'
+- No adjuvant chemotherapy given on oncologist's advice; at one year after surgery she was doing well under follow-up.
+- The authors discuss (from the literature) that stage is the best prognostic factor, that surgery is the cornerstone, that BEP or taxane-platinum have been used for advanced or recurrent disease, and that radiotherapy has not been shown to confer survival benefit.
+relevance_to_jgct: Single teen JGCT case with amenorrhea as presentation, stage IA, fertility-sparing unilateral salpingo-oophorectomy and no adjuvant treatment.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The discussion states both that JGCT recurrences typically occur within the first year and within the first three years, and also states a 5-year survival of 95-100% in early-stage disease (cited, not derived from this case). Immunohistochemistry was limited to vimentin. Full text read from the journal PDF.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

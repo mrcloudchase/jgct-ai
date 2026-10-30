@@ -1,0 +1,48 @@
+source_id: 10.5348/ijcri-201627-cr-10614
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5348/ijcri-201627-cr-10614
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ijcasereportsandimages.com/archive/2016/003-2016-ijcri/CR-10614-03-2016-mustafa/ijcri-1061403201614-mustafa.pdf
+language: en
+pmid: null
+doi: 10.5348/ijcri-201627-cr-10614
+pmcid: null
+title: Subserosal fibroid thought to be recurrent granulosa cell tumor in a pregnant patient
+journal: International Journal of Case Reports and Images
+year: 2016
+first_author: Mustafa HJ
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 30 years at diagnosis (2005)
+alterations: []
+treatments:
+- regimen: Exploratory laparotomy, right salpingo-oophorectomy, lymph node sampling, pelvic washings, partial omentectomy
+  setting: primary, stage IA (2005)
+  n: 1
+  outcome: testosterone normalized; surveillance (exam, testosterone, inhibin A/B, imaging) normal; hirsutism and clitoromegaly persisted
+- regimen: Exploratory laparotomy at 16 weeks of pregnancy for suspected recurrence
+  setting: 2014 pelvic mass
+  n: 1
+  outcome: 8 cm pedunculated subserosal fibroid of lower uterine segment excised (frozen section and pathology); no fetal complications
+presentation:
+- hirsutism, clitoromegaly of 3 cm and acne for one year
+- total testosterone 365 ng/dl and 17-OH progesterone 253 ng/dl
+- 11 x 7 x 10 cm solid adnexal mass on ultrasound
+key_findings:
+- 30-year-old Jamaican woman presented in 2005 with one year of hirsutism, 3 cm clitoromegaly and acne; total testosterone 365 ng/dl and 17-OH progesterone 253 ng/dl; ACTH stimulation excluded late-onset 21-hydroxylase deficiency.
+- Pelvic ultrasound showed an 11 x 7 x 10 cm adnexal solid mass; endometrial biopsy was benign. She had laparotomy, right salpingo-oophorectomy, lymph node sampling, pelvic washings and partial omentectomy; pathology was androgen-secreting granulosa cell tumor of the ovary, stage IA. Testosterone normalized after surgery.
+- Surveillance with examination, testosterone, inhibin A and B and imaging was normal, but hirsutism and clitoromegaly persisted for years despite medical treatment.
+- In 2014 CT showed a 7 cm adnexal mass (7.3 x 5 x 5.4 cm) and MRI an 8 x 8 x 7 cm (8.9 x 7.1 cm in the figure legend) pelvic mass with cystic changes, separate from the uterus, in a patient who had become pregnant; testosterone and inhibin were normal. The tumor board decided on surgery for suspected recurrence.
+- Laparotomy at 16 weeks of pregnancy found an 8 cm pedunculated subserosal fibroid of the lower uterine segment, excised and confirmed on frozen section and pathology; fetal monitoring showed no complications.
+- 'Author conclusion: recurrent androgen-secreting JGCT is rare, can be confused with a pedunculated fibroid even on MRI, and laparoscopy before laparotomy should be considered.'
+relevance_to_jgct: Single case labeled juvenile androgen-secreting granulosa cell tumor with persistent virilization after resection and a false-positive suspected recurrence in pregnancy (fibroid).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Labeling inconsistency: the abstract and conclusion call the tumor a juvenile granulosa cell tumor, but the case pathology text says only ''androgen secreting granulosa cell tumor, stage IA''; the patient was 30 at diagnosis, which is atypical for juvenile type and no histologic or IHC detail is given for the primary tumor. Laterality inconsistency: text says right salpingo-oophorectomy for a left adnexal mass, while Figure 1 legend says right adnexal mass. Pelvic mass in 2014 was not a recurrence. Single author.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

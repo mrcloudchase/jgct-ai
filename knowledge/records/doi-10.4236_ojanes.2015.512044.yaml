@@ -1,0 +1,44 @@
+source_id: 10.4236/ojanes.2015.512044
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.4236/ojanes.2015.512044
+retrieved_on: '2026-10-30'
+full_text_source: https://content.scirp.org/pdf/ojanes_2015122513421625.pdf
+language: en
+pmid: null
+doi: 10.4236/ojanes.2015.512044
+pmcid: null
+title: 'Anaesthetic Management of Malignant Granulosa Cell Tumour of Ovary in a Paediatric Patient: A Case Report'
+journal: Open Journal of Anesthesiology
+year: 2015
+first_author: Dwivedi MB
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 1 year
+alterations: []
+treatments:
+- regimen: Complete excision under general anaesthesia (fentanyl, propofol, rocuronium; 10 ml/kg Ringer lactate preloading)
+  setting: FIGO stage I
+  n: 1
+  outcome: 2900 g mass removed; hemodynamically stable, uneventful extubation; no follow-up reported
+presentation:
+- weight loss, abdominal swelling and pain for 2 months
+- bilateral breast enlargement
+- pubic hair (described as Tanner stage 1)
+- abdominal lump about 8 x 10 cm from epigastrium to pelvis
+key_findings:
+- 'Case report with an anaesthesia focus: 1-year-old girl, 8.5 kg, with 2 months of weight loss, abdominal swelling and pain, bilateral breast enlargement and premature pubic hair; abdominal lump about 8 x 10 cm from epigastrium to pelvis.'
+- 'Contrast CT: heterogeneously enhancing, well-defined abdominopelvic mass from the right adnexa up to the subhepatic region, suggestive of ovarian origin.'
+- Complete excision removed a 2900 g mass; histopathology confirmed JGCT (no immunohistochemistry or marker results given); the tumor was assigned FIGO stage I.
+- Intraoperative course was hemodynamically stable with uneventful extubation; the authors emphasize airway, hemodynamic, respiratory and fluid risks of giant ovarian masses (vena cava compression, post-excision hypotension, pulmonary edema).
+- Authors conclude complete surgical resection is the key prognostic factor for localized disease, with patients responding well to surgery alone. No postoperative follow-up or hormone data are reported.
+relevance_to_jgct: Case of infantile JGCT with precocious puberty features and a very large (2900 g) stage I tumor; the report concerns anaesthetic management, with limited oncologic detail.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Title says 'Malignant' GCT whereas text describes JGCT. 'Tanner stage 1' alongside pubic hair is as stated in the paper. No outcome follow-up. Abstract claims JGCT occurs mostly under five years of age (literature).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

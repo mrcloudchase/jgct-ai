@@ -1,0 +1,45 @@
+source_id: 10.32677/ijcr.v10i2.4357
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.32677/ijcr.v10i2.4357
+retrieved_on: '2026-10-30'
+full_text_source: https://mansapublishers.com/ijcr/article/download/4357/3672
+language: en
+pmid: null
+doi: 10.32677/ijcr.v10i2.4357
+pmcid: null
+title: 'Juvenile granulosa cell tumor in a 35-year-old pregnant woman: A rare case report'
+journal: Indian Journal of Case Reports
+year: 2024
+first_author: Sharma JD
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 35 years
+alterations: []
+treatments:
+- regimen: Left ovarian tumor resection; left ovariotomy for recurrence at 3 months; total abdominal hysterectomy and salpingo-oophorectomy after cesarean delivery; adjuvant chemotherapy advised
+  setting: pregnancy (14 weeks) with ruptured 13x12x5 cm tumor, recurrent disease
+  n: 1
+  outcome: Recurrence at 3 months; histology JGCT again at hysterectomy; ascites a few weeks later; under follow-up, chemotherapy advised; healthy baby delivered at term
+presentation:
+- sudden onset left abdominal and lower back pain for 2 days at 14 weeks of gestation
+- adnexal mass on ultrasound (size given as '90 cm', evidently an error)
+- tumor markers CA 125, CEA, CA 19.9, AFP, LDH, beta-hCG normal
+key_findings:
+- 'Case report from Guwahati, India: 35-year-old woman at 14 weeks of gestation with sudden left abdominal and lower back pain; ultrasound showed an adnexal mass (reported as ''90 cm'' in diameter in the text); CA 125, CEA, CA 19.9, AFP, LDH and beta-hCG all normal.'
+- 'Left ovarian tumor resection: 13x12x5 cm tumor with ruptured capsule, solid grayish-white cut surface with focal papillaroid and hemorrhagic areas.'
+- 'Histology: round to oval cells with hyperchromatic vesicular nuclei, prominent nucleoli, irregular nuclear contours, occasional nuclear grooves and numerous mitoses; no Call-Exner bodies. IHC: strong diffuse nuclear WT1, patchy panCK, focal calretinin, CK7 negative; diagnosis JGCT.'
+- Recurrence 3 months later treated by left ovariotomy (JGCT on histology); she delivered a healthy baby at term by cesarean section 2 months later with heavy vaginal bleeding; hysterectomy with salpingo-oophorectomy again showed JGCT.
+- She developed ascites a few weeks later; adjuvant chemotherapy was advised and she remains under follow-up (duration not stated).
+- 'Authors'' background and discussion (cited, not original): JGCT is 5% of GCT with average age at diagnosis 13 years and only 3% diagnosed after age 30 (Young: 4 of 125 over 30); about 90% are stage I at diagnosis; advanced stages recur or cause death within 3 years; adjuvant chemotherapy recommended for stage IC or higher or mitotic index above 20/10 HPF; pregnancy tumors can show disorderly arrangement and many luteinized cells.'
+- 'Authors'' conclusion: JGCT is uncommon in pregnancy and can be dangerous because it often goes unnoticed.'
+relevance_to_jgct: Single case of aggressive recurrent JGCT diagnosed in pregnancy at age 35 (outside the usual age range), with WT1/calretinin IHC; no stage given and limited follow-up.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'The text contains several apparent errors: adnexal mass size ''90 cm'' (likely 9 cm or 90 mm), the abstract says the patient had a ''left ovarian cystectomy'' whereas the text describes tumor resection, and ''Ten adequate follow-ups'' appears garbled. FIGO stage is not stated. Because of age 35, JGCT vs adult type was decided on morphology (no Call-Exner bodies, ungrooved hyperchromatic nuclei, numerous mitoses) without molecular testing.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,37 @@
+source_id: '40218072'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/40218072/
+retrieved_on: '2026-10-30'
+full_text_source: PMC11988711
+language: en
+pmid: '40218072'
+doi: 10.3390/healthcare13070775
+pmcid: PMC11988711
+title: The Evaluation, Diagnosis, and Management of Ovarian Cysts, Masses, and Their Complications in Fetuses, Infants, Children, and Adolescents.
+journal: Healthcare (Basel, Switzerland)
+year: 2025
+first_author: Bašković M
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Narrative review of ovarian cysts and masses from fetus to adolescence; JGCT is mentioned only briefly in three places and no JGCT patient data are given.
+- Sex cord-stromal tumors (thecomas, fibromas, juvenile granulosa cell tumor, Sertoli-Leydig cell tumors) are stated to be rare in children and adolescents, approximately 5% of ovarian malignancies; unlike germ cell and epithelial tumors they often present with hormone production (hirsutism, virilization, menstrual change, precocious puberty).
+- The review says a subset of sex cord-stromal tumors is associated with genetic aberrations and that an underlying cancer predisposition syndrome should always be considered.
+- 'Markers: inhibin A and B are listed as the marker for juvenile granulosa cell tumors; estradiol and testosterone are measured for hormonally active tumors; the absence of elevated markers does not exclude malignancy.'
+- 'Imaging: masses with 50% or more solid component are considered malignant until histology shows otherwise, and solid ovarian masses in children can arise from sex cord-stromal tumors such as JGCT and Sertoli-Leydig cell tumors.'
+- 'General management statements (not JGCT-specific): ovary-sparing minimally invasive surgery unless malignancy is strongly suspected; staging for suspected malignancy includes peritoneal lavage, biopsies and pelvic/periaortic lymph node sampling; follow-up every 3-6 months for 2-3 years then annually to 5 years or longer; treatment in specialized multidisciplinary centers.'
+relevance_to_jgct: General pediatric ovarian mass review with only passing JGCT statements (markers, solid mass imaging, hormone production); useful as context for diagnostic work-up.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT-specific content is limited to a few sentences; no outcomes, molecular data or JGCT staging. Review figures are institutional images of non-JGCT lesions.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

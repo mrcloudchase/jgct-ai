@@ -1,0 +1,43 @@
+source_id: '38352891'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/38352891/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10861727
+language: en
+pmid: '38352891'
+doi: 10.3389/fonc.2024.1331903
+pmcid: PMC10861727
+title: 'Ovarian steroid cell tumors: what do we know so far?'
+journal: Front Oncol
+year: 2024
+first_author: Wei CH
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: IDH1/IDH2
+  alteration: somatic mosaic mutations in JGCT in the setting of Ollier disease / Maffucci syndrome
+  frequency: null
+  notes: cited statement, no numbers
+- gene: AKT
+  alteration: somatic copy number changes in JGCT
+  frequency: null
+  notes: cited statement, no numbers
+treatments: []
+presentation: []
+key_findings:
+- Narrative review of ovarian steroid cell tumors (SCT), a rare sex cord-stromal tumor (fewer than a thousand cases reported); JGCT is not the subject.
+- 'In the molecular section the authors contrast SCT, which lacks pathognomonic recurrent mutations, with other sex cord-stromal tumors: Sertoli-Leydig cell tumors (DICER1 mutation in 60% in one series), SCTAT/Sertoli cell tumors (STK11 in Peutz-Jeghers), adult granulosa cell tumor (recurrent somatic FOXL2 mutation in over 95%).'
+- For JGCT the review states that it may occur in the setting of Ollier disease and Maffucci syndrome, or somatic mosaic mutations in IDH1 and IDH2, and somatic copy number changes in AKT.
+- 'Other JGCT-relevant mention: the review states sex cord-stromal tumors found during pregnancy include granulosa cell tumor (22%), but does not distinguish juvenile from adult type; paediatric SCT may present with isosexual precocious puberty and be misdiagnosed as congenital adrenal hyperplasia.'
+relevance_to_jgct: 'Peripheral: a steroid cell tumor review whose only JGCT-specific content is one sentence on genetic associations (Ollier/Maffucci, IDH1/IDH2 mosaicism, AKT copy number change).'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: JGCT statement is cited from reference 45 without numbers; no JGCT patient data. Percent figures about granulosa cell tumor in pregnancy are not JGCT-specific.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

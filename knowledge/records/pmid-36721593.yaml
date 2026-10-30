@@ -1,0 +1,37 @@
+source_id: '36721593'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/36721593/
+retrieved_on: '2026-10-30'
+full_text_source: PMC9884105
+language: en
+pmid: '36721593'
+doi: 10.7759/cureus.33092
+pmcid: PMC9884105
+title: 'The Histopathological Patterns of Ovarian Neoplasms in Different Age Groups: A Retrospective Study in a Tertiary Care Center.'
+journal: Cureus
+year: 2022
+first_author: Farag NH
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: under 20 years
+alterations: []
+treatments: []
+presentation:
+- both JGCT cases were in the under-20 age group (individual presentations not reported)
+key_findings:
+- 'Retrospective single-centre study (King Abdulaziz University Hospital, Jeddah, Saudi Arabia, 2016-2020) of 565 ovarian specimens: 357 (63.2%) neoplasms and 208 (36.8%) non-neoplastic; of neoplasms, 64.4% benign, 6.2% borderline, 29.4% malignant.'
+- 'Sex cord/stromal tumors were 32 of 357 neoplasms (9.0%): fibroma 17, fibrothecoma 6, Sertoli-Leydig cell tumor 2, juvenile granulosa cell tumor 2 (6.3% of sex cord tumors), adult granulosa cell tumor 5.'
+- 'Both juvenile granulosa cell tumors were classed as malignant and both occurred in the under-20 age group (Table 4: 2 of 105 malignant tumors, 1.9%).'
+- 'Only four malignant tumors occurred under 20 years: two JGCT, one adult granulosa cell tumor and one immature cystic teratoma; no surface epithelial malignancies were seen under 20.'
+- The authors note this agrees with previous studies supporting the hypothesis that malignancy is related to older age; the study does not report JGCT stage, treatment or outcome.
+relevance_to_jgct: Hospital pathology frequency study; JGCT provides only a count (2 cases, both under 20 years, classified malignant) within ovarian neoplasms of all ages. No clinical, molecular or outcome data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Internal data inconsistencies: the age-group counts and percentages in Results do not add up (e.g. ''<20 (n=35, 46.8%)'') and Table 1 gives 21 neoplasms under 20, while the text gives 565 specimens overall; Table 1 shows 4 sex cord tumors under 20. Specimens included referrals from other hospitals, so counts are not population incidence.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,41 @@
+source_id: '29988841'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/29988841/
+retrieved_on: '2026-10-30'
+full_text_source: PMC6032492
+language: en
+pmid: '29988841'
+doi: 10.1016/j.jare.2018.02.006
+pmcid: PMC6032492
+title: 'A review on pregnancy complicated by ovarian epithelial and non-epithelial malignant tumors: Diagnostic and therapeutic perspectives.'
+journal: Journal of advanced research
+year: 2018
+first_author: Boussios S
+study_type: review
+tumor_site: ovary
+n_jgct_patients: 15
+age_range: null
+alterations: []
+treatments:
+- regimen: Adnexectomy (unilateral salpingo-oophorectomy); chemotherapy in a minority (cisplatin/cyclophosphamide with or without epirubicin most common)
+  setting: during pregnancy
+  n: 15
+  outcome: 'Pooled with other sex cord-stromal tumors: 8 of 48 (16.6%) needed chemotherapy; mostly live births (77%); JGCT-specific outcomes not separated'
+presentation: []
+key_findings:
+- Literature review (PubMed, 1986-2016, English) of 262 cases of gestational ovarian cancer from 45 reports; 193 were non-epithelial ovarian cancer, of which 145 germ cell tumors and 48 sex cord-stromal tumors.
+- 'Of the 48 sex cord-stromal tumors, juvenile granulosa cell tumor was the most common subtype with 15 patients (Table 3: 7.7% of 193), followed by Sertoli-Leydig tumor in 5 and other types in 28.'
+- Authors state that juvenile granulosa cell tumors could be adequately treated with adnexectomy, with similar surgical management as in non-pregnant women (citing one reference).
+- 'For sex cord-stromal tumors as a group: obstetric outcome normal in 37/48, IUGR 4/48, fetal death 3/48, abortion 1/48, ventriculomegaly 1/48; neonatal outcome healthy 43/44, one neonatal death; chemotherapy needed in 8 patients (16.6%).'
+- A cited series of 46 pregnant patients with sex cord-stromal tumors (mostly USO or node removal in 2nd/3rd trimesters) reported 69.4% fetal preservation, serious adverse events in 40% concentrated in higher stage and older patients.
+- 'General review conclusions: surgery best in the second trimester; carboplatin-paclitaxel standard for epithelial ovarian cancer in pregnancy; BEP considered reasonable for non-epithelial cancer with alternatives (PVB, cisplatin plus paclitaxel) discussed.'
+relevance_to_jgct: Pregnancy-associated ovarian cancer review; JGCT contributes 15 pooled case-report patients and a brief statement on adnexectomy; no separate maternal or tumor outcomes.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Pooled literature cases (case reports and series), likely overlapping with other pregnancy-associated JGCT reports in the knowledge base. Table 3 shows percentages relative to all 193 non-epithelial cases. Journal and first author not in fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

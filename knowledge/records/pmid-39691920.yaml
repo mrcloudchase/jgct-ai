@@ -1,0 +1,41 @@
+source_id: '39691920'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39691920/
+retrieved_on: '2026-10-30'
+full_text_source: PMC11649052
+language: en
+pmid: '39691920'
+doi: 10.4103/jiaps.jiaps_151_24
+pmcid: PMC11649052
+title: 'Ovarian Masses in Children: Surgical Experience and Outcomes.'
+journal: Journal of Indian Association of Pediatric Surgeons
+year: 2024
+first_author: Kapoor R
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: whole cohort 15 days to 18 years (mean 10.07)
+alterations: []
+treatments:
+- regimen: Surgery only (no adjuvant chemotherapy); normal preoperative tumor markers
+  setting: primary
+  n: 1
+  outcome: Disease free at follow-up (cohort mean 53.5 months, range 4-117)
+presentation: []
+key_findings:
+- 'Single-center retrospective series of 30 children under 18 who had surgery for ovarian masses (2009-2023): 5 non-neoplastic, 10 benign, 3 borderline and 12 malignant neoplasms.'
+- Only 1 of 30 patients (3.3%) had juvenile granulosa cell tumor; Table 1 classifies it under borderline malignant tumors.
+- The JGCT patient had normal preoperative tumor markers and received no postoperative chemotherapy; the authors note surgical resection alone with free margins was considered curative for such patients.
+- At mean follow-up of 53.5 months (range 4-117) all 30 patients were alive and disease free, including the JGCT patient.
+- Authors cite a meta-analysis in which sex cord-stromal tumors such as JGCT made up 14% of malignant pediatric ovarian masses and mixed germ cell tumors 30%.
+- 'Cohort-level conclusions: tumor size, solid component and raised AFP/beta-hCG/LDH help distinguish malignant from benign masses; overall prognosis favorable.'
+relevance_to_jgct: Small pediatric ovarian-mass surgical series with a single JGCT case (surgery alone, disease free); little else JGCT-specific.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Only one JGCT; no age, stage, or presentation detail for it. Internal inconsistencies: abstract counts ''benign 10, borderline 3, malignant 12'' but the abstract says 25 benign neoplasms; mean follow-up range 4-117 vs 4-114 in discussion; 5 functional masses given as 16.7% and 18.5%. Journal metadata (journal, first author, DOI) not in fetched text.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

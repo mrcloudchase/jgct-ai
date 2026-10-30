@@ -1,0 +1,54 @@
+source_id: '21998762'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21998762/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3188718
+language: en
+pmid: '21998762'
+doi: 10.3802/jgo.2011.22.3.188
+pmcid: PMC3188718
+title: 'Clinicopathologic characteristics of granulosa cell tumors of the ovary: a multicenter retrospective study.'
+journal: Journal of gynecologic oncology
+year: 2011
+first_author: Lee IH
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 11
+age_range: JGCT mean 20.0 years (range 8-45)
+alterations: []
+treatments:
+- regimen: 'Surgery: unilateral SO with staging 6/11, unilateral SO 3/11, hysterectomy + BSO 1/11, cystectomy 1/11'
+  setting: primary
+  n: 11
+  outcome: No recurrences or deaths; mean follow-up 69.8 months (range 20-156)
+- regimen: Adjuvant BEP (JGCT)
+  setting: adjuvant
+  n: 3
+  outcome: No recurrence; discussion says given to the two stage III patients (one stage IC patient also treated, one not)
+presentation:
+- 'JGCT: abdominal mass (45.5%)'
+- vaginal bleeding (3 patients, 27.3%)
+- abdominal pain (2 patients)
+- 5/11 (45.5%) premenarchal
+- ascites in 3/11
+- only one JGCT patient asymptomatic
+key_findings:
+- 'Five-hospital Korean retrospective study (1995-2007) of 113 granulosa cell tumors: 102 adult type and 11 juvenile type (9.7%).'
+- 'JGCT patients: mean age 20.0 years (range 8-45), more than half under 20, 5/11 (45.5%) premenarchal; 10 of 11 symptomatic; most common symptom abdominal mass (45.5%), vaginal bleeding in 3 (27.3%).'
+- 'JGCT tumors: mean diameter 12.4 cm (range 5-26), all unilateral (right 7, left 4); preoperative CA-125 was elevated (>35 IU/mL) in 5 of the 10 measured.'
+- 'JGCT surgery: unilateral salpingo-oophorectomy with staging 6, unilateral salpingo-oophorectomy 3, hysterectomy with bilateral salpingo-oophorectomy 1, cystectomy 1; intraoperative rupture in 3 (27.3%); no capsule invasion; no residual disease; no positive ascites or washings.'
+- 'JGCT stage: stage I in 9 (81.8%) and stage III in 2 (18.2%); 3 patients received adjuvant BEP.'
+- 'JGCT outcome: no recurrences or deaths at mean follow-up 69.8 months (range 20-156); four patients had seven pregnancies, six normal term deliveries and one cornual pregnancy.'
+- 'Adult-type comparison (102 pts): stage I 86, II 11, III 5; recurrence 10 (9.8%); 3 deaths; stage the only factor independently associated with recurrence; 8 of 36 fertility-sparing patients had 9 pregnancies.'
+- Authors conclude JGCT prognosis is good in their small group and fertility-sparing surgery is an option for early-stage disease.
+relevance_to_jgct: Multicenter GCT series with a clearly reported 11-patient JGCT subgroup (presentation, stage, surgery, chemotherapy, outcome, pregnancies); the adult-type findings are context only.
+conflicts_with: []
+overlaps_with:
+- pmid-35437273
+superseded_by: null
+retracted: false
+notes: 'Journal and first author were not present in the fetched text. Internal errors in the JGCT paragraph: percentages for pain (2 patients labelled 28.3%), left-sided 4 labelled 50.0%, ''3 patients (32.3%)'' for chemotherapy (3/11 is 27.3%). Adult-type text has also ''843.3%'' typo and a mean recurrence interval of 48 months with range 4-92 vs 4-109 in the abstract. Authors state they treated stage III JGCT with adjuvant chemotherapy; stage IC: 1 treated, 1 not (this implies 2 IC among the 9 stage I).'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,46 @@
+source_id: 10.18203/2320-1770.ijrcog20240811
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.18203/2320-1770.ijrcog20240811
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ijrcog.org/index.php/ijrcog/article/download/13919/8661
+language: en
+pmid: null
+doi: 10.18203/2320-1770.ijrcog20240811
+pmcid: null
+title: A case of ovarian juvenile granulosa cells tumor with peritoneal and jejunal localisation at Amath Dansokho Regional Hospital, Kedougou, Senegal
+journal: International Journal of Reproduction, Contraception, Obstetrics and Gynecology
+year: 2024
+first_author: Wade M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 18 years
+alterations: []
+treatments:
+- regimen: Right adnexectomy, jejunal bowel resection with anastomosis, omentectomy; re-laparotomy for occlusion with anastomosis redone and gastro-enteric anastomosis; no chemotherapy
+  setting: retrospectively stage IIIC
+  n: 1
+  outcome: Cardiac arrest on day 1 after the repeat operation; died
+presentation:
+- abdominal and pelvic pain with nausea and vomiting
+- large solid mobile right pelvic and hypogastric mass
+- anemia (Hb 7.1 g/dl), thrombocytosis 611,000/mm3, CRP 138.3 mg/l, renal failure
+- jejunal obstruction
+key_findings:
+- 'Case report from a level-2 rural hospital in Kedougou, Senegal (702 km from Dakar): 18-year-old with abdominal and pelvic pain, nausea and vomiting and a voluminous solid mobile right pelvic mass.'
+- 'Ultrasound: heterogeneous myometrium with multiple hypoechoic subcentimetric nodules and a heterogeneous adnexal mass of 18 cm; CT not performed; tumor markers (inhibin, AFP, hCG, CA125, LDH) were not available.'
+- 'Labs: anemia 7.1 g/dl, thrombocytosis 611,000/mm3, CRP 138.3 mg/l, renal failure (creatinine reported as 35.4 mg/l).'
+- 'Laparotomy: friable 20 cm right ovarian tumor with adhesions to the abdominal wall, a solid obstructive 7 cm jejunal tumor 40 cm from the angle of Treitz with upstream dilatation, lymphadenopathy, no ascites or liver nodules.'
+- Right adnexectomy, jejunal resection with anastomosis and omentectomy were performed; occlusion at 10 days led to re-laparotomy showing numerous large celiac lymph nodes obstructing the duodenum and anastomotic suture loosening; anastomosis redone with gastro-enteric anastomosis; cardiac arrest on day 1 after the repeat operation was not recovered (death).
+- 'Histology: ovarian tumor of small monomorphic cells with abundant basophilic cytoplasm, ovoid vesicular nuclei and rare mitoses; tumor invading the jejunum; diagnosis juvenile granulosa cell tumor of the right ovary extending to jejunum and peritoneum; retrospectively classified FIGO stage IIIC.'
+- 'Authors'' conclusion: prognosis is mostly favorable with early diagnosis; delayed diagnosis in the rural context is associated with high risk of pre- and intraoperative peritoneal spread; stage is the key prognostic factor (cited: stage Ia survival 83-98%, median survival 5 years for stages III-IV).'
+relevance_to_jgct: Fatal late-presenting JGCT in a resource-limited setting with jejunal and peritoneal extension; illustrates consequences of diagnostic delay and absence of marker and imaging availability.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Original text has some translation artifacts from French. The text describes 'rare mitosis' yet calls the case juvenile type, and no IHC is reported. The creatinine value is quoted as in the source (35.4 mg/l). The authors state that JGCT is 5% of ovarian tumors in children and adolescents (cited).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,47 @@
+source_id: 10.18203/2320-1770.ijrcog20175037
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.18203/2320-1770.ijrcog20175037
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ijrcog.org/index.php/ijrcog/article/download/3724/2954
+language: en
+pmid: null
+doi: 10.18203/2320-1770.ijrcog20175037
+pmcid: null
+title: 'Single tertiary care centre experience of ovarian granulosa cell tumour in Chennai, India: a retrospective analysis'
+journal: Int J Reprod Contracept Obstet Gynecol
+year: 2017
+first_author: Deenadayalan T
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: JGCT patients aged 7 and 19 years (whole series 7-70, median 48)
+alterations: []
+treatments:
+- regimen: Fertility-sparing surgery (unilateral oophorectomy) then observation
+  setting: JGCT, age 7 years, precocious puberty and mastalgia
+  n: 1
+  outcome: disease free on regular follow-up (diagnosed 2012)
+- regimen: 'Fertility-sparing surgery then observation; at relapse three palliative lines: EP (etoposide/cisplatin), docetaxel plus carboplatin, oral cyclophosphamide'
+  setting: JGCT, age 19 years, torsion and virilisation, pelvic/omental metastasis at 13 months
+  n: 1
+  outcome: died, overall survival 21 months
+presentation:
+- precocious puberty and mastalgia (age 7)
+- torsion of ovarian mass with virilisation (age 19)
+key_findings:
+- 'Single-centre retrospective series (Madras Medical College, Chennai, 2011-2015) of 25 ovarian granulosa cell tumors (4% of ovarian cancers in that period): 23 adult-type (92%) and 2 juvenile-type (8%); median age 48 years (range 7-70), median follow-up 48 months.'
+- 'JGCT patient 1: diagnosed at 7 years in 2012 with precocious puberty and mastalgia; fertility-sparing operation then observation; disease free at last follow-up.'
+- 'JGCT patient 2: diagnosed at 19 years with torsion of an ovarian mass and virilisation features; fertility-sparing operation then observation; pelvic and omental metastasis at 13 months; three lines of palliative chemotherapy (EP, docetaxel plus carboplatin, oral cyclophosphamide); died, overall survival 21 months.'
+- 'Whole series: 84% FIGO stage Ia (n=21), Ib 2, Ic 1, IIIa 1; 13 (52%) had complete staging; only two patients received adjuvant chemotherapy (EP); 5 patients (20%) recurred, mean time to relapse 29.6 months (95% CI 12.3-46.8) and one died of disease; estimated mean overall survival 84.8 months (95% CI 74.3-95.4).'
+- Tumor size >9.7 cm (ROC cut-off) had more recurrence events (HR 1.058) but the log-rank association was not significant (P=0.839); menopausal status, torsion, stage, age and residual tumor were not significantly associated with recurrence or survival.
+- The authors conclude that patients with JGCT have a poorer prognosis than adult subtype, citing 'we also documented ... the worse prognosis of juvenile subtype', although this rests on 2 patients (1 recurrence and death); they also quote FOXL2 mutation in 97% of adult and 10% of juvenile GCT (D'Angelo 2011) and that JGCT adjuvant chemotherapy is usually recommended for stage IC with mitotic index >20/10 HPF.
+relevance_to_jgct: Mostly adult granulosa cell tumor series; includes two JGCT cases (one disease free, one fatal relapse at 21 months) and cites background JGCT facts. Weak evidence on JGCT prognosis.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Internal inconsistencies: mean tumor size 9.6 cm in abstract/Table 3 versus 9.8 cm in text; abstract says relapse ''average 29.6 months''. Table 4 lists case 4 (age 19, stage Ia, tumor 10 cm, FSO, relapse 13 months omentum+pelvis) which matches the JGCT death; case 1 (age 21, liver relapse at 12 months) is described as adult GCT. The conclusion that JGCT has worse prognosis is not supported statistically (n=2). Table 1 age range includes one patient under 10 and one aged 10-19, matching the two JGCT patients.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

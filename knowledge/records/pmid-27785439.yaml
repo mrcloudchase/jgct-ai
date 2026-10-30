@@ -1,0 +1,35 @@
+source_id: '27785439'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/27785439/
+retrieved_on: '2026-10-30'
+full_text_source: PMC5071196
+language: en
+pmid: '27785439'
+doi: 10.21037/tau.2016.08.09
+pmcid: PMC5071196
+title: Malignancy in disorders of sex development.
+journal: Translational andrology and urology
+year: 2016
+first_author: Kathrins M
+study_type: review
+tumor_site: testis
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Narrative review of gonadal tumor risk in disorders of sex development (DSD; 1 in 4,500-5,000 live births); DSD patients are at increased risk of testicular carcinoma in situ and germ cell tumors, and the introduction names juvenile granulosa cell tumors (JGCTs) among other tumors of concern.
+- 'The only JGCT-specific statement: JGCT, a sex cord-stromal tumor, has been noted in rare cases of sex-chromosomal mosaicism and ambiguous genitalia in the neonatal period; the review states that these tumors are benign and hormonally inactive so testis-sparing surgery should be curative (cited to a single source; the review gives no case numbers).'
+- 'Main review conclusions concern other tumors: Y-chromosomal material and gonadal position are risk factors; 46,XX congenital adrenal hyperplasia without Y material is not at higher risk; gonadoblastoma risk in dysgenetic DSD 4.7-25% and overall tumor risk 15-33%; partial AIS with untreated undescended testes up to 50%.'
+- Markers discussed for DSD tumors beyond hCG and AFP are OCT3/4, TSPY, stem cell factor and WT1; no JGCT marker data are given.
+relevance_to_jgct: 'Marginal: one sentence on neonatal (testicular) JGCT in sex-chromosomal mosaicism with ambiguous genitalia and testis-sparing surgery; the rest is about germ cell tumors in DSD.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The JGCT statement is a brief citation-based claim; its wording ('benign and hormonally inactive') conflicts with the usual description of JGCT as potentially hormone-active in the ovary but is consistent with infantile testicular JGCT, and the review does not specify the site. tumor_site recorded as testis on that inference. Journal, first author and DOI not stated in the fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

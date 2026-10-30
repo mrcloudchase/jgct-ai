@@ -1,0 +1,47 @@
+source_id: 10.17352/ijrro.000039
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.17352/ijrro.000039
+retrieved_on: '2026-10-30'
+full_text_source: https://www.cancerresgroup.us/articles/IJRRO-6-139.php
+language: en
+pmid: null
+doi: 10.17352/ijrro.000039
+pmcid: null
+title: 'Juvenile granulosa tumor of the ovary: Report of two cases'
+journal: International Journal of Radiology and Radiation Oncology
+year: 2020
+first_author: Lahfaoui M
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: 8 and 11 years
+alterations: []
+treatments:
+- regimen: 'Case 1: left oophorectomy (ovariectomy) with clear margins; no chemotherapy or radiotherapy'
+  setting: primary surgery
+  n: 1
+  outcome: Uneventful, clinical/radiological follow-up without particularities
+- regimen: 'Case 2: laparoscopic right cystectomy, then re-operation with right adnexectomy, peritoneal biopsies and endo-uterine curettage; no adjuvant therapy'
+  setting: primary surgery then restaging, pT1a
+  n: 1
+  outcome: Follow-up with AMH and inhibin without particularities
+presentation:
+- 'Case 1 (8 years): 15 days of paroxysmal pelvic pain, abdominal enlargement, weight loss; 25 x 20 cm hard abdominopelvic mass, no hypersecretion signs'
+- 'Case 2 (11 years): 2 months of pelvic pain and abdominal enlargement; 30 x 20 cm mass, no hypersecretion signs'
+key_findings:
+- Two girls, 8 and 11 years, presenting with abdominopelvic pain and a rapidly enlarging abdominal mass (about 25 x 20 cm and 30 x 20 cm on examination) without signs of hormonal hypersecretion.
+- 'Case 1: ultrasound and CT showed a multicompartment cystic mass; AFP and beta-hCG normal; surgery found a 25 x 20 cm left ovarian tumor with serous effusion; ovariectomy with normal margins; immunostaining confirmed juvenile granulosa cell tumor; multidisciplinary decision for no chemotherapy or radiotherapy.'
+- 'Case 2: CT showed a 32 x 21 cm semi-solid cystic right laterouterine mass; laparoscopic right cystectomy first, histology showed tumor within margins but a partial resection, so she was re-operated with right adnexectomy, peritoneal biopsies and endometrial curettage; final stage pT1a with no residual tumor, normal endometrium and negative peritoneal biopsies.'
+- 'Histology of case 2: predominantly cystic tumor of partially luteinized proliferating granulosa cells with variable thecal cell proliferation; high vimentin positivity reported.'
+- Both patients received adnexectomy without chemotherapy and follow-up (clinical, radiological, and AMH/inhibin in case 2) was uneventful; follow-up duration is not stated.
+- The authors cite 5% of ovarian tumors in children and adolescents, 97% unilateral with mean size 12.5 cm, and 92% 5-year survival, with poor prognostic factors large size, ascites and capsular rupture.
+relevance_to_jgct: Two pediatric JGCT cases, both large (25-32 cm) stage I tumors treated by surgery alone, including one restaging after cystectomy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Follow-up duration not given. Case 1 stage not formally stated (no capsular statement). The discussion says the tumor 'measures 12.5 cm on average' (cited) while both cases were 25-32 cm. Immunostaining panel is not detailed beyond vimentin. Full text read from the journal website.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

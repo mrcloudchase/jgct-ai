@@ -1,0 +1,38 @@
+source_id: '22187115'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/22187115/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3266564
+language: en
+pmid: '22187115'
+doi: 10.1102/1470-7330.2011.9009
+pmcid: PMC3266564
+title: Urogenital tumours in childhood.
+journal: 'Cancer imaging : the official publication of the International Cancer Imaging Society'
+year: 2011
+first_author: Swinson S
+study_type: review
+tumor_site: both
+n_jgct_patients: null
+age_range: children (JGCT mean age 7 years in cited Kiel registry data)
+alterations: []
+treatments: []
+presentation:
+- oestrogen-led precocious puberty
+key_findings:
+- Imaging-focused review of paediatric urogenital tumours (renal tumours, rhabdomyosarcoma, ovarian and testicular tumours); JGCT receives two sentences in the ovarian non-germ-cell section.
+- Sex cord stromal tumours are described as approximately 10% of ovarian malignancies in adolescent girls; the two main categories are granulosa theca cell and Sertoli-Leydig cell tumours.
+- In the first 2 decades granulosa theca cell tumours tend to be juvenile granulosa cell tumour (JGCT), the most common paediatric sex cord stromal tumour, which often presents early with oestrogen-led precocious puberty.
+- Of 70 patients in the Kiel Pediatric Tumour Registry (sex cord stromal tumours), mean age at diagnosis was 7 years for JGCT and 14 years for Sertoli-Leydig cell tumour (secondary citation).
+- The review's ovarian imaging and staging sections concern germ cell tumours (COG staging for ovarian GCT); it states non-germ-cell ovarian tumours cannot be reliably distinguished from GCTs on imaging.
+- The testicular section covers germ cell, Leydig cell and secondary tumours only; JGCT of the testis is not mentioned.
+relevance_to_jgct: 'Minimal: general paediatric urogenital tumour imaging review with a brief JGCT statement (most common paediatric sex cord stromal tumour; oestrogen-driven precocious puberty; Kiel registry mean age 7 years). No JGCT patient data of its own.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Review. JGCT content is a secondary citation. Journal and first author not stated in retrieved text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

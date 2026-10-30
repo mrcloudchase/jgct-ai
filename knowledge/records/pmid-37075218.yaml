@@ -1,0 +1,57 @@
+source_id: '37075218'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37075218/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10184458
+language: en
+pmid: '37075218'
+doi: 10.1210/endocr/bqad063
+pmcid: PMC10184458
+title: ERβ in Granulosa Cell Tumors and Its Clinical Potential.
+journal: Endocrinology
+year: 2023
+first_author: Birgersson M
+study_type: review
+tumor_site: both
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: 402C>G (C134W)
+  frequency: about 95% of adult GCT; very rarely in JGCT
+  notes: reduced/absent wild-type FOXL2 expression linked to more aggressive course in JGCT (cited)
+- gene: STK11
+  alteration: Peutz-Jeghers association
+  frequency: null
+  notes: associated with JGCT per review
+- gene: IDH1/2
+  alteration: mutations in Ollier disease and Maffucci syndrome
+  frequency: null
+  notes: associated with JGCT per review
+treatments:
+- regimen: Surgery; adjuvant radiotherapy/chemotherapy debated; aromatase inhibitors in recurrent disease
+  setting: GCT in general (mostly adult type)
+  n: null
+  outcome: no clear benefit of adjuvant therapy; some benefit with aromatase inhibitors in small cohorts
+presentation:
+- abdominal pain and swelling, menstrual irregularities, abnormal bleeding
+- pseudopuberty in prepubertal patients (hormonally active tumors)
+- testicular JGCT diagnosed mostly below 6 months of age, with enlarged testis
+key_findings:
+- Narrative review of ERbeta (ESR2) in granulosa cell tumors; GCT incidence 0.47 to 0.74 per 100,000 worldwide, under 5% of ovarian cancers; more than 90% are adult type, JGCT 3-10% of cases and mainly affects prepubertal girls and young women.
+- 'Prognosis in GCT overall: 5-year survival about 95% at stage I, 55-75% at stage II and 22-50% at stage III (cited); stage is the best prognostic marker; recurrence rates 10-65% with mortality as high as 80% after relapse, but relapses ''appear specific to AGCTs'' and JGCTs recur only in rare cases (cited).'
+- FOXL2 402C>G (C134W) is found in about 95% of adult GCTs and very rarely in JGCTs; reduced or absent wild-type FOXL2 expression has been associated with a more aggressive JGCT course, suggesting a tumor suppressor role for wild-type FOXL2.
+- 'Genetic associations specifically with JGCT: Peutz-Jeghers syndrome (STK11), Ollier disease and Maffucci syndrome (IDH1/2). TERT promoter C228T is more frequent in recurrent GCTs; KMT2D, TP53, WNK2, PIK3R1, CDK1 mutations in subsets (mainly adult).'
+- Testicular GCT is about 0.5% of male sex cord-stromal tumors; unlike the ovary, the juvenile subtype is more prevalent than the adult; most juvenile tumors are diagnosed below 6 months of age, often benign and rarely metastasizing.
+- ERbeta is highly expressed in most GCTs (4 of 5, 80%, adult GCTs with a validated antibody in the authors' earlier work); the review notes that the fraction in JGCT versus AGCT is not established, that selective ERbeta antagonists have not been explored in GCT, and that estrogen ablation to prevent recurrence may not be relevant in JGCT given its rare recurrence.
+- The authors state that juvenile and adult GCT may need to be treated as two entirely different cancers.
+relevance_to_jgct: Review covering GCT biology; JGCT content includes epidemiology, wild-type FOXL2, syndrome associations, low recurrence and the testicular juvenile subtype, with ERbeta data mostly from adult tumors. No original patients.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Secondary review. Survival and recurrence figures are cited general-GCT figures dominated by adult type. Journal, first author and DOI not stated in the fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

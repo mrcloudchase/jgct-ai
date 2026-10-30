@@ -1,0 +1,43 @@
+source_id: 10.5152/etd.2017.17016
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5152/etd.2017.17016
+retrieved_on: '2026-10-30'
+full_text_source: https://jcpres.com/storage/upload/pdfs/EMJ_39_2_78_82.pdf
+language: en
+pmid: null
+doi: 10.5152/etd.2017.17016
+pmcid: null
+title: 'Juvenile Granulosa Cell Tumor of the Testis in a Newborn with Swelling in the Scrotum: A Rare Case and Literature Review'
+journal: Erciyes Medical Journal
+year: 2017
+first_author: Tartar T
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 12 days
+alterations: []
+treatments:
+- regimen: High scrotal (inguinal) orchiectomy, no adjuvant therapy
+  setting: left testicular JGCT, newborn
+  n: 1
+  outcome: no complications during follow-up (duration not stated)
+presentation:
+- painless 2x2 cm left scrotal swelling noticed one week earlier
+- complicated septated cystic intratesticular lesion on ultrasound and MRI, initially considered teratoma
+key_findings:
+- 12-day-old boy with a 1-week history of painless, mobile 2 x 2 cm left scrotal swelling; no genital anomaly, karyotype 46,XY.
+- 'Scrotal ultrasound: complicated cystic lesion with 15 x 10 mm septations and occasional vascular flow, contours indistinct from testicular parenchyma; MRI: septated left testicular lesion with 15 x 11 mm cystic area; a 2 mm right epididymal cyst. The lesion was evaluated as teratoma.'
+- 'Markers: hCG <2 mIU/mL; AFP 33.118 ng/mL on day 7 and 2.209 ng/mL on day 25 (as printed); postoperative AFP 450 ng/mL. The authors state AFP has no diagnostic value for teratoma in infants under 6 months.'
+- Treated with high scrotal orchiectomy via left inguinal incision (testis 2 x 1.5 cm, three cysts, largest 1 cm); histopathology showed JGCT; no complications in follow-up. Orchiectomy rather than organ-sparing surgery was chosen because tumor could not be macroscopically separated from testicular tissue.
+- 'Literature review table (16 entries) in the paper: the authors found 24 JGCT cases in English literature; 6 (25%) intra-abdominal, of which 3 bilateral; chromosomal or multiple anomalies (triploidy, chromosome 4 deletion) in 5 of 6 (83%) abdominal cases; 12 scrotal cases, none diagnosed preoperatively, all confused with teratoma, none recurrent and none given medical or oncologic treatment.'
+- 'Authors'' conclusions: testicular JGCT is a rare, painless, benign mass particularly in newborns, hard to diagnose preoperatively (usually thought to be teratoma), and inguinal orchiectomy is satisfactory treatment. They state JGCT is the most frequent testicular tumor in infants under 6 months and that sex chromosome disorders and ambiguous genitalia occur in about 20%.'
+relevance_to_jgct: Neonatal testicular JGCT case with imaging, markers and treatment, plus a tabulated literature review of earlier testicular JGCT cases.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Follow-up duration not stated. The text says AFP 'extremely higher than normal' while the printed postoperative value of 450 ng/mL is higher than the day-25 preoperative value (2.209 ng/mL), apparently due to a unit or typing issue in the paper; reported as printed. Tabulated literature cases are second-hand citations. Full text obtained from journal-hosted PDF.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

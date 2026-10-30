@@ -1,0 +1,68 @@
+source_id: '22525408'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/22525408/
+retrieved_on: '2026-10-30'
+full_text_source: https://www.ovid.com/jnls/jpho-online/fulltext/10.1097/mph.0b013e31824e3867~management-of-ovarian-and-testicular-sex-cord-stromal-tumors
+language: en
+pmid: '22525408'
+doi: 10.1097/MPH.0b013e31824e3867
+pmcid: null
+title: Management of ovarian and testicular sex cord-stromal tumors in children and adolescents.
+journal: J Pediatr Hematol Oncol
+year: 2012
+first_author: Schultz KA
+study_type: guideline
+tumor_site: both
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: chromosome 12
+  alteration: gain / chromosomal imbalance
+  frequency: 25% of juvenile granulosa cell tumors in 1 series
+  notes: prognostic significance unknown
+- gene: DICER1
+  alteration: germline mutations seen in children with ovarian JGCT, Sertoli-Leydig tumor and/or gynandroblastoma with personal or family pleuropulmonary blastoma history
+  frequency: null
+  notes: clinical testing available
+treatments:
+- regimen: Surgery alone (unilateral salpingo-oophorectomy) for FIGO stage Ia; MAKEI protocol also no adjuvant therapy for JGCT stage Ic with intraoperative rupture
+  setting: ovarian JGCT, localized
+  n: null
+  outcome: 9 of 12 stage Ic (intraoperative rupture) patients received no adjuvant therapy and all survived without relapse (Schneider et al, cited)
+- regimen: 'Platinum-based chemotherapy: 4 or 6 cycles PEB (cisplatin/etoposide/bleomycin) or PEI (cisplatin/etoposide/ifosfamide)'
+  setting: recommended for JGCT stage Ic with preoperative rupture or malignant ascites, and stages II-IV
+  n: null
+  outcome: No randomized data; stage Ic with preoperative rupture/malignant ascites EFS 0.44+/-0.17 in cited series (n=9)
+- regimen: Cisplatin-based chemotherapy plus regional deep hyperthermia
+  setting: MAKEI strategy for FIGO IV or stage II/III with high mitotic index
+  n: null
+  outcome: limited by availability; no prospective data
+- regimen: Surgery alone, testis-sparing surgery reasonable; no adjuvant therapy
+  setting: testicular JGCT, stage I
+  n: null
+  outcome: considered benign; surgical resection curative; little to no evidence of recurrence or metastasis
+presentation:
+- 'ovarian JGCT: abdominal pain/distension, mass, isosexual precocity (breast swelling, vaginal bleeding), may secrete inhibin'
+- 'testicular JGCT: painless mass, usually first 6 months of life, usually no hormone-related symptoms'
+key_findings:
+- 'Consensus/review guidance (Children''s Oncology Group, MAKEI authors) on pediatric ovarian and testicular sex cord-stromal tumors (SCST): SCST are about 7% of ovarian tumors overall and about 15% of ovarian tumors in children; JGCT is the most common pediatric ovarian SCST, followed by Sertoli-Leydig cell tumors.'
+- Ovarian JGCT is seen in young children and may present with precocious puberty; the vast majority are stage I at diagnosis with favorable prognosis; recurrence is rare and generally within 2-3 years (median 2.8 years for stage I ovarian SCST recurrences, mostly abdominopelvic or regional nodes). Adult-type GCT is very rare in children and has late relapse (>10 years).
+- Both GCT types may secrete inhibin; serum inhibin A/B (B more specific), AFP, beta-hCG, CEA, CA-125, LDH and calcium are advised in suspected ovarian tumors; inhibin IHC and calcium help distinguish JGCT from small cell carcinoma of the hypercalcemic type, which can mimic pseudofollicular growth.
+- 'Associations: JGCT, Sertoli-Leydig tumors and gynandroblastoma occur in families with pleuropulmonary blastoma and DICER1 mutations; enchondromatosis (Ollier) and Peutz-Jeghers syndrome are linked to granulosa cell tumors; no association with BRCA1/2. 25% of JGCT in one series had chromosomal imbalance, usually gain of chromosome 12.'
+- 'Prognosis (Schneider et al, cited): 10-year EFS 0.88+/-0.05 for JGCT (n=34) vs 0.67+/-0.19 for Sertoli-Leydig tumors (n=6). Mitoses <20/10 HPF (n=35/35) had 100% 10-year EFS vs 53% for >=20/10 HPF (n=7/13), significant also within stage Ic (100% vs 48%). Marked nuclear pleomorphism (about 15% of stage I JGCT) was not associated with adverse prognosis.'
+- 'Stage Ic subgroups (cited): intraoperative rupture (n=12; 9 had no adjuvant therapy, all survived relapse-free) did better than preoperative rupture or malignant ascites (n=9; EFS 0.44+/-0.17 vs 1.0, log-rank 0.003).'
+- 'Staging by FIGO ovarian carcinoma criteria with detailed description of stage Ic spillage; stage I treated by unilateral salpingo-oophorectomy without hysterectomy or routine lymphadenectomy. Recommended: adjuvant platinum chemotherapy (4 or 6 cycles PEB) for JGCT stage Ic with preoperative rupture/malignant ascites and stages II-IV; consider for stage Ic intraoperative rupture with >=20 mitoses/10 HPF; observation may be considered for intraoperative rupture with low mitotic count. Stage IV is rare with poor prognosis.'
+- 'Follow-up advised: abdominopelvic MRI or ultrasound plus inhibin B, hormonal markers, CA-125 about every 3 months for at least the first 3 years; relapse carries poor prognosis and no regimen for relapse is established.'
+- 'Testicular JGCT: usually presents under 6 months of age, inhibin positive, benign with no evidence of recurrence or metastases; associated with Y-chromosome structural abnormalities or ambiguous genitalia; testis-sparing surgery reasonable if normal AFP for age; no adjuvant therapy for stage I; serial imaging generally not required.'
+- 'Registries cited: Prepubertal Testis Tumor Registry had 43 stromal tumors including 9 JGCT, none metastatic at diagnosis; unpublished MAKEI analysis of 40 testicular SCST found no metastases, all in continuous remission; Harms and Kock described 29 testicular SCST with no relapses.'
+relevance_to_jgct: Core pediatric guidance document for ovarian and testicular JGCT covering presentation, markers, IHC, genetic associations, staging, risk-adapted adjuvant therapy and follow-up; most outcome data are cited from the German MAKEI studies.
+conflicts_with: []
+overlaps_with:
+- pmid-40272823
+superseded_by: null
+retracted: false
+notes: Full text read from Ovid-hosted open article; figures and tables (Tables 1-5) were not present as text, so tabulated staging and PEB schedule were not read. Prognostic figures are cited from Schneider 2003 and are not new data; a possible overlap with the MAKEI/German cohort papers in the knowledge base. Some recommendations rest on personal communication (D. Schneider, 2009). Authors are the COG/MAKEI-affiliated group; they state it is guideline-style, not formal evidence grading.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

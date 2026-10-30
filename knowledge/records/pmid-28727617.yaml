@@ -1,0 +1,42 @@
+source_id: '28727617'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/28727617/
+retrieved_on: '2026-10-30'
+full_text_source: PMC6171102
+language: en
+pmid: '28727617'
+doi: 10.1097/PGP.0000000000000325
+pmcid: PMC6171102
+title: 'Granulosa Cell Tumors: Novel Predictors of Recurrence in Early-stage Patients.'
+journal: 'International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists'
+year: 2017
+first_author: Sakr S
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 12
+age_range: null
+alterations: []
+treatments:
+- regimen: Surgery with or without chemotherapy (BEP in most recurrent cases)
+  setting: all GCT (125); JGCT subset not separately analyzed
+  n: 125
+  outcome: Recurrence 12/125 (9.6%); JGCT recurred 2/12 (17%) vs adult 10/113 (9%), difference not significant
+presentation: []
+key_findings:
+- Single-institution retrospective cohort of 125 ovarian granulosa cell tumor (GCT) patients diagnosed 1975-2014; median follow-up 120 months (range 1-465); recurrence in 12/125 (9.6%).
+- 'Histologic type: 113/125 (90%) adult and 12 (10%) juvenile GCT (JGCT); JGCT recurred in 2/12 (17%) versus 10/113 (9%) adult (Table 2: 2/12 recurrences were juvenile, p=0.32; tumor subtype was not significant for recurrence).'
+- 'The two recurrent JGCT cases (Tables 7 and 8): a 25-year-old (cystic, 16 cm, no rupture, mitotic rate 3/10 HPF, moderate pleomorphism; USO with staging, stage II, BEP; recurrence at 24 months, alive) and a 22-year-old (solid/cystic, 34 cm, mitotic rate 12, mild pleomorphism; USO, stage IIIC, BEP; recurrence at 26 months, died). Both had high CD56; SMAD3 high in the first and low in the second.'
+- 'Prognostic factors in the whole cohort: stage III-IV vs I-II (shorter disease-free interval 77.2 vs 432.4 months), mitotic rate 4 or more per 10 HPF, severe nuclear pleomorphism, chemotherapy in addition to surgery, and high HER2, CD56 and SMAD3 expression; on Cox regression only SMAD3 and treatment type remained independent for disease-free interval.'
+- In stage I disease, adjuvant chemotherapy (HR 10.26 per Table 6; abstract states HR 10.2) and high SMAD3 (HR 8.9, 95% CI 2.34-34.5 when treatment excluded) predicted recurrence; authors say CD56 and SMAD3 IHC need validation on a larger scale.
+- IHC was run on tissue microarrays of 88 primary tumors (calretinin, inhibin, HER2, CD56, SMAD3, GATA4, VEGF); results are not reported separately for JGCT.
+- Authors cite from other work that FOXL2 C134W occurs in 90-97% of GCTs and that stage I long-term disease-free survival is about 84-95%.
+relevance_to_jgct: A mostly adult GCT cohort; JGCT is 12 patients, with only the recurrence counts and two case descriptions specific to JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Mismatches between abstract and text: abstract reports mitotic rate P=0.005 and stage P=0.0001 (Kaplan-Meier) whereas the Results text reports univariate P=0.021 and 0.001. Table 3 column headings label recurrent n=12 but IHC counts total 10. Authors and journal not stated in the retrieved text. The relationship between recurrence and chemotherapy likely reflects stage (chemotherapy given for higher stage, residual disease), as the authors discuss.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

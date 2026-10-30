@@ -1,0 +1,54 @@
+source_id: '37567969'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37567969/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10421935
+language: en
+pmid: '37567969'
+doi: 10.1038/s43856-023-00341-6
+pmcid: PMC10421935
+title: 'Early-onset gynecological tumors in DNA repair-deficient xeroderma pigmentosum group C patients: a case series.'
+journal: Communications medicine
+year: 2023
+first_author: Yurchenko AA
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 19 years (the JGCT patient); series 11-19 years
+alterations:
+- gene: DICER1
+  alteration: oncogenic or likely oncogenic somatic mutations
+  frequency: all 4 sequenced tumors (including the JGCT), biallelic inactivation in 2 tumors
+  notes: 'tumors sequenced: vaginal ERMS, JGCT, 2 SLCT'
+- gene: XPC
+  alteration: 'germline biallelic: homozygous c.1643_1644delTG (p.V548fs) in the JGCT patient'
+  frequency: 1/1
+  notes: North African founder mutation; XP-C ovarian tumors had 4.4-fold more SBS than sporadic ovarian GCT (P=0.00046) and enrichment of signature SBS8
+treatments:
+- regimen: Left adnexectomy; adjuvant chemotherapy withheld (XP-C toxicity risk); at recurrence, colorectal resection then paclitaxel (4 weekly doses, then 175 mg/m2 every 3 weeks for 3 cycles)
+  setting: stage IC2 JGCT with preoperative cyst rupture, then recurrence at 9 months
+  n: 1
+  outcome: Progression noted after 4 cycles of chemotherapy per table; alive at 9 months of follow-up (status 2023)
+presentation:
+- ACTH-independent Cushing's syndrome leading to discovery of a rapidly growing 11 cm left ovarian tumor (patient 3, age 19)
+- preoperative cyst rupture found at laparotomy
+key_findings:
+- 'Case series of 5 early-onset gynecological tumors in 4 patients with xeroderma pigmentosum group C (XP-C), aged 11 to 19 years: vaginal embryonal rhabdomyosarcoma in monozygotic twins (16 years), a JGCT plus a poorly differentiated Sertoli-Leydig cell tumor (SLCT) in a 19-year-old, and a stage IC1 SLCT in an 11-year-old (aged 13 at reporting).'
+- 'JGCT patient (patient 3): 19-year-old with XP-C (homozygous XPC delTG, diagnosed at age 3, a few skin carcinomas) referred for ACTH-independent Cushing''s syndrome; an 11 cm rapidly growing left ovarian tumor, ruptured preoperatively; left adnexectomy; expert pathology: JGCT, partially ruptured, peritoneal cytology negative but tumor cells on the tubal serosa; stage reported as FIGO IC2.'
+- Adjuvant chemotherapy, theoretically indicated for IC2 JGCT, was declined because of the increased risk of adverse events in XP-C; restaging laparoscopy found no tumor on all biopsies, but hypercortisolism persisted 3 months after surgery.
+- MRI then showed a 2.5 cm right ovarian mass and a micronodular left adrenal gland; right adnexectomy and left adrenalectomy showed a poorly differentiated stage IA SLCT of the right ovary (independent second ovarian tumor) and primary pigmented nodular adrenal dysplasia; Cushing's syndrome improved.
+- At 9 months an MRI showed a bulky pelvic tumor; laparotomy with complete removal needing colorectal resection confirmed JGCT recurrence; treated with weekly paclitaxel x4 then paclitaxel 175 mg/m2 every 3 weeks x3 without serious adverse events; table lists progression after 4 cycles; alive, total follow-up 9 months.
+- 'Whole-genome sequencing of the JGCT and the SLCT from patient 3: DICER1 oncogenic or likely oncogenic mutations in all four sequenced tumors of the series (biallelic in 2); TP53 mutated in the vaginal ERMS and in patient 3''s SLCT; the JGCT and SLCT genomes were relatively stable without polyploidization.'
+- XP-C ovarian tumors (n=3) had 4.4-fold higher single-base-substitution density than sporadic ovarian granulosa cell tumors (n=45; P=0.00046) and 1.7-fold more indels (P=0.041), with SBS8 explaining 67-77% of mutations (vs 0-38% in sporadic tumors) and strong transcriptional strand bias.
+- 'Authors'' conclusion: XP-C status should be accounted for in prevention and treatment of gynecological tumors in young XP patients; regular gynecologic follow-up is suggested; a literature search found 11 earlier reports of gynecological tumors in XP patients (median age 18.5 years).'
+relevance_to_jgct: 'Single JGCT case with whole-genome data in a DNA-repair-deficient host: reports a somatic DICER1 mutation in a JGCT and a recurrence managed without upfront chemotherapy. Not representative of sporadic JGCT.'
+conflicts_with:
+- pmid-29037807
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Discrepancies inside the paper: the text states FIGO stage IC2 for the JGCT while the abstract does not name a stage for it; the abstract says 13 years for the IC1 SLCT patient whereas tumor diagnosis was at 11 (13 is her age at reporting). Table 1 lists ''progression after 4 cycles chemo'' for the JGCT, but text describes paclitaxel without serious adverse events and gives no explicit response assessment. Which tumor (JGCT or SLCT) carried each DICER1 variant is shown only in a figure not readable in the text. Journal and first author not in cached text.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

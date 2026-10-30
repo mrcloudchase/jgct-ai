@@ -1,0 +1,84 @@
+source_id: '38136408'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/38136408/
+retrieved_on: '2026-10-30'
+full_text_source: PMC10741682
+language: en
+pmid: '38136408'
+doi: 10.3390/cancers15245864
+pmcid: PMC10741682
+title: 'Relevance of Molecular Pathology for the Diagnosis of Sex Cord-Stromal Tumors of the Ovary: A Narrative Review.'
+journal: Cancers
+year: 2023
+first_author: Trecourt A
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: 'juvenile granulosa cell tumor: mean 13 years; <30 years in 97% (newborn to 67 years)'
+alterations:
+- gene: DICER1
+  alteration: variants
+  frequency: 6-23% of JGCT
+  notes: sometimes with DICER1 syndrome; may worsen prognosis vs wild type (more data needed)
+- gene: AKT1
+  alteration: activating variants
+  frequency: 29-60% of JGCT
+  notes: may play central pathogenic role
+- gene: GNAS
+  alteration: variants
+  frequency: 30% of JGCT
+  notes: may worsen prognosis
+- gene: KMT2C/ARID1A/KMT2D
+  alteration: variants
+  frequency: 52% / 39% / 35%
+  notes: genomic landscape study cited
+- gene: BRCA2/ATM/BRCA1
+  alteration: variants
+  frequency: 35% / 26% / 23%
+  notes: null
+- gene: POLE/MLH1/MSH6
+  alteration: variants
+  frequency: 23% / 19% / 10%
+  notes: null
+- gene: TERT
+  alteration: variant 19%; rearrangement 13%
+  frequency: 19% / 13%
+  notes: null
+- gene: TP53
+  alteration: somatic variants
+  frequency: up to 16% of JGCT
+  notes: null
+- gene: IDH1/IDH2
+  alteration: somatic variants
+  frequency: in JGCT with Ollier disease or Maffucci syndrome
+  notes: null
+- gene: FOXL2
+  alteration: C402G (p.C134W) variant
+  frequency: absent in JGCT (present >95% in adult GCT)
+  notes: FOXL2 variants rarely reported in 'JGCT' but unclear whether these were true JGCT
+treatments: []
+presentation:
+- pelvic/abdominal pain and swelling
+- isosexual pseudoprecocity in 82% of prepubertal patients
+- menstrual irregularities, amenorrhea or uterine bleeding in older patients
+- rarely virilization
+key_findings:
+- Narrative review (literature searched July-October 2023, PubMed Central and Google Scholar) of ovarian sex cord-stromal tumors organized by predominant cell morphology into five groups, with diagnostic algorithms; sex cord-stromal tumors are about 8% of ovarian tumors.
+- JGCT is described as a very rare pure sex cord neoplasm, 5% of all ovarian granulosa cell tumors (adult type 95%); mean age 13 years, under 30 years in 97%, range newborn to 67 years.
+- 'Clinical features: pelvic mass symptoms plus estrogenic manifestations (isosexual pseudoprecocity in 82% of prepubertal patients), rarely androgenic; rare associations with Ollier disease, Maffucci syndrome, DICER1 syndrome, Beckwith-Wiedemann syndrome and tuberous sclerosis. Over 97% unilateral, mean size 12.5 cm (3-32 cm), solid and cystic or predominantly solid, necrosis/hemorrhage in 13%.'
+- 'Histology: diffuse, lobulated, follicle-like architecture in a myxoid/edematous/hyalinized background; abundant eosinophilic cytoplasm; nuclei usually lack grooves (grooves focally in about 50%); mitoses 1 to 32 per 10 HPF (mean 7), higher than adult GCT; necrosis in 40%; sclerosis in 95% of JGCT. Reticulin surrounds nests/cords, with monocellular network in thecomatous areas.'
+- 'Immunohistochemistry: SF1, inhibin, calretinin, WT1 and FOXL2 positive as in adult GCT; AE1/AE3 may be expressed; EMA typically negative. IHC cannot separate juvenile from adult GCT.'
+- 'Molecular: no FOXL2 variant; DICER1 variants in 6-23%, AKT1 activating variants in 29-60%, GNAS in 30%; recurrent KMT2C 52%, ARID1A 39%, KMT2D 35%, BRCA2 35%, ATM 26%, BRCA1 23%, POLE 23%, MLH1 19%, MSH6 10%, TERT variant 19% and rearrangement 13%, TP53 up to 16%; IDH1/2 in Ollier/Maffucci-associated cases. DICER1 and GNAS variants could worsen prognosis, but the authors state more data are needed.'
+- 'Differentials: luteinized JGCT versus steroid cell tumor, thecoma, sclerosing stromal tumor; FOXL2 variant favors luteinized adult GCT, DICER1 variant favors luteinized JGCT or Sertoli-Leydig tumor; small cell carcinoma of the ovary hypercalcemic type (young patients, brisk mitoses, pseudo-follicles) should be excluded with EMA and BRG1 (SMARCA4 surrogate).'
+- The authors suggest JGCT may be a distinct entity from adult GCT given different molecular alterations; DICER1 variant found in 6% of JGCT, 63-80% of Sertoli-Leydig tumors, 40% of gynandroblastomas (cited figures); DICER1 testing is not recommended to distinguish Sertoli-Leydig tumor from JGCT or gynandroblastoma. Gynandroblastoma shows no AKT1 variant in juvenile-type components.
+relevance_to_jgct: Pathology-oriented review with a dedicated JGCT section covering clinical, morphological, immunohistochemical and molecular features and the differential diagnosis against other ovarian sex cord-stromal tumors; reports no original patients.
+conflicts_with:
+- pmid-23641362
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Secondary review; frequencies are the cited literature figures (many JGCT molecular figures derive from a small number of earlier series, so patient overlap with those series is likely). Ovarian tumors only. DOI not stated in the fetched text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,57 @@
+source_id: '23008780'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23008780/
+retrieved_on: '2026-10-30'
+full_text_source: PMC3449135
+language: en
+pmid: '23008780'
+doi: 10.5402/2012/878635
+pmcid: PMC3449135
+title: 'The multifaceted granulosa cell tumours-myths and realities: a review.'
+journal: ISRN Obstet Gynecol
+year: 2012
+first_author: Kanthan R
+study_type: case_series
+tumor_site: both
+n_jgct_patients: 4
+age_range: 5 months (index testicular JGCT); series range 7 days to 85 years for all GCT
+alterations:
+- gene: FOXL2
+  alteration: C134W missense somatic mutation
+  frequency: '>90% of adult GCT (cited)'
+  notes: adult-type; not tested in the series
+- gene: chromosome
+  alteration: trisomy 12/14, monosomy 22; Y-chromosome defects in male GCT
+  frequency: null
+  notes: cited literature
+treatments:
+- regimen: Orchiectomy
+  setting: 5-month-old boy, testicular JGCT, 2 cm
+  n: 1
+  outcome: no recurrence 20 years postoperatively
+- regimen: Left oophorectomy preserving fallopian tube
+  setting: 7-day-old girl, GCT with mixed adult/juvenile features, torsion
+  n: 1
+  outcome: no residual disease on CT; estradiol and TSH normalized; well at 18 years
+presentation:
+- 'testicular JGCT: left scrotal mass in a 5-month-old boy'
+- 'neonatal ovarian GCT: abdominal distension, constipation, 10 cm multiseptated cystic mass, elevated estradiol (310), prolactin (34.9), TSH (11.05)'
+key_findings:
+- Five unusual GCT index cases from one Saskatchewan hospital plus a 14-year (1997-2011) pathology review of 37 GCTs (overall prevalence 0.0041%, 37/902,100), used to discuss 'myths and realities' of granulosa cell tumors.
+- 'Index case 1: a 5-month-old boy with a 2 cm left testicular mass treated by orchiectomy; histology solid with cystic spaces, extensive fibrocollagenous stroma, inhibin positive; the only male GCT, disease-free 20 years later.'
+- 'Index case 2: a 7-day-old girl with a 10 cm multiseptated cystic left ovarian mass with torsion, estradiol 310, prolactin 34.9, TSH 11.05, normal LH, FSH, AFP and beta-hCG; histology was intermediate between adult and juvenile GCT (macrofollicular pattern with small solid insular areas, no theca interna); cured by oophorectomy, well at 18 years.'
+- In the 37-case pathology review (36 female, 1 male), female age ranged 7 days to 85 years (mean 52, median 48); only 4 (10.8%) GCTs were of the juvenile type; sites included 17 right ovary, 15 left ovary and one each bowel, abdominal wall and omentum.
+- 'Review statements (cited literature): about 95% of GCT are adult-type; up to 90% of JGCT occur under 30 years of age, half under 10 years and 10% in infants under 1 year; estradiol-producing cells are present in 70% of JGCT; isosexual precocious pseudopuberty occurs in 80-90% of JGCT patients under 8 years; average tumor size is 12 cm; few Call-Exner bodies; JGCT is considered by many to be relatively benign with survival as high as 97% at 3.5-year follow-up in one study; advanced JGCT can be aggressive with short interval to relapse and responds to platinum combination chemotherapy.'
+- 'Testicular JGCT (cited): sex cord-stromal tumors are 4% of testicular tumors; JGCT is far more common than adult GCT in the testis; about half are diagnosed in the first month and over 95% in the first year of life; 25% have gynaecomastia; usually benign, treated by radical orchiectomy; stage-matched testicular GCT has a better prognosis than ovarian.'
+- 'Rare JGCT presentations cited: paraneoplastic hypercalcemia and Meigs-type pleural effusion with ascites; tumor rupture mimicking ectopic pregnancy in 10-15% of GCT; inhibin sensitivity/specificity in 30 women with GCT (Mom et al): inhibin A 67%/100%, inhibin B 89%/100%.'
+- 'Adult-type GCT dominates the review''s data: late recurrence (quarter recur, mean 5-10 years, 10-20% as late as 20-40 years), BEP as standard for advanced/recurrent disease, lifelong follow-up recommended; the authors conclude GCT is an indolent neoplasm of low malignant potential with unpredictable behaviour and late relapses.'
+relevance_to_jgct: 'Mixed adult and juvenile GCT case series and narrative review. JGCT-specific content: one infantile testicular JGCT case (20-year follow-up), a neonatal ovarian GCT with hybrid histology, a count of 4 juvenile-type tumors among 37, and cited statements on JGCT age, hormones and prognosis; most review content concerns adult-type GCT.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The text says the male patient was 'Index case 4' in the surgical review, but the only male described is index case 1 (a 5-month-old boy; case 4 is a 64-year-old woman), an internal inconsistency. Unclear whether the 4 juvenile-type cases include index case 1 or 2. Index case 2 is described as histologically between adult and juvenile GCT, not definitively JGCT; n_jgct_patients=4 follows the survey count. Review literature claims (percentages, survival) are cited secondary data, not original.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

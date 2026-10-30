@@ -1,0 +1,45 @@
+source_id: 10.37549/ar1663
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.37549/ar1663
+retrieved_on: '2026-10-30'
+full_text_source: https://www.appliedradiology.com/articles/juvenile-granulosa-cell-tumor-of-the-ovary
+language: en
+pmid: null
+doi: 10.37549/ar1663
+pmcid: null
+title: Juvenile granulosa cell tumor of the ovary
+journal: Applied Radiology
+year: 2008
+first_author: Danielson D
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 3 years
+alterations: []
+treatments:
+- regimen: Laparotomy with tumor resection and unilateral salpingo-oophorectomy
+  setting: primary
+  n: 1
+  outcome: No follow-up outcome reported
+presentation:
+- abdominal mass
+- bowel obstruction symptoms
+- precocious puberty
+- prominent subareolar breast tissue on CT
+key_findings:
+- A 3-year-old girl presented to the emergency department with an abdominal mass, symptoms of bowel obstruction, and precocious puberty.
+- Abdominal radiograph raised suspicion of intussusception; ultrasound showed a large complex low anterior abdominal mass (10 x 6.6 x 9.3 cm) abutting the uterine fundus, with an endometrial stripe of about 7 mm.
+- Serum estradiol was 'dramatically elevated' (no value given).
+- CT showed a well-circumscribed, heterogeneous, enhancing mass with cystic and solid components, no calcifications, free abdominal/pelvic fluid, no lymphadenopathy, and prominent subareolar breast tissue.
+- Treatment was laparotomy with tumor resection and unilateral salpingo-oophorectomy; diagnosis was juvenile granulosa cell tumor of the ovary. No histology details, stage or follow-up are given.
+- 'Discussion (citing Young et al. 1984): of 125 JGCT patients, 78% presented within the first 2 decades; hyperestrogenism (precocious puberty) is typical; most patients are stage I with favorable prognosis, stage II-IV have higher recurrence; the role of chemotherapy/radiation is uncertain; long-term follow-up recommended.'
+relevance_to_jgct: Radiology teaching case of a prepubertal JGCT with imaging features and background statements; no outcome data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Brief radiology case summary; no histology, IHC, staging or follow-up reported. Background figures are literature citations, not the authors' data.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

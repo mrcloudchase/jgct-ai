@@ -1,0 +1,40 @@
+source_id: '31529256'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/31529256/
+retrieved_on: '2026-10-30'
+full_text_source: PMC6957553
+language: en
+pmid: '31529256'
+doi: 10.1007/s00330-019-06420-4
+pmcid: PMC6957553
+title: 'MR imaging in discriminating between benign and malignant paediatric ovarian masses: a systematic review.'
+journal: Eur Radiol
+year: 2020
+first_author: van Nimwegen LWE
+study_type: review
+tumor_site: ovary
+n_jgct_patients: 3
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- large multicystic/solid ovarian mass on MRI (case reports)
+- tumour adhesion to anterior bowel loops (one case report)
+key_findings:
+- 'PRISMA systematic review (PubMed and EMBASE, 2008-2018) of MR imaging to separate benign from malignant ovarian masses: 3015 records, 34 studies included (16 paediatric, 18 adult).'
+- Of the 16 paediatric studies, 3 were cohort studies (Emil 2017 n=18; Marro 2016 n=32; Lin 2017 n=74 germ cell tumours) and 13 were case reports; paediatric studies were mostly Oxford evidence level 4. Mean age was 10.8 years in paediatric and 46.9 years in adult studies.
+- 'Three included paediatric case reports were juvenile granulosa cell tumours: Ghanbari 2013 (age 3 years; multiple cystic components; tumour adhesion to anterior bowel loops), Bedir 2014 (age 10; 76 x 87 x 75 mm; multiple cystic and solid components) and Calcaterra 2013 (age 8; 13 x 13 x 7.6 cm). No DWI, DCE or diagnostic-performance data were reported for these cases.'
+- Across studies, MRI sensitivity and specificity for malignancy ranged 84.8-100% and 20.0-98.4%; DWI plus conventional MRI reached sensitivity 93.3-100% and specificity 85-96.8% in adult series; the authors suggest an ADC cut-off of 1.1 x 10-3 mm2/s.
+- The authors state that MRI descriptions in paediatric studies were insufficient, no purely paediatric cohort with DWI/DCE data existed, and prospective age-specific studies are needed.
+- The authors note that benign masses such as thecomas or sclerosing stromal tumours can be hypervascular on DCE, so time-intensity curve type alone may not separate benign from malignant.
+relevance_to_jgct: Imaging review of paediatric ovarian masses; JGCT appears only as 3 single-patient case reports (basic MRI descriptions, no quantitative or performance data). Shows the thin evidence base for MRI features of JGCT.
+conflicts_with: []
+overlaps_with:
+- doi-10.15296_ijwhr.2013.12
+superseded_by: null
+retracted: false
+notes: n_jgct_patients=3 is the count of included JGCT case reports. Adult series in the review are not JGCT-specific (Zhao 2018 analysed sex cord-stromal tumours but ADC data are not JGCT-specific).
+review_status: draft
+reviewed_by: null
+reviewed_on: null
