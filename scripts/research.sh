@@ -12,6 +12,11 @@ cd "$(dirname "$0")/.."
 
 BUDGET="${MAX_BUDGET_USD:-40}"
 MODEL="${CLAUDE_MODEL:-claude-opus-5-5}"
+TODAY=$(date -u +%Y-%m-%d)
+TRANSCRIPT_DIR="${RUNNER_TEMP:-/tmp}/transcript"
+OUT="${TRANSCRIPT_DIR}/run.jsonl"
+mkdir -p "${TRANSCRIPT_DIR}"
+: > "${OUT}"
 echo "== research run $(date -u +%Y-%m-%d) on ${MODEL}, budget \$${BUDGET}"
 
 # An open research pull request is not a reason to skip: the agent reads its branch and continues on it.
