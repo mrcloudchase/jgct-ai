@@ -1,0 +1,45 @@
+source_id: '6322361'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/6322361/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/6322361/
+language: en
+pmid: '6322361'
+doi: null
+pmcid: null
+title: Juvenile-type granulosa theca cell tumour producing precocious pseudopuberty. A case report
+journal: South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde
+year: 1984
+first_author: Yalaburgi SB
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: young girl
+alterations: []
+treatments:
+- regimen: Salpingo-oophorectomy of the affected side
+  setting: juvenile-type granulosa theca cell tumor with precocious pseudopuberty
+  n: 1
+  outcome: Long-term follow-up planned
+presentation:
+- pain
+- vaginal bleeding
+- abdominal distension
+- breast enlargement
+- pubic and axillary hair
+- elevated luteinizing hormone
+key_findings:
+- A young girl with a juvenile-type granulosa theca cell tumor presented with pain, vaginal bleeding, abdominal distension, breast enlargement and pubic and axillary hair, with both estrogenic and androgenic effects and overproduction of luteinizing hormone, described as unusual.
+- Unilateral salpingo-oophorectomy is recommended; a recurrence many years after surgery had been reported, so long-term follow-up was planned.
+relevance_to_jgct: 1984 South African case with combined estrogenic and androgenic signs.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

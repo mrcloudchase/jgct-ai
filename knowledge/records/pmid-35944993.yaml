@@ -1,0 +1,36 @@
+source_id: '35944993'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35944993/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/35944993/
+language: ja
+pmid: '35944993'
+doi: 10.11405/nisshoshi.119.750
+pmcid: null
+title: '[A case of CA19-9-producing esophagogastric junction cancer with ovarian juvenile granulosa cell tumor and rectal cancer]'
+journal: Nihon Shokakibyo Gakkai zasshi = The Japanese journal of gastro-enterology
+year: 2022
+first_author: Kawada M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 60s
+alterations: []
+treatments: []
+presentation:
+- swollen ovary found during work-up of esophagogastric junction and rectal cancers
+key_findings:
+- A woman in her 60s with double cancers (esophagogastric junction, rectum) and a swollen left ovary had laparoscopic bilateral salpingo-oophorectomy; the ovary was a JGCT, not a Krukenberg metastasis, which allowed curative surgery for both cancers (Japanese).
+- CA19-9 was expressed by the esophagogastric cancer and not by the JGCT.
+relevance_to_jgct: JGCT in a woman in her 60s mimicking a Krukenberg tumor.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

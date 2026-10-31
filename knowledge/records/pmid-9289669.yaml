@@ -1,0 +1,36 @@
+source_id: '9289669'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9289669/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9289669/
+language: it
+pmid: '9289669'
+doi: null
+pmcid: null
+title: '[Ovarian granulosa cell tumor of juvenile type associated with pregnancy. Clinical case and review of the literature]'
+journal: Minerva ginecologica
+year: 1997
+first_author: Bognoni V
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 22 years
+alterations: []
+treatments: []
+presentation:
+- pregnancy
+key_findings:
+- A JGCT diagnosed in a 22-year-old pregnant woman, with a literature review (Italian).
+- The abstract states that 10% of granulosa cell tumors present during pregnancy.
+relevance_to_jgct: Early report of pregnancy-associated JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

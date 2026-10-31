@@ -1,0 +1,41 @@
+source_id: 10.1089/gyn.2016.0073
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.1089/gyn.2016.0073
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.1089/gyn.2016.0073
+language: en
+pmid: null
+doi: 10.1089/gyn.2016.0073
+pmcid: null
+title: Juvenile Granulosa Cell Tumor as a Cause of Ovarian Torsion Complicating Pregnancy
+journal: Journal of Gynecologic Surgery
+year: 2019
+first_author: Wyckoff Erich T.
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 20 years, 22 weeks pregnant
+alterations: []
+treatments:
+- regimen: Surgical resection
+  setting: torsion at 22 weeks 6 days of gestation
+  n: 1
+  outcome: Discharged day 3 with a viable pregnancy
+presentation:
+- ovarian torsion in pregnancy
+- severe left lower quadrant pain
+key_findings:
+- A 20-year-old at 22 weeks 6 days of gestation presented with severe left lower quadrant pain from ovarian torsion caused by a 1157 g, 19 x 16 x 9 cm JGCT with hemorrhagic necrosis; after resection she went home on day 3 with a viable pregnancy.
+- The authors describe it as the only reported JGCT presenting as torsion in pregnancy.
+relevance_to_jgct: JGCT causing ovarian torsion in pregnancy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

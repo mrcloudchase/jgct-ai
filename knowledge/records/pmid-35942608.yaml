@@ -1,0 +1,37 @@
+source_id: '35942608'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35942608/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/35942608/
+language: en
+pmid: '35942608'
+doi: 10.1002/dc.25037
+pmcid: null
+title: 'Fine-needle aspiration cytology of juvenile granulosa cell tumour: A case report with summary of prior published cases'
+journal: Diagnostic cytopathology
+year: 2022
+first_author: Khatun F
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 4 years
+alterations: []
+treatments: []
+presentation:
+- large abdominal mass
+- vaginal bleeding
+key_findings:
+- Fine-needle aspiration cytology of a JGCT in a 4-year-old with a large abdominal mass and vaginal bleeding showed thick colloid-like fluid with apparent bubbles and small clusters of uniform cells with eosinophilic, finely vacuolated cytoplasm; histology confirmed juvenile type.
+- Only two prior reports of JGCT cytology existed, both from recurrent disease at metastatic sites; the secretions corresponding to macrofollicles had not been described before.
+relevance_to_jgct: One of three published descriptions of JGCT cytology, the first from a primary tumor.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

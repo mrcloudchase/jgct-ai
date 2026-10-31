@@ -1,0 +1,39 @@
+source_id: 10.1089/gyn.2018.0012
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.1089/gyn.2018.0012
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.1089/gyn.2018.0012
+language: en
+pmid: null
+doi: 10.1089/gyn.2018.0012
+pmcid: null
+title: An Unusual Presentation of a Juvenile Granulosa-Cell Tumor
+journal: Journal of Gynecologic Surgery
+year: 2019
+first_author: Levin Gabriel
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 20 years
+alterations: []
+treatments: []
+presentation:
+- acute anemia
+- abdominal pain
+- large pelvic mass
+- bleeding necrotic tumor
+key_findings:
+- A 20-year-old presented with acute anemia, abdominal pain and a large pelvic mass that proved to be a JGCT; postoperative course was unremarkable and she was referred to oncology.
+- The authors note that JGCT can mimic benign ovarian masses on imaging and advise preoperative inhibin and testosterone measurement.
+relevance_to_jgct: Hemorrhagic necrotic JGCT presenting with anemia.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

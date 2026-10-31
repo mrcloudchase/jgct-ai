@@ -1,0 +1,40 @@
+source_id: 10.1186/s43055-025-01515-z
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.1186/s43055-025-01515-z
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.1186/s43055-025-01515-z
+language: en
+pmid: null
+doi: 10.1186/s43055-025-01515-z
+pmcid: null
+title: 'Cystic juvenile granulosa cell tumor with late onset: radiologic and pathologic challenges—a case report'
+journal: The Egyptian Journal of Radiology and Nuclear Medicine
+year: 2025
+first_author: F. A. Denewar
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 35 years
+alterations: []
+treatments:
+- regimen: Laparoscopic cystectomy
+  setting: multilocular cystic JGCT, normal tumor markers
+  n: 1
+  outcome: Not stated
+presentation:
+- incidental adnexal cyst found during ultrasound for a missed period
+key_findings:
+- A 35-year-old had a multilocular cystic left adnexal lesion with thick irregular enhancing septa and restricted diffusion (O-RADS intermediate risk) and normal tumor markers; laparoscopic cystectomy showed a cystic JGCT.
+- The abstract repeats that about 97% of JGCTs occur before age 30 and that imaging cannot reliably separate cystic JGCT from other ovarian neoplasms.
+relevance_to_jgct: Late-onset purely cystic JGCT with nonspecific MRI features; treated by cystectomy alone.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

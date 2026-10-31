@@ -1,6 +1,6 @@
 # Topics
 
-One article per subject, synthesized from the records, for both audiences. Each article says what every relevant source reports, where sources agree, where they disagree, and what remains unknown. Every factual sentence cites record IDs in brackets, like `[pmid-40272823]`. Each file starts with a level-one heading that is its title and a one-paragraph plain-language opening before the technical detail; cross-links between articles are relative Markdown links (`[Testicular JGCT](testicular-jgct.md)`), which the site builder turns into page links.
+One article per subject, synthesized from the records, for both audiences. Each article says what every relevant source reports, where sources agree, where they disagree, and what remains unknown. Every factual sentence cites record IDs in brackets, like `[pmid-40272823]`. A cited record may rest on the full text or, where none can be had, on the abstract alone (`evidence_basis: abstract`); the site marks the latter with a dagger, and an article should say so in words wherever an abstract-based source carries a claim on its own. Each file starts with a level-one heading that is its title and a one-paragraph plain-language opening before the technical detail; cross-links between articles are relative Markdown links (`[Testicular JGCT](testicular-jgct.md)`), which the site builder turns into page links.
 
 The site renders every article here under Topics, and the two summaries in `../summary/` link into them. Articles are rewritten whenever the records behind them change.
 

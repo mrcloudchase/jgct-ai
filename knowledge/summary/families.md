@@ -1,6 +1,6 @@
 # For parents and patients
 
-This is a synthesis of recorded sources, not medical advice, and every record is a draft until a human has checked it. The small bracketed codes point to the sources, so you can show any paragraph to a doctor. Each section is short and ends with a link to a longer article on the same subject.
+This is a synthesis of recorded sources, not medical advice, and every record is a draft until a human has checked it. The small bracketed codes point to the sources, so you can show any paragraph to a doctor. A code with a dagger (†) is a source known only from its short published summary, because the full paper is behind a paywall. Each section is short and ends with a link to a longer article on the same subject.
 
 ### The gist
 

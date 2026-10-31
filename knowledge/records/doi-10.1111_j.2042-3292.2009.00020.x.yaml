@@ -1,0 +1,35 @@
+source_id: 10.1111/j.2042-3292.2009.00020.x
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.1111/j.2042-3292.2009.00020.x
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.1111/j.2042-3292.2009.00020.x
+language: en
+pmid: null
+doi: 10.1111/j.2042-3292.2009.00020.x
+pmcid: null
+title: Ultrasonographic appearance and abdominal haemorrhage associated with a juvenile granulosa cell tumour in a foal
+journal: Equine Veterinary Education
+year: 2010
+first_author: J. Harper
+study_type: case_report
+tumor_site: other
+n_jgct_patients: null
+age_range: neonatal foal
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- A septic neonatal foal presented with hemoabdomen from a ruptured ovarian granulosa cell tumor of juvenile histology; it was removed surgically.
+- Juvenile ovarian granulosa cell tumors in horses differ histologically from adult tumors.
+relevance_to_jgct: 'Veterinary parallel: juvenile-type granulosa cell tumor in a foal.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Equine case, not human. Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

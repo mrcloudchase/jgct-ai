@@ -1,0 +1,37 @@
+source_id: '2048938'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/2048938/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/2048938/
+language: fr
+pmid: '2048938'
+doi: null
+pmcid: null
+title: '[Ollier''s disease and juvenile ovarian granulosa tumor]'
+journal: Archives francaises de pediatrie
+year: 1991
+first_author: Le Gall C
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 12 years at Ollier diagnosis; tumor some years later
+alterations: []
+treatments: []
+presentation:
+- ascites
+- hormone secretion
+key_findings:
+- A girl with Ollier disease diagnosed at 12 developed a secreting JGCT revealed by ascites some years later; the tumor was on the same side as the enchondromatosis.
+- Five earlier cases of the association were known; the authors warn of recurrence of the ovarian tumor in the year after oophorectomy as well as chondrosarcomatous change.
+relevance_to_jgct: Sixth reported Ollier-JGCT association, with the tumor ipsilateral to the enchondromas.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

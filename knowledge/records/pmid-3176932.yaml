@@ -1,0 +1,34 @@
+source_id: '3176932'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/3176932/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/3176932/
+language: en
+pmid: '3176932'
+doi: 10.3109/00016348809004195
+pmcid: null
+title: Cystic juvenile granulosa cell tumor of the ovary
+journal: Acta obstetricia et gynecologica Scandinavica
+year: 1988
+first_author: Spaun E
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- A cystic JGCT of the ovary; the abstract gives only background (sex cord-stromal tumors about 5% of ovarian neoplasms; adult and juvenile types differ in prognosis and course).
+relevance_to_jgct: Early report of a cystic JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

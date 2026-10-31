@@ -1,0 +1,41 @@
+source_id: 10.7860/jcdr/2020/45128.13955
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.7860/jcdr/2020/45128.13955
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.7860/jcdr/2020/45128.13955
+language: en
+pmid: null
+doi: 10.7860/jcdr/2020/45128.13955
+pmcid: null
+title: Juvenile Granulosa Cell Tumour of Ovary in Young Females- A Clinico-pathological Evaluation of 11 Patients
+journal: JOURNAL OF CLINICAL AND DIAGNOSTIC RESEARCH
+year: 2020
+first_author: Hatwal Deepa
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 11
+age_range: 5-13 years
+alterations: []
+treatments:
+- regimen: Resection of the ovarian mass
+  setting: 11 girls with JGCT and precocious puberty, India, 2017-2020
+  n: 11
+  outcome: Not stated beyond early stage at presentation
+presentation:
+- precocious puberty (all 11)
+- elevated estradiol with low LH and FSH
+key_findings:
+- 'A prospective three-center Indian series (April 2017 to March 2020) of 11 girls aged 5 to 13 with JGCT presenting with precocious puberty: 7 aged 5 to 8, 3 aged 9 to 12, 1 aged 13; all had elevated estradiol with low LH and FSH, raised T3 with normal TSH and T4, and histology confirmed by immunohistochemistry; most presented at an early stage.'
+- All underwent resection of the ovarian mass; surgery is described as the primary treatment.
+relevance_to_jgct: An 11-patient pediatric series with uniform precocious-puberty presentation and hormone profile.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
