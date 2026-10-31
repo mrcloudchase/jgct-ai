@@ -65,3 +65,4 @@ patients:
   outcome: DOD
   follow_up_months: 80
   notes: first tumor at 35 called serous cystadenoma, reinterpreted as JGCT; contralateral ovarian, pouch of Douglas and omental disease at 40; died 20 months after second surgery; FOXL2 wild type
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

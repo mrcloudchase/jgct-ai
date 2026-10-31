@@ -63,6 +63,7 @@ patients:
   outcome: DOD
   follow_up_months: 7
   notes: fertility-sparing surgery; progressed in the pelvis at 7 months
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: relapse-table JGCT 2
   sex: F
   age_years: 21
@@ -79,3 +80,4 @@ patients:
   outcome: unknown
   follow_up_months: null
   notes: relapse in the pelvis; lost to follow-up
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

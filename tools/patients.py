@@ -2,6 +2,7 @@
 """Patient-level rows on records, and their export for analyses/.
 
   python3 tools/patients.py merge batch.json      # set `patients` on records from {"<stem>": [ {...}, ... ]}
+  python3 tools/patients.py update batch.json     # merge field updates into existing rows by id (e.g. after checking against the paper)
   python3 tools/patients.py export                # write analyses/data/published-cases.csv from every record with patients
   python3 tools/patients.py stats                 # counts by site, stage, outcome
 
@@ -47,6 +48,30 @@ def merge(path):
     print(f"merged {n} patients into {len(batch)} records")
 
 
+def update(path):
+    """Merge field updates into existing patient rows: {"<stem>": [{"id": "...", "<field>": value, ...}, ...]}.
+    Fields not named are left as they are; a row id that does not exist is reported, not created."""
+    batch = json.load(open(path))
+    n = 0
+    for stem, rows_ in batch.items():
+        r = load(stem)
+        have = {p["id"]: p for p in r.get("patients") or []}
+        for upd in rows_:
+            p = have.get(upd["id"])
+            if p is None:
+                print("NO SUCH ROW", stem, upd["id"]); continue
+            for k, v in upd.items():
+                if k != "id":
+                    p[k] = v
+            n += 1
+        try:
+            jsonschema.validate(r, SCHEMA)
+        except jsonschema.ValidationError as e:
+            print("INVALID", stem, "/".join(map(str, e.path)), e.message[:120]); continue
+        save(stem, r)
+    print(f"updated {n} rows in {len(batch)} records")
+
+
 def rows():
     for f in sorted(glob.glob(os.path.join(REC, "*.yaml"))):
         r = yaml.safe_load(open(f))
@@ -77,4 +102,4 @@ def stats():
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "stats"
-    {"merge": lambda: merge(sys.argv[2]), "export": export, "stats": stats}[cmd]()
+    {"merge": lambda: merge(sys.argv[2]), "update": lambda: update(sys.argv[2]), "export": export, "stats": stats}[cmd]()

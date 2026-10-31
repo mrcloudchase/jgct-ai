@@ -64,3 +64,4 @@ patients:
   outcome: NED
   follow_up_months: 18
   notes: IC assigned on surface projections; 10 L transudate ascites; chemotherapy given for suspected residual tumor
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

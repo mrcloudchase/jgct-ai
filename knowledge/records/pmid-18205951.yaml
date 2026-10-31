@@ -50,3 +50,4 @@ patients:
   outcome: DOD
   follow_up_months: 48
   notes: pregnancy-associated; series age range 20 to 40; recurred multiple times and died 48 months after diagnosis
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

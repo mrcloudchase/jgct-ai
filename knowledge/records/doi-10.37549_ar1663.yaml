@@ -59,3 +59,4 @@ patients:
   chemotherapy: null
   outcome: unknown
   notes: radiology case; no stage or follow-up
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

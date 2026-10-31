@@ -56,4 +56,6 @@ patients:
   surgery: cystectomy_or_enucleation
   chemotherapy: null
   outcome: unknown
-  notes: cystic JGCT; lost to follow-up
+  notes: cystic JGCT; lost to follow-up; paper gives 6 to 8 mitoses per 10 HPF, lower bound recorded
+  mitoses_per_10hpf: 6
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

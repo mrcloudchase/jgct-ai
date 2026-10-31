@@ -54,3 +54,4 @@ patients:
   chemotherapy: null
   outcome: unknown
   notes: conference abstract; bleeding stopped and estradiol normalized after excision; no follow-up
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

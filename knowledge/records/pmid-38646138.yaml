@@ -59,3 +59,4 @@ patients:
   outcome: NED
   follow_up_months: 58
   notes: inhibin and CD99 negative on immunohistochemistry; inhibin B not raised
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

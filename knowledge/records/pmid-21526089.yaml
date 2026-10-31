@@ -60,4 +60,6 @@ patients:
   chemo_setting: none
   relapse: false
   outcome: NED
-  follow_up_months: 5
+  follow_up_months: 4
+  notes: paper says 4 to 6 months of follow-up; lower bound recorded
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

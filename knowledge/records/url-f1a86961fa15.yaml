@@ -60,3 +60,4 @@ patients:
   outcome: NED
   follow_up_months: 12
   notes: conference abstract of the case also reported in pmid-23565375 (same child)
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

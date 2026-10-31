@@ -61,3 +61,4 @@ patients:
   outcome: NED
   follow_up_months: 0.5
   notes: 'classification uncertain: authors found the histology compatible with adult-type tumor; cystic variant'
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

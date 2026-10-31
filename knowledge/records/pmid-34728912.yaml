@@ -56,3 +56,4 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: age not stated (series newborn to 17); PET-CT normal at 9 months; followed 1 to 6 years
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

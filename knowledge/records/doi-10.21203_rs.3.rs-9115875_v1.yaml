@@ -49,3 +49,4 @@ patients:
   chemotherapy: null
   outcome: unknown
   notes: preprint; AFP 244 ng/mL and raised testosterone
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

@@ -49,7 +49,7 @@ patients:
   site: ovary
   stage: IC
   stage_system: FIGO (pre-2014)
-  rupture: preoperative
+  rupture: unknown
   malignant_ascites: false
   tumor_size_cm: 12
   presentation:
@@ -62,4 +62,5 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: null
-  notes: acute abdomen with 3 L fluid and ruptured capsule; referred to oncology; follow-up duration not stated
+  notes: acute abdomen with 3 L fluid and ruptured capsule; referred to oncology; follow-up duration not stated; rupture timing not stated
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

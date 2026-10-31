@@ -70,3 +70,4 @@ patients:
   outcome: unknown
   follow_up_months: 9
   notes: laparoscopic enucleation; 7 cm recurrence in the same ovary at 9 months treated by unilateral salpingo-oophorectomy with staging (IA); androgen-secreting; no later follow-up
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

@@ -56,6 +56,7 @@ patients:
   - abdominal_pain
   surgery: cystectomy_or_enucleation
   chemotherapy: null
-  outcome: NED
+  outcome: unknown
   follow_up_months: null
-  notes: torsion 720 degrees; inhibin and calretinin negative; no follow-up duration
+  notes: torsion 720 degrees; inhibin and calretinin negative; no follow-up duration; disease status after surgery not stated
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

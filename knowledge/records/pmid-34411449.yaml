@@ -61,9 +61,10 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: anaplastic features; AKT1 insertion and TP53 splice variant
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: JGCT case 2
   sex: F
-  age_years: 66
+  age_years: 65
   site: ovary
   stage: IIIB
   stage_system: FIGO 2014
@@ -75,4 +76,5 @@ patients:
   relapse_months: 16
   outcome: unknown
   follow_up_months: null
-  notes: cytology series; age 65 or 66 across tables
+  notes: cytology series; age 65 or 66 across tables; Table 2 gives 65
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

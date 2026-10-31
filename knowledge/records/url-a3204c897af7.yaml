@@ -61,7 +61,7 @@ patients:
   notes: Alexandria series of 9, all with pseudo-precocious puberty; 8 unilateral and 1 partial oophorectomy (assignment not stated); signs regressed over 10 to 120 days; no staging or follow-up
 - id: patient 2
   sex: F
-  age_years: 5
+  age_years: null
   site: ovary
   stage: null
   presentation:
@@ -71,10 +71,10 @@ patients:
   chemo_setting: none
   relapse: null
   outcome: unknown
-  notes: ages 4 to 6 for patients 2 to 9; see patient 1
+  notes: age 4 to 6 years (individual age not stated); ages 4 to 6 for patients 2 to 9; see patient 1
 - id: patient 3
   sex: F
-  age_years: 5
+  age_years: null
   site: ovary
   stage: null
   presentation:
@@ -84,10 +84,10 @@ patients:
   chemo_setting: none
   relapse: null
   outcome: unknown
-  notes: see patient 1
+  notes: age 4 to 6 years (individual age not stated); see patient 1
 - id: patient 4
   sex: F
-  age_years: 5
+  age_years: null
   site: ovary
   stage: null
   presentation:
@@ -97,10 +97,10 @@ patients:
   chemo_setting: none
   relapse: null
   outcome: unknown
-  notes: see patient 1
+  notes: age 4 to 6 years (individual age not stated); see patient 1
 - id: patient 5
   sex: F
-  age_years: 5
+  age_years: null
   site: ovary
   stage: null
   presentation:
@@ -110,10 +110,10 @@ patients:
   chemo_setting: none
   relapse: null
   outcome: unknown
-  notes: see patient 1
+  notes: age 4 to 6 years (individual age not stated); see patient 1
 - id: patient 6
   sex: F
-  age_years: 5
+  age_years: null
   site: ovary
   stage: null
   presentation:
@@ -124,10 +124,10 @@ patients:
   chemo_setting: none
   relapse: null
   outcome: unknown
-  notes: see patient 1; one patient had clitoromegaly
+  notes: age 4 to 6 years (individual age not stated); see patient 1; one patient had clitoromegaly
 - id: patient 7
   sex: F
-  age_years: 5
+  age_years: null
   site: ovary
   stage: null
   presentation:
@@ -138,10 +138,10 @@ patients:
   chemo_setting: none
   relapse: null
   outcome: unknown
-  notes: see patient 1; one patient had a huge abdominal swelling
+  notes: age 4 to 6 years (individual age not stated); see patient 1; one patient had a huge abdominal swelling
 - id: patient 8
   sex: F
-  age_years: 5
+  age_years: null
   site: ovary
   stage: null
   presentation:
@@ -151,10 +151,10 @@ patients:
   chemo_setting: none
   relapse: null
   outcome: unknown
-  notes: see patient 1
+  notes: age 4 to 6 years (individual age not stated); see patient 1
 - id: patient 9
   sex: F
-  age_years: 5
+  age_years: null
   site: ovary
   stage: null
   presentation:
@@ -164,4 +164,4 @@ patients:
   chemo_setting: none
   relapse: null
   outcome: unknown
-  notes: see patient 1
+  notes: age 4 to 6 years (individual age not stated); see patient 1

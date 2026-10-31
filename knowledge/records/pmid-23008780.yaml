@@ -72,3 +72,4 @@ patients:
   outcome: NED
   follow_up_months: 240
   notes: 5-month-old boy; disease free 20 years later; the 7-day-old girl in the same paper had histology intermediate between adult and juvenile type and is not entered
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

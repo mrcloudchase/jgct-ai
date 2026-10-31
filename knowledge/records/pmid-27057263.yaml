@@ -57,3 +57,4 @@ patients:
   chemotherapy: null
   outcome: unknown
   notes: unilocular purely cystic tumor; no follow-up; Call-Exner bodies described, juvenile subtype asserted in title
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

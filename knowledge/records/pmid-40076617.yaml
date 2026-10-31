@@ -69,4 +69,5 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: null
-  notes: second ovarian tumor after bilateral Sertoli-Leydig tumors at 18; found on surveillance MRI; 7 pelvic nodes negative
+  notes: second ovarian tumor after bilateral Sertoli-Leydig tumors at 18; found on surveillance MRI; 7 pelvic nodes negative; free of recurrence at the 2025 report; JGCT found 2022, interval not stated in months
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

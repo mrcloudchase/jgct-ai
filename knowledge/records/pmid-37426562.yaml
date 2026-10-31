@@ -63,3 +63,4 @@ patients:
   outcome: NED
   follow_up_months: 12
   notes: hemoperitoneum at 31 weeks of pregnancy; preterm vaginal delivery
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

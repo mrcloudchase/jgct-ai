@@ -53,4 +53,5 @@ patients:
   surgery: cystectomy_then_completion
   chemotherapy: null
   outcome: unknown
-  notes: 'classification uncertain: JGCT with adult-type areas; conference abstract; no outcome'
+  notes: 'classification uncertain: JGCT with adult-type areas; conference abstract; no outcome; 8 mitoses per 10 HPF in the cystectomy specimen, 40 in solid areas of the completion specimen'
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

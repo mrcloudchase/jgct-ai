@@ -66,3 +66,4 @@ patients:
   outcome: NED
   follow_up_months: 12
   notes: 5 L transudate ascites, cytology negative; authors say stage I with intraoperative rupture, substage assigned here
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

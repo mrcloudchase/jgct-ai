@@ -62,3 +62,4 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: tumor found 18 months after treatment for presumed polycystic ovary disease; morphology-only diagnosis
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

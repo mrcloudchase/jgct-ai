@@ -57,6 +57,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: St Jude precocious-puberty cohort; outcome complete response
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: patient 17
   sex: F
   age_years: 6.8
@@ -70,3 +71,4 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: treated as central precocious puberty with a GnRH agonist for 12 months before the tumor was found; outcome complete response
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

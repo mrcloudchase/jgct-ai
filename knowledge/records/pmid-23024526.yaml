@@ -58,3 +58,4 @@ patients:
   outcome: DOD
   follow_up_months: 8
   notes: progressed from stage IA to stage IV within 8 months and died; treatment not described
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

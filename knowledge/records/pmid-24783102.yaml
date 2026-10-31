@@ -51,9 +51,9 @@ patients:
   age_years: 18
   site: ovary
   stage: null
-  rupture: unknown
+  rupture: preoperative
   malignant_ascites: false
-  mitoses_per_10hpf: 25
+  mitoses_per_10hpf: 20
   tumor_size_cm: 12
   presentation:
   - abdominal_pain
@@ -65,4 +65,5 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: 24
-  notes: sclerosing peritonitis mimicking metastases; ruptured posterior wall found at laparotomy; hysterectomy with unilateral salpingo-oophorectomy
+  notes: sclerosing peritonitis mimicking metastases; ruptured posterior wall found at laparotomy; hysterectomy with unilateral salpingo-oophorectomy; ruptured posterior wall was a finding at laparotomy; paper gives 20 to 30 mitoses per 10 HPF, lower bound recorded
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

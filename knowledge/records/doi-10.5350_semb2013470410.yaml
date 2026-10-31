@@ -47,7 +47,7 @@ reviewed_on: null
 patients:
 - id: '1'
   sex: F
-  age_years: 17
+  age_years: null
   site: ovary
   stage: IA
   stage_system: FIGO (pre-2014)
@@ -62,4 +62,5 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: 36
-  notes: found at 38 weeks of pregnancy; later pregnancy; PET false positive
+  notes: found at 38 weeks of pregnancy; later pregnancy; PET false positive; abstract says 20 at diagnosis, the case text implies 17; age left blank
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

@@ -66,3 +66,4 @@ patients:
   outcome: died_other
   follow_up_months: 1
   notes: bilateral oophorectomy; adult-type tumor in the other ovary; died of ARDS after care was withdrawn at 36 months of age
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

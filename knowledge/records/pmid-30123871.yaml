@@ -64,3 +64,4 @@ patients:
   outcome: AWD
   follow_up_months: null
   notes: 'classification uncertain: Call-Exner bodies described; after a cancelled IVF stimulation cycle'
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

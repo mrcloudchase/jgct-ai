@@ -51,7 +51,7 @@ patients:
   sex: F
   age_years: 13
   site: ovary
-  stage: I
+  stage: null
   stage_system: null
   tumor_size_cm: 7.4
   presentation:
@@ -63,4 +63,5 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: 36
-  notes: prolonged fever and delayed puberty with IL-6 348 pg/mL; laparoscopic piecemeal resection
+  notes: prolonged fever and delayed puberty with IL-6 348 pg/mL; laparoscopic piecemeal resection; no metastatic lesions detected; FIGO stage not stated
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

@@ -59,3 +59,4 @@ patients:
   outcome: NED
   follow_up_months: 7
   notes: AFP 113,200 ng/mL; tumor AFP immunopositive
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

@@ -78,6 +78,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: Ankara series, 10 patients (median age 21.5, range 13 to 36), 8 USO, 1 cystectomy, 1 TAH-BSO, assignment per patient not given; no recurrence at median 58 months (3 to 113); this patient later had a term pregnancy
+  source_check: agent re-read the full text on 2026-10-31; the per-patient table is not legible in the text, so values taken from it rest on the record's earlier full-text reading
 - id: stage IA, VAC
   sex: F
   site: ovary
@@ -90,6 +91,7 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: 3
+  source_check: agent re-read the full text on 2026-10-31; the per-patient table is not legible in the text, so values taken from it rest on the record's earlier full-text reading
 - id: stage IA, radiotherapy
   sex: F
   site: ovary
@@ -102,6 +104,7 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: 53
+  source_check: agent re-read the full text on 2026-10-31; the per-patient table is not legible in the text, so values taken from it rest on the record's earlier full-text reading
 - id: stage IA 3
   sex: F
   site: ovary
@@ -114,6 +117,7 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: null
+  source_check: agent re-read the full text on 2026-10-31; the per-patient table is not legible in the text, so values taken from it rest on the record's earlier full-text reading
 - id: stage IA 4
   sex: F
   site: ovary
@@ -126,6 +130,7 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: null
+  source_check: agent re-read the full text on 2026-10-31; the per-patient table is not legible in the text, so values taken from it rest on the record's earlier full-text reading
 - id: stage IA 5
   sex: F
   site: ovary
@@ -138,6 +143,7 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: null
+  source_check: agent re-read the full text on 2026-10-31; the per-patient table is not legible in the text, so values taken from it rest on the record's earlier full-text reading
 - id: stage IA 6
   sex: F
   site: ovary
@@ -150,6 +156,7 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: null
+  source_check: agent re-read the full text on 2026-10-31; the per-patient table is not legible in the text, so values taken from it rest on the record's earlier full-text reading
 - id: stage IA 7
   sex: F
   site: ovary
@@ -162,6 +169,7 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: null
+  source_check: agent re-read the full text on 2026-10-31; the per-patient table is not legible in the text, so values taken from it rest on the record's earlier full-text reading
 - id: stage IA 8
   sex: F
   site: ovary
@@ -174,6 +182,7 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: null
+  source_check: agent re-read the full text on 2026-10-31; the per-patient table is not legible in the text, so values taken from it rest on the record's earlier full-text reading
 - id: stage IA 9
   sex: F
   site: ovary
@@ -186,3 +195,4 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: null
+  source_check: agent re-read the full text on 2026-10-31; the per-patient table is not legible in the text, so values taken from it rest on the record's earlier full-text reading

@@ -61,6 +61,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: diagnosed 2012; disease free at last follow-up
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: JGCT 2
   sex: F
   age_years: 19
@@ -77,5 +78,6 @@ patients:
   relapse: true
   relapse_months: 13
   outcome: DOD
-  follow_up_months: 21
-  notes: pelvic and omental metastasis at 13 months
+  follow_up_months: null
+  notes: pelvic and omental metastasis at 13 months; time of death not stated
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

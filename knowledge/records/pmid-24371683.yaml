@@ -72,3 +72,4 @@ patients:
   outcome: NED
   follow_up_months: 24
   notes: paraneoplastic hypercalcemia (calcium 14.9 mg/dL); omentectomy performed
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

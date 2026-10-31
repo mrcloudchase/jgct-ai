@@ -74,3 +74,4 @@ patients:
   outcome: AWD
   follow_up_months: null
   notes: ACTH-independent Cushing syndrome from adrenal disease; independent contralateral Sertoli-Leydig tumor; recurrence resected with colorectal resection then progressed after 4 cycles; DICER1-mutant
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
