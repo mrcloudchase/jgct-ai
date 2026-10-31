@@ -1,0 +1,45 @@
+source_id: '16915782'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/16915782/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/16915782/
+language: fr
+pmid: '16915782'
+doi: null
+pmcid: null
+title: '[Juvenile granulosa cell tumor of the ovary. A case report].'
+journal: La Tunisie medicale
+year: 2006
+first_author: Kdous M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 6 years
+alterations: []
+treatments:
+- regimen: conservative surgery
+  setting: primary, confined to ovary
+  n: 1
+  outcome: well at 14 years
+presentation:
+- precocious pseudopuberty
+- pelvic mass
+- hyperestrogenism
+- elevated alpha-fetoprotein
+key_findings:
+- 6-year-old with early pseudopuberty, pelvic mass, hyperestrogenism and elevated serum alpha-fetoprotein.
+- Tumor confined to ovary; conservative surgery applied.
+- Patient well 14 years after surgery with normal growth and development.
+- Abstract states about 90% of JGCT are diagnosed in FIGO stage I.
+relevance_to_jgct: Long (14-year) follow-up after conservative surgery; elevated AFP noted.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: French article; English abstract used. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

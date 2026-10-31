@@ -1,0 +1,42 @@
+source_id: '37749997'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37749997/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/37749997/
+language: en
+pmid: '37749997'
+doi: 10.1177/00031348231192064
+pmcid: null
+title: Acute Large Ovarian Cyst After Surgical Resection of Juvenile Granulosa Cell Tumor Stage 1C.
+journal: The American surgeon
+year: 2023
+first_author: Spencer BL
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years
+alterations: []
+treatments:
+- regimen: left salpingo-oophorectomy + omentectomy
+  setting: primary, stage IC
+  n: 1
+  outcome: contralateral cyst resolved on serial ultrasound; adjuvant therapy and long-term outcome not stated
+presentation:
+- abdominal pain
+- large pelvic mass
+key_findings:
+- 15-year-old menstruating female with abdominal pain and a 22.3 cm pelvic mass; CA-125 and LDH elevated.
+- Exploratory laparotomy with left salpingo-oophorectomy and omentectomy; JGCT with focal disruption, consistent with Stage IC.
+- Six weeks postoperatively a 7.9 cm right ovarian cystic structure appeared; managed by multidisciplinary team with serial ultrasounds, which showed resolution.
+relevance_to_jgct: Illustrates that a new contralateral ovarian cyst after JGCT resection may be benign and resolve, relevant to surveillance and fertility preservation.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; no PMC. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

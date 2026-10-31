@@ -1,0 +1,36 @@
+source_id: '3835552'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/3835552/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/3835552/
+language: en
+pmid: '3835552'
+doi: 10.3109/15513818509026901
+pmcid: null
+title: 'Juvenile granulosa cell tumor of the infant testis: case report with ultrastructural observations.'
+journal: Pediatric pathology
+year: 1985
+first_author: Pinto MM
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: infant
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Infant testicular JGCT with macrofollicular pattern simulating Graafian follicle and ovarian JGCT.
+- 'Ultrastructure: granulosa, theca interna and externa cells; no Reinke or Charcot-Bottcher crystalloids.'
+- Similarities with primitive Sertoli cells, preovulatory granulosa cells and ovarian JGCT suggest common histogenesis from specialized gonadal stroma.
+relevance_to_jgct: Histogenesis of testicular JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

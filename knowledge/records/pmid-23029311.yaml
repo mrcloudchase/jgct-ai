@@ -3,6 +3,7 @@ source_type: pmid
 source_tier: registry
 source_url: https://pubmed.ncbi.nlm.nih.gov/23029311/
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: PMC3454334
 language: en
 pmid: '23029311'

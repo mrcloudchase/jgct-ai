@@ -1,0 +1,35 @@
+source_id: '6854755'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/6854755/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/6854755/
+language: en
+pmid: '6854755'
+doi: 10.1016/s0022-5347(17)52540-9
+pmcid: null
+title: Juvenile granulosa cell (sex cord-stromal) tumor of fetal testis.
+journal: The Journal of urology
+year: 1983
+first_author: Crump WD
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: fetus
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Juvenile variant of testicular granulosa cell (sex cord-stromal) tumor in a fetus.
+- Authors state the variant had been reported in the ovary but not the testis, and sex cord-stromal tumors had not been reported in fetal testes.
+relevance_to_jgct: Early report of fetal testicular JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

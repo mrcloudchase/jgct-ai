@@ -8,8 +8,9 @@
           treatments=[dict(regimen=..., setting=..., n=..., outcome=...)], presentation=[...], notes=...)
 
 Defaults: source_url (PubMed URL for pmid, https://doi.org/<doi> for doi), source_tier peer_reviewed,
-retrieved_on today, language en, review_status draft. A record exists only for a source read in full;
-full_text_source is required. Raises on schema errors and writes nothing.
+retrieved_on today, language en, review_status draft, evidence_basis full_text. A record is written from
+the full text (full_text_source required) or, when no open route to the full text exists, from the abstract:
+pass evidence_basis="abstract", abstract_source=<URL>, full_text_source=None. Raises on schema errors and writes nothing.
 File name: knowledge/records/<source_type>-<source_id with / replaced by _>.yaml.
 For url sources pass source_url; source_id defaults to sha1(source_url)[:12].
 """
@@ -33,7 +34,8 @@ def write(**f):
     elif st == "doi":
         f.setdefault("doi", sid)
         f.setdefault("source_url", f"https://doi.org/{sid}")
-    d = dict(source_tier="peer_reviewed", retrieved_on=datetime.date.today().isoformat(), language="en",
+    d = dict(source_tier="peer_reviewed", retrieved_on=datetime.date.today().isoformat(), language="en", evidence_basis="full_text",
+             abstract_source=None,
              pmid=None, doi=None, pmcid=None, journal=None, first_author=None, tumor_site=None, n_jgct_patients=None,
              age_range=None, alterations=[], treatments=[], presentation=[], conflicts_with=[], overlaps_with=[],
              superseded_by=None, retracted=False, notes=None, review_status="draft", reviewed_by=None, reviewed_on=None)

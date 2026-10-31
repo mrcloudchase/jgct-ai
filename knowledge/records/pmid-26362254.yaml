@@ -1,0 +1,41 @@
+source_id: '26362254'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26362254/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/26362254/
+language: en
+pmid: '26362254'
+doi: 10.1093/hmg/ddv373
+pmcid: null
+title: Molecular analyses of juvenile granulosa cell tumors bearing AKT1 mutations provide insights into tumor biology and therapeutic leads.
+journal: Human molecular genetics
+year: 2015
+first_author: Auguste A
+study_type: genomic
+tumor_site: null
+n_jgct_patients: 4
+age_range: null
+alterations:
+- gene: AKT1
+  alteration: in-frame duplication
+  frequency: '>60% of JGCTs studied (from prior work)'
+  notes: RNA-seq of 4 JGCTs; 1 of 8 FOXL2-wild-type adult GCTs also had a duplication.
+treatments: []
+presentation: []
+key_findings:
+- Transcriptomes of four JGCTs sequenced and compared with controls; only private variants were found, suggesting AKT1 tandem duplications are the best candidate drivers in the absence of GNAS alterations.
+- Screening of eight adult GCTs without FOXL2 mutation found one AKT1 duplication (a case also having a stromal luteoma).
+- Differentially expressed genes involved cytokine and hormone signaling and cell division; data suggest a possible dedifferentiation process mediated by a limited set of transcription factors perturbed by AKT1 activation.
+- Commercially available AKT inhibitors modulated in vitro activity of various mutated AKT1 forms.
+relevance_to_jgct: Functional and transcriptomic follow-up of AKT1-duplicated JGCT with in vitro evidence that AKT inhibitors act on the mutant proteins.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: n_jgct_patients counts the four transcriptome-sequenced tumors. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

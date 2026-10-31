@@ -3,6 +3,7 @@ source_type: url
 source_tier: database
 source_url: https://api.orphacode.org/EN/ClinicalEntity/orphacode/99915/Definition
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: https://api.orphacode.org/EN/ClinicalEntity/orphacode/99915/Definition
 language: en
 pmid: null

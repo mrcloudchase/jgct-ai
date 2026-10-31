@@ -3,6 +3,7 @@ source_type: url
 source_tier: database
 source_url: https://clinicaltrials.gov/study/NCT05773651
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: https://clinicaltrials.gov/api/v2/studies/NCT05773651
 language: en
 pmid: null

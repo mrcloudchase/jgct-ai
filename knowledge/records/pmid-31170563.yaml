@@ -1,0 +1,36 @@
+source_id: '31170563'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/31170563/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/31170563/
+language: en
+pmid: '31170563'
+doi: 10.1016/j.ejca.2019.04.018
+pmcid: null
+title: 'Fertility preservation, contraception and menopause hormone therapy in women treated for rare ovarian tumours: guidelines from the French national network dedicated to rare gynaecological cancers.'
+journal: 'European journal of cancer (Oxford, England : 1990)'
+year: 2019
+first_author: Rousset-Jablonski C
+study_type: guideline
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- French national rare gynaecological cancer network guidelines on fertility preservation, contraception and menopause hormone therapy after rare ovarian tumours including sex-cord tumours.
+- Panel of 35 experts using DELPHI formal consensus; thirty-five recommendations.
+- Caution recommended for potentially hormone-sensitive tumours such as sex-cord tumours.
+relevance_to_jgct: Guideline relevant to fertility preservation and hormone use after sex cord tumours (including granulosa cell tumours); JGCT not named in abstract.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. A French-language version was published as pmid-29397916 (39 experts per that abstract); ledgered as a duplicate. Specific stage-dependent statements are summarized secondarily in pmid-36980387. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

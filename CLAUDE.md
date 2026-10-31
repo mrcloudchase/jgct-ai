@@ -17,9 +17,12 @@ reviewing your pull requests. Main is protected.
 
 ## What must always be true
 
-- Every record comes from a source you read in full this run. Nothing from an
-  abstract, a summary, a citation, or memory. If full text cannot be obtained,
-  the source waits in your source index, not in the knowledge base.
+- Every record says what it rests on. The rule is the full text, read in full
+  this run. When no open route to the full text exists, a record may rest on
+  the abstract alone, marked `evidence_basis: abstract` and shown as such
+  wherever it is cited; it is replaced the moment the full text can be read.
+  Nothing from a citation or memory, and never a number from one record
+  combined with another.
 - A schema in `knowledge/schema/` that every record validates against. Evolve
   it as the knowledge demands; when you change it, migrate every record.
 - An index of the knowledge base.

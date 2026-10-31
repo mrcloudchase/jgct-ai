@@ -10,7 +10,8 @@ Backed by SQLite at state/ledger.sqlite. Never open the DB by hand; use this CLI
   python3 tools/ledger.py stats
   python3 tools/ledger.py search "AKT1"
 
-Statuses: found (not yet looked at), processed (record written from full text),
+Statuses: found (not yet looked at), processed (record written from full text), abstract_only (record
+written from the abstract because no open full-text route exists; full text still wanted),
 needs_full_text (relevant, but full text could not be obtained; note says which routes were tried),
 unreachable (not even an abstract/metadata could be obtained to judge it), skipped (not relevant; note says why).
 Priority: higher = process sooner (series/genomic/guideline ~80+, review ~60, case report ~30).
@@ -18,7 +19,7 @@ Priority: higher = process sooner (series/genomic/guideline ~80+, review ~60, ca
 import argparse, os, sqlite3, sys, datetime
 
 DB = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "state", "ledger.sqlite")
-STATUSES = ("found", "processed", "needs_full_text", "unreachable", "skipped")
+STATUSES = ("found", "processed", "abstract_only", "needs_full_text", "unreachable", "skipped")
 
 
 def conn():

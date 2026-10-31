@@ -1,0 +1,40 @@
+source_id: '8423014'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/8423014/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/8423014/
+language: en
+pmid: '8423014'
+doi: 10.1006/gyno.1993.1019
+pmcid: null
+title: Management of advanced juvenile granulosa cell tumor of the ovary.
+journal: Gynecologic oncology
+year: 1993
+first_author: Powell JL
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments:
+- regimen: MAC chemotherapy (components not expanded in abstract)
+  setting: advanced, FIGO stage III
+  n: 1
+  outcome: long-term disease-free survival; subsequent successful pregnancy
+presentation: []
+key_findings:
+- Long-term disease-free survival of a patient with FIGO Stage III ovarian JGCT.
+- Authors believe this is the first report of a successful pregnancy following "MAC" chemotherapy for this malignancy.
+- 'Background: majority of tumors are FIGO Stage I with favorable prognosis; higher stage prognosis generally less favorable; ten percent present during pregnancy.'
+relevance_to_jgct: Stage III JGCT with long-term survival after MAC chemotherapy and subsequent pregnancy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract does not give age, duration of follow-up, or surgical details. A 1997 paper with the identical title (pmid 9038278) is a separate report. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

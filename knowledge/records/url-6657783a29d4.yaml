@@ -3,6 +3,7 @@ source_type: url
 source_tier: database
 source_url: https://www.cbioportal.org/study/summary?id=msk_impact_50k_2026
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: https://www.cbioportal.org/api
 language: en
 pmid: null

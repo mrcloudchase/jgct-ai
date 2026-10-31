@@ -1,0 +1,37 @@
+source_id: '23733594'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/23733594/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/23733594/
+language: en
+pmid: '23733594'
+doi: 10.1002/pbc.24607
+pmcid: null
+title: 'Testicular sex cord stromal tumors: analysis of patients from the MAKEI study.'
+journal: Pediatric blood & cancer
+year: 2013
+first_author: Hofmann M
+study_type: registry
+tumor_site: testis
+n_jgct_patients: 16
+age_range: median 6 days (0-162 days) for JGCT
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 42 testicular SCST patients reported 1993-2009 to the German MAHO and MAKEI studies.
+- Juvenile granulosa cell tumors (n = 16) and Sertoli cell tumors (n = 15) were the leading subtypes; JGCTs were diagnosed in the first weeks of life (median 6 (0-162) days).
+- All tumors limited to the testis; treatment surgical only; no relapse after median 3.8 years.
+- One patient showed a 45X/46XY mosaic; authors advise considering associated tumor predisposition syndromes.
+relevance_to_jgct: German registry data confirming testicular JGCT is a neonatal tumor cured by orchiectomy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Tier set to registry (2026-10-30) per CLAUDE.md: a disease registry or consortium report is registry even in a peer-reviewed journal. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,47 @@
+source_id: '33583630'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/33583630/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/33583630/
+language: en
+pmid: '33583630'
+doi: 10.1016/j.ejso.2021.02.003
+pmcid: null
+title: 'Stage I juvenile granulosa cell tumors of the ovary: A multicentre analysis from the MITO-9 study.'
+journal: European journal of surgical oncology
+year: 2021
+first_author: Bergamini A
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 17
+age_range: null
+alterations: []
+treatments:
+- regimen: Fertility-sparing surgery
+  setting: stage I
+  n: 15
+  outcome: no recurrences at median 80 months
+- regimen: Adjuvant chemotherapy
+  setting: stage I
+  n: 2
+  outcome: no recurrences
+presentation: []
+key_findings:
+- 17 stage I JGCT patients from the Italian MITO group, retrospective.
+- Laparoscopic approach in 7 (41%), open in 10 (59%).
+- 'Fertility-sparing surgery in 15 (88%): USO 11, cystectomy then USO 2, cystectomy alone 2. Adjuvant chemotherapy in 2.'
+- After median follow-up of 80 months, no recurrences.
+- Authors conclude minimally invasive surgery is safe in stage I JGCT, FSS can be chosen in most cases, and data do not seem to support adjuvant chemotherapy over surveillance in stage I.
+relevance_to_jgct: Multicentre series supporting fertility-sparing and minimally invasive surgery for stage I ovarian JGCT.
+conflicts_with:
+- pmid-34902562
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'No recurrences in stage I contrasts with 8 recurrences among 35 early-stage patients in pmid-34902562. Tier set to registry (2026-10-30) per CLAUDE.md: a disease registry or consortium report is registry even in a peer-reviewed journal. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,39 @@
+source_id: '3373268'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/3373268/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/3373268/
+language: en
+pmid: '3373268'
+doi: 10.1200/JCO.1988.6.6.990
+pmcid: null
+title: 'Juvenile granulosa cell tumor of the ovary in children: a clinical study of 15 cases.'
+journal: Journal of clinical oncology
+year: 1988
+first_author: Vassal G
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 15
+age_range: 22 months-15 years 7 months
+alterations: []
+treatments: []
+presentation:
+- precocious pseudopuberty (6/7 under 8 years)
+- virilization (1)
+key_findings:
+- 15 girls at Institut Gustave-Roussy 1967-1985; JGCT was 12% of ovarian tumors treated in the pediatric department; median age 8 years 7 months.
+- Precocious pseudopuberty in six of seven girls under 8; one older girl had virilization.
+- Wollner stage I 6, II 1, III 6 (including four ruptured), IV 1; six received adjuvant treatment.
+- Eleven alive and disease-free (median follow-up 6 years); four relapsed 6 to 17 months after surgery and died, two with bone relapse.
+relevance_to_jgct: Historical French pediatric series documenting early, fatal relapses in advanced JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

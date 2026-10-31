@@ -1,0 +1,45 @@
+source_id: '6465418'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/6465418/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/6465418/
+language: en
+pmid: '6465418'
+doi: 10.1097/00000478-198408000-00002
+pmcid: null
+title: Juvenile granulosa cell tumor of the ovary. A clinicopathological analysis of 125 cases.
+journal: The American journal of surgical pathology
+year: 1984
+first_author: Young RH
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 125
+age_range: newborn-67 years (average 13)
+alterations: []
+treatments: []
+presentation:
+- isosexual pseudoprecocity (82% of prepubertal)
+- abdominal pain or swelling
+- menstrual irregularities or amenorrhea
+- Ollier's disease (2)
+- Maffucci's syndrome (2)
+key_findings:
+- 125 ovarian JGCTs; age newborn to 67 years (average 13); 44% aged 10 or younger, 34% 11-20, 18% 21-30, 3% over 30.
+- 82% of prepubertal patients presented with isosexual pseudoprecocity; others mostly with abdominal pain or swelling; 15 reproductive-age patients had menstrual irregularities or amenorrhea.
+- Two patients had Ollier's disease and two had Maffucci's syndrome.
+- Unilateral in 122; bilateral in two (plus one at autopsy). Stage IIb in two, IIc in one, the rest stage I. Rupture in 13 (11%); ascites in 11 (9%).
+- Tumors 3 to 32 cm (average 12.5 cm); 49% solid and cystic, 37% solid, 14% cystic. Mitotic rate <1 to 32/10 HPF (average 7).
+- 'Follow-up (1 to 21 years, average 5) for 95 patients: 87 (92%) alive and free of disease; seven died of tumor 7 months to 3 years postoperatively; one Maffucci patient died of chondrosarcoma (corrected survival 93%).'
+relevance_to_jgct: Classic defining clinicopathologic series of ovarian JGCT (Young and Scully), establishing presentation, morphology, association with Ollier/Maffucci, and generally favorable prognosis.
+conflicts_with:
+- pmid-39863551
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: PubMed abstract truncated at 400 words; remaining content not read. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

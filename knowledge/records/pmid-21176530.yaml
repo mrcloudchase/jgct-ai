@@ -1,0 +1,47 @@
+source_id: '21176530'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21176530/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/21176530/
+language: zh
+pmid: '21176530'
+doi: null
+pmcid: null
+title: '[Clinicopathologic study of juvenile granulosa cell tumor of ovary].'
+journal: Zhonghua bing li xue za zhi = Chinese journal of pathology
+year: 2010
+first_author: Zhang YN
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 7
+age_range: 6-53 years
+alterations: []
+treatments:
+- regimen: unilateral salpingo-oophorectomy
+  setting: stage IA/IC
+  n: 6
+  outcome: 5 of 6 with follow-up disease-free; 1 died of metastasis
+presentation:
+- hormonal disturbance
+- abdominal pain or swelling
+key_findings:
+- 7 cases; mean age 24 years (range=6 to 53 years). Four presented with hormonal disturbance, 3 with abdominal pain or swelling.
+- Six cases stage IA, one stage IC; six underwent unilateral salpingo-oophorectomy.
+- 'Follow-up 1 to 10 years (mean=4.3 years) in 6: five healthy without recurrence; one died of tumor metastasis one year after diagnosis.'
+- Tumors 7 to 20 cm (average=13.4 cm); 4 of 7 mixed solid-cystic, 2 unilocular cystic.
+- No nuclear grooves or Call-Exner bodies (6/7); one case had minor foci resembling adult granulosa cell tumor; mitotic count 1 to more than 5 per 10 HPF.
+- 'IHC: vimentin 6/6 positive; cytokeratin (AE1/AE3) and calretinin negative; CD99 positive in 4; inhibin positive in 1.'
+- Authors conclude nuclear atypia, mitotic activity and tumor size do not correlate with risk of recurrence or aggressive behavior.
+relevance_to_jgct: Chinese pathology series including adult-age JGCT; reports immunoprofile and argues atypia/mitoses are not prognostic.
+conflicts_with:
+- pmid-12411036
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (English abstract of Chinese article). Unusual immunoprofile (calretinin negative, inhibin positive in only 1) relative to most JGCT literature. Conflicts with pmid-12411036, which reports high mitotic index associated with progression and death. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

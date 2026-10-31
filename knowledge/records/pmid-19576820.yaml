@@ -1,0 +1,47 @@
+source_id: '19576820'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19576820/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19576820/
+language: en
+pmid: '19576820'
+doi: 10.1016/j.jpag.2008.08.001
+pmcid: null
+title: 'Juvenile granulosa cell ovarian tumor: a case report and review of literature.'
+journal: Journal of pediatric and adolescent gynecology
+year: 2009
+first_author: Sivasankaran S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 10 months
+alterations: []
+treatments:
+- regimen: oophorectomy and staging
+  setting: primary, stage IA
+  n: 1
+  outcome: not stated in abstract
+presentation:
+- premature thelarche
+- adrenarche
+- elevated estradiol
+- elevated inhibin B
+- elevated testosterone
+key_findings:
+- 10-month-old infant presented with both premature thelarche and adrenarche due to JGCT.
+- Laboratory evaluation showed elevation of estradiol and inhibin B, and less classic elevation of total and free testosterone.
+- Oophorectomy and staging gave a diagnosis of Stage IA JGCT.
+- Review states survival rates are >95% among patients diagnosed under 10 years of age; recurrence is rare but can occur as late as 48 months.
+- Authors advise surveillance even for Stage IA with serial inhibin B and intermittent imaging.
+relevance_to_jgct: Infant JGCT with mixed estrogenic/androgenic presentation; inhibin B as surveillance marker.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,37 @@
+source_id: '21488154'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/21488154/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/21488154/
+language: en
+pmid: '21488154'
+doi: 10.1002/pbc.22918
+pmcid: null
+title: 'Sex cord stromal tumors of the ovary in children: a clinicopathological report from the Italian TREP project.'
+journal: Pediatric blood & cancer
+year: 2011
+first_author: Cecchetto G
+study_type: registry
+tumor_site: ovary
+n_jgct_patients: 12
+age_range: 5-176 months (all SCST)
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 23 children (5-176 months) with ovarian SCST from 13 Italian centers, 2000-2009, staged with the COG system.
+- 12 had juvenile granulosa cell tumor, 6 Sertoli-Leydig, 3 fibrothecoma, 2 sclerosing stromal tumor.
+- 9/23 had signs of hormonal secretion; two hospitalized for ovarian torsion.
+- 21 maintained complete remission (follow-up 9-91 months); the 2 relapses were stage II Sertoli-Leydig cell tumors.
+relevance_to_jgct: Italian pediatric registry series in which all 12 JGCT patients remained in remission.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Tier set to registry (2026-10-30) per CLAUDE.md: a disease registry or consortium report is registry even in a peer-reviewed journal. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

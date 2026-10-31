@@ -1,0 +1,41 @@
+source_id: '41338896'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41338896/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/41338896/
+language: en
+pmid: '41338896'
+doi: 10.1136/bcr-2025-267843
+pmcid: null
+title: Salvage cytoreductive surgery and HIPEC in chemoresistant juvenile granulosa cell tumour.
+journal: BMJ case reports
+year: 2025
+first_author: Karthik G
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: early adolescence
+alterations: []
+treatments:
+- regimen: cytoreductive surgery + HIPEC with cisplatin
+  setting: salvage, chemoresistant peritoneal recurrence
+  n: 1
+  outcome: favourable postoperative course; long-term outcome not stated in abstract
+presentation:
+- peritoneal recurrence
+key_findings:
+- Female in early adolescence with chemoresistant JGCT and extensive peritoneal recurrence after initial surgery and systemic therapy.
+- Underwent cytoreductive surgery followed by hyperthermic intraperitoneal chemotherapy (HIPEC) with cisplatin, with a favourable postoperative course.
+- Authors present CRS plus HIPEC as a promising approach for selected chemoresistant peritoneal JGCT and call for further studies.
+relevance_to_jgct: One of few reports of CRS-HIPEC for relapsed, chemoresistant peritoneal JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; no PMC. Initial stage, prior regimens, and follow-up length not given in abstract. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

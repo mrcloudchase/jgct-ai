@@ -1,0 +1,36 @@
+source_id: '34694430'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34694430/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/34694430/
+language: en
+pmid: '34694430'
+doi: 10.1007/s00404-021-06283-5
+pmcid: null
+title: 'Juvenile granulosa cell tumor in pregnancy: case series and literature review.'
+journal: Archives of gynecology and obstetrics
+year: 2022
+first_author: Ndhlovu E
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Pregnancy-associated JGCT cases: two presented with abdominal pain, two were incidental (one by ultrasonography, one at caesarean section).'
+- One emergency caesarean section at 38 weeks for tumor rupture; others treated at full term; no newborn abnormalities.
+- Three had further staging surgery, two received adjuvant chemotherapy; no recurrence at 13 to 57 months.
+relevance_to_jgct: Only series on JGCT during pregnancy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract does not state the exact case count. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

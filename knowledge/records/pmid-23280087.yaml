@@ -1,0 +1,36 @@
+source_id: '23280087'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23280087/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/23280087/
+language: en
+pmid: '23280087'
+doi: 10.1016/j.ygyno.2012.12.034
+pmcid: null
+title: Comparative study of microRNA regulation on FOXL2 between adult-type and juvenile-type granulosa cell tumours in vitro.
+journal: Gynecologic oncology
+year: 2013
+first_author: Rosario R
+study_type: other
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- States FOXL2 is near absent in juvenile-type GCTs and investigates miRNAs as a suppression mechanism using cell lines COV434 (juvenile-type) and KGN (adult-type).
+- COV434 expressed miR-17 family miRNAs, KGN let-7 family; miRNA binding to FOXL2 3'UTR confirmed by luciferase assays.
+- Knockdown of miR-17 family increased FOXL2 mRNA but not protein; authors propose another miRNA represses FOXL2 translation.
+relevance_to_jgct: In vitro study of FOXL2 suppression in a JGCT-derived cell line.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: COV434 is described as juvenile-type; its origin has been questioned elsewhere (not verified this run). Statement that FOXL2 is near absent in JGCT is consistent with pmid-17430735 and differs from IHC positivity reported in pmid-39773640 and testicular JGCT in pmid-26076062. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

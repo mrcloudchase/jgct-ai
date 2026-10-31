@@ -1,0 +1,36 @@
+source_id: '8884354'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/8884354/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/8884354/
+language: en
+pmid: '8884354'
+doi: 10.1111/j.1365-2559.1996.tb01399.x
+pmcid: null
+title: Gynandroblastoma of ovary with juvenile granulosa cell component and heterologous intestinal type glands.
+journal: Histopathology
+year: 1996
+first_author: McCluggage WG
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: null
+age_range: 15 years
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Ovarian gynandroblastoma in a 15-year-old girl; predominant component was JGCT, with areas of adult GCT, Sertoli cell elements and heterologous intestinal-type glands.
+- Juvenile and adult granulosa areas stained for inhibin and MIC2.
+- Electron microscopy suggested granulosa and Sertoli components derive from a single cell of origin.
+relevance_to_jgct: 'Differential diagnosis: gynandroblastoma with predominant JGCT component.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Gynandroblastoma, not pure JGCT; n_jgct_patients left null. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

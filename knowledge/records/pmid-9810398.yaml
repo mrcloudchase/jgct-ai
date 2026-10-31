@@ -1,0 +1,38 @@
+source_id: '9810398'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9810398/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9810398/
+language: en
+pmid: '9810398'
+doi: null
+pmcid: null
+title: Bilateral juvenile granulosa--cell tumour with multiple metastases. A case report.
+journal: The Central African journal of medicine
+year: 1998
+first_author: Lancaster EJ
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 14 years
+alterations: []
+treatments: []
+presentation:
+- painful bilateral breast enlargement
+- respiratory distress
+key_findings:
+- Premenarchal 14-year-old girl with a four-month history of painful enlargement of both breasts.
+- Died 10 days after admission due to respiratory distress.
+- 'Post mortem diagnosis: bilateral JGCT with widespread metastases.'
+relevance_to_jgct: Fatal bilateral metastatic JGCT diagnosed at autopsy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

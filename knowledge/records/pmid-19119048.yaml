@@ -1,0 +1,47 @@
+source_id: '19119048'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19119048/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19119048/
+language: fr
+pmid: '19119048'
+doi: 10.1016/j.gyobfe.2008.06.026
+pmcid: null
+title: '[Juvenile granulosa-cell tumor: clinical and molecular expression].'
+journal: Gynecologie, obstetrique & fertilite
+year: 2009
+first_author: Kalfa N
+study_type: review
+tumor_site: ovary
+n_jgct_patients: 40
+age_range: null
+alterations:
+- gene: GNAS
+  alteration: activating mutation (constitutionally activated Galphas)
+  frequency: null
+  notes: proposed role; frequency not given in abstract
+- gene: FOXL2
+  alteration: low expression or extinction
+  frequency: null
+  notes: associated with worse prognosis per authors
+treatments: []
+presentation:
+- clinical signs of hyperoestrogeny
+key_findings:
+- Review of clinical and genetic aspects of granulosa tumors based on a series of 40 children from a French national collaborative study (French Society of Children Cancer and eight pediatric endocrinology departments).
+- Early diagnosis of a tumor, revealed by clinical signs of hyperoestrogeny, is reported as an important prognostic factor.
+- A constitutionally activated Galphas (FSH signaling-transduction pathway) is proposed as implicated in granulosa cell proliferation and seems to modulate tumor invasiveness.
+- Low expression or extinction of FOXL2 is described as related to a worse prognosis.
+- Authors state reliable prognostic factors have not yet been defined and the role of MAP kinase signaling is still discussed.
+relevance_to_jgct: French-language review summarizing the Kalfa/French pediatric JGCT series (n=40) on prognostic factors, GNAS (Galphas) and FOXL2.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only (English abstract of French article). Summarizes data likely published in pmid-16507630 (GNAS) and pmid-17430735 (FOXL2); the 40 children likely overlap those cohorts. The FOXL2-prognosis claim is disputed elsewhere (see pmid-17430735 conflicts). Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

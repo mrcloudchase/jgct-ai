@@ -1,0 +1,37 @@
+source_id: '33760357'
+source_type: pmid
+source_tier: guideline
+source_url: https://pubmed.ncbi.nlm.nih.gov/33760357/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/33760357/
+language: en
+pmid: '33760357'
+doi: 10.1002/pbc.29017
+pmcid: null
+title: Consensus recommendations from the EXPeRT/PARTNER groups for the diagnosis and therapy of sex cord stromal tumors in children and adolescents.
+journal: Pediatric blood & cancer
+year: 2021
+first_author: Schneider DT
+study_type: guideline
+tumor_site: both
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- EXPeRT consensus recommendations (EU-funded PARTNER project) for diagnosis and treatment of pediatric testicular and ovarian sex cord stromal tumors.
+- Approach depends on histological differentiation and tumor stage. Virtually all testicular SCSTs are localized with excellent prognosis after complete resection.
+- Ovarian SCST prognosis may be adversely affected by tumor spillage during surgery or metastases; in these cases cisplatin-based chemotherapy is recommended.
+- Recommends reference pathology, genetic testing for tumor predisposition syndromes (e.g., DICER1) in selected cases, stratified adjuvant chemotherapy for unfavorable risk profiles, and enrollment in prospective registries.
+relevance_to_jgct: International (European) consensus guideline covering pediatric JGCT; cited by IOTSTR as recommending chemotherapy above stage IC1.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Abstract only; no open-access full text (Europe PMC isOpenAccess=N). pmid-40267023 (full text) summarizes it as suggesting chemotherapy for juvGCT above stage IC1. Superseded in part by the 2026 European standard clinical practice recommendations (pmid-42504512); relationship not verified, so superseded_by left empty. Full-text routes tried 2026-10-30: tools/fetch.py fulltext (no PMC/EPMC OA), Europe PMC fullTextUrlList (subscription only; lists an Authorea preprint 10.22541/au.161343819.92832538/v1, Europe PMC PPR284204), Unpaywall (closed), direct fetch of the Authorea preprint HTML and PDF (HTTP 403 to scripted access). No legal full text obtained. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

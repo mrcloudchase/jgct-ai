@@ -1,0 +1,45 @@
+source_id: '26033501'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26033501/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/26033501/
+language: en
+pmid: '26033501'
+doi: 10.1111/his.12747
+pmcid: null
+title: 'DICER1 and FOXL2 mutations in ovarian sex cord-stromal tumours: a GINECO Group study.'
+journal: Histopathology
+year: 2016
+first_author: Goulvent T
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 8
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: mutation (hotspot)
+  frequency: 1/8
+  notes: null
+- gene: DICER1
+  alteration: RNase IIIb mutation
+  frequency: 2/8
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- DICER1 and FOXL2 mutation analysis in 156 ovarian sex cord-stromal tumours (French GINECO group).
+- FOXL2 mutations in 94% of adult GCTs (95/101), in one of eight juvenile granulosa cell tumours, and in two of 19 SLCTs.
+- DICER1 RNase IIIb mutations in six of 19 SLCTs, two of eight J-GCTs, and one of 12 undifferentiated SCSTs.
+relevance_to_jgct: Reports FOXL2 and DICER1 mutations each in a minority of JGCTs in a mixed SCST cohort.
+conflicts_with:
+- pmid-32910017
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: FOXL2 mutation in 1/8 JGCT contrasts with pmid-32910017, where both FOXL2-mutant 'JGCTs' were reclassified as adult GCT on review (0/47). Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

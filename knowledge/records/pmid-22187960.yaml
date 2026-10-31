@@ -3,6 +3,7 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/22187960/
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: https://iris.unito.it/bitstream/2318/115457/1/2012_Heravi-Moussavi%20et%20al_N%20Engl%20J%20Med.pdf
 language: en
 pmid: '22187960'

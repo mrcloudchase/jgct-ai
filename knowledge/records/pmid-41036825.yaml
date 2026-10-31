@@ -1,0 +1,54 @@
+source_id: '41036825'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41036825/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/41036825/
+language: en
+pmid: '41036825'
+doi: 10.1097/PAS.0000000000002469
+pmcid: null
+title: 'Anaplastic Juvenile Granulosa Cell Tumor: A Report of 10 Cases of an Unemphasized Variant With Adverse Prognostic Features Characterized by TP53 Inactivation With MYC Family Amplifications.'
+journal: The American journal of surgical pathology
+year: 2026
+first_author: Boyraz B
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 10
+age_range: 7-44 years (median 13)
+alterations:
+- gene: TP53
+  alteration: mutation
+  frequency: 7/7 sequenced
+  notes: 3 others aberrant p53 IHC
+- gene: MYC/MYCN
+  alteration: amplification
+  frequency: 4/10
+  notes: All 4 deaths were stage II/III with MYC/MYCN amplification
+- gene: AKT1
+  alteration: in-frame duplication
+  frequency: 4/10
+  notes: null
+- gene: DICER1
+  alteration: mutation
+  frequency: 2/10
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- 10 anaplastic JGCTs, patients 7 to 44 (median 13) years; tumors 8.3 to 28 (median 21) cm; FIGO IA (3), IC3 (2), II (1), IIIA (3), unknown (1).
+- All had conventional JGCT areas plus areas (median 50%) of diffuse growth, marked cytologic atypia and brisk mitoses (up to 40/10 HPFs).
+- All 7 sequenced tumors had TP53 mutations; the other 3 had aberrant p53 immunohistochemistry. MYC/MYCN amplification in 4; AKT1 in-frame duplications in 4; DICER1 mutations in 2.
+- 'Of 9 with follow-up (median 22 months): 4 died of disease (all stage II/III with MYC/MYCN amplifications), 1 alive with disease (stage IA), 4 alive and well (stages IA/IC).'
+- Authors argue anaplastic JGCT should be distinguished from conventional JGCT for prognostic reasons and note possible relevance of MYC inhibitors.
+relevance_to_jgct: Defines an anaplastic JGCT variant with TP53 inactivation and MYC-family amplification associated with adverse outcome.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

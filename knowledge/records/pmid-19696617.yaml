@@ -1,0 +1,43 @@
+source_id: '19696617'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19696617/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19696617/
+language: en
+pmid: '19696617'
+doi: 10.1097/PGP.0b013e3181a05af4
+pmcid: null
+title: First case of juvenile granulosa cell tumor in an adult with Ollier disease.
+journal: 'International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists'
+year: 2009
+first_author: Rietveld L
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 36 years
+alterations: []
+treatments:
+- regimen: surgical removal
+  setting: primary, stage IIC
+  n: 1
+  outcome: not stated in abstract
+presentation:
+- Ollier disease
+- incidental finding on MRI
+key_findings:
+- 36-year-old woman with Ollier disease developed an ovarian tumor found at a routine MRI scan.
+- Stage IIc granulosa cell tumor removed at surgery; pathology showed juvenile type.
+- Literature review showed 8 previous cases of (juvenile) granulosa cell tumor associated with Ollier disease.
+- Authors suggest coexistence is more frequent than expected by chance and that patients with Ollier disease should undergo regular gynecological investigation.
+relevance_to_jgct: Ollier disease-associated JGCT in an adult; supports the enchondromatosis association.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Review counts 8 prior Ollier cases; Tanaka 1992 (pmid-1553918) counted 10 prior enchondromatosis cases (including 2 Maffucci). Counts differ by inclusion criteria; not treated as a conflict. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

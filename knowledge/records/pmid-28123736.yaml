@@ -3,6 +3,7 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/28123736/
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: https://www.spandidos-publications.com/10.3892/mco.2016.1084/download
 language: en
 pmid: '28123736'
