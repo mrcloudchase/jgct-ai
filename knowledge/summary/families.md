@@ -16,6 +16,7 @@ This is a synthesis of recorded sources, not medical advice, and every record is
 - Signs of early puberty fade after surgery. Occasionally real puberty then starts early, so an endocrinologist keeps watching [pmid-41367860, pmid-35371651].
 - In baby boys the testicular form is benign: surgery alone, and no spread has ever been reported [pmid-32719989, pmid-40272823].
 - Almost no families have an inherited cause. A few conditions (Ollier disease, Maffucci syndrome, McCune-Albright syndrome, DICER1 changes) are linked, and doctors may suggest genetic tests [pmid-42504512, url-1b49311e69d4, pmid-37324278].
+- Doctors have studied this tumor for more than forty years. The largest early study followed 95 girls and women and found 92 in 100 alive and well [pmid-6465418]. Many of the older studies are behind paywalls, so this site knows them only from their short summaries; those sources carry a dagger (†).
 
 ### What is a juvenile granulosa cell tumor?
 

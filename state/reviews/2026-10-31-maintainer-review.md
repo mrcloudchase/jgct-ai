@@ -107,3 +107,12 @@ publisher captchas were not circumvented.
 - `site/build.py`: relative `.md` links in topics and summaries now render as page links; citations render as small superscripts; the home page lists the topics.
 - `sources/INDEX.md`: the source families in the table above were added to the hand-maintained catalogue; 29 leads not already in the ledger were loaded as `found`.
 - `knowledge/records/pmid-34286167.yaml`: stage wording made consistent with the paper's own classification.
+
+## Abstract tier (same day, maintainer decision)
+
+The maintainer asked that paywalled sources at least contribute their abstracts. Done as follows:
+
+- Schema: `evidence_basis` (full_text | abstract); abstract records have `abstract_source` and no `full_text_source`. Ledger status `abstract_only`.
+- 169 records withdrawn on 2026-10-30 restored from git history as abstract records; 200 new abstract records written from PubMed, Semantic Scholar and Crossref abstracts (`tools/mkabstract.py`), covering every `needs_full_text` item whose abstract speaks about JGCT; three complete meeting abstracts recorded as full text. 98 JGCT-titled items have no abstract anywhere and stay `needs_full_text`; 29 items skipped as passing mentions.
+- Site: every citation of an abstract record carries a dagger; source pages, the sources list, home, about, footer and the "Not yet read in full" page show the split.
+- Topics and summaries cite the abstract-only landmarks (Young 1984, Zaloudek 1982, Plantaz 1992, Calaminus 1997, MAKEI 2003, Kiel 2003, Kalfa 2006/2007, TGM-95, MITO-9, TGM13, Vougiouklakis 2022, Boyraz 2022/2026, Collins 2023, Baillard 2021, ESGO-SIOPE 2020, EXPeRT 2021) and say in words when a claim rests on an abstract.
