@@ -1,0 +1,34 @@
+source_id: '26034868'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26034868/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/26034868/
+language: en
+pmid: '26034868'
+doi: 10.1097/PAS.0000000000000455
+pmcid: null
+title: 'Nuclear Localization of β-Catenin in Sertoli Cell Tumors and Other Sex Cord-Stromal Tumors of the Testis: An Immunohistochemical Study of 87 Cases'
+journal: The American journal of surgical pathology
+year: 2015
+first_author: Zhang C
+study_type: case_series
+tumor_site: testis
+n_jgct_patients: 7
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Nuclear beta-catenin staining in 87 testicular sex cord-stromal tumors: positive in 64% of Sertoli cell tumors NOS, 60% of sclerosing Sertoli cell tumors and 67% of Sertoli-stromal tumors, and negative in all 7 juvenile granulosa cell tumors, 4 adult granulosa, 10 Leydig cell, 5 large cell calcifying Sertoli and 12 unclassified tumors.'
+relevance_to_jgct: Testicular JGCT lack nuclear beta-catenin, which marks Sertoli cell tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

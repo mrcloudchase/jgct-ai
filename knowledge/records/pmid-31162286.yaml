@@ -1,0 +1,35 @@
+source_id: '31162286'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/31162286/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/31162286/
+language: en
+pmid: '31162286'
+doi: 10.1097/PAS.0000000000001296
+pmcid: null
+title: 'Adult Granulosa Cell Tumor With High-grade Transformation: Report of a Series With FOXL2 Mutation Analysis'
+journal: The American journal of surgical pathology
+year: 2019
+first_author: Fashedemi Y
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: 37-88 years (adult-type tumors)
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Five adult granulosa cell tumors with high-grade transformation whose high-grade areas closely resembled JGCT (abundant eosinophilic cytoplasm, high mitotic activity, intermediate follicles); FOXL2 C134W in both components in 4 of 4 tested proved transformation of AGCT rather than a coexisting JGCT.
+- TP53 mutations were found in the high-grade component of 2 cases and mutation-type p53 staining in 3 of 4; one patient developed mediastinal, peritoneal and pulmonary metastases 17 months after diagnosis.
+relevance_to_jgct: High-grade AGCT can mimic JGCT; FOXL2 mutation analysis separates them.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

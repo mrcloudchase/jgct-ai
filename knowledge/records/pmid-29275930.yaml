@@ -1,0 +1,34 @@
+source_id: '29275930'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/29275930/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/29275930/
+language: en
+pmid: '29275930'
+doi: 10.1016/j.pathol.2017.10.008
+pmcid: null
+title: 'Ovarian sex cord-stromal tumours: an update in recent molecular advances'
+journal: Pathology
+year: 2018
+first_author: Lim D
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Review of molecular advances in ovarian sex cord-stromal tumours covering adult and juvenile granulosa cell tumours and Sertoli-Leydig cell tumours, with emphasis on the clinical significance of FOXL2 and DICER1 mutations; inhibin, calretinin, SF-1 and FOXL2 confirm sex cord-stromal lineage but do not separate the tumour types.
+relevance_to_jgct: General review including JGCT genetics; details not in the abstract.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

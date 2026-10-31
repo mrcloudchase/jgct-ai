@@ -1,0 +1,35 @@
+source_id: '35778792'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35778792/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/35778792/
+language: en
+pmid: '35778792'
+doi: 10.1097/PAP.0000000000000351
+pmcid: null
+title: 'DICER1-associated Tumors in the Female Genital Tract: Molecular Basis, Clinicopathologic Features, and Differential Diagnosis'
+journal: Advances in anatomic pathology
+year: 2022
+first_author: Han LM
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review of DICER1-associated tumors of the female genital tract: germline DICER1 mutations are associated with Sertoli-Leydig cell tumor, cervical embryonal rhabdomyosarcoma, gynandroblastoma and juvenile granulosa cell tumor, typically in childhood, adolescence or early adulthood.'
+- Genetic counseling is suggested for patients with a personal or family history of these rare DICER1-associated gynecologic tumors.
+relevance_to_jgct: Lists JGCT among germline DICER1-associated gynecologic tumors and advises counseling.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

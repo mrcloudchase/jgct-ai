@@ -1,0 +1,34 @@
+source_id: '20349790'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20349790/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/20349790/
+language: en
+pmid: '20349790'
+doi: null
+pmcid: null
+title: 'Granulosa cell tumors of the ovary: a clinicopathologic and immunohistochemical study of 21 cases'
+journal: European journal of gynaecological oncology
+year: 2010
+first_author: Kondi-Pafiti A
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 6
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Twenty-one granulosa cell tumors (15 adult, 6 juvenile), all FIGO stage I; 4 recurrences (19%) during a median 36 months of follow-up; inhibin positive in 12 of 12, vimentin 11 of 12, Ki-67 under 5% in all 12 tested, p53 in 2 of 12; no marker predicted outcome.
+relevance_to_jgct: Six JGCT among 21 stage I granulosa cell tumors; Ki-67 low in all tested.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

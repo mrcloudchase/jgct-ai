@@ -1,0 +1,35 @@
+source_id: '34469331'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34469331/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/34469331/
+language: en
+pmid: '34469331'
+doi: 10.1097/PAS.0000000000001793
+pmcid: null
+title: 'Yolk Sac Tumor of the Ovary: A Report of 150 Cases and Review of the Literature'
+journal: The American journal of surgical pathology
+year: 2022
+first_author: Young RH
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- In 150 ovarian yolk sac tumors (ages 1 to 61, mean 21.5), many consultation cases caused diagnostic difficulty, with juvenile granulosa cell tumor among the tumors in the differential diagnosis alongside clear cell carcinoma, embryonal carcinoma and Sertoli-Leydig cell tumor; patient age and marked AFP elevation help.
+- Yolk sac tumors were all unilateral, 70% at least 15 cm, with reticular and cystic patterns dominant; endocrine manifestations occurred in only 2 cases.
+relevance_to_jgct: Defines the yolk sac tumor features that separate it from JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,36 @@
+source_id: '35300760'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35300760/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/35300760/
+language: zh
+pmid: '35300760'
+doi: 10.3881/j.issn.1000-503X.14131
+pmcid: null
+title: '[Clinical Characterization of Patients with Ovarian Mass Combined with Dysplasia of Secondary Sexual Characteristics]'
+journal: Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae
+year: 2022
+first_author: Liu Q
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: 0-19 years (cohort)
+alterations: []
+treatments: []
+presentation:
+- precocious puberty
+key_findings:
+- Of 18 girls aged 0 to 19 with an ovarian mass and abnormal secondary sexual development at Peking Union Medical College Hospital (2012 to 2019), 7 developed sexual signs before puberty, including 2 with juvenile granulosa cell tumor presenting with precocity (Chinese).
+- The authors advise sex hormone testing, imaging and karyotyping where needed, and that sex cord-stromal tumor be considered first in such patients.
+relevance_to_jgct: JGCT as a cause of precocity in a Chinese pediatric gynecology series.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

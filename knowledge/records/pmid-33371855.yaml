@@ -1,0 +1,34 @@
+source_id: '33371855'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33371855/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/33371855/
+language: en
+pmid: '33371855'
+doi: 10.2174/1573405616666201228153755
+pmcid: null
+title: 'Ovarian Granulosa Cell Tumor: A Clinicoradiologic Series with Literature Review'
+journal: Current medical imaging
+year: 2021
+first_author: Kilinc YB
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'MRI series of 4 granulosa cell tumors (3 adult, 1 juvenile): heterogeneous solid-cystic masses in 3 and a multiseptated cystic mass in 1, all ovoid or round with smooth margins; T1 hyperintensity not suppressed on fat saturation in 3, representing hemorrhage; one patient had bone and one liver metastases.'
+relevance_to_jgct: Hemorrhagic content as an MRI clue to granulosa cell tumor; one JGCT included.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,38 @@
+source_id: '19516027'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19516027/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19516027/
+language: en
+pmid: '19516027'
+doi: 10.1056/NEJMoa0902542
+pmcid: null
+title: Mutation of FOXL2 in granulosa-cell tumors of the ovary
+journal: The New England journal of medicine
+year: 2009
+first_author: Shah SP
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 10
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: 402C>G (C134W)
+  frequency: 1 of 10 juvenile-type GCT (10%); 86 of 89 adult-type (97%); 3 of 14 thecomas
+  notes: absent in 49 other SCST and 329 unrelated tumors
+treatments: []
+presentation: []
+key_findings:
+- Whole-transcriptome sequencing of four adult granulosa cell tumors identified the FOXL2 402C>G (C134W) missense mutation, then found in 86 of 89 additional adult-type GCT (97%), 3 of 14 thecomas (21%) and 1 of 10 juvenile-type GCT (10%), and absent from 49 other sex cord-stromal tumors and 329 ovarian or breast tumors.
+relevance_to_jgct: 'The index FOXL2 paper: 1 of 10 JGCT carried the adult-type mutation.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

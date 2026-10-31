@@ -1,0 +1,51 @@
+source_id: '31789679'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/31789679/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/31789679/
+language: en
+pmid: '31789679'
+doi: 10.1097/PGP.0000000000000651
+pmcid: null
+title: 'Malignant Sex Cord-Stromal Tumor, Not Otherwise Specified, Harboring FOXL2, p53, and TERT Promoter Mutations: Report of a Case'
+journal: 'International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists'
+year: 2020
+first_author: Mayer R
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: null
+age_range: 46 years
+alterations:
+- gene: FOXL2
+  alteration: C134W
+  frequency: 1 of 1
+  notes: tumor predominantly of JGCT histology, classified as sex cord-stromal tumor NOS
+- gene: TP53
+  alteration: V172F
+  frequency: 1 of 1
+  notes: null
+- gene: TERT promoter
+  alteration: -124C>T
+  frequency: 1 of 1
+  notes: null
+treatments:
+- regimen: 4 cycles cisplatin, bleomycin, etoposide
+  setting: rapid recurrence with distant metastases
+  n: 1
+  outcome: Responded
+presentation: []
+key_findings:
+- A 46-year-old's sex cord-stromal tumor NOS was composed predominantly of juvenile granulosa cell tumor histology with thecoma, adult granulosa, Sertoli, epithelioid and sarcomatoid components, and carried FOXL2 C134W, TP53 V172F and TERT promoter -124C>T mutations.
+- It recurred rapidly with distant metastases that responded to 4 cycles of BEP.
+relevance_to_jgct: JGCT-like morphology with a FOXL2 C134W mutation in an adult, illustrating the limits of morphology alone.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

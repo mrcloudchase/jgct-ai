@@ -1,0 +1,39 @@
+source_id: '24689977'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24689977/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/24689977/
+language: en
+pmid: '24689977'
+doi: 10.1111/jog.12324
+pmcid: null
+title: Mutational analysis of FOXL2 p.C134W and expression of bone morphogenetic protein 2 in Japanese patients with granulosa cell tumor of ovary
+journal: The journal of obstetrics and gynaecology research
+year: 2014
+first_author: Oseto K
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: p.C134W
+  frequency: 0 of 2 juvenile-type GCT (27 of 44 adult-type)
+  notes: Japanese series
+treatments: []
+presentation: []
+key_findings:
+- Among 114 Japanese ovarian tumors, FOXL2 p.C134W was found in 27 of 44 adult-type granulosa cell tumors (61.4%) and in none of the other tumors, including 2 juvenile-type GCT.
+- Inhibin-alpha was positive in all adult-type tumors; BMP2 in 14 of 44.
+relevance_to_jgct: No FOXL2 mutation in 2 Japanese JGCT; lower adult-type mutation rate than elsewhere.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,35 @@
+source_id: '25828390'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25828390/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/25828390/
+language: en
+pmid: '25828390'
+doi: 10.1097/PAS.0000000000000432
+pmcid: null
+title: 'Yolk Sac Tumor of the Testis in Infants and Children: A Clinicopathologic Analysis of 33 Cases'
+journal: The American journal of surgical pathology
+year: 2015
+first_author: Cornejo KM
+study_type: case_series
+tumor_site: testis
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Thirty-three pure testicular yolk sac tumors in boys 5 to 71 months (mean 20.7): 24 without disease, 8 metastatic, 5 died; size over 4.5 cm, rete or epididymal invasion and necrosis predicted poor outcome in stage I.'
+- The authors stress distinguishing yolk sac tumor from the juvenile granulosa cell tumor, which occurs at a slightly younger age with distinctive features despite some overlap.
+relevance_to_jgct: Yolk sac tumor is the main malignant differential of infant testicular JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

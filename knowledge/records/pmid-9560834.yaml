@@ -1,0 +1,38 @@
+source_id: '9560834'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9560834/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9560834/
+language: en
+pmid: '9560834'
+doi: 10.1097/00006254-199804000-00022
+pmcid: null
+title: 'Granulosa and theca cell tumors in children: a report of 17 cases and literature review'
+journal: Obstetrical & gynecological survey
+year: 1998
+first_author: Cronjé HS
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 6
+age_range: 12 years and under
+alterations: []
+treatments: []
+presentation:
+- precocious pseudopuberty (70%)
+- abdominal pain (24%)
+- ascites (18%)
+key_findings:
+- 'Emil Novak Ovarian Tumor Registry: 17 children aged 12 or under with granulosa or theca cell tumors, including 6 juvenile and 5 adult-type granulosa cell tumors; precocious pseudopuberty in 70%, abdominal pain in 24%, ascites in 18%.'
+- A literature review of 163 granulosa cell tumors in children (juvenile type included) gave a tumor-related mortality of 9%; prognosis is good, particularly with precocious puberty, and treatment can be conservative.
+relevance_to_jgct: Registry and literature review of childhood granulosa cell tumors with a 9% mortality figure.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

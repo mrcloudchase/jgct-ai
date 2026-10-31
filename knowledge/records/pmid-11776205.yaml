@@ -1,0 +1,38 @@
+source_id: '11776205'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/11776205/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/11776205/
+language: zh
+pmid: '11776205'
+doi: null
+pmcid: null
+title: '[High-dose chemotherapy with peripheral-blood stem cells transplantation in patients with advanced gynecological malignant tumors]'
+journal: Zhonghua fu chan ke za zhi
+year: 2000
+first_author: Huang H
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments:
+- regimen: High-dose chemotherapy with peripheral blood stem cell transplantation
+  setting: recurrent JGCT among 5 advanced gynecologic cancers
+  n: 1
+  outcome: Died of recurrent JGCT
+presentation: []
+key_findings:
+- Five patients with advanced gynecologic cancers received high-dose chemotherapy with peripheral blood stem cell rescue after debulking; four survived (all with recurrence, at an average 9 months) and one died of recurrence of a juvenile granulosa cell tumor; average survival 21 months (Chinese).
+relevance_to_jgct: High-dose chemotherapy with stem cell rescue did not prevent death from recurrent JGCT in one patient.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

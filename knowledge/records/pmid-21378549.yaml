@@ -1,0 +1,35 @@
+source_id: '21378549'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21378549/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/21378549/
+language: en
+pmid: '21378549'
+doi: 10.1097/PAS.0b013e31820a406c
+pmcid: null
+title: FOXL2 is a sensitive and specific marker for sex cord-stromal tumors of the ovary
+journal: The American journal of surgical pathology
+year: 2011
+first_author: Al-Agha OM
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- FOXL2 immunostaining was present in 95 of 119 sex cord-stromal tumors (80%), including more than 95% of adult granulosa cell tumors, juvenile granulosa cell tumors, fibromas and sclerosing stromal tumors, and only 50% of Sertoli-Leydig cell tumors; specificity against 368 non-SCSTs was 99%.
+- FOXL2 mutation was present in 39 of 42 adult GCT, 3 of 40 SLCT, 2 of 5 thecomas and 1 of 4 unclassified SCST; FOXL2, inhibin and calretinin together stain essentially all SCST.
+relevance_to_jgct: FOXL2 protein is expressed in more than 95% of JGCT despite the absence of the mutation.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
