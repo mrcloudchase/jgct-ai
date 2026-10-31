@@ -99,3 +99,11 @@ the two SCCOHT papers and the SLCT series are worth records for the differential
 on reCAPTCHA. That is reading pages NCBI serves to any reader, not bulk download, but it is a
 judgement call the maintainer should make knowingly; the agent cannot. Elsevier and other
 publisher captchas were not circumvented.
+
+## Actions taken on 2026-10-31 (same review session, PR 18)
+
+- `knowledge/topics/`: 14 topic articles written from the records (list in `knowledge/topics/README.md`); every cited ID checked against `knowledge/records/`.
+- `knowledge/summary/`: both summaries rewritten as the gist followed by short sections, each ending with a link to its topic article.
+- `site/build.py`: relative `.md` links in topics and summaries now render as page links; citations render as small superscripts; the home page lists the topics.
+- `sources/INDEX.md`: the source families in the table above were added to the hand-maintained catalogue; 29 leads not already in the ledger were loaded as `found`.
+- `knowledge/records/pmid-34286167.yaml`: stage wording made consistent with the paper's own classification.

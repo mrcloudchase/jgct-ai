@@ -93,13 +93,18 @@ def cite_links(text: str, depth: str) -> str:
     """Turn [pmid-123, url-abc] into links to source pages. `depth` is the relative prefix to the site root."""
     def repl(m):
         ids = [i.strip() for i in m.group(1).split(",")]
-        return "<span class=\"cite\">[" + ", ".join(f"<a href=\"{depth}sources/{esc(i)}.html\">{esc(i)}</a>" for i in ids) + "]</span>"
+        return "<sup class=\"cite\">[" + ", ".join(f"<a href=\"{depth}sources/{esc(i)}.html\" title=\"Source {esc(i)}\">{esc(i)}</a>" for i in ids) + "]</sup>"
     return CITE_RE.sub(repl, text)
 
 
+MD_LINK_RE = re.compile(r'href="(?!https?://|mailto:|#)([^"#]+?)\.md(#[^"]*)?"')
+
+
 def md(text: str, depth: str) -> str:
+    """Render Markdown; relative links to .md files (topic cross-links) become links to the built pages."""
     MD.reset()
-    return cite_links(MD.convert(text), depth)
+    html_out = MD_LINK_RE.sub(lambda m: f'href="{m.group(1)}.html{m.group(2) or ""}"', MD.convert(text))
+    return cite_links(html_out, depth)
 
 
 def page(title: str, body: str, depth: str, stats: dict, active: str = "", description: str = "") -> str:
@@ -166,10 +171,14 @@ def table(rows: list[str]) -> str:
 
 # ----------------------------------------------------------------------------------------------- pages
 
-def build_home(recs, stats, intro_md):
+def build_home(recs, stats, intro_md, topics=()):
     tiers = Counter(r["source_tier"] for r in recs.values())
     types = Counter(r["study_type"] for r in recs.values())
     sites = Counter(r.get("tumor_site") for r in recs.values())
+    topic_list = ""
+    if topics:
+        lis = "".join(f'<li><a href="topics/{esc(stem)}.html">{esc(title)}</a></li>' for stem, title, _ in topics)
+        topic_list = f'<h2>Topics</h2><p class="muted">One article per subject, from every relevant source. Each opens in plain language before the detail.</p><ul class="cols">{lis}</ul>'
     body = f"""
 <h1>Juvenile granulosa cell tumor: what is known</h1>
 <p class="lead">A knowledge base built from {stats['n_records']} sources about juvenile granulosa cell tumor (JGCT), each read in full. It exists for the clinicians and researchers who treat and study this rare tumor, and for the families who have just heard its name.</p>
@@ -183,9 +192,10 @@ def build_home(recs, stats, intro_md):
   <div><span class="big">{tiers.get('guideline', 0)}</span>guidelines</div>
   <div><span class="big">{stats['n_pending']}</span>known sources not yet read</div>
 </section>
+{topic_list}
 <h2>How to read this site</h2>
 <ul>
-  <li><strong>Every claim is cited.</strong> A bracketed code such as <span class="cite">[<a href="sources/index.html">pmid-40272823</a>]</span> is a source. Click it to see what was taken from that source and where its full text was read.</li>
+  <li><strong>Every claim is cited.</strong> A small bracketed code such as <sup class="cite">[<a href="sources/index.html">pmid-40272823</a>]</sup> is a source. Click it to see what was taken from that source and where its full text was read.</li>
   <li><strong>Nothing is summarized from an abstract.</strong> A source is in this base only if its full text was read start to finish. Sources known but not yet readable are listed under <a href="pending.html">Not yet read</a>.</li>
   <li><strong>Disagreements are shown, not settled.</strong> Where sources conflict, both are presented under <a href="conflicts.html">Where sources disagree</a>.</li>
   <li><strong>Go deeper by topic.</strong> <a href="topics/index.html">Topics</a> holds one synthesized article per subject, written from every relevant source.</li>
@@ -235,10 +245,11 @@ def build_topics(stats):
     else:
         body = "<h1>Topics</h1><p class=\"lead\">Topic articles are written by the maintenance runs from the records and appear here as they are completed. Until then, start with the two summaries.</p><p><a href=\"../clinicians.html\">For clinicians and researchers</a> · <a href=\"../families.html\">For parents and patients</a></p>"
     write(DOCS / "topics" / "index.html", page("Topics", body, "../", stats, "topics"))
-    return len(entries)
+    return entries
 
 
 def build_audience(key, title, section_md, stats, lead):
+    section_md = section_md.replace("](../topics/", "](topics/")
     body = f"<h1>{esc(title)}</h1><p class=\"lead\">{lead}</p>" + md(section_md, "")
     return page(title, body, "", stats, key)
 
@@ -478,9 +489,9 @@ def main() -> None:
     DOCS.mkdir(exist_ok=True)
     (DOCS / ".nojekyll").write_text("")
     shutil.copytree(ASSETS_SRC, DOCS / "assets")
-    intro = ""
-    write(DOCS / "index.html", build_home(recs, stats, intro))
-    n_topics = build_topics(stats)
+    topics = build_topics(stats)
+    write(DOCS / "index.html", build_home(recs, stats, "", topics))
+    n_topics = len(topics)
     write(DOCS / "clinicians.html", build_audience("clinicians", "For clinicians and researchers", read_summary("clinicians"), stats,
           "A technical synthesis of the knowledge base. Every factual sentence cites the sources it rests on; click a citation to see what that source reports and where its full text was read."))
     write(DOCS / "families.html", build_audience("families", "For parents and patients", read_summary("families"), stats,
