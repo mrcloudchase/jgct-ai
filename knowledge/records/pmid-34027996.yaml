@@ -1,0 +1,35 @@
+source_id: '34027996'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34027996/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/34027996/
+language: en
+pmid: '34027996'
+doi: 10.1111/aogs.14189
+pmcid: null
+title: 'Progress in the management of ovarian granulosa cell tumor: A review'
+journal: Acta obstetricia et gynecologica Scandinavica
+year: 2021
+first_author: Li J
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Systematic review of 60 articles on granulosa cell tumor management: granulosa cell tumors are 70% of sex cord-stromal tumors; adult-type 5-year survival 97 to 98% with relapses beyond 20 years; juvenile GCT survival 97% at stage I and 5-year survival 0 to 22% at advanced stage with earlier recurrence.'
+- Young women having fertility-sparing surgery had reproductive and survival outcomes comparable to radical surgery.
+relevance_to_jgct: Review figures for JGCT survival by stage and support for fertility-sparing surgery.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

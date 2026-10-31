@@ -1,0 +1,34 @@
+source_id: '33571556'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33571556/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/33571556/
+language: en
+pmid: '33571556'
+doi: 10.1016/j.tox.2021.152715
+pmcid: null
+title: Mixtures of persistent organic pollutants increase ovarian granulosa tumor cell line migration and spheroid invasion by upregulating MMP2 expression and activity via IGF1R
+journal: Toxicology
+year: 2021
+first_author: Gogola-Mruk J
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- A mixture of persistent organic pollutants at follicular-fluid concentrations increased migration and spheroid invasion of KGN (adult-type model) cells through MMP2 and IGF1R; COV434, used as the juvenile-type model, lacked migration and invasion potential and had lower mesenchymal gene expression.
+relevance_to_jgct: Cell-line study using COV434 as a JGCT model; COV434 has since been reclassified as SCCOHT (see pmid-33328126).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: COV434 identity caveat applies. Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

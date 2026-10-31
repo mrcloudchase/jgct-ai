@@ -1,0 +1,42 @@
+source_id: '25204485'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25204485/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/25204485/
+language: en
+pmid: '25204485'
+doi: null
+pmcid: null
+title: 'Advanced stage ovarian juvenile granuloza cell tumor causing acute abdomen: a case report'
+journal: Archives of Iranian medicine
+year: 2014
+first_author: Bedir R
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 10 years
+alterations: []
+treatments:
+- regimen: Mass resection with left salpingo-oophorectomy and total omentectomy
+  setting: advanced-stage JGCT with massive ascites
+  n: 1
+  outcome: Not stated
+presentation:
+- massive abdominal distention
+- acute abdomen
+- ascites
+- elevated estradiol
+key_findings:
+- A 10-year-old with massive distention, acute abdomen and ascites had multicystic solid-cystic left ovarian masses on MRI, normal tumor markers and raised estradiol; resection with salpingo-oophorectomy and omentectomy showed an advanced-stage JGCT.
+relevance_to_jgct: Advanced JGCT presenting as acute abdomen with massive ascites.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

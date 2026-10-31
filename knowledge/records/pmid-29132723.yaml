@@ -1,0 +1,34 @@
+source_id: '29132723'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/29132723/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/29132723/
+language: en
+pmid: '29132723'
+doi: 10.1016/j.pathol.2017.09.007
+pmcid: null
+title: Ovarian sex cord-stromal tumours and their mimics
+journal: Pathology
+year: 2018
+first_author: Young RH
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review of ovarian sex cord-stromal tumours and their mimics: diagnostically challenging juvenile granulosa cell tumour variants include those with a macronodular pattern and scant follicular differentiation, those with marked sclerosis, and those that are unusually pleomorphic; adult granulosa cell tumour may simulate endometrioid carcinoma; the luteinised thecoma with sclerosing peritonitis shows brisk mitoses without metastatic potential.'
+relevance_to_jgct: Names the three JGCT variants most likely to be misdiagnosed.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

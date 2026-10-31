@@ -1,0 +1,34 @@
+source_id: '26135561'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26135561/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/26135561/
+language: en
+pmid: '26135561'
+doi: 10.1097/PAS.0000000000000475
+pmcid: null
+title: 'SMARCA4 (BRG1) loss of expression is a useful marker for the diagnosis of ovarian small cell carcinoma of the hypercalcemic type (ovarian rhabdoid tumor): a comprehensive analysis of 116 rare gynecologic tumors, 9 soft tissue tumors, and 9 melanomas'
+journal: The American journal of surgical pathology
+year: 2015
+first_author: Karanian-Philippe M
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 9
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'BRG1 (SMARCA4) immunohistochemistry in 12 small cell carcinomas of the ovary, hypercalcemic type, and 122 mimics including 9 juvenile and 47 adult granulosa cell tumors: all 12 SCCOHT lacked BRG1 and retained INI1, while all 119 interpretable mimics, the 9 JGCT included, were BRG1 positive (10 to 100% of cells, mean 77%), sometimes heterogeneously.'
+relevance_to_jgct: All 9 JGCT retained SMARCA4; loss identifies SCCOHT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

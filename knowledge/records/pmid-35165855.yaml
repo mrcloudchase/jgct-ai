@@ -1,0 +1,34 @@
+source_id: '35165855'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35165855/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/35165855/
+language: en
+pmid: '35165855'
+doi: 10.1007/s11934-022-01086-w
+pmcid: null
+title: 'Imaging of Prenatal and Neonatal Intra-abdominal Genitourinary Tumors: a Review of the Literature'
+journal: Current urology reports
+year: 2022
+first_author: Guerre M
+study_type: review
+tumor_site: both
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review of imaging of prenatal and neonatal intra-abdominal genitourinary tumors: fetal and neonatal MRI have been used alongside ultrasound to characterize congenital mesoblastic nephroma, juvenile granulosa cell tumor and other tumors, allowing earlier identification and surgical planning.'
+relevance_to_jgct: Fetal and neonatal MRI in the work-up of perinatal JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

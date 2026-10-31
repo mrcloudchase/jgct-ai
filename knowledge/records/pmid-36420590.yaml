@@ -1,0 +1,34 @@
+source_id: '36420590'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/36420590/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/36420590/
+language: en
+pmid: '36420590'
+doi: 10.1177/00031348221135780
+pmcid: null
+title: The Role of Radiation Therapy in Locally Advanced Breast Cancer in a Patient With Li-Fraumeni Syndrome
+journal: The American surgeon
+year: 2023
+first_author: Roberts AC
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 38 years at breast cancer; JGCT earlier
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- A 38-year-old with Li-Fraumeni syndrome, a history of ovarian juvenile granulosa cell tumor and a malignant phyllodes tumor developed bilateral invasive ductal carcinoma treated with bilateral mastectomies; the report discusses post-mastectomy radiotherapy in Li-Fraumeni syndrome.
+relevance_to_jgct: A JGCT in a patient with Li-Fraumeni syndrome, a germline TP53 association not otherwise recorded.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

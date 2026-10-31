@@ -1,0 +1,34 @@
+source_id: '26067856'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26067856/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/26067856/
+language: en
+pmid: '26067856'
+doi: 10.1097/IGC.0000000000000479
+pmcid: null
+title: Tyrosine Kinase Inhibitors as Potential Therapeutic Agents in the Treatment of Granulosa Cell Tumors of the Ovary
+journal: 'International journal of gynecological cancer : official journal of the International Gynecological Cancer Society'
+year: 2015
+first_author: Jamieson S
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- In COV434 (then used as a juvenile-type model) and KGN cells, sunitinib had no effect while sorafenib dose-dependently inhibited proliferation and viability, implicating BRAF or upstream MAPK signaling; a RAF1 inhibitor had no effect and the Src inhibitor SU6656 reduced viability without affecting proliferation.
+relevance_to_jgct: Tyrosine kinase inhibitor screen in COV434, since reclassified as SCCOHT (pmid-33328126), so applicability to JGCT is uncertain.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: COV434 identity caveat applies. Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

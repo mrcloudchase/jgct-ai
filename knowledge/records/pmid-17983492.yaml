@@ -1,0 +1,34 @@
+source_id: '17983492'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/17983492/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/17983492/
+language: zh
+pmid: '17983492'
+doi: null
+pmcid: null
+title: '[Clinical analysis of juvenile ovary granulose cell tumor]'
+journal: Zhonghua fu chan ke za zhi
+year: 2007
+first_author: Huang JN
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 10
+age_range: 7-31 years (average 20.5)
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Ten JGCT (ages 7 to 31, average 20.5, 90% under 30; tumors 5.5 to 15 cm, average 9.8) compared with 10 adult GCT: JGCT showed nodular growth, irregular mucin-containing follicles, luteinization, atypia and high mitotic activity with absent grooves and Call-Exner bodies; p53 positive in 70% and PCNA in 90% of JGCT versus 10% and 20% of AGCT; 5-year survival 90% for JGCT and 100% for AGCT (Chinese).'
+relevance_to_jgct: 'Chinese comparison of 10 JGCT with 10 AGCT: higher proliferation, p53 and worse survival.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,36 @@
+source_id: '20105593'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20105593/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/20105593/
+language: en
+pmid: '20105593'
+doi: 10.1016/j.jpedsurg.2009.10.021
+pmcid: null
+title: 'Pediatric ovarian malignancy presenting as ovarian torsion: incidence and relevance'
+journal: Journal of pediatric surgery
+year: 2010
+first_author: Oltmann SC
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- ovarian torsion
+key_findings:
+- Among 114 children (2 days to 19 years) with operatively proven ovarian torsion, 4 malignancies (3.5%) included one stage IA juvenile granulosa cell tumor cured by resection alone; in 593 literature cases of torsion there were 9 malignancies (1.5%), 4 of them juvenile granulosa cell tumors.
+- Combined malignancy rate of 1.8% in 707 torsion patients supports detorsion with surveillance rather than oophorectomy.
+relevance_to_jgct: JGCT is the commonest malignancy presenting as pediatric ovarian torsion, but torsion rarely signals malignancy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,34 @@
+source_id: '41887253'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41887253/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/41887253/
+language: en
+pmid: '41887253'
+doi: 10.5858/arpa.2025-0482-OA
+pmcid: null
+title: 'Embryonal Carcinoma Involving the Ovary: A Morphologic Study of 55 Tumors Almost Never Pure, But Common Within Malignant Mixed Germ Cell Tumors'
+journal: Archives of pathology & laboratory medicine
+year: 2026
+first_author: Zanfagnin V
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Fifty-five ovarian tumors with an embryonal carcinoma component (ages 3 to 57), all within malignant mixed germ cell tumors; the authors note that purported pure embryonal carcinomas are often undersampled mixed tumors or other types including yolk sac tumor, dysgerminoma, small cell carcinoma of hypercalcemic type and juvenile granulosa cell tumor.
+relevance_to_jgct: JGCT among tumors mistaken for embryonal carcinoma.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

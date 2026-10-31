@@ -1,0 +1,34 @@
+source_id: 10.51288/00840113
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.51288/00840113
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.51288/00840113
+language: en
+pmid: null
+doi: 10.51288/00840113
+pmcid: null
+title: Tumor de células de la granulosa tipo juvenil tras la menopausia
+journal: Revista de Obstetricia y Ginecología de Venezuela
+year: 2024
+first_author: ''
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: postmenopausal
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'A juvenile-type granulosa cell tumor after menopause (Venezuelan journal, Spanish): the abstract repeats that juvenile tumors are 5% of granulosa cell tumors and 3% occur over age 30, that intraoperative diagnosis is difficult, that stage and complete resection are the main prognostic factors, and that the role of adjuvant therapy is not established.'
+relevance_to_jgct: A postmenopausal JGCT; clinical details not in the abstract.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,34 @@
+source_id: '37052631'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37052631/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/37052631/
+language: en
+pmid: '37052631'
+doi: 10.1007/s00247-023-05649-y
+pmcid: null
+title: Diagnostic yield and safety of ultrasound-guided percutaneous testicular biopsies in children
+journal: Pediatric radiology
+year: 2023
+first_author: Minhas K
+study_type: case_series
+tumor_site: testis
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Nine ultrasound-guided percutaneous testicular biopsies in children (median age 3 years) had a diagnostic yield of 89%; one biopsy was suggestive but not confirmatory of juvenile granulosa cell tumor; one minor hematoma occurred.
+relevance_to_jgct: Percutaneous biopsy as an alternative in a suspected testicular JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

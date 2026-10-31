@@ -1,0 +1,34 @@
+source_id: '18510049'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/18510049/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/18510049/
+language: pl
+pmid: '18510049'
+doi: null
+pmcid: null
+title: '[Current views on treatment of the ovarian granulosa-cell tumor]'
+journal: Ginekologia polska
+year: 2008
+first_author: Grabiec M
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Polish review of granulosa cell tumor treatment: juvenile type 5% and adult 95%; the juvenile type is mostly (90%) recognized at FIGO stage I with better prognosis, and surgery is often sufficient; higher stages are treated further; BEP is the most frequent chemotherapy.'
+relevance_to_jgct: 'Review figures: 90% of JGCT at stage I; surgery alone usually sufficient.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

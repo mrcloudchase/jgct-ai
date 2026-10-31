@@ -1,0 +1,39 @@
+source_id: '16050568'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/16050568/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/16050568/
+language: en
+pmid: '16050568'
+doi: null
+pmcid: null
+title: Ovarian sex cord-stromal tumors in children and adolescents
+journal: The Journal of reproductive medicine
+year: 2005
+first_author: Schneider DT
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: null
+age_range: children and adolescents
+alterations: []
+treatments:
+- regimen: Cisplatin-based adjuvant chemotherapy
+  setting: stage II and III ovarian sex cord-stromal tumors in the MAKEI protocols
+  n: null
+  outcome: Favorable response in the majority
+presentation: []
+key_findings:
+- 'Review with data from 62 children and adolescents with ovarian sex cord-stromal tumors prospectively reported to the German MAKEI protocols: juvenile granulosa cell tumors were the most frequent subtype, then Sertoli-Leydig and sclerosing stromal tumors; JGCT and SLCT showed greater mitotic activity, and high mitotic activity was associated with adverse outcome; prognosis correlated with FIGO stage.'
+- Event-free survival 0.87 and overall survival 0.88 for the 62 patients; most stage II and III tumors responded to cisplatin-based chemotherapy; comparative genomic hybridization of 27 tumors showed mostly normal profiles with occasional whole-chromosome gains (such as 12) without consistent pattern; a prospective study began in 2005.
+relevance_to_jgct: MAKEI experience establishing mitotic activity and stage as prognostic in pediatric JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

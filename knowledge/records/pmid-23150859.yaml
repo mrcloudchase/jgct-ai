@@ -1,0 +1,34 @@
+source_id: '23150859'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23150859/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/23150859/
+language: en
+pmid: '23150859'
+doi: 10.1148/rg.327125146
+pmcid: null
+title: 'From the radiologic pathology archives: precocious puberty: radiologic-pathologic correlation'
+journal: 'Radiographics : a review publication of the Radiological Society of North America, Inc'
+year: 2012
+first_author: Chung EM
+study_type: review
+tumor_site: both
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Radiologic-pathologic review of precocious puberty: female gonadotropin-independent puberty may be caused by an autonomously functioning ovarian cyst or a juvenile granulosa cell tumor, and male by Leydig or Sertoli cell tumors; ultrasonography is the primary modality for the gonads.'
+relevance_to_jgct: Imaging work-up placing JGCT among causes of peripheral precocity.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

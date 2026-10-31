@@ -1,0 +1,34 @@
+source_id: '37354988'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37354988/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/37354988/
+language: en
+pmid: '37354988'
+doi: 10.1016/j.jpag.2023.06.007
+pmcid: null
+title: 'Atypical Presentation of Granulosa Cell Tumor in an Adolescent: A Case Report'
+journal: Journal of pediatric and adolescent gynecology
+year: 2023
+first_author: Morrison A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: 14 years
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- A 14-year-old with a large adnexal mass and clinical hyperandrogenism had raised free and total testosterone, low-normal estradiol, mildly raised AFP and normal inhibin; unilateral oophorectomy showed a stage IA adult-type granulosa cell tumor, rare in adolescents where juvenile type predominates.
+relevance_to_jgct: 'Adult-type GCT in an adolescent with normal inhibin: a differential for JGCT.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

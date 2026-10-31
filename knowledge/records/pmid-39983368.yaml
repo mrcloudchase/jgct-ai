@@ -1,0 +1,34 @@
+source_id: '39983368'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39983368/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/39983368/
+language: en
+pmid: '39983368'
+doi: 10.1016/j.ijgc.2025.101668
+pmcid: null
+title: Controversies in the management of ovarian granulosa cell and Sertoli-Leydig cell tumors
+journal: 'International journal of gynecological cancer : official journal of the International Gynecological Cancer Society'
+year: 2025
+first_author: Friedlander ML
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review of controversies in ovarian granulosa cell and Sertoli-Leydig cell tumors: up to 30% of historical adult granulosa cell tumors were reassigned on contemporary review; surgery is the mainstay with fertility-sparing surgery for stage I in the young; adjuvant chemotherapy for high-risk stage I and surveillance schedules, marker use and imaging remain contested with conflicting guidelines; international prospective collection and randomized trials are called for.'
+relevance_to_jgct: Frames the stage I adjuvant chemotherapy and surveillance questions for JGCT as unresolved.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

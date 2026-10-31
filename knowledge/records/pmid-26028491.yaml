@@ -1,0 +1,35 @@
+source_id: '26028491'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/26028491/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/26028491/
+language: fr
+pmid: '26028491'
+doi: 10.1016/j.bulcan.2015.04.012
+pmcid: null
+title: '[Specificities of sex-cord stromal tumors in children and adolescents]'
+journal: Bulletin du cancer
+year: 2015
+first_author: Thebaud E
+study_type: review
+tumor_site: both
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'French review of pediatric sex cord-stromal tumors (under 5% of gonadal tumors): testicular tumors occur mostly under 6 months, present as swelling, are mainly juvenile granulosa type, and have excellent prognosis after inguinal orchiectomy, with testis-sparing surgery possible under defined conditions; ovarian tumors present with abdominal symptoms or estrogenic or androgenic signs and are mainly juvenile granulosa.'
+- Oophorectomy may cure localized disease, but adjuvant cisplatin-based chemotherapy is described as mandatory after tumor rupture or peritoneal dissemination to prevent recurrence; multidisciplinary planning before surgery is advised.
+relevance_to_jgct: 'French pediatric guidance: cisplatin chemotherapy after rupture or peritoneal spread.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

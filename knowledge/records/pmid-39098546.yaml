@@ -1,0 +1,40 @@
+source_id: '39098546'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39098546/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/39098546/
+language: en
+pmid: '39098546'
+doi: 10.1016/j.jpag.2024.07.009
+pmcid: null
+title: 'A Rare Ovarian Mixed Sex Cord Stromal Tumor in a Patient with Ollier Disease: A Case Report'
+journal: Journal of pediatric and adolescent gynecology
+year: 2024
+first_author: Devins KM
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: null
+age_range: 10 years
+alterations:
+- gene: IDH1
+  alteration: mutation
+  frequency: 1 of 1
+  notes: mixed juvenile granulosa and Sertoli-Leydig tumor (gynandroblastoma) in Ollier disease
+treatments: []
+presentation:
+- precocious puberty
+- Ollier disease
+key_findings:
+- A 10-year-old with Ollier disease and precocious puberty had an ovarian mixed sex cord-stromal tumor with juvenile granulosa and Sertoli-Leydig components carrying an IDH1 mutation; such gynandroblastomas had been linked to DICER1 but never to Ollier disease.
+relevance_to_jgct: Ollier disease with an IDH1-mutant gynandroblastoma that includes a JGCT component.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,35 @@
+source_id: '25362018'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25362018/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/25362018/
+language: en
+pmid: '25362018'
+doi: null
+pmcid: null
+title: Precocious pseudopuberty due to ovarian causes
+journal: Indian pediatrics
+year: 2014
+first_author: Dhivyalakshmi J
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- precocious pseudopuberty
+key_findings:
+- Four girls with precocious pseudopuberty had low basal and GnRH-stimulated FSH and LH with high estradiol; ultrasound showed an ovarian cyst in three and a juvenile granulosa cell tumour in one, which was removed surgically; pubertal signs regressed in all.
+relevance_to_jgct: GnRH stimulation, bone age and ultrasound separate JGCT-driven pseudopuberty from central puberty.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

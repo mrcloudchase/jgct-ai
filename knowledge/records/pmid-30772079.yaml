@@ -1,0 +1,34 @@
+source_id: '30772079'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30772079/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/30772079/
+language: en
+pmid: '30772079'
+doi: 10.1053/j.semdp.2019.01.003
+pmcid: null
+title: Gynecological neoplasms associated with paraneoplastic hypercalcemia
+journal: Seminars in diagnostic pathology
+year: 2019
+first_author: Lim D
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review of gynecological neoplasms with paraneoplastic hypercalcemia (about 5% of gynecological malignancies): small cell carcinoma hypercalcemic type, clear cell carcinoma, dysgerminoma and juvenile granulosa cell tumors, with their differential diagnosis and management.'
+relevance_to_jgct: Lists JGCT among gynecologic tumors that can cause paraneoplastic hypercalcemia.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

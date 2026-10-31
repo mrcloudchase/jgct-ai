@@ -1,0 +1,34 @@
+source_id: '20434716'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20434716/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/20434716/
+language: en
+pmid: '20434716'
+doi: 10.1016/S1470-2045(10)70012-7
+pmcid: null
+title: Testicular and paratesticular tumours in the prepubertal population
+journal: The Lancet. Oncology
+year: 2010
+first_author: Ahmed HU
+study_type: review
+tumor_site: testis
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Review of prepubertal testicular and paratesticular tumours, a group distinct from postpubertal tumours, including germ cell tumours (teratoma, epidermoid cyst, yolk sac tumour) and stromal tumours (juvenile granulosa cell, Leydig cell, Sertoli cell); centralised pathology and collaborative trials have established management.
+relevance_to_jgct: Testicular JGCT placed within the prepubertal tumour spectrum.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,34 @@
+source_id: '27897024'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/27897024/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/27897024/
+language: cs
+pmid: '27897024'
+doi: null
+pmcid: null
+title: '[Peripheral precocious puberty]'
+journal: Ceska gynekologie
+year: 2016
+first_author: Zvonařová Skalická J
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Czech review of peripheral precocious puberty (1 in 400 to 1,000 girls): autonomous ovarian cysts are the main cause, with McCune-Albright syndrome, juvenile granulosa cell tumor and primary hypothyroidism among others; initial treatment is conservative except for JGCT, where surgery is warranted; long-term follow-up is needed for progression to central puberty.'
+relevance_to_jgct: JGCT as the surgical exception among causes of peripheral precocious puberty.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

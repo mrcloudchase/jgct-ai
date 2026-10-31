@@ -1,0 +1,34 @@
+source_id: '35466733'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/35466733/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/35466733/
+language: en
+pmid: '35466733'
+doi: 10.1177/10668969221095264
+pmcid: null
+title: 'Gastric-phenotype Mucinous Carcinoma of the Fallopian Tube with Secondary Ovarian Involvement in a Woman with Peutz-Jeghers Syndrome: A Case Report'
+journal: International journal of surgical pathology
+year: 2023
+first_author: Bronte Anaut M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- A 75-year-old with Peutz-Jeghers syndrome had a gastric-phenotype mucinous carcinoma of the fallopian tube with ovarian involvement; one daughter with confirmed Peutz-Jeghers syndrome had tubal mucinous metaplasia, and another daughter, without a genetic diagnosis, died of an ovarian juvenile granulosa cell tumor.
+relevance_to_jgct: A fatal JGCT in the daughter of a Peutz-Jeghers family, without confirmed STK11 status.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

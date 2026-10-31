@@ -1,0 +1,34 @@
+source_id: '9821198'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9821198/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9821198/
+language: en
+pmid: '9821198'
+doi: 10.1148/radiographics.18.6.9821198
+pmcid: null
+title: Sex cord-stromal and steroid cell tumors of the ovary
+journal: 'Radiographics : a review publication of the Radiological Society of North America, Inc'
+year: 1998
+first_author: Outwater EK
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Radiology review of ovarian sex cord-stromal and steroid cell tumors (about 8% of ovarian neoplasms): clinical and radiologic clues include a large hemorrhagic multicystic mass in a child with pseudoprecocious puberty (juvenile granulosa cell tumor) and associated Ollier disease or Maffucci syndrome, and fibrous content for fibrothecoma.'
+relevance_to_jgct: 'Imaging profile of JGCT: large hemorrhagic multicystic mass with pseudoprecocity.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

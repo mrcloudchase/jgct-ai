@@ -1,0 +1,34 @@
+source_id: '23552209'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23552209/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/23552209/
+language: en
+pmid: '23552209'
+doi: 10.1097/LGT.0b013e3182702796
+pmcid: null
+title: 'Androgen insensitivity syndrome with gynandroblastoma and vulvar leiomyoma: case report and literature review'
+journal: Journal of lower genital tract disease
+year: 2013
+first_author: Tian W
+study_type: case_report
+tumor_site: other
+n_jgct_patients: null
+age_range: 64 years
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- A 64-year-old phenotypic female with 46,XY complete androgen insensitivity syndrome (testosterone 1,980 ng/dL, estradiol 1,380.8 pg/mL) had a gonadal tumor composed primarily of juvenile-type granulosa cells with a Sertoli component under 50% (gynandroblastoma), plus vulvar leiomyomas; the authors advise monitoring AIS patients for gonadal tumors.
+relevance_to_jgct: Juvenile-type granulosa cells in a gonadal tumor of androgen insensitivity syndrome.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

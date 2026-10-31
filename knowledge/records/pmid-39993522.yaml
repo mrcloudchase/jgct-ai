@@ -1,0 +1,40 @@
+source_id: '39993522'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39993522/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/39993522/
+language: en
+pmid: '39993522'
+doi: 10.1016/j.jpag.2025.02.006
+pmcid: null
+title: 'Isolated Inhibin-Producing Granulosa Cell Tumor Causing Primary Amenorrhea: A Case Report'
+journal: Journal of pediatric and adolescent gynecology
+year: 2025
+first_author: Pollie MP
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years
+alterations: []
+treatments:
+- regimen: Right salpingo-oophorectomy
+  setting: 1.6 cm inhibin-producing JGCT in a mildly enlarged ovary
+  n: 1
+  outcome: Menarche 2 months after surgery
+presentation:
+- primary amenorrhea
+- suppressed FSH, elevated LH, normal estradiol, markedly elevated inhibin B
+key_findings:
+- A 15-year-old with primary amenorrhea had suppressed FSH, raised LH, normal estradiol and markedly raised inhibin B; imaging showed only a 1.6 cm "follicle" in a mildly enlarged ovary; salpingo-oophorectomy revealed JGCT and menarche followed 2 months later.
+relevance_to_jgct: An isolated inhibin-producing JGCT too small to look like a tumor, causing primary amenorrhea.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

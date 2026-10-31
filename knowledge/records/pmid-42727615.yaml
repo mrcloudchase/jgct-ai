@@ -1,0 +1,38 @@
+source_id: '42727615'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/42727615/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/42727615/
+language: en
+pmid: '42727615'
+doi: 10.1016/j.humpath.2026.106260
+pmcid: null
+title: Detection of androgen receptor (AR) splice variants across diverse prostatic and non-prostatic tumor types using the TruSight Oncology 500 (TSO500) assay
+journal: Human pathology
+year: 2026
+first_author: Pitel BA
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations:
+- gene: AR
+  alteration: splice variants including AR-V7
+  frequency: 1 JGCT among 46 of 5,573 tumors
+  notes: pan-cancer RNA panel
+treatments: []
+presentation: []
+key_findings:
+- Androgen receptor splice variants were detected in 46 of 5,573 solid tumors profiled with a 515-gene DNA and 55-gene RNA panel, enriched in prostate (18.2%), breast (8.2%) and salivary duct carcinoma, with rare occurrences in a lacrimal gland carcinoma and a juvenile granulosa cell tumor; AR-V7 was present in all 46.
+relevance_to_jgct: A single JGCT with androgen receptor splice variants in a pan-cancer screen.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

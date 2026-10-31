@@ -1,0 +1,38 @@
+source_id: '40930934'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/40930934/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/40930934/
+language: fr
+pmid: '40930934'
+doi: 10.1016/j.bulcan.2025.07.017
+pmcid: null
+title: '[Understanding biology to identify new therapeutic targets beyond chemotherapy in ovarian granulosa cell tumors]'
+journal: Bulletin du cancer
+year: 2026
+first_author: Endale Ahanda S
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: AKT1
+  alteration: mutation
+  frequency: about 60% of JGCT (review figure)
+  notes: clinical significance unexplored
+treatments: []
+presentation: []
+key_findings:
+- 'French review of granulosa cell tumor biology beyond chemotherapy: juvenile tumors are about 5% of GCT; molecular analysis found about 60% of JGCT carry an AKT1 mutation of unexplored clinical significance; the CDK4/6-Rb1 axis is proposed as a target for both subtypes.'
+relevance_to_jgct: Review of therapeutic targets citing AKT1 in about 60% of JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

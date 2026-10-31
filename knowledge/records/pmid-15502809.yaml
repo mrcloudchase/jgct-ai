@@ -1,0 +1,34 @@
+source_id: '15502809'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/15502809/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/15502809/
+language: en
+pmid: '15502809'
+doi: 10.1038/modpathol.3800311
+pmcid: null
+title: 'Sex cord-stromal tumors of the ovary and testis: their similarities and differences with consideration of selected problems'
+journal: 'Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc'
+year: 2005
+first_author: Young RH
+study_type: review
+tumor_site: both
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review comparing sex cord-stromal tumors of ovary and testis: granulosa cell tumors in both gonads divide into adult and juvenile forms; the juvenile granulosa cell tumor of the testis tends to occur in the first 6 months of life and must be distinguished from yolk sac tumor, which occurs slightly later; sex cord tumors are EMA-negative and inhibin- and calretinin-positive, the converse of endometrioid carcinoma.'
+relevance_to_jgct: Expert comparison of ovarian and testicular JGCT and the yolk sac differential.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
