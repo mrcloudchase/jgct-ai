@@ -62,4 +62,5 @@ patients:
   relapse: null
   outcome: unknown
   follow_up_months: null
-  notes: 'classification uncertain: age 33, no immunohistochemistry; authors call it IA while describing capsular rupture and ascites; completion surgery was radical (hysterectomy, bilateral adnexectomy, nodes, omentum); diagnosis without IHC or mitotic counts'
+  notes: 'classification uncertain: age 33, no immunohistochemistry; authors call it IA while describing capsular rupture and ascites; completion surgery was radical (hysterectomy, bilateral adnexectomy, nodes, omentum); diagnosis without IHC or mitotic counts; paper reports capsular rupture and moderate ascites yet calls the tumor stage 1a'
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

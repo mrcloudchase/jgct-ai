@@ -64,3 +64,4 @@ patients:
   relapse: null
   outcome: unknown
   notes: IIIA2 with positive iliac nodes and ascitic cells; no follow-up
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

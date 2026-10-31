@@ -60,6 +60,7 @@ patients:
   chemotherapy: null
   outcome: unknown
   notes: conference abstract; staged at laparotomy, stage not given
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: patient 2
   sex: F
   age_years: 25
@@ -72,3 +73,4 @@ patients:
   chemotherapy: null
   outcome: unknown
   notes: conference abstract
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

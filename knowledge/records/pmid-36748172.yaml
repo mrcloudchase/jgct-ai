@@ -74,6 +74,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: Istanbul series; patients 1, 2 and 4 were stage IA, IA and IC1 (assignment not stated), none had chemotherapy, no recurrence at 96, 12 and 24 months; tumor sizes 14, 11, 24, 30 and 19 cm for patients 1 to 5
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: patient 2
   sex: F
   age_years: 16
@@ -90,6 +91,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: see patient 1
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: patient 3
   sex: F
   age_years: 16
@@ -108,6 +110,7 @@ patients:
   outcome: NED
   follow_up_months: 61
   notes: contralateral 10 cm mass at 12 months with final histology gynandroblastoma; no evidence of disease 49 months after second surgery
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: patient 4
   sex: F
   age_years: 15
@@ -124,6 +127,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: see patient 1
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: patient 5
   sex: F
   age_years: 25
@@ -143,3 +147,4 @@ patients:
   outcome: NED
   follow_up_months: 60
   notes: isolated 10 cm left ovarian recurrence resected; no evidence of disease 12 months after second surgery
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

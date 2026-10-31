@@ -66,3 +66,4 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: testosterone-secreting; tumor cells at the enucleation coagulation line, no tumor in the completion specimen; stage given as at least T1a
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

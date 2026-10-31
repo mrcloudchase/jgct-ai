@@ -65,3 +65,4 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: diagnosed at 37 weeks of pregnancy; removed at cesarean section; first follow-up only
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

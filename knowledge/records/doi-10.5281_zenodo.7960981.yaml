@@ -65,3 +65,4 @@ patients:
   chemo_setting: unknown
   outcome: unknown
   notes: provisional pT1a despite tubal infiltration and enlarged nodes; referred to oncology; no follow-up
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

@@ -63,3 +63,4 @@ patients:
   outcome: NED
   follow_up_months: 2.5
   notes: Indonesian case; hormones normalized
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

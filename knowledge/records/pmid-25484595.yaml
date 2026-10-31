@@ -62,3 +62,4 @@ patients:
   outcome: NED
   follow_up_months: 24
   notes: cesarean at 32 weeks with adnexectomy, omentectomy, 19 negative nodes; stage not stated
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

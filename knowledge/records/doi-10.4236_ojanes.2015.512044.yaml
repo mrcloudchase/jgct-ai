@@ -58,3 +58,4 @@ patients:
   chemotherapy: null
   outcome: unknown
   notes: anaesthesia case report; 2900 g mass; no follow-up
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

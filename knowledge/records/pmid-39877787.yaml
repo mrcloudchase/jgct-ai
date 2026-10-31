@@ -54,7 +54,7 @@ patients:
   stage_system: TNM (pT1a)
   rupture: none
   malignant_ascites: false
-  mitoses_per_10hpf: 10.5
+  mitoses_per_10hpf: 6
   tumor_size_cm: 11.45
   presentation:
   - precocious_puberty
@@ -65,4 +65,5 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: 12
-  notes: mitoses 6 to 15 per 10 HPF
+  notes: mitoses 6 to 15 per 10 HPF; lower bound of the stated range recorded
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

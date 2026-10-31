@@ -67,3 +67,4 @@ patients:
   outcome: NED
   follow_up_months: 30
   notes: 7 to 9 mitoses per high-power field as written
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

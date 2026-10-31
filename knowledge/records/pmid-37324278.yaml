@@ -69,3 +69,4 @@ patients:
   outcome: NED
   follow_up_months: 24
   notes: hormones normal to 2 years; imaging follow-up stated at 3 months
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

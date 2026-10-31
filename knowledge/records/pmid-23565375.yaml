@@ -61,3 +61,4 @@ patients:
   outcome: NED
   follow_up_months: 6
   notes: right tubo-ovarian mass resected; histology only 'suggestive of' JGCT
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

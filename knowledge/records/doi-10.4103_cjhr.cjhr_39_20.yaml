@@ -68,3 +68,4 @@ patients:
   outcome: NED
   follow_up_months: 12
   notes: authors staged IC for a capsular rent found at surgery with blood-tinged ascites; cytology negative
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

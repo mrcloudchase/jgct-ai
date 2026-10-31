@@ -55,11 +55,12 @@ patients:
   presentation:
   - pregnancy
   - abdominal_pain
-  surgery: other
+  surgery: cystectomy_or_enucleation
   chemotherapy: advised, not yet given at report
   chemo_setting: unknown
   relapse: true
   relapse_months: 3
   outcome: AWD
   follow_up_months: null
-  notes: 'classification uncertain: age 35, no molecular confirmation; ruptured capsule at resection at 14 weeks of pregnancy; recurrence at 3 months, hysterectomy after delivery, ascites later; age atypical, no molecular confirmation'
+  notes: 'classification uncertain: age 35, no molecular confirmation; ruptured capsule at resection at 14 weeks of pregnancy; recurrence at 3 months, hysterectomy after delivery, ascites later; age atypical, no molecular confirmation; cystectomy at 14 weeks of pregnancy, ovariotomy at the 3-month recurrence, then hysterectomy with salpingo-oophorectomy; rupture timing not stated'
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

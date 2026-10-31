@@ -60,3 +60,4 @@ patients:
   outcome: NED
   follow_up_months: 7
   notes: central precocious puberty diagnosed 4 months before the tumor
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

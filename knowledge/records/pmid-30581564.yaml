@@ -64,3 +64,4 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: capsule torn at dissection with spillage; stage II only in the summary table; follow-up duration not given
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

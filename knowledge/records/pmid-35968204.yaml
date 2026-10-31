@@ -52,3 +52,4 @@ patients:
   chemotherapy: null
   outcome: unknown
   notes: letter; no treatment or outcome
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

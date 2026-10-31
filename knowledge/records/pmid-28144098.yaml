@@ -65,3 +65,4 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: enchondromas mistaken for metastases on MRI; follow-up duration not stated
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

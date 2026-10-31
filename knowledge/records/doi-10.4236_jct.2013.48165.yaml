@@ -67,3 +67,4 @@ patients:
   outcome: DOD
   follow_up_months: 6
   notes: laparoscopic resection; relapse during BEP; lung metastases; stage IIIC stated at relapse
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

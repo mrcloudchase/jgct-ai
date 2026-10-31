@@ -64,6 +64,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: serous effusion at surgery; stage not formally stated; follow-up duration not given
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: case 2
   sex: F
   age_years: 11
@@ -82,3 +83,4 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: laparoscopic cystectomy then adnexectomy with peritoneal biopsies; pT1a
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

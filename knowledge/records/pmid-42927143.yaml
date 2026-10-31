@@ -70,3 +70,4 @@ patients:
   outcome: NED
   follow_up_months: 12
   notes: inhibin B over 5000 pg/mL; pedicle twisting on MRI
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

@@ -50,6 +50,7 @@ patients:
   chemotherapy: null
   outcome: unknown
   notes: perinatal tumor cohort; first sign between 29 days and 3 months; local extension only; treatment and outcome not reported
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: testicular JGCT
   sex: M
   age_years: 0.2
@@ -62,3 +63,4 @@ patients:
   chemotherapy: null
   outcome: unknown
   notes: see ovarian entry
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

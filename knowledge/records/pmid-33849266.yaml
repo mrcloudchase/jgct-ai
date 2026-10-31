@@ -79,5 +79,6 @@ patients:
   chemo_setting: none
   relapse: false
   outcome: NED
-  follow_up_months: 72
-  notes: bilateral ovarian enlargement preceded the unilateral tumor; GNAS, AKT1 and FOXL2 hotspots negative
+  follow_up_months: 68
+  notes: bilateral ovarian enlargement preceded the unilateral tumor; GNAS, AKT1 and FOXL2 hotspots negative; surgery at about 2.45 years, last review at 8.1 years
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

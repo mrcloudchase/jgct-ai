@@ -53,6 +53,7 @@ patients:
   chemotherapy: none
   chemo_setting: none
   relapse: null
-  outcome: NED
+  outcome: unknown
   follow_up_months: null
-  notes: surgical resection, extent not stated; under observation
+  notes: surgical resection, extent not stated; under observation; under oncological observation at report; disease status not stated
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

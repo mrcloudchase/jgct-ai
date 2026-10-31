@@ -4,14 +4,16 @@
 
 **Dataset.** 156 patient rows from 118 records (full-text case reports, small series and complete meeting abstracts). 2 rows from 2 records were dropped as duplicate reports of the same patients (url-d9e99f99c3cf, url-f1a86961fa15). 5 rows whose juvenile classification the source itself leaves uncertain were set aside (doi-10.17352_ijsrhc.000044, doi-10.32677_ijcr.v10i2.4357, pmid-30123871, pmid-38513413, url-a3c143927c76). Analysed: **149 patients** (133 ovarian, 16 testicular) from 111 records.
 
+**Verification.** The `source_check` column says what each row was checked against and when. 143 of 156 rows were re-read against the paper's own text by the agent after extraction, with corrections and the reason for every judgement call written into `notes`. 13 rows from 5 records could not be re-checked because no full text could be fetched this run (doi-10.15296_ijwhr.2013.12, doi-10.22037_irjps.v9i1.35714, url-991aeae8d365, url-a3204c897af7, url-d9e99f99c3cf). No row has been checked by a human.
+
 **Biases to keep in mind.** These are published cases: unusual presentations, syndromes, pregnancies, relapses and adult-age tumors are over-represented, and follow-up is short or missing in many. Proportions below describe the published literature, not the disease. The registry cohorts in [pooled-cohorts.md](pooled-cohorts.md) are the better guide to frequencies.
 
 ## Ovarian cases
 
 ### Age
 
-Age stated for 105 of 133: median 13.0 years (range 0.20 to 66). 
-18 and over: 27. 8 to 17: 36. age not stated: 28. under 8: 42.
+Age stated for 104 of 133: median 13.0 years (range 0.20 to 65). 
+18 and over: 28. 8 to 17: 34. age not stated: 29. under 8: 42.
 
 ### Presentation by age group
 
@@ -19,24 +21,24 @@ Denominators are patients in each age group with any presentation recorded.
 
 | feature | under 8 | 8 to 17 | 18 and over |
 |---|---|---|---|
-| precocious puberty | 34/40 (85%) | 4/34 (12%) | 0/25 (0%) |
-| virilization | 2/40 (5%) | 5/34 (15%) | 4/25 (16%) |
-| abdominal pain | 6/40 (15%) | 10/34 (29%) | 10/25 (40%) |
-| abdominal mass or distension | 24/40 (60%) | 19/34 (56%) | 14/25 (56%) |
-| menstrual change | 0/40 (0%) | 15/34 (44%) | 2/25 (8%) |
-| torsion | 4/40 (10%) | 2/34 (6%) | 2/25 (8%) |
-| rupture or hemoperitoneum | 1/40 (2%) | 1/34 (3%) | 4/25 (16%) |
-| ascites | 6/40 (15%) | 6/34 (18%) | 8/25 (32%) |
-| pregnancy | 0/40 (0%) | 1/34 (3%) | 6/25 (24%) |
-| incidental | 0/40 (0%) | 2/34 (6%) | 2/25 (8%) |
+| precocious puberty | 34/40 (85%) | 4/33 (12%) | 0/25 (0%) |
+| virilization | 2/40 (5%) | 5/33 (15%) | 4/25 (16%) |
+| abdominal pain | 6/40 (15%) | 9/33 (27%) | 10/25 (40%) |
+| abdominal mass or distension | 24/40 (60%) | 19/33 (58%) | 14/25 (56%) |
+| menstrual change | 0/40 (0%) | 15/33 (45%) | 2/25 (8%) |
+| torsion | 4/40 (10%) | 2/33 (6%) | 2/25 (8%) |
+| rupture or hemoperitoneum | 1/40 (2%) | 1/33 (3%) | 4/25 (16%) |
+| ascites | 6/40 (15%) | 6/33 (18%) | 8/25 (32%) |
+| pregnancy | 0/40 (0%) | 0/33 (0%) | 6/25 (24%) |
+| incidental | 0/40 (0%) | 2/33 (6%) | 2/25 (8%) |
 
 ### Stage at diagnosis (as the source states it)
 
 | stage | patients |
 |---|---|
-| I | 8 |
+| I | 7 |
 | IA | 46 |
-| IC | 14 |
+| IC | 13 |
 | IC1 | 2 |
 | IC2 | 7 |
 | IC3 | 1 |
@@ -44,9 +46,9 @@ Denominators are patients in each age group with any presentation recorded.
 | IIIA | 2 |
 | IIIB | 2 |
 | IIIC | 4 |
-| not stated | 46 |
+| not stated | 48 |
 
-Among 87 staged patients, 78/87 (90%) were stage I (Wilson 95% CI 81 to 94%); the registries report about four in five. Published cases over-represent advanced disease.
+Among 85 staged patients, 76/85 (89%) were stage I (Wilson 95% CI 81 to 94%); the registries report about four in five. Published cases over-represent advanced disease.
 
 ### Treatment
 
@@ -55,22 +57,22 @@ Surgery: unilateral salpingo-oophorectomy 50; unknown 32; oophorectomy 21; other
 | stage group | patients | adjuvant chemotherapy | no adjuvant chemotherapy | not stated |
 |---|---|---|---|---|
 | IA/IB | 46 | 3 | 37 | 3 |
-| IC (any) | 24 | 11 | 3 | 8 |
-| I, substage not stated | 8 | 1 | 5 | 2 |
+| IC (any) | 23 | 10 | 3 | 8 |
+| I, substage not stated | 7 | 1 | 4 | 2 |
 | II to IV | 9 | 4 | 2 | 2 |
-| not stated | 46 | 3 | 24 | 19 |
+| not stated | 48 | 4 | 25 | 19 |
 
 ### Outcome by stage
 
 | stage group | patients | NED | alive with disease | died of disease | died, other cause | unknown | relapsed | median follow-up, months |
 |---|---|---|---|---|---|---|---|---|
-| IA/IB | 46 | 40 | 0 | 3 | 0 | 3 | 5 | 20 (n=26) |
-| IC (any) | 24 | 22 | 2 | 0 | 0 | 0 | 3 | 14 (n=10) |
-| I, substage not stated | 8 | 6 | 0 | 1 | 0 | 1 | 1 | 48 (n=3) |
+| IA/IB | 46 | 39 | 0 | 3 | 0 | 4 | 5 | 18 (n=24) |
+| IC (any) | 23 | 21 | 2 | 0 | 0 | 0 | 3 | 14 (n=10) |
+| I, substage not stated | 7 | 5 | 0 | 1 | 0 | 1 | 1 | 48 (n=2) |
 | II to IV | 9 | 3 | 0 | 3 | 0 | 3 | 4 | 6 (n=5) |
-| not stated | 46 | 18 | 0 | 2 | 1 | 25 | 2 | 6 (n=12) |
+| not stated | 48 | 19 | 0 | 2 | 1 | 26 | 2 | 7 (n=13) |
 
-Among 101 ovarian patients with a stated outcome, 9/101 (9%) died of disease (Wilson 95% CI 5 to 16%). Short follow-up in many NED rows makes this a lower bound on relapse and death.
+Among 99 ovarian patients with a stated outcome, 9/99 (9%) died of disease (Wilson 95% CI 5 to 16%). Short follow-up in many NED rows makes this a lower bound on relapse and death.
 
 ### Timing of relapse
 
@@ -78,7 +80,7 @@ Among 101 ovarian patients with a stated outcome, 9/101 (9%) died of disease (Wi
 
 ### Stage IC: adjuvant chemotherapy and relapse, counted but not compared
 
-Of 24 stage IC patients, 11 received adjuvant chemotherapy (1 relapsed, 0 with unknown outcome) and 3 did not (0 relapsed, 0 unknown); the rest do not state chemotherapy. These counts are not a comparison: patients who received chemotherapy were selected for it, follow-up differs, rupture timing and substage are often missing, and the numbers are tiny. See the protocol for why no effect is estimated.
+Of 23 stage IC patients, 10 received adjuvant chemotherapy (1 relapsed, 0 with unknown outcome) and 3 did not (0 relapsed, 0 unknown); the rest do not state chemotherapy. These counts are not a comparison: patients who received chemotherapy were selected for it, follow-up differs, rupture timing and substage are often missing, and the numbers are tiny. See the protocol for why no effect is estimated.
 
 ### Mitotic index
 
@@ -90,11 +92,11 @@ Donohue syndrome (pmid-25153212); Ollier disease (pmid-28144098); Ollier disease
 
 ### Pregnancy-associated cases
 
-8 cases: age 26, stage IA, NED (doi-10.18203_2320-1770.ijrcog20200395); age 17, stage IA, NED (doi-10.5350_semb2013470410); age 19, stage IC2, NED (doi-10.59692_jogeca.v36i1.90); age not stated, stage I, DOD (pmid-18205951); age 24, stage not stated, NED (pmid-25484595); age 33, stage IIIB, NED (pmid-36992983); age 28, stage IC2, NED (pmid-37426562); age 28, stage IA, NED (pmid-41797949).
+8 cases: age 26, stage IA, NED (doi-10.18203_2320-1770.ijrcog20200395); age not stated, stage IA, NED (doi-10.5350_semb2013470410); age 19, stage IC2, NED (doi-10.59692_jogeca.v36i1.90); age not stated, stage I, DOD (pmid-18205951); age 24, stage not stated, NED (pmid-25484595); age 33, stage IIIB, NED (pmid-36992983); age 28, stage IC2, NED (pmid-37426562); age 28, stage IA, NED (pmid-41797949).
 
 ## Testicular cases
 
-16 boys; age stated for 16, median 0.1 months (range 0.0 to 5 months). Surgery: orchiectomy 10; testis sparing 3; unknown 2; other 1. Outcomes: NED 11, unknown 5; no relapse, metastasis or death in any row; chemotherapy in none.
+16 boys; age stated for 16, median 0.1 months (range 0.0 to 5 months). Surgery: orchiectomy 10; testis sparing 3; unknown 2; other 1. Outcomes: NED 10, unknown 6; no relapse, metastasis or death in any row; chemotherapy in none.
 
 ## Records contributing patients
 

@@ -57,3 +57,4 @@ patients:
   outcome: NED
   follow_up_months: 0.25
   notes: newborn; partial orchiectomy; discharged day 8
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

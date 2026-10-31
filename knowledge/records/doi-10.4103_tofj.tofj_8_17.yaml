@@ -47,7 +47,7 @@ patients:
   sex: F
   age_years: 25
   site: ovary
-  stage: IC
+  stage: null
   stage_system: FIGO (pre-2014)
   rupture: preoperative
   presentation:
@@ -60,4 +60,5 @@ patients:
   relapse: false
   outcome: NED
   follow_up_months: null
-  notes: upstaged for rupture, substage not stated; two live births afterwards; follow-up 'to date'
+  notes: upstaged for rupture, substage not stated; two live births afterwards; follow-up 'to date'; FIGO stage not stated; only 'upstaged' for capsule rupture
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

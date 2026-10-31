@@ -45,7 +45,7 @@ reviewed_on: null
 patients:
 - id: patient 3
   sex: F
-  age_years: 10
+  age_years: 18
   site: ovary
   stage: null
   presentation: []
@@ -56,4 +56,5 @@ patients:
   relapse_months: null
   outcome: DOD
   follow_up_months: 108
-  notes: age at primary estimated from 'recurred repeatedly over 8 years' before HIPEC at 18; died 12 months after HIPEC with enterocutaneous fistula
+  notes: age at primary estimated from 'recurred repeatedly over 8 years' before HIPEC at 18; died 12 months after HIPEC with enterocutaneous fistula; table gives age 18 at diagnosis; repeated recurrences over about 8 years before HIPEC, died 12 months after it
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it

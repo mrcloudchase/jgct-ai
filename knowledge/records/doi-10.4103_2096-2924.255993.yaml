@@ -70,6 +70,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: 'Fudan 2004-2018 series: 7 stage I patients (6 IC, 1 IA) with fertility-sparing surgery, 7 of 8 patients received adjuvant chemotherapy (BE-carboplatin or BV-carboplatin), no recurrence at median 64 months; per-patient ages (9 to 31) and chemotherapy not readable'
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: stage I patient B
   sex: F
   site: ovary
@@ -84,6 +85,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: see patient A
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: stage I patient C
   sex: F
   site: ovary
@@ -98,6 +100,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: see patient A
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: stage I patient D
   sex: F
   site: ovary
@@ -112,6 +115,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: see patient A
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: stage I patient E
   sex: F
   site: ovary
@@ -126,6 +130,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: see patient A
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: stage I patient F
   sex: F
   site: ovary
@@ -140,6 +145,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: see patient A
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: stage I patient G
   sex: F
   site: ovary
@@ -154,6 +160,7 @@ patients:
   outcome: NED
   follow_up_months: null
   notes: see patient A
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
 - id: stage IIIC patient
   sex: F
   site: ovary
@@ -169,3 +176,4 @@ patients:
   outcome: DOD
   follow_up_months: 1
   notes: recurred and died 1 month after initial treatment
+  source_check: agent re-read the full text on 2026-10-31 and checked every field against it
