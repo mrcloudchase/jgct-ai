@@ -30,8 +30,10 @@ reviewing your pull requests. Main is protected.
   where they disagree, and what is unknown. Rewritten whenever the records
   behind it change.
 - `knowledge/summary/`: `clinicians.md` and `families.md`, cited overviews of
-  the whole base for the two audiences, linking into the topics. Plain language
-  for families. Neither is medical advice.
+  the whole base for the two audiences, linking into the topics. Each opens
+  with the gist: the dozen things its reader most needs to know, in plain
+  sentences, before any detail. Plain language for families. Neither is
+  medical advice.
 - `site/build.py` builds the readable site from all of the above; the Pages
   workflow publishes it from main on every merge. It is for readers, not for
   you. Keep it working and improve it as the base grows.

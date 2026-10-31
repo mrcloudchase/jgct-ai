@@ -3,6 +3,21 @@
 
 This is a synthesis of recorded sources, not medical advice, and every record is a draft until a human has checked it. The bracketed codes point to the sources, so you can show a paragraph to a doctor.
 
+### The gist
+
+- JGCT is a rare tumor of the hormone-making cells of the ovary. In baby boys it can occur in the testicle [pmid-40272823, pmid-40267023].
+- Most girls are found because the tumor makes estrogen: early breast growth or bleeding in young girls, a swollen or painful belly in older girls [pmid-40272823, pmid-40267023].
+- About four in five tumors are still inside one ovary (stage I) when found [pmid-40267023, pmid-40272823].
+- Treatment is an operation to remove the affected ovary and its tube. The other ovary and the womb stay, so puberty, periods and pregnancy remain possible [pmid-42504512, pmid-35437273].
+- Most children with stage I disease need no chemotherapy. Chemotherapy (cisplatin-based, 3 to 4 courses) is advised when the tumor burst before surgery, when tumor cells are found in the belly fluid, or when it has spread [pmid-42504512].
+- Experts disagree about chemotherapy in some in-between situations, such as a tumor that burst before surgery but did not spread [pmid-40350706, pmid-41367860, pmid-42504512].
+- In the largest modern group of girls, 97 in 100 were alive five years later [pmid-40272823]. In an international group of 70, about 1 in 5 had the tumor come back, almost always within two years [pmid-40267023].
+- The microscope finding that best predicts return is a high "mitotic index". Ask for it, and for the exact stage (IA, IC1, IC2, IC3), because the chemotherapy decision rests on them [pmid-40267023, pmid-40272823, pmid-42504512].
+- Check-ups are an ultrasound and blood tests (inhibin) about every 3 months for the first two years, then less often [pmid-42504512].
+- Signs of early puberty fade after surgery. Occasionally real puberty then starts early, so an endocrinologist keeps watching [pmid-41367860, pmid-35371651].
+- In baby boys the testicular form is benign: surgery alone, and no spread has ever been reported [pmid-32719989, pmid-40272823].
+- Almost no families have an inherited cause. A few conditions (Ollier disease, Maffucci syndrome, McCune-Albright syndrome, DICER1 changes) are linked, and doctors may suggest genetic tests [pmid-42504512, url-1b49311e69d4, pmid-37324278].
+
 ### What is a juvenile granulosa cell tumor?
 
 A **tumor** is a lump of cells growing where they should not. "Granulosa cells" are cells in the ovary that normally help eggs grow and make the hormone **estrogen**. A juvenile granulosa cell tumor (JGCT) starts from these kinds of cells. It mostly affects children and young people [pmid-40272823, pmid-40267023]. In boys it can grow in the testis, almost always in babies [pmid-40272823, pmid-32719989]. It is rare. Among ovarian tumors that start from these hormone-making cells, it is the most common kind in children [pmid-22525408, url-3b3cdea64edb]. It is a different disease from the "adult" granulosa cell tumor of older women [pmid-23641362, pmid-42504512].
