@@ -1,0 +1,36 @@
+source_id: '11938428'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/11938428/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/11938428/
+language: en
+pmid: '11938428'
+doi: null
+pmcid: null
+title: Precocious puberty in a female with Proteus Syndrome
+journal: Saudi medical journal
+year: 2002
+first_author: Ezzeldin KM
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 7 months
+alterations: []
+treatments: []
+presentation:
+- precocious puberty
+- Proteus syndrome
+key_findings:
+- A 7-month-old girl with Proteus syndrome developed a juvenile granulosa cell tumor in one ovary causing precocious puberty, reported as the first Proteus syndrome case with precocious puberty in a female.
+relevance_to_jgct: JGCT in Proteus syndrome, a mosaic overgrowth disorder.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

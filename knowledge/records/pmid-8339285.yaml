@@ -1,0 +1,34 @@
+source_id: '8339285'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/8339285/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/8339285/
+language: en
+pmid: '8339285'
+doi: null
+pmcid: null
+title: Granulosa cell tumorigenesis in genetically hypogonadal-immunodeficient mice grafted with ovaries from tumor-susceptible donors
+journal: Cancer research
+year: 1993
+first_author: Beamer WG
+study_type: genomic
+tumor_site: other
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Ovaries from tumor-susceptible SWR/SWXJ mice (a model of human juvenile granulosa cell tumors) grafted into syngeneic or immune-deficient hosts formed spontaneous tumors independent of the immune system, only before ovarian maturation, and only with gonadotropin support or dehydroepiandrosterone treatment, suggesting ovarian androgens initiate tumorigenesis.
+relevance_to_jgct: Mouse model evidence that androgens may initiate juvenile-type granulosa cell tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

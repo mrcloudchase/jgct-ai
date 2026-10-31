@@ -1,0 +1,38 @@
+source_id: '14674109'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/14674109/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/14674109/
+language: pl
+pmid: '14674109'
+doi: null
+pmcid: null
+title: '[Granulosa cell tumor in different periods of women''s life]'
+journal: Ginekologia polska
+year: 2003
+first_author: Chudecka-Głaz A
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: 4-7 years (juvenile cases)
+alterations: []
+treatments:
+- regimen: Sparing surgery; chemotherapy in one with atypia and many mitoses; radiotherapy in one
+  setting: 4 girls with JGCT, Poland
+  n: 4
+  outcome: A 4-year-old died 18 months after diagnosis of rapid recurrence; 3 alive without disease, longest follow-up 36 years
+presentation: []
+key_findings:
+- Of 22 granulosa cell tumor patients in Szczecin, 4 had juvenile tumors at ages 4 to 7, all treated with sparing surgery; the 4-year-old with atypia and many mitoses received chemotherapy and died 18 months after diagnosis of a dynamic recurrence; the other 3 were alive without disease, one followed 36 years; adult-type recurrences came at a mean 11.7 years; inhibin B tracked disease status (Polish).
+relevance_to_jgct: Early fatal relapse of a mitotically active JGCT versus very long disease-free survival in three others.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

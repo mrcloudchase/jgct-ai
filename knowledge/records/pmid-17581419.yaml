@@ -1,0 +1,34 @@
+source_id: '17581419'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/17581419/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/17581419/
+language: en
+pmid: '17581419'
+doi: 10.1097/01.pgp.0000236947.59463.87
+pmcid: null
+title: CD56 is a sensitive and diagnostically useful immunohistochemical marker of ovarian sex cord-stromal tumors
+journal: 'International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists'
+year: 2007
+first_author: McCluggage WG
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 8
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- CD56 was positive in all but one of 85 ovarian sex cord-stromal tumors including all 8 juvenile granulosa cell tumors, usually diffusely and membranous; it cannot separate sex cord-stromal from neuroendocrine neoplasms but is a sensitive marker when inhibin or calretinin are negative.
+relevance_to_jgct: CD56 stains JGCT; useful when inhibin or calretinin fail.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

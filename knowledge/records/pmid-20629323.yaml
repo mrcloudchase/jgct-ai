@@ -1,0 +1,37 @@
+source_id: '20629323'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20629323/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/20629323/
+language: zh
+pmid: '20629323'
+doi: null
+pmcid: null
+title: '[Clinical and pathological analysis on ovarian granulosa cell tumors]'
+journal: Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition
+year: 2010
+first_author: You XL
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 9
+age_range: median 25 years for juvenile type
+alterations: []
+treatments: []
+presentation:
+- abdominal pain (44.7% of all)
+- vaginal bleeding (42.1%)
+- abdominal mass (76.3%)
+key_findings:
+- Of 38 newly diagnosed ovarian granulosa cell tumors in Chengdu (2001 to 2009; 3.13% of ovarian cancers), 29 were adult type (median age 53) and 9 juvenile (median age 25); stage I 73.7%, II 23.7%, III 2.6%; 10 had conservative surgery; no deaths in 7 to 175 months of follow-up (14 lost); inhibin, calretinin and vimentin were useful markers (Chinese).
+relevance_to_jgct: Nine JGCT in a Chinese series with no deaths over follow-up.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

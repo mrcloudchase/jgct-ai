@@ -1,0 +1,34 @@
+source_id: '9416696'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9416696/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9416696/
+language: en
+pmid: '9416696'
+doi: 10.1016/s0046-8177(97)90229-x
+pmcid: null
+title: Value of inhibin in the identification of granulosa cell tumors of the ovary
+journal: Human pathology
+year: 1997
+first_author: Hildebrandt RH
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Inhibin-alpha immunoreactivity in 33 of 35 adult and juvenile granulosa cell tumors (94%), 71% of fibroma-thecomas and 94% of other sex cord-stromal proliferations, versus 17% of endometrioid tumors and 18% of undifferentiated carcinomas; luteinized stromal cells in many tumors also stain.
+relevance_to_jgct: Early validation of inhibin as a granulosa cell tumor marker.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

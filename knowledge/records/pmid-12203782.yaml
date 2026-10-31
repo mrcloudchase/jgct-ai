@@ -1,0 +1,34 @@
+source_id: '12203782'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/12203782/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/12203782/
+language: en
+pmid: '12203782'
+doi: 10.1002/gcc.10108
+pmcid: null
+title: Evidence of a role for the INK4 family of cyclin-dependent kinase inhibitors in ovarian granulosa cell tumors
+journal: Genes, chromosomes & cancer
+year: 2002
+first_author: Arcellana-Panlilio MY
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Of 13 adult and 2 juvenile granulosa cell tumors, 7 of 12 adult tumors lacked INK4A and/or INK4B expression (one homozygous deletion, the rest promoter hypermethylation), while neither juvenile tumor showed altered expression of RB1, INK4A, INK4B, INK4C, INK4D or ARF.
+relevance_to_jgct: INK4 inactivation found in adult but not juvenile tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,34 @@
+source_id: '1765908'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/1765908/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/1765908/
+language: en
+pmid: '1765908'
+doi: 10.1016/0022-3468(91)91034-v
+pmcid: null
+title: Management of complex ovarian cysts presenting in the first year of life
+journal: Journal of pediatric surgery
+year: 1991
+first_author: Croitoru DP
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: first year of life
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Nine infants operated for ovarian cysts over 10 years: 6 diagnosed antenatally had complex cysts with torsion; of 3 diagnosed postnatally (1 day to 7 months), two had tubo-ovarian torsion and one a juvenile granulosa cell tumor; the authors recommend removing all complex ovarian cysts in infancy.'
+relevance_to_jgct: JGCT as a cause of a complex ovarian cyst in infancy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

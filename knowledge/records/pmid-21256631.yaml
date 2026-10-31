@@ -29,7 +29,8 @@ key_findings:
 - 'Fifteen testicular tumours in children 13 or under (1984 to 2008, Spain): 11 treated by tumourectomy including one juvenile granulosa tumour, and 4 radical orchiectomies for malignant tumours; benign tumours outnumbered malignant, and conservative surgery is advised when markers are negative.'
 relevance_to_jgct: Testis-sparing tumourectomy for a juvenile granulosa tumour.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-21040368
 superseded_by: null
 retracted: false
 notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.

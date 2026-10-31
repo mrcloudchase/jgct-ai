@@ -1,0 +1,34 @@
+source_id: '2302039'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/2302039/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/2302039/
+language: en
+pmid: '2302039'
+doi: null
+pmcid: null
+title: Chordoma metastatic to the ovary
+journal: Archives of pathology & laboratory medicine
+year: 1990
+first_author: Zukerberg LR
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- A sacral chordoma metastasized to the ovary 3.5 years after excision, simulating a juvenile granulosa cell tumor and an epithelioid smooth-muscle tumor.
+relevance_to_jgct: Metastatic chordoma as a rare mimic of JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

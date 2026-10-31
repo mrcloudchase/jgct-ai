@@ -1,0 +1,34 @@
+source_id: '9712426'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9712426/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9712426/
+language: en
+pmid: '9712426'
+doi: 10.1016/s0046-8177(98)90454-3
+pmcid: null
+title: Müllerian inhibiting substance, alpha-inhibin, and CD99 expression in sex cord-stromal tumors and endometrioid ovarian carcinomas resembling sex cord-stromal tumors
+journal: Human pathology
+year: 1998
+first_author: Matias-Guiu X
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Mullerian inhibiting substance and inhibin were expressed by all 19 sex cord-stromal tumors, and CD99 by all adult and juvenile granulosa cell tumors but only focally by Sertoli-Leydig tumors; none of 7 endometrioid carcinomas resembling sex cord tumors expressed MIS or inhibin.
+relevance_to_jgct: CD99, MIS and inhibin separate JGCT from endometrioid mimics.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

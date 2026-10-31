@@ -1,0 +1,42 @@
+source_id: '8697433'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/8697433/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/8697433/
+language: en
+pmid: '8697433'
+doi: 10.1016/0165-4608(96)00077-5
+pmcid: null
+title: Monosomy 22 in two ovarian granulosa cell tumors
+journal: Cancer genetics and cytogenetics
+year: 1996
+first_author: Lindgren V
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations:
+- gene: chromosome 22
+  alteration: monosomy 22
+  frequency: both the adult and the juvenile tumor
+  notes: null
+- gene: chromosome 12
+  alteration: extra abnormal chromosome 12
+  frequency: juvenile tumor only
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- 'Karyotypes of one adult and one juvenile granulosa cell tumor: only the juvenile tumor had an extra abnormal chromosome 12, but both had monosomy 22, proposed as important in tumor genesis.'
+relevance_to_jgct: Monosomy 22 with abnormal chromosome 12 in a karyotyped JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

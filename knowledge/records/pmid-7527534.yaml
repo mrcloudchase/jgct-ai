@@ -1,0 +1,34 @@
+source_id: '7527534'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/7527534/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/7527534/
+language: en
+pmid: '7527534'
+doi: 10.1016/S0344-0338(11)80207-4
+pmcid: null
+title: Histogenetic consideration of ovarian sex cord-stromal tumors analyzed by expression pattern of cytokeratins, vimentin, and laminin. Correlation studies with human gonads
+journal: Pathology, research and practice
+year: 1994
+first_author: Park SH
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 5
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Thirty sex cord-stromal tumors including 5 juvenile granulosa cell tumors were compared with developing gonads for cytokeratins, vimentin and laminin; granulosa cell tumors, thecomas, fibromas and sclerosing stromal tumors expressed vimentin only.
+relevance_to_jgct: Intermediate-filament profile of JGCT in a histogenetic study.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

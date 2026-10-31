@@ -1,0 +1,34 @@
+source_id: '9158684'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9158684/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9158684/
+language: en
+pmid: '9158684'
+doi: 10.1097/00000478-199705000-00012
+pmcid: null
+title: Use of monoclonal antibody against human inhibin as a marker for sex cord-stromal tumors of the ovary
+journal: The American journal of surgical pathology
+year: 1997
+first_author: Rishi M
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 7
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Monoclonal inhibin antibody stained 31 of 32 adult, all 4 metastatic and all 7 juvenile granulosa cell tumors, and none of 7 small cell carcinomas of hypercalcemic type, 5 endometrial stromal sarcomas or 27 epithelial tumors; it cannot separate granulosa from Sertoli cell tumors.
+relevance_to_jgct: Inhibin separates JGCT from small cell carcinoma of hypercalcemic type.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

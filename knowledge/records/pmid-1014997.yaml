@@ -1,0 +1,40 @@
+source_id: '1014997'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/1014997/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/1014997/
+language: de
+pmid: '1014997'
+doi: null
+pmcid: null
+title: '[An unusual hormone-active avarian tumor in a 3-year-old girl]'
+journal: Zentralblatt fur Gynakologie
+year: 1976
+first_author: Breitenecker G
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 3 years
+alterations: []
+treatments:
+- regimen: Unilateral salpingo-oophorectomy
+  setting: 12 cm encapsulated left ovarian JGCT
+  n: 1
+  outcome: Precocity regressed; well at 3 years
+presentation:
+- sexual precocity
+- estradiol and progesterone at luteal-phase adult levels
+key_findings:
+- A 3-year-old with sexual precocity and adult luteal-phase estradiol and progesterone had a 12 cm encapsulated left ovarian tumor removed; ovarian vein estradiol 3,450 pg/mL and progesterone 70,000 pg/mL; histology with nests, bizarre nuclei, abundant mitoses, calcification and follicle-like structures was diagnosed as juvenile granulosa cell tumor (Scully); precocity regressed and she was well at 3 years (German).
+relevance_to_jgct: A 1976 case documenting ovarian-vein hormone levels in JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

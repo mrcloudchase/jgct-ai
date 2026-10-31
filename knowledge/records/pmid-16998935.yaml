@@ -1,0 +1,34 @@
+source_id: '16998935'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/16998935/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/16998935/
+language: en
+pmid: '16998935'
+doi: 10.1002/cncr.22213
+pmcid: null
+title: 'Ovarian small cell carcinoma of the hypercalcemic type in children and adolescents: a prognostically unfavorable but curable disease'
+journal: Cancer
+year: 2006
+first_author: Distelmaier F
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Eleven girls aged 9 to 22 with ovarian small cell carcinoma of the hypercalcemic type in the German MAKEI studies and Kiel registry (1994 to 2005): 8 had been misdiagnosed as germ cell tumor or juvenile granulosa cell tumor before review; all 4 followed without adjuvant therapy relapsed at 3 to 11 months; 4 given high-dose chemotherapy in first complete remission stayed in remission 7 to 73 months; 5 of 11 alive without disease.'
+relevance_to_jgct: SCCOHT is often first called JGCT; its management (multiagent and high-dose chemotherapy) differs sharply.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

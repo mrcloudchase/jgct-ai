@@ -1,0 +1,34 @@
+source_id: '11070112'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/11070112/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/11070112/
+language: en
+pmid: '11070112'
+doi: 10.1053/hupa.2000.18498
+pmcid: null
+title: Anti-Müllerian hormone is a specific marker of sertoli- and granulosa-cell origin in gonadal tumors
+journal: Human pathology
+year: 2000
+first_author: Rey R
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 7
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Anti-Mullerian hormone immunostaining was present, heterogeneously and usually in a minority of cells, in all 7 juvenile and 6 adult granulosa cell tumors and 3 metastases, in Sertoli cell tumors and gonadoblastomas, and in no other gonadal or extragonadal tumor.
+relevance_to_jgct: AMH is a specific tissue marker of granulosa origin, positive in all 7 JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
