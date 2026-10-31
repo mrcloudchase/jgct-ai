@@ -53,10 +53,31 @@ key_findings:
 - Authors call the progression from bilateral ovarian enlargement to unilateral JGCT a novel observation, cannot confirm or exclude McCune-Albright syndrome, and cite AKT1 duplications in 10/16 JGCT and GNAS mutations in 9/30 JGCT from other studies.
 relevance_to_jgct: Molecularly negative (GNAS, AKT1 exon 3, FOXL2) JGCT preceded by bilateral cystic ovarian enlargement; informs the uncertain relationship of JGCT with McCune-Albright signaling.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- url-b0153a2c356d
 superseded_by: null
 retracted: false
 notes: Estradiol in the cited paper is quoted in pg/mL; detection limit stated as <10 ng/mL (likely pg/mL, as printed). The figure legend for Fig 2 says 'right ovary' while text says left. Authors calculated ovarian volumes from ultrasound dimensions with assumptions; these are estimates. Possible MAS not excluded. The authors' gene-expression comparison (GEO dataset, B-Raf enrichment) is exploratory.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 2.17
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: none
+  malignant_ascites: false
+  tumor_size_cm: 12
+  presentation:
+  - precocious_puberty
+  - torsion
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 72
+  notes: bilateral ovarian enlargement preceded the unilateral tumor; GNAS, AKT1 and FOXL2 hotspots negative

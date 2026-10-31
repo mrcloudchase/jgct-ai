@@ -116,3 +116,13 @@ The maintainer asked that paywalled sources at least contribute their abstracts.
 - 169 records withdrawn on 2026-10-30 restored from git history as abstract records; 200 new abstract records written from PubMed, Semantic Scholar and Crossref abstracts (`tools/mkabstract.py`), covering every `needs_full_text` item whose abstract speaks about JGCT; three complete meeting abstracts recorded as full text. 98 JGCT-titled items have no abstract anywhere and stay `needs_full_text`; 29 items skipped as passing mentions.
 - Site: every citation of an abstract record carries a dagger; source pages, the sources list, home, about, footer and the "Not yet read in full" page show the split.
 - Topics and summaries cite the abstract-only landmarks (Young 1984, Zaloudek 1982, Plantaz 1992, Calaminus 1997, MAKEI 2003, Kiel 2003, Kalfa 2006/2007, TGM-95, MITO-9, TGM13, Vougiouklakis 2022, Boyraz 2022/2026, Collins 2023, Baillard 2021, ESGO-SIOPE 2020, EXPeRT 2021) and say in words when a claim rests on an abstract.
+
+## Analyses (same day, maintainer request)
+
+The maintainer asked for a meta-analysis from the records. Built as a separate product under `analyses/` with a written protocol, after advising that a formal effect estimate for chemotherapy at stage IC cannot honestly be made from published data:
+
+- Schema: optional `patients` array on records (patient-level fields). 156 patient rows extracted from 118 full-text case records and complete meeting abstracts; mixed tumors and reclassified cases excluded; classification-uncertain rows flagged; duplicate reports linked by `overlaps_with` and dropped in analysis.
+- `analyses/data/cohorts.yaml`: study-level counts from 39 cohort rows with overlap groups.
+- `tools/patients.py` (merge, export, stats) and `tools/analyze.py` (reports): `analyses/published-cases.md` (149 patients analysed) and `analyses/pooled-cohorts.md` (Wilson CIs, DerSimonian-Laird pooled proportions, mitotic-index and lymph-node tables, chemotherapy-at-IC sources side by side without pooling).
+- CLAUDE.md: the no-combining rule now names `analyses/` as the one place numbers are combined, under a protocol, labelled as the agent's own analysis.
+- Site: Analyses section with a banner on every page stating it is original, unreviewed analysis and not a source.

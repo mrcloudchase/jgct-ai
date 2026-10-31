@@ -22,7 +22,10 @@ reviewing your pull requests. Main is protected.
   the abstract alone, marked `evidence_basis: abstract` and shown as such
   wherever it is cited; it is replaced the moment the full text can be read.
   Nothing from a citation or memory, and never a number from one record
-  combined with another.
+  combined with another inside the knowledge base. Combining across records
+  happens only in `analyses/`, as a separate product with a written protocol,
+  its sources, its deduplication and its biases stated, labelled as the
+  agent's own analysis and not as a source.
 - A schema in `knowledge/schema/` that every record validates against. Evolve
   it as the knowledge demands; when you change it, migrate every record.
 - An index of the knowledge base.

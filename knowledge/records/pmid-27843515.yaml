@@ -49,3 +49,27 @@ notes: Specific chemotherapy regimens are not named. Tumor size is given as 27 x
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 19
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: unknown
+  malignant_ascites: false
+  tumor_size_cm: 27
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  - virilization
+  - menstrual_change
+  - ascites
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: numerous cycles of varying regimens at relapse
+  chemo_setting: relapse
+  relapse: true
+  relapse_months: 3
+  outcome: AWD
+  follow_up_months: 11
+  notes: ruptured cysts at surgery; liver and splenic metastases at 3 months; progressing at under 1 year

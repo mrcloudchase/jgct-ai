@@ -45,3 +45,23 @@ notes: 'Internal date inconsistency in paper: case section says presentation Apr
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: other
+  age_years: 34
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: none
+  tumor_size_cm: 20
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  syndrome: Ollier disease
+  surgery: radical
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 4
+  notes: transgender man on testosterone therapy; 3340 g tumor; androgen receptor strongly positive

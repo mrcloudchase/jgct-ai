@@ -47,3 +47,21 @@ notes: Published 2024 (journal issue) per the existing record; online 2022 ident
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 4.1
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  tumor_size_cm: 4.6
+  presentation:
+  - virilization
+  - other
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 26
+  notes: acanthosis nigricans and hyperinsulinism mimicking HAIR-AN

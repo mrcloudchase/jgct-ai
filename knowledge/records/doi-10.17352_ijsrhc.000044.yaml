@@ -44,3 +44,22 @@ notes: 'Classification concerns: patient is 33 years old and the text says mitot
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 33
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: unknown
+  malignant_ascites: false
+  tumor_size_cm: 12
+  presentation:
+  - abdominal_pain
+  - ascites
+  surgery: cystectomy_then_completion
+  chemotherapy: null
+  relapse: null
+  outcome: unknown
+  follow_up_months: null
+  notes: 'classification uncertain: age 33, no immunohistochemistry; authors call it IA while describing capsular rupture and ascites; completion surgery was radical (hysterectomy, bilateral adnexectomy, nodes, omentum); diagnosis without IHC or mitotic counts'

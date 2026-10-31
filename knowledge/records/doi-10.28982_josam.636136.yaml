@@ -46,3 +46,24 @@ notes: Read in full from the journal PDF (CC BY-NC-ND). The text says the capsul
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 4.3
+  site: ovary
+  stage: IC
+  stage_system: FIGO 2014
+  rupture: unknown
+  malignant_ascites: true
+  mitoses_per_10hpf: 7.5
+  tumor_size_cm: 12
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: oophorectomy
+  chemotherapy: BEP x4
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: 18
+  notes: capsule ruptured, timing not stated; malignant cells in pelvic fluid; CA-125 213

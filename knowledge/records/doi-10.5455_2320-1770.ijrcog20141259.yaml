@@ -44,3 +44,22 @@ notes: The discussion states both that JGCT recurrences typically occur within t
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 17
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  rupture: none
+  malignant_ascites: false
+  tumor_size_cm: 20
+  presentation:
+  - menstrual_change
+  - abdominal_mass_or_distension
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 12

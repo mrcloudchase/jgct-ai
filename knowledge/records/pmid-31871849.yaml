@@ -42,3 +42,19 @@ notes: Single case; registry statistics are from cited sources.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: M
+  age_years: 0
+  site: testis
+  stage: null
+  tumor_size_cm: 2
+  presentation:
+  - scrotal_mass
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 84
+  notes: prenatal diagnosis at 38 weeks

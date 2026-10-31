@@ -47,3 +47,24 @@ notes: Full text obtained from the Ovid journal page (open access). The 'younges
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 0.25
+  site: ovary
+  stage: IC2
+  stage_system: FIGO 2014
+  rupture: preoperative
+  malignant_ascites: false
+  tumor_size_cm: 7
+  presentation:
+  - precocious_puberty
+  - ascites
+  - abdominal_mass_or_distension
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 12
+  notes: authors staged IC for a capsular rent found at surgery with blood-tinged ascites; cytology negative

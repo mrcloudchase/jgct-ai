@@ -36,3 +36,16 @@ notes: 'Preprint, not peer reviewed. JGCT data are from n=1; the ''pathognomonic
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: JGCT case
+  sex: M
+  age_years: 0.17
+  site: testis
+  stage: null
+  tumor_size_cm: 3.9
+  presentation:
+  - scrotal_mass
+  surgery: unknown
+  chemotherapy: null
+  outcome: unknown
+  notes: preprint; AFP 244 ng/mL and raised testosterone

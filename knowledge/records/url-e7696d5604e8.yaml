@@ -42,3 +42,18 @@ notes: Whole abstract read from the supplement text (PMC7103147). No follow-up o
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: M
+  age_years: 0.03
+  site: testis
+  stage: null
+  tumor_size_cm: 2.2
+  presentation:
+  - scrotal_mass
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  notes: conference abstract; no follow-up

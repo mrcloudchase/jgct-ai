@@ -42,3 +42,24 @@ notes: 'Text inconsistency: abstract mentions an ''ipsilateral'' salpingo-oophor
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 14
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: preoperative
+  malignant_ascites: false
+  tumor_size_cm: 12
+  presentation:
+  - abdominal_pain
+  - rupture_or_hemoperitoneum
+  - ascites
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: acute abdomen with 3 L fluid and ruptured capsule; referred to oncology; follow-up duration not stated

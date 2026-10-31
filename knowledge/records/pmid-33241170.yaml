@@ -44,3 +44,20 @@ notes: The abstract describes the patient as 15 years old; the case text gives 1
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 16.75
+  site: ovary
+  stage: null
+  rupture: none
+  tumor_size_cm: 4.8
+  presentation:
+  - menstrual_change
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 3
+  notes: secondary amenorrhea with isolated FSH suppression; inhibin B 2220 pg/mL; no evidence of local spread

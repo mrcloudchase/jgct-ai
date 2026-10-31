@@ -44,3 +44,23 @@ notes: 'Heading error: ''Juvenile Germ Cell Tumor'' in the case 2 title versus j
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: case 2
+  sex: F
+  age_years: 13
+  site: ovary
+  stage: II
+  stage_system: null
+  rupture: intraoperative
+  tumor_size_cm: 33
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  syndrome: Ollier disease
+  surgery: other
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: capsule torn at dissection with spillage; stage II only in the summary table; follow-up duration not given

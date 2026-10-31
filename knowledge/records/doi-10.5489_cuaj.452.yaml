@@ -40,7 +40,8 @@ key_findings:
 - Authors note the benign behavior suggests a role for testis-sparing surgery, but radical inguinal orchiectomy with surveillance remains usual practice at their centre. Karyotype and metastatic work-up can wait until after pathology.
 relevance_to_jgct: Infant testicular JGCT case with IHC profile and a literature-based summary of testicular JGCT features.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-22511424
 superseded_by: null
 retracted: false
 notes: Case report published April 2012 (DOI indexed with year 2013 in the ledger). Literature figures are cited, not the authors' data. No follow-up interval reported.

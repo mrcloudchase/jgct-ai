@@ -45,3 +45,17 @@ notes: 'Case report with sparse pathology detail and no follow-up duration. Size
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: null
+  tumor_size_cm: 6
+  presentation:
+  - torsion
+  - abdominal_pain
+  surgery: cystectomy_or_enucleation
+  chemotherapy: null
+  outcome: unknown
+  notes: partial oophorectomy; no follow-up

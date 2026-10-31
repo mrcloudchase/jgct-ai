@@ -51,3 +51,22 @@ notes: JGCT is the second ovarian sex-cord tumor in this patient (after bilatera
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: JGCT
+  sex: F
+  age_years: 21
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: none
+  tumor_size_cm: 13
+  presentation:
+  - incidental
+  syndrome: DICER1 syndrome (germline frameshift)
+  surgery: other
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: second ovarian tumor after bilateral Sertoli-Leydig tumors at 18; found on surveillance MRI; 7 pelvic nodes negative

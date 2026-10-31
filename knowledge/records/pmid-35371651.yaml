@@ -45,3 +45,19 @@ notes: Stage, chemotherapy cycle number and mitotic count are not stated. Discus
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 5.4
+  site: ovary
+  stage: null
+  tumor_size_cm: 9.5
+  presentation:
+  - precocious_puberty
+  surgery: other
+  chemotherapy: cisplatin, etoposide, bleomycin (cycles not stated)
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: 18
+  notes: central precocious puberty developed after treatment

@@ -48,3 +48,20 @@ notes: The recurrence arose in the contralateral (left) ovary with peritoneal an
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 35
+  site: ovary
+  stage: null
+  mitoses_per_10hpf: 12
+  presentation:
+  - other
+  surgery: oophorectomy
+  chemotherapy: none (anastrozole at relapse)
+  chemo_setting: none
+  relapse: true
+  relapse_months: 60
+  outcome: DOD
+  follow_up_months: 80
+  notes: first tumor at 35 called serous cystadenoma, reinterpreted as JGCT; contralateral ovarian, pouch of Douglas and omental disease at 40; died 20 months after second surgery; FOXL2 wild type

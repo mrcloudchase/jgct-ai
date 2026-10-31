@@ -44,3 +44,23 @@ notes: 'Internal inconsistencies: the staging as IC is based on ''malignant asci
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 19
+  site: ovary
+  stage: IC
+  stage_system: FIGO 2014
+  rupture: unknown
+  malignant_ascites: false
+  tumor_size_cm: 5
+  presentation:
+  - ascites
+  - abdominal_mass_or_distension
+  surgery: other
+  chemotherapy: nedaplatin and liposomal paclitaxel x6
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: 6
+  notes: left oophorectomy plus right salpingo-oophorectomy; authors' IC rests on ascites with negative cytology; ruptured capsule and peritoneal nodules of unreported histology

@@ -42,3 +42,17 @@ notes: Text says left oophorectomy with a large mass in the right lower quadrant
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 0.5
+  site: ovary
+  stage: null
+  malignant_ascites: false
+  tumor_size_cm: 9.4
+  presentation:
+  - precocious_puberty
+  surgery: oophorectomy
+  chemotherapy: null
+  outcome: unknown
+  notes: no follow-up reported

@@ -45,3 +45,18 @@ notes: Letter to the editor, very brief. Stage, postoperative course, follow-up 
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 4
+  site: ovary
+  stage: null
+  tumor_size_cm: 22
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  - abdominal_pain
+  surgery: other
+  chemotherapy: null
+  outcome: unknown
+  notes: inhibin-negative, calretinin-positive; letter; no follow-up

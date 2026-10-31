@@ -44,3 +44,16 @@ notes: Stage not stated and tumor size given as 4.5 cm in the discussion versus 
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: null
+  tumor_size_cm: 4.5
+  presentation:
+  - precocious_puberty
+  surgery: cystectomy_or_enucleation
+  chemotherapy: null
+  outcome: unknown
+  notes: cystic JGCT; lost to follow-up

@@ -52,3 +52,22 @@ notes: Read in Japanese from the J-STAGE PDF text layer (clean). Follow-up durat
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 12
+  site: ovary
+  stage: IC1
+  stage_system: FIGO 2014
+  rupture: intraoperative
+  malignant_ascites: false
+  tumor_size_cm: 6
+  presentation:
+  - menstrual_change
+  surgery: cystectomy_then_completion
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: two-stage laparoscopic surgery

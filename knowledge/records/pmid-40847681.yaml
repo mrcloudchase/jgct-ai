@@ -38,3 +38,27 @@ notes: Series covers all perinatal trunk tumors; JGCT outcome data not separatel
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: ovarian JGCT
+  sex: F
+  age_years: 0.2
+  site: ovary
+  stage: null
+  tumor_size_cm: 17
+  presentation: []
+  surgery: unknown
+  chemotherapy: null
+  outcome: unknown
+  notes: perinatal tumor cohort; first sign between 29 days and 3 months; local extension only; treatment and outcome not reported
+- id: testicular JGCT
+  sex: M
+  age_years: 0.2
+  site: testis
+  stage: null
+  tumor_size_cm: 2.6
+  presentation:
+  - scrotal_mass
+  surgery: unknown
+  chemotherapy: null
+  outcome: unknown
+  notes: see ovarian entry

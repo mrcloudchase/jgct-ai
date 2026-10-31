@@ -44,3 +44,23 @@ notes: The conclusion refers to XP type C, but the case itself does not report t
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 14
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: none
+  mitoses_per_10hpf: 2
+  tumor_size_cm: 3.5
+  presentation:
+  - incidental
+  syndrome: xeroderma pigmentosum (group not stated)
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: laparoscopic adnexectomy; follow-up duration not stated

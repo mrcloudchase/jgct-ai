@@ -45,3 +45,19 @@ notes: Title says 'granulosa cell tumor'; histology described as juvenile type. 
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 6
+  site: ovary
+  stage: null
+  tumor_size_cm: 7
+  presentation:
+  - precocious_puberty
+  - abdominal_pain
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 5

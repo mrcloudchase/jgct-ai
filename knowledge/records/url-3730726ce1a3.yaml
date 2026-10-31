@@ -41,3 +41,17 @@ notes: Conference abstract read whole in the SIOP 2014 supplement (PMC7168141). 
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: M
+  age_years: 0
+  site: testis
+  stage: null
+  presentation:
+  - scrotal_mass
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 6

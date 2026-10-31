@@ -42,3 +42,22 @@ notes: Table 1 (summary table) was not captured in the retrieved Ovid page; find
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: JGCT case
+  sex: F
+  age_years: 25
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: preoperative
+  presentation:
+  - abdominal_pain
+  - ascites
+  - rupture_or_hemoperitoneum
+  surgery: oophorectomy
+  chemotherapy: BEP x4
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: upstaged for rupture, substage not stated; two live births afterwards; follow-up 'to date'

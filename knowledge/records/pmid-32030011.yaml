@@ -46,3 +46,26 @@ notes: Juvenile type diagnosis was based on histology/IHC at 17 years of age. Re
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 17
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: none
+  malignant_ascites: false
+  tumor_size_cm: 16
+  presentation:
+  - abdominal_mass_or_distension
+  - ascites
+  - menstrual_change
+  - torsion
+  syndrome: Ollier disease
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: NED
+  follow_up_months: null
+  notes: 5 L ascites with negative cytology; omentectomy; enchondromas contralateral; discharged day 3, no longer follow-up

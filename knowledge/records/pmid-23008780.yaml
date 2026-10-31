@@ -56,3 +56,19 @@ notes: The text says the male patient was 'Index case 4' in the surgical review,
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: index case 1
+  sex: M
+  age_years: 0.42
+  site: testis
+  stage: null
+  tumor_size_cm: 2
+  presentation:
+  - scrotal_mass
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 240
+  notes: 5-month-old boy; disease free 20 years later; the 7-day-old girl in the same paper had histology intermediate between adult and juvenile type and is not entered

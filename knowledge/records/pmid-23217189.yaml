@@ -43,3 +43,19 @@ notes: The title and abstract speak of a prescrotal approach, while the Conclusi
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: M
+  age_years: 0
+  site: testis
+  stage: null
+  tumor_size_cm: 1.6
+  presentation:
+  - scrotal_mass
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 1
+  notes: prenatal diagnosis at 36 weeks

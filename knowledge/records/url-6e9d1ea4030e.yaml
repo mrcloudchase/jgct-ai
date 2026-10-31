@@ -41,3 +41,18 @@ notes: Whole abstract (Purpose, Methods, Results, Conclusions) read from the sup
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: M
+  age_years: 0
+  site: testis
+  stage: null
+  presentation:
+  - scrotal_mass
+  surgery: other
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: NED
+  follow_up_months: null
+  notes: surgical resection, extent not stated; under observation

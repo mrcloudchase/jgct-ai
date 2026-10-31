@@ -45,3 +45,23 @@ notes: Original text has some translation artifacts from French. The text descri
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 18
+  site: ovary
+  stage: IIIC
+  stage_system: FIGO 2014
+  rupture: unknown
+  tumor_size_cm: 20
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  - other
+  surgery: other
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: DOD
+  follow_up_months: 0.5
+  notes: jejunal and peritoneal involvement; died after re-laparotomy for obstruction by nodal disease, in a rural hospital in Senegal

@@ -41,3 +41,16 @@ notes: Whole abstract read from the supplement text (PMC5751801); the abstract h
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 4
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: other
+  chemotherapy: null
+  outcome: unknown
+  notes: conference abstract; bleeding stopped and estradiol normalized after excision; no follow-up

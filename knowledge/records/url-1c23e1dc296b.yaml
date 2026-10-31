@@ -47,3 +47,28 @@ notes: Whole abstract read from the 1-page PDF (the HTML page lacked the abstrac
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: patient 1
+  sex: F
+  age_years: 20
+  site: ovary
+  stage: null
+  presentation:
+  - abdominal_mass_or_distension
+  syndrome: DICER1 syndrome (germline c.556delT)
+  surgery: other
+  chemotherapy: null
+  outcome: unknown
+  notes: conference abstract; staged at laparotomy, stage not given
+- id: patient 2
+  sex: F
+  age_years: 25
+  site: ovary
+  stage: null
+  presentation:
+  - abdominal_mass_or_distension
+  syndrome: DICER1 syndrome (germline splice deletion); thyroid carcinoma at 11
+  surgery: other
+  chemotherapy: null
+  outcome: unknown
+  notes: conference abstract

@@ -40,3 +40,21 @@ notes: Read in full from the PMC website (PMC3257345). The JGCT case is describe
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 4.5
+  site: ovary
+  stage: IA
+  stage_system: null
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: unknown
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: true
+  relapse_months: null
+  outcome: DOD
+  follow_up_months: 8
+  notes: progressed from stage IA to stage IV within 8 months and died; treatment not described

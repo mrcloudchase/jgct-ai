@@ -58,3 +58,88 @@ notes: 'Abstract says 5 patients (and ''one of whom was premenarcheal''); method
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: patient 1
+  sex: F
+  age_years: 9
+  site: ovary
+  stage: I
+  stage_system: FIGO 2014
+  presentation:
+  - abdominal_mass_or_distension
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: Istanbul series; patients 1, 2 and 4 were stage IA, IA and IC1 (assignment not stated), none had chemotherapy, no recurrence at 96, 12 and 24 months; tumor sizes 14, 11, 24, 30 and 19 cm for patients 1 to 5
+- id: patient 2
+  sex: F
+  age_years: 16
+  site: ovary
+  stage: I
+  stage_system: FIGO 2014
+  presentation:
+  - abdominal_mass_or_distension
+  - menstrual_change
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: see patient 1
+- id: patient 3
+  sex: F
+  age_years: 16
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  tumor_size_cm: 24
+  presentation:
+  - abdominal_mass_or_distension
+  - menstrual_change
+  surgery: unknown
+  chemotherapy: paclitaxel-carboplatin x3 at relapse
+  chemo_setting: relapse
+  relapse: true
+  relapse_months: 12
+  outcome: NED
+  follow_up_months: 61
+  notes: contralateral 10 cm mass at 12 months with final histology gynandroblastoma; no evidence of disease 49 months after second surgery
+- id: patient 4
+  sex: F
+  age_years: 15
+  site: ovary
+  stage: I
+  stage_system: FIGO 2014
+  presentation:
+  - abdominal_mass_or_distension
+  - menstrual_change
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: see patient 1
+- id: patient 5
+  sex: F
+  age_years: 25
+  site: ovary
+  stage: IC2
+  stage_system: FIGO 2014
+  rupture: preoperative
+  tumor_size_cm: 19
+  presentation:
+  - abdominal_mass_or_distension
+  - other
+  surgery: unknown
+  chemotherapy: cisplatin-etoposide x6
+  chemo_setting: adjuvant
+  relapse: true
+  relapse_months: 48
+  outcome: NED
+  follow_up_months: 60
+  notes: isolated 10 cm left ovarian recurrence resected; no evidence of disease 12 months after second surgery

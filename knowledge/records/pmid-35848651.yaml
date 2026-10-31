@@ -49,3 +49,20 @@ notes: Title says 'Ovarian Cell Tumor'; the text diagnoses JGCT. Histology is de
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 6
+  site: ovary
+  stage: null
+  malignant_ascites: false
+  tumor_size_cm: 9
+  presentation:
+  - precocious_puberty
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  syndrome: neurofibromatosis type 1 (clinical)
+  surgery: oophorectomy
+  chemotherapy: null
+  outcome: unknown
+  notes: no follow-up reported

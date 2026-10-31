@@ -44,3 +44,21 @@ notes: Single case; prognosis figures and literature comparisons are quoted from
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 16
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  tumor_size_cm: 4.8
+  presentation:
+  - menstrual_change
+  - other
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 24
+  notes: galactorrhea and hyperprolactinemia; conceived 6 months after surgery

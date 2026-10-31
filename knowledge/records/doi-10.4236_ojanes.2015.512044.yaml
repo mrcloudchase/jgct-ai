@@ -43,3 +43,18 @@ notes: Title says 'Malignant' GCT whereas text describes JGCT. 'Tanner stage 1' 
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 1
+  site: ovary
+  stage: I
+  stage_system: null
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  - abdominal_pain
+  surgery: other
+  chemotherapy: null
+  outcome: unknown
+  notes: anaesthesia case report; 2900 g mass; no follow-up

@@ -37,10 +37,27 @@ key_findings:
 - 'Authors comment that cases 2 and 3 illustrate heterogeneity of presentation, biochemistry and histology of ovarian tumors causing sexual precocity: the large JGCT had irregular bleeding with estradiol >1000 pg/mL, the mixed tumor regular cyclical bleeding with estradiol about 163 pg/mL; both without recurrence (follow-up 12 and 6 months).'
 relevance_to_jgct: One young child with JGCT presenting as peripheral precocious puberty, with hormone values before and after resection; minimal pathology and no staging detail.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- url-f1a86961fa15
 superseded_by: null
 retracted: false
 notes: 'The JGCT diagnosis rests on the phrase ''suggestive of juvenile granulosa cell tumor''; no histology or immunohistochemistry reported, and no tumor size or stage. Internal inconsistencies in the source: the case 2 bone age, height age and chronological age line is run together, and the discussion gives 12 months follow-up for the JGCT patient versus 6 months in the case description. Case 3 is not a JGCT (CT left ovary, resection described as right).'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: case 2
+  sex: F
+  age_years: 3
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: other
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 6
+  notes: right tubo-ovarian mass resected; histology only 'suggestive of' JGCT

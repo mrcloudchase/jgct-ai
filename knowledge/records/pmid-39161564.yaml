@@ -46,3 +46,22 @@ notes: Hyperprolactinemia is reported but its cause is not established. The note
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 2.17
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  mitoses_per_10hpf: 20
+  tumor_size_cm: 11.8
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: NED
+  follow_up_months: null
+  notes: laparoscopic; unilocular cystic appearance; follow-up duration not reported

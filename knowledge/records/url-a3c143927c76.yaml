@@ -40,3 +40,17 @@ notes: Whole abstract read from the supplement text (PMC7103147). The abstract's
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 16
+  site: ovary
+  stage: null
+  mitoses_per_10hpf: 40
+  tumor_size_cm: 12
+  presentation:
+  - menstrual_change
+  surgery: cystectomy_then_completion
+  chemotherapy: null
+  outcome: unknown
+  notes: 'classification uncertain: JGCT with adult-type areas; conference abstract; no outcome'

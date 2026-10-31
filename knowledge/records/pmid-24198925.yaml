@@ -43,3 +43,20 @@ notes: Stage, IHC and molecular testing are not reported; diagnosis rests on H&E
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 8.75
+  site: ovary
+  stage: null
+  tumor_size_cm: 13.7
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 7
+  notes: central precocious puberty diagnosed 4 months before the tumor
