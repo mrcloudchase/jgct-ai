@@ -44,3 +44,23 @@ notes: 'Internal inconsistency: the case text names carboplatin, bleomycin, etop
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 13
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: none
+  malignant_ascites: false
+  tumor_size_cm: 9
+  presentation:
+  - ascites
+  - abdominal_mass_or_distension
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: 4 cycles (carboplatin, bleomycin, etoposide, vinblastine; discussion says ICE)
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: 18
+  notes: IC assigned on surface projections; 10 L transudate ascites; chemotherapy given for suspected residual tumor

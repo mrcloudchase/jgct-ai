@@ -27,4 +27,4 @@ ESMO advises chemotherapy for all stage IC JGCT; ESGO-SIOPE and the European ped
 
 ## What is unknown
 
-Whether a stage IA tumor with a very high mitotic index should get chemotherapy. Both 2025 registry papers raise it: OTST saw five low-stage, high-index, surgery-only recurrences and three deaths [pmid-40267023]; STEP's three stage IA relapses all had high mitotic counts, and its authors call the question open [pmid-40272823]. No randomized trial exists or is likely, given the numbers [pmid-40272823].
+Whether a stage IA tumor with a very high mitotic index should get chemotherapy. Both 2025 registry papers raise it: OTST saw five low-stage, high-index, surgery-only recurrences and three deaths [pmid-40267023]; STEP's three stage IA relapses all had high mitotic counts, and its authors call the question open [pmid-40272823]. No randomized trial exists or is likely, given the numbers [pmid-40272823]. The figures of every source on this question are set side by side, without pooling, in the Analyses section of the site (`analyses/pooled-cohorts.md`), together with the reasons they cannot be combined.

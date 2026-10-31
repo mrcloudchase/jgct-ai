@@ -56,7 +56,9 @@ Check-ups are a physical examination and an ultrasound about every 3 months for 
 
 - Whether every girl with stage IC2 needs chemotherapy [pmid-41367860, pmid-42504512].
 - The best treatment when the tumor comes back; there are no clinical trials made for JGCT [url-599767ff9c45, pmid-42504512].
+- Whether chemotherapy helps after a burst tumor cannot be answered from published reports, because the children who got it were the ones doctors worried about most. The site's Analyses pages show every study's numbers side by side and explain this.
 - How long check-ups need to continue for a stage IA tumor with a low mitotic index, which has not come back in either large registry [pmid-40267023, pmid-40272823].
+- Whether a rare "anaplastic" form, with extra gene damage (TP53 and MYC), needs stronger treatment from the start [pmid-41036825].
 
 ### Questions families may want to ask the care team
 

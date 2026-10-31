@@ -43,3 +43,22 @@ notes: 'Juvenile label rests on morphology only (macrofollicular pattern, mucino
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 16.5
+  site: ovary
+  stage: null
+  mitoses_per_10hpf: 4
+  tumor_size_cm: 30
+  presentation:
+  - virilization
+  - menstrual_change
+  - abdominal_mass_or_distension
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: tumor found 18 months after treatment for presumed polycystic ovary disease; morphology-only diagnosis

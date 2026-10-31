@@ -45,3 +45,24 @@ notes: First author listed in PubMed as 'K A' (full name not given in the text r
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 18
+  site: ovary
+  stage: null
+  rupture: unknown
+  malignant_ascites: false
+  mitoses_per_10hpf: 25
+  tumor_size_cm: 12
+  presentation:
+  - abdominal_pain
+  - ascites
+  - other
+  surgery: radical
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 24
+  notes: sclerosing peritonitis mimicking metastases; ruptured posterior wall found at laparotomy; hysterectomy with unilateral salpingo-oophorectomy

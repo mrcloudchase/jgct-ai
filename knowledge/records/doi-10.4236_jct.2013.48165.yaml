@@ -45,3 +45,25 @@ notes: 'Text is internally inconsistent about timing: abstract says relapse afte
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 8
+  site: ovary
+  stage: IIIC
+  stage_system: FIGO (pre-2014)
+  rupture: unknown
+  malignant_ascites: true
+  tumor_size_cm: 20
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  - ascites
+  surgery: other
+  chemotherapy: BEP x5 (3 then 2 after relapse)
+  chemo_setting: adjuvant
+  relapse: true
+  relapse_months: 3
+  outcome: DOD
+  follow_up_months: 6
+  notes: laparoscopic resection; relapse during BEP; lung metastases; stage IIIC stated at relapse

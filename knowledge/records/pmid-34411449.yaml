@@ -46,3 +46,33 @@ notes: Ages for JGCT case 2 differ between Table 1 (66 y) and Table 2 (65 y) and
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: JGCT case 1
+  sex: F
+  age_years: 7
+  site: ovary
+  stage: IC2
+  stage_system: FIGO 2014
+  presentation: []
+  surgery: unknown
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: anaplastic features; AKT1 insertion and TP53 splice variant
+- id: JGCT case 2
+  sex: F
+  age_years: 66
+  site: ovary
+  stage: IIIB
+  stage_system: FIGO 2014
+  presentation: []
+  surgery: unknown
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: true
+  relapse_months: 16
+  outcome: unknown
+  follow_up_months: null
+  notes: cytology series; age 65 or 66 across tables

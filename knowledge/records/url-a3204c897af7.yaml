@@ -45,3 +45,123 @@ notes: Conference abstract, read whole in the SIOP 2017 supplement (Pediatr Bloo
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: patient 1 (7 months)
+  sex: F
+  age_years: 0.58
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  notes: Alexandria series of 9, all with pseudo-precocious puberty; 8 unilateral and 1 partial oophorectomy (assignment not stated); signs regressed over 10 to 120 days; no staging or follow-up
+- id: patient 2
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  notes: ages 4 to 6 for patients 2 to 9; see patient 1
+- id: patient 3
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  notes: see patient 1
+- id: patient 4
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  notes: see patient 1
+- id: patient 5
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  notes: see patient 1
+- id: patient 6
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  - virilization
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  notes: see patient 1; one patient had clitoromegaly
+- id: patient 7
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  notes: see patient 1; one patient had a huge abdominal swelling
+- id: patient 8
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  notes: see patient 1
+- id: patient 9
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  notes: see patient 1

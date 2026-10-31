@@ -118,7 +118,7 @@ def md(text: str, depth: str) -> str:
 
 def page(title: str, body: str, depth: str, stats: dict, active: str = "", description: str = "") -> str:
     nav = [("index.html", "Home", "home"), ("clinicians.html", "For clinicians", "clinicians"),
-           ("families.html", "For families", "families"), ("topics/index.html", "Topics", "topics"),
+           ("families.html", "For families", "families"), ("topics/index.html", "Topics", "topics"), ("analyses/index.html", "Analyses", "analyses"),
            ("genes/index.html", "Genes", "genes"),
            ("treatments.html", "Treatments", "treatments"), ("cohorts.html", "Cohorts", "cohorts"),
            ("conflicts.html", "Where sources disagree", "conflicts"), ("sources/index.html", "All sources", "sources"),
@@ -209,6 +209,7 @@ def build_home(recs, stats, intro_md, topics=()):
   <li><strong>Full text first, abstracts marked.</strong> Most sources were read start to finish. Where no open route to the full text exists, the record rests on the abstract alone and every citation of it carries a dagger, like <sup class="cite">[<a class="abs" href="pending.html">pmid-6711799†</a>]</sup>. All of those are listed under <a href="pending.html">Not yet read in full</a>, where help with full text is most useful.</li>
   <li><strong>Disagreements are shown, not settled.</strong> Where sources conflict, both are presented under <a href="conflicts.html">Where sources disagree</a>.</li>
   <li><strong>Go deeper by topic.</strong> <a href="topics/index.html">Topics</a> holds one synthesized article per subject, written from every relevant source.</li>
+  <li><strong>See the numbers side by side.</strong> <a href="analyses/index.html">Analyses</a> holds a dataset of published cases and cohort-by-cohort tables, labelled as the agent's own analysis, with the protocol that governs them.</li>
   <li><strong>Browse by evidence.</strong> <a href="genes/index.html">Genes</a> lists every reported alteration by gene. <a href="treatments.html">Treatments</a> lists every regimen and outcome reported. <a href="cohorts.html">Cohorts</a> lists the larger series and registries.</li>
 </ul>
 <h2>What is in the base</h2>
@@ -256,6 +257,31 @@ def build_topics(stats):
         body = "<h1>Topics</h1><p class=\"lead\">Topic articles are written by the maintenance runs from the records and appear here as they are completed. Until then, start with the two summaries.</p><p><a href=\"../clinicians.html\">For clinicians and researchers</a> · <a href=\"../families.html\">For parents and patients</a></p>"
     write(DOCS / "topics" / "index.html", page("Topics", body, "../", stats, "topics"))
     return entries
+
+
+ANALYSES = ROOT / "analyses"
+
+
+def build_analyses(stats):
+    banner = ('<div class="banner"><strong>Original analysis, not a source.</strong> These pages combine numbers across the records under a written '
+              '<a href="protocol.html">protocol</a>. They were produced by the maintenance agent and have not been checked by a person against the papers. '
+              'They describe the published literature, not any patient, and are not medical advice.</div>')
+    files = [p for p in sorted(ANALYSES.glob("*.md")) if p.name.lower() != "readme.md"]
+    for f in files:
+        text = f.read_text()
+        title = topic_title(text, f.stem)
+        body_md = "\n".join(l for l in text.splitlines() if not l.startswith("# "))
+        body = f"<p class=\"crumbs\"><a href=\"index.html\">Analyses</a> › {esc(title)}</p><h1>{esc(title)}</h1>{banner}" + md(body_md, "../")
+        write(DOCS / "analyses" / f"{f.stem}.html", page(title, body, "../", stats, "analyses"))
+    readme = (ANALYSES / "README.md").read_text() if (ANALYSES / "README.md").exists() else ""
+    body_md = "\n".join(l for l in readme.splitlines() if not l.startswith("# "))
+    body = "<h1>Analyses</h1>" + banner + md(body_md, "../")
+    write(DOCS / "analyses" / "index.html", page("Analyses", body, "../", stats, "analyses"))
+    for d in (ANALYSES / "data").glob("*"):
+        if d.is_file():
+            (DOCS / "analyses" / "data").mkdir(parents=True, exist_ok=True)
+            shutil.copy(d, DOCS / "analyses" / "data" / d.name)
+    return len(files)
 
 
 def build_audience(key, title, section_md, stats, lead):
@@ -515,6 +541,7 @@ def main() -> None:
     (DOCS / ".nojekyll").write_text("")
     shutil.copytree(ASSETS_SRC, DOCS / "assets")
     topics = build_topics(stats)
+    build_analyses(stats)
     write(DOCS / "index.html", build_home(recs, stats, "", topics))
     n_topics = len(topics)
     write(DOCS / "clinicians.html", build_audience("clinicians", "For clinicians and researchers", read_summary("clinicians"), stats,

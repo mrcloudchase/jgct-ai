@@ -43,3 +43,30 @@ notes: Study is of neoplasm-associated PP in general; JGCT data limited to Table
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: patient 19
+  sex: F
+  age_years: 3.5
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  surgery: unknown
+  chemotherapy: null
+  chemo_setting: unknown
+  outcome: NED
+  follow_up_months: null
+  notes: St Jude precocious-puberty cohort; outcome complete response
+- id: patient 17
+  sex: F
+  age_years: 6.8
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  surgery: unknown
+  chemotherapy: null
+  chemo_setting: unknown
+  outcome: NED
+  follow_up_months: null
+  notes: treated as central precocious puberty with a GnRH agonist for 12 months before the tumor was found; outcome complete response

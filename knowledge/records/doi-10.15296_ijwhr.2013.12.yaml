@@ -38,3 +38,17 @@ notes: The Methods/Results sections are minimal; treatment and outcome are not r
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 3
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  - abdominal_pain
+  surgery: unknown
+  chemotherapy: null
+  outcome: unknown
+  notes: treatment and follow-up not reported

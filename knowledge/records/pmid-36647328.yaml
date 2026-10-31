@@ -45,3 +45,24 @@ notes: Title/abstract call her 12 years old; the conclusion calls her 'pre-puber
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 12
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: none
+  malignant_ascites: false
+  tumor_size_cm: 18.8
+  presentation:
+  - menstrual_change
+  - abdominal_pain
+  - other
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 0.5
+  notes: galactorrhea and hyperprolactinemia

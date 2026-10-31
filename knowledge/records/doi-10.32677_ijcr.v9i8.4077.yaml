@@ -47,3 +47,23 @@ notes: The abstract says the mass was 'heterogeneously hypoechoic' whereas the c
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 1.5
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: none
+  malignant_ascites: false
+  tumor_size_cm: 7
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 30
+  notes: 7 to 9 mitoses per high-power field as written

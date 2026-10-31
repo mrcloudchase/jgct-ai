@@ -46,3 +46,20 @@ notes: Original in Indonesian. Follow-up length is not stated beyond the hormone
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 1.33
+  site: ovary
+  stage: null
+  tumor_size_cm: 13
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 2.5
+  notes: Indonesian case; hormones normalized

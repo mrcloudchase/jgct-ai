@@ -41,3 +41,18 @@ notes: Which of the three tumor follow-up durations (6, 4, 1 years) belongs to t
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: JGCT patient
+  sex: F
+  site: ovary
+  stage: I
+  stage_system: TNM (pT1NX)
+  presentation:
+  - abdominal_mass_or_distension
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: BEP x3
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: age not stated (series newborn to 17); PET-CT normal at 9 months; followed 1 to 6 years

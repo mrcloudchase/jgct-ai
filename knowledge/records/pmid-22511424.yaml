@@ -39,10 +39,25 @@ key_findings:
 - Authors note the benign outcome suggests a role for testis-sparing surgery (enucleation) when healthy tissue remains, but their centre's usual practice remains radical inguinal orchiectomy with surveillance (chest radiograph, abdominopelvic ultrasound); AFP is physiologically high in infants so elevation under 1 year does not by itself indicate yolk sac tumor.
 relevance_to_jgct: Typical infant testicular JGCT (multicystic, normal markers, 46,XY, inhibin positive) with a review of the benign behaviour and orchiectomy versus testis-sparing options.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- doi-10.5489_cuaj.452
 superseded_by: null
 retracted: false
 notes: Follow-up duration and outcome for this patient are not reported. Discussion points are taken from cited literature, not from this patient. Only the 3-month case itself is primary data.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: M
+  age_years: 0.25
+  site: testis
+  stage: null
+  tumor_size_cm: 3.7
+  presentation:
+  - scrotal_mass
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  outcome: unknown
+  notes: same case as doi-10.5489_cuaj.452; no follow-up reported

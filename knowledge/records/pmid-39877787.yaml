@@ -45,3 +45,24 @@ notes: The statement that JGCT lacks a recognized genetic driver is the authors'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 4.5
+  site: ovary
+  stage: IA
+  stage_system: TNM (pT1a)
+  rupture: none
+  malignant_ascites: false
+  mitoses_per_10hpf: 10.5
+  tumor_size_cm: 11.45
+  presentation:
+  - precocious_puberty
+  - virilization
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 12
+  notes: mitoses 6 to 15 per 10 HPF

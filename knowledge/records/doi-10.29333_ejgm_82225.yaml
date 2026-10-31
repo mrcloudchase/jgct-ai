@@ -46,3 +46,22 @@ notes: Originally in English with Turkish abstract. No IHC or formal stage repor
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 2
+  site: ovary
+  stage: null
+  tumor_size_cm: 17
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  - ascites
+  - other
+  surgery: other
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: pseudo-Meigs syndrome; tumor removed with uterine cornu and tube; follow-up duration not stated

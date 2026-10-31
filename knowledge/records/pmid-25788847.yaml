@@ -62,3 +62,127 @@ notes: Full text is a 3-page PDF (abstract appears mid-text). Mostly young adult
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: stage IC patient
+  sex: F
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: preoperative
+  malignant_ascites: false
+  presentation: []
+  surgery: unknown
+  chemotherapy: BEP x4
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: Ankara series, 10 patients (median age 21.5, range 13 to 36), 8 USO, 1 cystectomy, 1 TAH-BSO, assignment per patient not given; no recurrence at median 58 months (3 to 113); this patient later had a term pregnancy
+- id: stage IA, VAC
+  sex: F
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  presentation: []
+  surgery: unknown
+  chemotherapy: VAC x6
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: 3
+- id: stage IA, radiotherapy
+  sex: F
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  presentation: []
+  surgery: unknown
+  chemotherapy: none (adjuvant radiotherapy)
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 53
+- id: stage IA 3
+  sex: F
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  presentation: []
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+- id: stage IA 4
+  sex: F
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  presentation: []
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+- id: stage IA 5
+  sex: F
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  presentation: []
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+- id: stage IA 6
+  sex: F
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  presentation: []
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+- id: stage IA 7
+  sex: F
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  presentation: []
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+- id: stage IA 8
+  sex: F
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  presentation: []
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+- id: stage IA 9
+  sex: F
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  presentation: []
+  surgery: unknown
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null

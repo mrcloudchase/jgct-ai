@@ -46,3 +46,22 @@ notes: Rapid growth is inferred from normal-appearing ovaries at myomectomy one 
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 38
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: none
+  mitoses_per_10hpf: 10
+  tumor_size_cm: 13
+  presentation:
+  - abdominal_mass_or_distension
+  - other
+  surgery: radical
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  notes: hysterectomy and bilateral salpingo-oophorectomy; no follow-up reported

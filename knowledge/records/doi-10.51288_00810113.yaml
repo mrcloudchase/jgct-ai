@@ -44,3 +44,23 @@ notes: Original in Spanish. Abstract states a right ovarian tumor whereas the te
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 31
+  site: ovary
+  stage: IIIA
+  stage_system: FIGO 2014
+  rupture: unknown
+  malignant_ascites: true
+  tumor_size_cm: 30
+  presentation:
+  - abdominal_mass_or_distension
+  - ascites
+  - other
+  surgery: radical
+  chemotherapy: referred for adjuvant chemotherapy, regimen not stated
+  chemo_setting: adjuvant
+  relapse: null
+  outcome: unknown
+  notes: IIIA2 with positive iliac nodes and ascitic cells; no follow-up

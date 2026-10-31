@@ -51,3 +51,22 @@ notes: Tumor called 'folliculoma' in the text; histology and IHC match JGCT per 
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 17
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  tumor_size_cm: 7
+  presentation:
+  - menstrual_change
+  - virilization
+  surgery: cystectomy_or_enucleation
+  chemotherapy: recommended adjuvant chemotherapy declined
+  chemo_setting: none
+  relapse: true
+  relapse_months: 9
+  outcome: unknown
+  follow_up_months: 9
+  notes: laparoscopic enucleation; 7 cm recurrence in the same ovary at 9 months treated by unilateral salpingo-oophorectomy with staging (IA); androgen-secreting; no later follow-up

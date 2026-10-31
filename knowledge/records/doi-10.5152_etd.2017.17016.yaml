@@ -42,3 +42,19 @@ notes: Follow-up duration not stated. The text says AFP 'extremely higher than n
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: M
+  age_years: 0.03
+  site: testis
+  stage: null
+  tumor_size_cm: 2
+  presentation:
+  - scrotal_mass
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: 12 days old; follow-up duration not stated

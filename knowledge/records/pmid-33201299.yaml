@@ -55,3 +55,46 @@ notes: Original read in German. Three cases from one German center; case B was f
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: case A
+  sex: M
+  age_years: 0
+  site: testis
+  stage: null
+  presentation:
+  - scrotal_mass
+  surgery: testis_sparing
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 132
+  notes: lower-pole resection at birth, then scrotal orchiectomy of the residual testis at 4 months for irregular texture (JGCT again)
+- id: case B
+  sex: M
+  age_years: 0.23
+  site: testis
+  stage: null
+  presentation:
+  - scrotal_mass
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  follow_up_months: null
+  notes: AFP 121.4 ng/mL; discharged day 1, no later follow-up reported
+- id: case C
+  sex: M
+  age_years: 0.01
+  site: testis
+  stage: null
+  presentation:
+  - scrotal_mass
+  surgery: testis_sparing
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 4
+  notes: AFP 48,370 ng/mL; enucleation on day 5

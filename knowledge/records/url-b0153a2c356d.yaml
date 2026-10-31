@@ -40,7 +40,8 @@ key_findings:
 - Authors conclude the aetiology remains unclear, with MAS unproven and evolution towards JGCT, highlighting uncertainty about the relationship between MAS and JGCT.
 relevance_to_jgct: Case in which bilateral ovarian cysts with precocious puberty (MAS presumed) preceded a unilateral JGCT; GNAS negative in tumour.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-33849266
 superseded_by: null
 retracted: false
 notes: Whole abstract read from the abstracts.eurospe.org page. Abstract states GNAS mutations have been described in some JGCTs; no outcome after surgery is reported.

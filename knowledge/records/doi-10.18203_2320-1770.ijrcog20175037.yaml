@@ -46,3 +46,36 @@ notes: 'Internal inconsistencies: mean tumor size 9.6 cm in abstract/Table 3 ver
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: JGCT 1
+  sex: F
+  age_years: 7
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: diagnosed 2012; disease free at last follow-up
+- id: JGCT 2
+  sex: F
+  age_years: 19
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  tumor_size_cm: 10
+  presentation:
+  - torsion
+  - virilization
+  surgery: oophorectomy
+  chemotherapy: EP, then docetaxel-carboplatin, then oral cyclophosphamide
+  chemo_setting: relapse
+  relapse: true
+  relapse_months: 13
+  outcome: DOD
+  follow_up_months: 21
+  notes: pelvic and omental metastasis at 13 months

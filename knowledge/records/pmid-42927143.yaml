@@ -48,3 +48,25 @@ notes: Abstract wording 'hormonal abnormalities normalized within two months' ag
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 2.75
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: none
+  malignant_ascites: false
+  mitoses_per_10hpf: 8
+  tumor_size_cm: 10.5
+  presentation:
+  - precocious_puberty
+  - ascites
+  - torsion
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 12
+  notes: inhibin B over 5000 pg/mL; pedicle twisting on MRI

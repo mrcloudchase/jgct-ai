@@ -36,10 +36,27 @@ key_findings:
 - Authors conclude the cases illustrate heterogeneity in presentation, biochemistry and histopathology; both had successful outcomes without recurrence (12 and 6 months follow-up as stated).
 relevance_to_jgct: Peripheral precocious puberty from JGCT with estradiol above 1000 pg/ml and normalisation after oophorectomy; contrasted with a mixed sex cord-stromal tumor.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- pmid-23565375
 superseded_by: null
 retracted: false
 notes: 'Whole abstract read (PMC3850124). Internal inconsistencies: case 2 CT shows a left ovary but resection is described as right tubo-ovarian; the abstract text gives follow-up as ''one year'' for case 1 in the case text but ''12 months'' in the conclusion. n_jgct_patients counts case 1 only.'
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: case 1
+  sex: F
+  age_years: 3
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: other
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 12
+  notes: conference abstract of the case also reported in pmid-23565375 (same child)

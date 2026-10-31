@@ -45,3 +45,23 @@ notes: Single case; no molecular testing reported (IDH1/2 or other not discussed
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 2.5
+  site: ovary
+  stage: IC3
+  stage_system: FIGO 2014
+  malignant_ascites: true
+  tumor_size_cm: 11
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  syndrome: Ollier disease
+  surgery: other
+  chemotherapy: germ cell tumor protocol, agents not stated
+  chemo_setting: adjuvant
+  relapse: null
+  outcome: NED
+  follow_up_months: null
+  notes: enchondromas mistaken for metastases on MRI; follow-up duration not stated

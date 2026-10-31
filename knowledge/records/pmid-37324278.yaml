@@ -51,3 +51,21 @@ notes: Abstract says follow-up findings consistent with full text; full text giv
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 4
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  tumor_size_cm: 8.1
+  presentation:
+  - precocious_puberty
+  syndrome: Ollier disease (shared somatic IDH1 R132C)
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 24
+  notes: hormones normal to 2 years; imaging follow-up stated at 3 months

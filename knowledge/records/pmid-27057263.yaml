@@ -43,3 +43,17 @@ notes: CT dimensions printed as 85x110x125 cm, evidently a unit error (likely mm
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 18
+  site: ovary
+  stage: null
+  presentation:
+  - virilization
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  surgery: cystectomy_or_enucleation
+  chemotherapy: null
+  outcome: unknown
+  notes: unilocular purely cystic tumor; no follow-up; Call-Exner bodies described, juvenile subtype asserted in title

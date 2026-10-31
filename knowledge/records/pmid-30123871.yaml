@@ -43,3 +43,24 @@ notes: 'Adult-age (31 years) diagnosis labelled juvenile granulosa cell tumor; t
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 31
+  site: ovary
+  stage: IIIC
+  stage_system: FIGO 2014
+  rupture: unknown
+  malignant_ascites: null
+  presentation:
+  - ascites
+  - abdominal_mass_or_distension
+  - other
+  surgery: radical
+  chemotherapy: BEP x3, then second-line
+  chemo_setting: adjuvant
+  relapse: true
+  relapse_months: 6
+  outcome: AWD
+  follow_up_months: null
+  notes: 'classification uncertain: Call-Exner bodies described; after a cancelled IVF stimulation cycle'

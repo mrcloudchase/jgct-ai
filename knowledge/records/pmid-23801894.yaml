@@ -46,3 +46,34 @@ notes: Table 6 gives 'Juvenile granulosa cell tumor' for cases 1 and 3, while th
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: JGCT 1
+  sex: F
+  age_years: 9
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  presentation:
+  - precocious_puberty
+  surgery: cystectomy_or_enucleation
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: vaginal bleeding; left ovarian cystectomy
+- id: JGCT 2
+  sex: F
+  age_years: 14
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  presentation:
+  - abdominal_mass_or_distension
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: carboplatin-etoposide
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: right adnexectomy with pelvic node dissection and partial omentectomy; CA-125 258

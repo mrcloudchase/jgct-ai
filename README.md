@@ -14,6 +14,8 @@ Everything known about juvenile granulosa cell tumor (JGCT), gathered from sourc
 | [`knowledge/topics/`](knowledge/topics/) | One synthesized article per subject: what every source reports, where they agree and disagree, what is unknown. |
 | [`knowledge/records/`](knowledge/records/) | One file per source: what it is, where its full text was read, and what it says. |
 | [`knowledge/INDEX.md`](knowledge/INDEX.md) | Index of every record. |
+| [`analyses/`](analyses/) | The agent's own analyses across records: a patient-level dataset of published cases and pooled cohort tables, under a written protocol. Unreviewed; not a source. |
+| [`analyses/`](analyses/) | The agent's own analyses across records: a patient-level dataset of published cases and pooled cohort tables, under a written protocol. Unreviewed; not a source. |
 | [`sources/INDEX.md`](sources/INDEX.md) | Where the base has looked, what it found, and which relevant sources could not be read in full. |
 | `state/runs/` | One report per maintenance run: what was done, what was found, what was left. |
 | [`site/`](site/) | The generator that builds the public site from everything above. The site itself is built and published automatically, never committed. |

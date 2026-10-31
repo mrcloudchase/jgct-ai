@@ -41,3 +41,19 @@ notes: Short imaging case summary; follow-up beyond discharge is not reported an
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: M
+  age_years: 0
+  site: testis
+  stage: null
+  tumor_size_cm: 0.7
+  presentation:
+  - scrotal_mass
+  surgery: testis_sparing
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: NED
+  follow_up_months: 0.25
+  notes: newborn; partial orchiectomy; discharged day 8

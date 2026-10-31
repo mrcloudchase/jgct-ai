@@ -1,0 +1,407 @@
+- record: pmid-6465418
+  label: Young 1984 (125 cases, AFIP consultation series)
+  evidence_basis: abstract
+  group: young1984
+  primary: true
+  n: 125
+  site: ovary
+  stage_I: 122
+  stage_I_note: all but 3 (two IIB, one IIC)
+  followed: 95
+  alive_ned: 87
+  deaths_of_disease: 7
+  rupture: 13
+  ascites: 11
+  prepubertal_precocity_pct: 82
+- record: pmid-7149091
+  label: Zaloudek 1982 (26 juvenile of 32 childhood granulosa tumors)
+  evidence_basis: abstract
+  group: zaloudek1982
+  primary: true
+  n: 26
+  site: ovary
+  stage_I: 26
+  followed: 26
+  relapses: 2
+- record: pmid-3373268
+  label: Vassal 1988 (Institut Gustave-Roussy)
+  evidence_basis: abstract
+  group: vassal1988
+  primary: true
+  n: 15
+  site: ovary
+  stage_I: 6
+  followed: 15
+  relapses: 4
+  deaths_of_disease: 4
+- record: pmid-1300967
+  label: Plantaz 1992 (French multicenter, 1965-1990)
+  evidence_basis: abstract
+  group: plantaz1992
+  primary: true
+  n: 40
+  site: ovary
+  stage_I: 21
+  followed: 40
+  alive_ned: 34
+  deaths_of_disease: 6
+  chemotherapy: 13
+- record: pmid-9190974
+  label: Calaminus 1997 (German prospective cooperative study)
+  evidence_basis: abstract
+  group: makei
+  primary: false
+  n: 33
+  site: ovary
+  stage_I: 28
+  chemotherapy: 9
+  efs: 0.75 at 168 months
+- record: pmid-12805338
+  label: Schneider 2003 (MAKEI, 54 ovarian stromal tumors, JGCT majority)
+  evidence_basis: abstract
+  group: makei
+  primary: false
+  n: null
+  site: ovary
+  note: 54 sex cord-stromal tumors, not all JGCT; EFS IA 1.0 (27/27), IC 0.76 (16/21), II-III 0.67 (4/6)
+- record: pmid-12910419
+  label: Schneider 2003 (Kiel registry, 48 JGCT)
+  evidence_basis: abstract
+  group: makei
+  primary: false
+  n: 48
+  site: ovary
+  mitotic_low_efs: 1.0 (<20 per 10 HPF)
+  mitotic_high_efs: 0.48 (>=20 per 10 HPF)
+- record: pmid-40272823
+  label: STEP/MAKEI 2025 (89 ovarian JGCT, 2001-2019)
+  evidence_basis: full_text
+  group: makei
+  primary: true
+  n: 89
+  site: ovary
+  stage_I: 84
+  stage_IA: 52
+  stage_IC1: 14
+  stage_IC2_IC3: 18
+  stage_II_III: 5
+  followed: 89
+  relapses: 4
+  deaths_of_disease: 2
+  chemotherapy: 21
+  mitotic_low_n: 61
+  mitotic_low_events: 0
+  mitotic_high_n: 28
+  mitotic_high_events: 4
+  efs_5y: 0.95
+  os_5y: 0.97
+  mitotic_note: all 89 ovarian JGCT; threshold 20 per 10 HPF
+- record: pmid-40267023
+  label: OTST Registry 2025 (70 ovarian JGCT, 2001-2024)
+  evidence_basis: full_text
+  group: otst
+  primary: true
+  n: 70
+  site: ovary
+  stage_I_pct: 81
+  followed: 70
+  relapses: 14
+  deaths_of_disease: 8
+  chemotherapy_pct: 30
+  mitotic_high_n: 18
+  mitotic_high_of: 60
+  efs_3y: 0.73
+  os_3y: 0.92
+  efs_3y_mitotic_high: 0.555
+  efs_3y_mitotic_low: 1.0
+  relapse_within_2y: 13
+  relapse_within_2y_of: 14
+  mitotic_low_n: 16
+  mitotic_low_events: 0
+  mitotic_high_events: 5
+  mitotic_note: low-stage patients treated with surgery alone
+- record: pmid-29037807
+  label: OTST 2017 report
+  evidence_basis: full_text
+  group: otst
+  primary: false
+  n: null
+  site: ovary
+- record: doi-10.1200_jco.2020.38.15_suppl.6064
+  label: OTST 2020 interim (42 ovarian JGCT)
+  evidence_basis: full_text
+  group: otst
+  primary: false
+  n: 42
+  site: ovary
+  stage_I: 33
+  relapses: 9
+  os_3y: 0.88
+  efs_3y: 0.69
+- record: pmid-26206391
+  label: TGM-95 2015 (French prospective, 23 JGCT of 38 ovarian stromal tumors)
+  evidence_basis: abstract
+  group: tgm95
+  primary: true
+  n: 23
+  site: ovary
+  note: 'outcomes reported for all 38 ovarian stromal tumors: 5-year EFS 85%, OS 94%; rupture/ascites: 0 of 11 relapsed with VIP, 4 of 4 without'
+- record: url-039c1963d955
+  label: TGM-95 SIOP 2014 abstract
+  evidence_basis: full_text
+  group: tgm95
+  primary: false
+  n: 23
+  site: ovary
+- record: pmid-38259036
+  label: TGM13 2024 (34 ovarian JGCT among 63 ovarian stromal tumors)
+  evidence_basis: abstract
+  group: tgm13
+  primary: true
+  n: 34
+  site: ovary
+  note: 'stromal tumors overall: 61 of 63 stage I, 7 recurrences, 1 death, 3-year PFS 89%'
+- record: pmid-21488154
+  label: TREP 2011 (Italy, 12 JGCT of 23 ovarian stromal tumors)
+  evidence_basis: abstract
+  group: trep
+  primary: true
+  n: 12
+  site: ovary
+  relapses: 0
+  note: the 2 relapses in the series were Sertoli-Leydig tumors
+- record: pmid-33583630
+  label: MITO-9 2021 (17 stage I JGCT)
+  evidence_basis: abstract
+  group: mito9
+  primary: true
+  n: 17
+  site: ovary
+  stage_I: 17
+  followed: 17
+  relapses: 0
+  chemotherapy: 2
+  fertility_sparing: 15
+- record: pmid-34902562
+  label: Wang 2022 (35 early-stage JGCT after fertility-sparing surgery, China)
+  evidence_basis: abstract
+  group: wang2022
+  primary: true
+  n: 35
+  site: ovary
+  stage_IA: 9
+  stage_IC: 26
+  followed: 35
+  relapses: 8
+  deaths_of_disease: 6
+  chemotherapy: 31
+  dfs_5y: 0.748
+  os_5y: 0.843
+  lymphadenectomy: 14
+  node_positive: 0
+- record: pmid-39561630
+  label: Marino 2025 (30 JGCT, Monza, 1980-2024)
+  evidence_basis: abstract
+  group: marino2025
+  primary: true
+  n: 30
+  site: ovary
+  stage_I: 24
+  followed: 30
+  relapses: 3
+  deaths_of_disease: 3
+  chemotherapy: 6
+  fertility_sparing: 26
+- record: pmid-33904645
+  label: Ndhlovu 2021 (19 JGCT, Wuhan)
+  evidence_basis: abstract
+  group: ndhlovu2021
+  primary: true
+  n: 19
+  site: ovary
+  stage_I: 18
+  followed: 19
+  relapses: 1
+  deaths_of_disease: 1
+  chemotherapy: 12
+  fertility_sparing: 16
+- record: pmid-42706059
+  label: Huang 2026 (18 stage I JGCT, Fudan)
+  evidence_basis: abstract
+  group: fudan2026
+  primary: true
+  n: 18
+  site: ovary
+  stage_I: 18
+  stage_IA: 10
+  stage_IC: 8
+  followed: 18
+  relapses: 1
+  chemotherapy: 6
+  fertility_sparing: 18
+- record: doi-10.4103_2096-2924.255993
+  label: Guo 2019 (8 JGCT, Fudan, 2004-2018)
+  evidence_basis: full_text
+  group: fudan2026
+  primary: false
+  n: 8
+  site: ovary
+  stage_I: 7
+  relapses: 1
+  deaths_of_disease: 1
+  chemotherapy: 7
+  note: earlier series from the same hospital; treated as overlapping with Huang 2026
+- record: pmid-25788847
+  label: Karalok 2015 (10 JGCT, Ankara)
+  evidence_basis: full_text
+  group: karalok2015
+  primary: true
+  n: 10
+  site: ovary
+  stage_I: 10
+  followed: 10
+  relapses: 0
+  chemotherapy: 2
+  lymphadenectomy: 5
+  node_positive: 0
+- record: pmid-21998762
+  label: Korean series (11 JGCT)
+  evidence_basis: full_text
+  group: korea2011
+  primary: true
+  n: 11
+  site: ovary
+  followed: 11
+  relapses: 0
+- record: pmid-33560080
+  label: South African national series (13 JGCT)
+  evidence_basis: full_text
+  group: southafrica
+  primary: true
+  n: 13
+  site: ovary
+  deaths_of_disease: 2
+- record: pmid-24606464
+  label: Karachi pathology series (15 JGCT)
+  evidence_basis: full_text
+  group: karachi
+  primary: true
+  n: 15
+  site: ovary
+  relapses: 2
+  note: follow-up available for only 21 of 39 series patients
+- record: pmid-36748172
+  label: Istanbul 2022 (5 JGCT)
+  evidence_basis: full_text
+  group: istanbul2022
+  primary: true
+  n: 5
+  site: ovary
+  stage_I: 5
+  followed: 5
+  relapses: 2
+  deaths_of_disease: 0
+  chemotherapy: 2
+- record: pmid-39863551
+  label: SEER 2025 (34 JGCT, population database)
+  evidence_basis: abstract
+  group: seer
+  primary: true
+  n: 34
+  site: ovary
+  stage_I: 19
+  note: 'matched analysis: 13 of 32 died; stage and histology predicted survival'
+- record: pmid-41367860
+  label: 2025 review of 94 published pediatric cases
+  evidence_basis: full_text
+  group: published-cases-review
+  primary: true
+  n: 94
+  site: ovary
+  note: pooled case reports; overlaps with the published-cases dataset here and must not be added to it
+- record: pmid-26076062
+  label: Kao 2015 (70 testicular JGCT)
+  evidence_basis: abstract
+  group: kao2015
+  primary: true
+  n: 70
+  site: testis
+- record: pmid-32719989
+  label: Systematic review of testicular granulosa cell tumors (166 juvenile)
+  evidence_basis: full_text
+  group: testis-review
+  primary: true
+  n: 166
+  site: testis
+  metastases: 0
+  note: pooled published cases; overlaps every other testicular series
+- record: pmid-40272823
+  label: STEP 2025 testicular (24 boys)
+  evidence_basis: full_text
+  group: makei-testis
+  primary: true
+  n: 24
+  site: testis
+  relapses: 0
+- record: pmid-23733594
+  label: MAKEI/MAHO 2013 testicular (16)
+  evidence_basis: abstract
+  group: makei-testis
+  primary: false
+  n: 16
+  site: testis
+  relapses: 0
+- record: pmid-9134041
+  label: Kiel registry testicular (11)
+  evidence_basis: abstract
+  group: kiel-testis
+  primary: true
+  n: 11
+  site: testis
+  relapses: 0
+- record: pmid-11696779
+  label: Prepubertal Testis Tumor Registry 2001
+  evidence_basis: abstract
+  group: pttr
+  primary: true
+  n: null
+  site: testis
+  metastases: 0
+- record: pmid-8308995
+  label: Prepubertal Testis Tumor Registry 1994 neonatal (6 JGCT)
+  evidence_basis: abstract
+  group: pttr
+  primary: false
+  n: 6
+  site: testis
+- record: pmid-20850634
+  label: TREP testicular (4)
+  evidence_basis: abstract
+  group: trep-testis
+  primary: true
+  n: 4
+  site: testis
+  relapses: 0
+- record: pmid-26206391
+  label: TGM-95 testicular (4)
+  evidence_basis: abstract
+  group: tgm95-testis
+  primary: true
+  n: 4
+  site: testis
+  relapses: 0
+- record: pmid-38259036
+  label: TGM13 testicular (5)
+  evidence_basis: abstract
+  group: tgm13-testis
+  primary: true
+  n: 5
+  site: testis
+  relapses: 0
+- record: pmid-36813116
+  label: Collins 2023 testicular sequencing (18)
+  evidence_basis: abstract
+  group: collins2023
+  primary: true
+  n: 18
+  site: testis

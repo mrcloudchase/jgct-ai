@@ -44,3 +44,22 @@ notes: 'The text contains several apparent errors: adnexal mass size ''90 cm'' (
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 35
+  site: ovary
+  stage: null
+  rupture: unknown
+  tumor_size_cm: 13
+  presentation:
+  - pregnancy
+  - abdominal_pain
+  surgery: other
+  chemotherapy: advised, not yet given at report
+  chemo_setting: unknown
+  relapse: true
+  relapse_months: 3
+  outcome: AWD
+  follow_up_months: null
+  notes: 'classification uncertain: age 35, no molecular confirmation; ruptured capsule at resection at 14 weeks of pregnancy; recurrence at 3 months, hysterectomy after delivery, ascites later; age atypical, no molecular confirmation'

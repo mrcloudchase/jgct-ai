@@ -43,3 +43,21 @@ notes: No testosterone or inhibin measurements, no staging statement and no foll
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 17
+  site: ovary
+  stage: null
+  mitoses_per_10hpf: 4
+  tumor_size_cm: 20
+  presentation:
+  - virilization
+  - abdominal_mass_or_distension
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: cystic virilizing JGCT; morphology-only diagnosis; follow-up duration not stated

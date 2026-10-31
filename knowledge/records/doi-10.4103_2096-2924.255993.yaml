@@ -55,3 +55,117 @@ notes: The cached text from the publisher page contains the full article text bu
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: stage I patient A
+  sex: F
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  rupture: none
+  presentation: []
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: 'Fudan 2004-2018 series: 7 stage I patients (6 IC, 1 IA) with fertility-sparing surgery, 7 of 8 patients received adjuvant chemotherapy (BE-carboplatin or BV-carboplatin), no recurrence at median 64 months; per-patient ages (9 to 31) and chemotherapy not readable'
+- id: stage I patient B
+  sex: F
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: unknown
+  presentation: []
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: see patient A
+- id: stage I patient C
+  sex: F
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: unknown
+  presentation: []
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: see patient A
+- id: stage I patient D
+  sex: F
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: unknown
+  presentation: []
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: see patient A
+- id: stage I patient E
+  sex: F
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: unknown
+  presentation: []
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: see patient A
+- id: stage I patient F
+  sex: F
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: unknown
+  presentation: []
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: see patient A
+- id: stage I patient G
+  sex: F
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: unknown
+  presentation: []
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: see patient A
+- id: stage IIIC patient
+  sex: F
+  site: ovary
+  stage: IIIC
+  stage_system: FIGO (pre-2014)
+  rupture: unknown
+  presentation: []
+  surgery: radical
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: true
+  relapse_months: 1
+  outcome: DOD
+  follow_up_months: 1
+  notes: recurred and died 1 month after initial treatment

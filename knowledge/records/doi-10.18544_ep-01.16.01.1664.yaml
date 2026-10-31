@@ -47,3 +47,22 @@ notes: Original in Polish with English abstract; read in Polish. The authors sta
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 15
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: unknown
+  mitoses_per_10hpf: 6
+  tumor_size_cm: 4
+  presentation:
+  - virilization
+  surgery: cystectomy_then_completion
+  chemotherapy: PVB x3
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: testosterone-secreting; tumor cells at the enucleation coagulation line, no tumor in the completion specimen; stage given as at least T1a

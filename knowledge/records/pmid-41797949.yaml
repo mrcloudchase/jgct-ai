@@ -44,3 +44,24 @@ notes: 'Case report; literature table figures are from other papers. The paper''
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 28
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: none
+  malignant_ascites: false
+  tumor_size_cm: 15
+  presentation:
+  - pregnancy
+  - abdominal_pain
+  - ascites
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 24
+  notes: staging at 23 weeks and lymphadenectomy at cesarean; nodes negative

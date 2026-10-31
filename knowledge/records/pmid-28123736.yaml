@@ -48,3 +48,21 @@ notes: Source text is a PDF extraction. The ultrasound text reports a 12x12 mm m
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 14
+  site: ovary
+  stage: null
+  rupture: none
+  tumor_size_cm: 5.5
+  presentation:
+  - virilization
+  - menstrual_change
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 4
+  notes: laparoscopic; intact serosa

@@ -42,3 +42,24 @@ notes: Adult age (28 years); juvenile type by histology, within the stated JGCT 
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 28
+  site: ovary
+  stage: IC2
+  stage_system: FIGO 2014
+  rupture: preoperative
+  mitoses_per_10hpf: 11
+  tumor_size_cm: 18
+  presentation:
+  - pregnancy
+  - rupture_or_hemoperitoneum
+  - abdominal_pain
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: paclitaxel-carboplatin x6
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: 12
+  notes: hemoperitoneum at 31 weeks of pregnancy; preterm vaginal delivery

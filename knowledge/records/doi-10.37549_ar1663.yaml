@@ -44,3 +44,18 @@ notes: Brief radiology case summary; no histology, IHC, staging or follow-up rep
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 3
+  site: ovary
+  stage: null
+  tumor_size_cm: 10
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  - other
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  outcome: unknown
+  notes: radiology case; no stage or follow-up

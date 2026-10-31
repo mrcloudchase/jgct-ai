@@ -43,3 +43,22 @@ notes: Stage of the JGCT not stated although pelvic fluid and nodes were negativ
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: case 2
+  sex: F
+  age_years: 24
+  site: ovary
+  stage: null
+  rupture: none
+  malignant_ascites: false
+  tumor_size_cm: 30
+  presentation:
+  - pregnancy
+  - abdominal_mass_or_distension
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: BEP x3 with leuprolide
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: 24
+  notes: cesarean at 32 weeks with adnexectomy, omentectomy, 19 negative nodes; stage not stated

@@ -46,3 +46,39 @@ notes: Follow-up duration not given. Case 1 stage not formally stated (no capsul
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: case 1
+  sex: F
+  age_years: 8
+  site: ovary
+  stage: null
+  rupture: unknown
+  tumor_size_cm: 25
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: serous effusion at surgery; stage not formally stated; follow-up duration not given
+- id: case 2
+  sex: F
+  age_years: 11
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  rupture: unknown
+  tumor_size_cm: 32
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  surgery: cystectomy_then_completion
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: null
+  notes: laparoscopic cystectomy then adnexectomy with peritoneal biopsies; pT1a

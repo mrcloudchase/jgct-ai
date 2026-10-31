@@ -43,3 +43,19 @@ notes: Inhibin and calretinin were negative, atypical for sex cord-stromal tumor
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 17
+  site: ovary
+  stage: null
+  rupture: none
+  tumor_size_cm: 15
+  presentation:
+  - torsion
+  - abdominal_pain
+  surgery: cystectomy_or_enucleation
+  chemotherapy: null
+  outcome: NED
+  follow_up_months: null
+  notes: torsion 720 degrees; inhibin and calretinin negative; no follow-up duration

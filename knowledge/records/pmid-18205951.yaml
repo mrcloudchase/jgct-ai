@@ -35,3 +35,18 @@ notes: The age of the JGCT patient is not stated (series age range 20-40, which 
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: JGCT patient
+  sex: F
+  site: ovary
+  stage: I
+  stage_system: FIGO (pre-2014)
+  presentation:
+  - pregnancy
+  surgery: unknown
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: true
+  outcome: DOD
+  follow_up_months: 48
+  notes: pregnancy-associated; series age range 20 to 40; recurred multiple times and died 48 months after diagnosis

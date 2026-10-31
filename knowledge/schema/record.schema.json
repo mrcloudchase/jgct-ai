@@ -298,6 +298,198 @@
         "string",
         "null"
       ]
+    },
+    "patients": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "site",
+          "outcome"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "label of the patient within this source (case number or '1')"
+          },
+          "sex": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "F",
+              "M",
+              "other",
+              null
+            ]
+          },
+          "age_years": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "age at diagnosis in years (infants as a fraction); null if not stated"
+          },
+          "site": {
+            "type": "string",
+            "enum": [
+              "ovary",
+              "testis",
+              "other"
+            ]
+          },
+          "stage": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "FIGO stage as the source states it (IA, IB, IC, IC1, IC2, IC3, II, IIA, IIB, IIC, III, IIIA, IIIB, IIIC, IV); null if not stated"
+          },
+          "stage_system": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "FIGO 2014, FIGO (pre-2014), COG, Wollner, or null"
+          },
+          "rupture": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "none",
+              "intraoperative",
+              "preoperative",
+              "unknown",
+              null
+            ]
+          },
+          "malignant_ascites": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "mitoses_per_10hpf": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "tumor_size_cm": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "presentation": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "precocious_puberty",
+                "virilization",
+                "abdominal_pain",
+                "abdominal_mass_or_distension",
+                "menstrual_change",
+                "torsion",
+                "rupture_or_hemoperitoneum",
+                "ascites",
+                "scrotal_mass",
+                "incidental",
+                "pregnancy",
+                "other"
+              ]
+            }
+          },
+          "syndrome": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "surgery": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "unilateral_salpingo-oophorectomy",
+              "oophorectomy",
+              "cystectomy_or_enucleation",
+              "cystectomy_then_completion",
+              "radical",
+              "orchiectomy",
+              "testis_sparing",
+              "biopsy_only",
+              "other",
+              "unknown",
+              null
+            ]
+          },
+          "chemotherapy": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "regimen as stated, or 'none'; null if not stated"
+          },
+          "chemo_setting": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "adjuvant",
+              "neoadjuvant",
+              "relapse",
+              "none",
+              "unknown",
+              null
+            ]
+          },
+          "relapse": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "relapse_months": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "outcome": {
+            "type": "string",
+            "enum": [
+              "NED",
+              "AWD",
+              "DOD",
+              "died_other",
+              "unknown"
+            ],
+            "description": "NED no evidence of disease at last follow-up; AWD alive with disease; DOD died of disease; died_other died of another cause"
+          },
+          "follow_up_months": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "notes": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      },
+      "description": "Patient-level extraction for case reports and small series, one entry per JGCT patient the source describes individually, copied from the text; feeds analyses/. Only from sources read in full unless the abstract states every field used."
     }
   },
   "allOf": [
