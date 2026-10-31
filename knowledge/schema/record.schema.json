@@ -486,6 +486,13 @@
               "string",
               "null"
             ]
+          },
+          "source_check": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "What this row was checked against after extraction, and when: for example 'agent re-read the full text 2026-10-31' or 'maintainer checked against the paper 2026-11-02'. Null means copied from the record and not checked further."
           }
         }
       },

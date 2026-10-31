@@ -1,0 +1,732 @@
+
+[PAGE 1]
+Jemds.com Original Research Article 
+ 
+J. Evolution Med. Dent. Sci./eISSN- 2278-4802, pISSN- 2278-4748/ Vol. 7/ Issue 26/ June 25, 2018                                                                           Page 3004 
+ 
+ 
+ 
+A 20 YEARS’ EXPERIENCE ON GRANULOSA CELL TUMOUR 
+ 
+P. Jovita M. Martin1, Kalaichelvi K2, Lakshminarasimhan3, Ramkumar4, Dheenadhayalan5 
+ 
+1Assistant Professor, Department of Medical Oncology, SRMC, Chennai, Tamilnadu, India. 
+2Professor, Department of Medical Oncology, Madras Medical College, Chennai, Tamilnadu, India. 
+3Professor, Department of Medical Oncology, SRMC, Chennai, Tamilnadu, India. 
+4Associate Professor, Department of Medical Oncology, IOG, Egmore, Chennai, Tamilnadu, India. 
+5Resident, Department of Medical Oncology, Madras Medical College, Chennai, Tamilnadu, India. 
+ABSTRACT 
+BACKGROUND 
+The prognostic factors and the recurrent nature of Granulosa cell tumour is unclear. Chemotherapy has a compelling role in locally 
+advanced cases, inoperable cases  and metastatic cases. This retros pective study results elucidate  the need for chemotherapy in 
+advanced cases which then translates to a better overall survival benefit, increased disease free survival and delay in progression. 
+The prognostic factors and the recurrent nature of Granulosa cell tumour is unclear and unpredictable added to the fact that these 
+tumours are rare and have an indolent course. There is only a scarce data on the optimum treatment for this group of patient. 
+The aim of this study was to pursue the clinico-pathological features and prognostic factors for the recurrence patterns and the 
+optimal management of these cases. 
+ 
+MATERIALS AND METHODS 
+This is a descriptive study with secondary data from records. A retrospective multi -institutional review of patients with GCTs of 
+the ovary treated or referred were analysed. Surgical outcome, pathological details, chemotherapy details, follow -up details, 
+relapse pattern and the treatment of the relapse disease were analysed. Kaplan-Meier survival analysis was used to determine the 
+prognostic and predictive markers for survival. 
+ 
+RESULTS 
+This is an analysis of the survival rate and the treatment results of Granulosa cell tumour between 1995 and 2015 over a period of 
+20 years. We have analysed the results of 126 patients , of which 53 patients (42%) were premenopausal and 73 patients (58%) 
+were postmenopausal. Out of the 126 patients 84 patients had complete surgical staging  which constitutes transabdominal 
+hysterectomy and bilateral salpingo-oophorectomy and a staging laparotomy, 35 patients had incomplete or suboptimal surgery, 7 
+patients had fertility sparing operation. The 67 patients who had complete surgery and early st age disease with no risk factors 
+were on observation. These patients have not had relapse. A dataset of 34 relapsed granulosa cell tumour patients were analysed. 
+Out of these, 19 patients have survived cancer. Out of 34 cases, 10 patients had complete surgery and 15 patients had incomplete 
+surgery including fertility preserving surgery. Kaplan -Meier survival analysis results show that cancer was cured by complete 
+surgery followed in chemotherapy wherever high-risk factors were present, whereas the survival rate drastically declined in the 
+cases of incomplete surgery without adjuvant chemotherapy. For patient’s stage of cancer size of the tumour, type of surgery done, 
+tumour spill, histopathology and chemotherapy in positive high-risk parameters have relatively more effect on survival chance. 
+ 
+CONCLUSION 
+Granulosa cell tumours are known for their rarity. Chemotherapy has a compelling role in locally advanced cases, inoperable cases, 
+metastatic cases, in cases with tu mour spill or rupture, certain histopathological variants (such as juvenile granulosa cell tumour, 
+yolk sac tumour) and tumours > 9 cm. Other factors which do contribute to the prognosis would be age at diagnosis, nuclear atypia, 
+mitotic index, surgical method and presence of residual disease after initial surgery. 
+ 
+KEY WORDS 
+Granulosa Cell Tumour, Recurrence of Granulosa Cell Tumour. 
+HOW TO CITE THIS ARTICLE : Martin PJM, Kalaichelvi K, Lakshminarasimhan, et al . A 20 years ’ experience on granulosa cell 
+tumour. J. Evolution Med. Dent. Sci. 2018;7(26):3004-3012, DOI: 10.14260/jemds/2018/676 
+ 
+BACKGROUND 
+Ovarian sex cord stromal cells are known for their rarity 
+comprising of 2 - 3% of all primary ovarian cancers.  
+‘Financial or Other Competing Interest’: None.  
+Submission 29-05-2018, Peer Review 10-06-2018,  
+Acceptance 13-06-2018, Published 25-06-2018. 
+Corresponding Author: 
+P. Jovita M. Martin, 
+AG Alsa Deer Park, 
+#108, Velechery Main Road, 
+Huindy, Chennai-32, 
+Tamilnadu, India. 
+E-mail: jovimartin4@gmail.com 
+DOI: 10.14260/jemds/2018/676 
+  
+They are known for their heterogeneity as well. From 
+benign to malignant subtypes , there are several varieties 
+known. They develop from the proliferating cells which 
+produce cells to support and surround oocytes , which 
+includes the cells that produce ovarian hormones. The 
+different types of sex cord stromal tumo urs include fibroma-
+thecoma, granulosa cell tumo ur (adult and juvenile, which 
+differentiates into female characteristics), Sertoli -Leydig cell 
+tumour ( which differentiates into male char acteristics). 
+Granulosa cell tumo ur have the most common malignant 
+potential among the sex cord  stromal cell tumo urs as 
+described by Rokitansky in 1855.1 
+The adult subtype is often seen in the middle aged and old 
+aged women with a median age of 50 - 54 years. The juvenile 
+
+
+[PAGE 2]
+Jemds.com Original Research Article 
+ 
+J. Evolution Med. Dent. Sci./eISSN- 2278-4802, pISSN- 2278-4748/ Vol. 7/ Issue 26/ June 25, 2018                                                                           Page 3005 
+ 
+ 
+ 
+subtype comprises of only 5% of the total sex cord stromal 
+tumours, typically develop before puberty , common in 
+children and young women being highly proliferative but 
+with a lower risk of recurrence.2 
+Malignant sex cord tumo ur cells are diagnosed at an 
+earlier stage and are considered to be low -grade 
+malignancies compared to the pr imary ovarian cancers. 
+Granulosa cell tumo ur present with features of hyper -
+oestrogenism such as abnormal vaginal bleeding and 
+precocious puberty.3 
+Complete surgery is the main stay of the management in 
+early stages. Adjuvant platinum-based chemo is indicated in 
+advanced stages. Though granulosa cell tumo urs have 
+favourable prognosis, late relapses are known to occur due to 
+the indolent nature of the disease.  Advanced disease has a 
+poor prognosis with 5 -year survival rate of 0  - 20% in 
+comparison to epithelial ovarian cancer.4 
+The most common prognostic factors known in granulosa 
+tumours are age, tumour size, tumour stage, bilaterality, post-
+op residual tumour status and high mitotic index.5-15 
+The prognostic factors and the recurrent nature is unclear 
+and unpredictable added to the fact that these tumo urs are 
+rare and have a n indolent course. There is only a scarce data 
+on the optimum treatment for this group of patients. The 
+present study is conducted to pursue the clinico -pathological 
+features and prognostic factors for the recurrence patterns 
+and the optimal management of these cases. 
+ 
+MATERIALS AND METHODS 
+This is a descriptive study with secondary data from records. 
+All cases of histologically proven and treated patients 
+between 1993 and 2015 in the Department of Obstetrics and 
+Gynaecology were analysed retrospectively with the medical 
+records. Information on the patient ’s characteristics, clinical 
+presentation, International Federation of Gynaecology and 
+Obstetrics Staging (FIGO), surgical details, adjuvant details, 
+recurrences, management of recurrences and follow-up until 
+2015 were analysed. 
+Size of the tumo ur was ascertained by preoperative 
+ultrasound or computer tomography. All patients had 
+surgery. The complete staging laparotomy inc luded total 
+abdominal hysterectomy + bilateral salp ingo-oophorectomy 
+with optimal resection (R O), omentectomy, +/ - 
+lymphadenectomy and multiple biopsies. All other surgeries 
+constituted partial surgical staging. Fertility preserving 
+surgery or fertility sp aring surgery was defined as 
+preservation of the uterus and at least one adnexa. In 
+advanced stages , patient received chemotherapy. Other 
+patients were put on active surveillance. 
+ 
+ 
+ 
+ 
+Characteristics 
+Age Percentage 
+<10 3 
+10-19 3 
+20-29 17 
+30-39 20 
+40-49 28 
+50-59 28 
+60-70 26 
+>70 1 
+Median Age  
+ 
+Total 126 patients - Premenopausal 58 patients  and 
+Postmenopausal 44 patients. 
+ 
+Symptoms N% 
+Abdominal pain 40 
+Palpable mass 20 
+Abdominal distension 6 
+Precocious puberty 2 
+Virilisation 2 
+Mastalgia 1 
+Menorrhagia 33 
+Postmenopausal bleeding 24 
+Secondary amenorrhea 0 
+Constipation 0 
+Urinary tract symptoms 0 
+ 
+Surgical Approach: Laparotomy and 
+Laparoscopy 
+126 (100%) 
+n (%) 
+FIGO Stage N (%) 
+Ia 79 
+Ib 14 
+Ic 11 
+IIa 1 
+IIb 1 
+IIc 2 
+IIIa 7 
+IIIb 4 
+IIIc 4 
+IV 3 
+Surgical staging n(%) 
+Complete surgical staging 85 
+Incomplete surgical staging 41 
+PLND n(%) 
+No 44 
+Yes 82 
+Fertility sparing surgery n(%) 
+Yes 10 
+No 116 
+Postoperative residual tumour n(%) 
+Yes 41 
+No 85 
+Intraoperative tumour rupture n(%) 
+Yes 5 
+No 121 
+ 
+
+[PAGE 3]
+Jemds.com Original Research Article 
+ 
+J. Evolution Med. Dent. Sci./eISSN- 2278-4802, pISSN- 2278-4748/ Vol. 7/ Issue 26/ June 25, 2018                                                                           Page 3006 
+ 
+ 
+ 
+ 
+ 
+Flow Chart showing the number of patients who relapsed and their Treatment Results 
+ 
+Out of the 84 patients who had complete surgery, those who had chemotherapy did not show recurrence. Out of the 77 patients 
+who were on observation, 3 patients had recurrences. 
+ 
+1 45 IIIc AGCT > 10 cm Incomplete 
+Surgery 15 months Pelvis and LN and 
+Left adnexa 
+2 lines of chemo, CDDP +  
+VCR, then CDDP + VP16 
+oral Endoxan 
+Alive with 
+disease 90 
+months 
+Alive 
+2 55 IIIc AGCT 12 cm Incomplete 
+Surgery 5 months 
+Myometrial 
+infiltration 
+present upfront, 
+relapsed in pelvis 
+2 lines of chemo, CDDP +  
+VCR, then CDDP + VP16 
+Lost for follow-
+up by 16 
+months 
+LTFU 
+3 35 Ic SCST 9 cm Complete 
+Surgery 89 months Omentum + Pelvis 
+CDDP + Ctx 6 cycles 
+chemo, then CDDP + 
+Etoposide 
+123 months 
+alive Alive 
+4 56 IIIc SCST 8.1 x 8.1 
+cm 
+Incomplete 
+Surgery 3 months Pelvis BEP at 3 months Died 
+5 42 Ic AGCT 25 cm Incomplete 
+Surgery 11 months Pelvis 
+Initially no chemo, Ctx + 
+CDDP 6 cycles, then CDDP 
++ Etoposide x 6 cycles 
+133 months on 
+follow-up alive Alive 
+6 65 Ia AGCT 8 x 9 Complete 
+Surgery 12 months Pelvis No initial chemo, 4 cycles 
+CDDP + CTx chemo 
+Alive 150 
+months Alive 
+7 26 IV AGCT 20 cm FSO 25 months Pelvis 
+CDDP + Bleo + Vinb 3 
+cycles initially PR, then 2 
+years on Endoxan 
+Dead at 8 
+months Died 
+8 25 IIIc AGCT NA Incomplete 
+Surgery 24 months Omentum + PAN 
+Initially no chemo, PEB; 
+VAC; CDDP + Ctx each 6 
+cycles 
+Alive 132 
+months Alive 
+9 42 IV SCST 10 cm Incomplete 
+surgery 26 months Liver 3 cycles chemo initially, 
+then 6 cycles EP 
+Dead at 35 
+months Died 
+10 18 Ic SCST 9 cm FSO Progressed 
+at 11 months Pelvis 2 lines chemo Dead at 23 
+months Died 
+11 14 Ia JGCT 10 cm FSO Progressed 
+at 7 months Pelvis EP Dead at 7 
+months Died 
+12 23 Ic androgen 
+secreting 7 x 9 cm FSO 8 months Pelvis PEB 4 cycles Alive 85 
+months Alive 
+13 40 Ia AGCT 9 x 9cm Complete 
+surgery 10 months nil CDDP + CT x 6 cycles 
+alone 
+Alive 87 
+months Alive 
+14 44 Ic AGCT NA FSO 26 months Pelvis No initial chemo, 6 cycles 
+CDDP + Ctx 
+Alive 120 
+months Alive 
+15 30 IV AGCT NA Incomplete 
+surgery Progressed Pelvis CDDP + VP16 4 cycles, 
+then 3 cycles 
+Dead at 2nd 
+month Died 
+16 48 IIIa AGCT NA Complete 
+surgery 
+At 76th 
+month Pelvis No initial chemo, 6 cycles 
+CDDP + Ctx 
+98 months 
+alive Alive 
+17 40 IIIc AGCT 18 x 20 
+cm 
+Incomplete 
+surgery Progressed Omentum 6 cycles CDDP + Ctx 5 months dead Died 
+18 60 IIIa AGCT NA Complete No relapse nil 6 cycles alone 43 months Alive 
+
+
+[PAGE 4]
+Jemds.com Original Research Article 
+ 
+J. Evolution Med. Dent. Sci./eISSN- 2278-4802, pISSN- 2278-4748/ Vol. 7/ Issue 26/ June 25, 2018                                                                           Page 3007 
+ 
+ 
+ 
+Surgery Alive 
+19 57 Ia AGCT 15 x 10 
+cm 
+Complete 
+surgery No relapse nil 5 cycles alone 72 months 
+alive Alive 
+20 42 IIIc AGCT NA Incomplete 
+surgery Defaulted Omentum, Pelvis Defaulted Dead at 3 
+months Died 
+21 50 IIIc AGCT NA Complete 
+surgery No relapse nil 6 cycles chemo alone 126 months 
+Alive Alive 
+22 58 IIIC AGCT 8 x 8 cm Complete 
+surgery 30th month Pelvis 
+6 cycles chemo initially 
+post-surgery after relapse 
+CDDP + Etoposide; PVB 
+At 61 months 
+alive Alive 
+23 48 Ic AGCT NA Complete 
+surgery 37th month nil 6 cycles alone Alive 148 
+months Alive 
+24 21 IIIc JGCT NA FSO Defaulted Pelvis 2 cycles Lost for follow-
+up LTFU 
+25 38 IIa AGCT 
+10.6 x 
+11.94 
+cm 
+Optimal 
+surgery 10 months Pelvis, Omentum 6 cycles initially 83 months 
+alive Alive 
+26 21 Ia AGCT 10 cm FSO 12 months Liver CDDP + Etoposide 6 
+cycles 
+Dead at 14 
+months Died 
+27 52 Ia AGCT NA Incomplete 
+Surgery 24 months Omentum and 
+PAN 
+Initially no chemo, 2 lines 
+chemo 
+Alive at 140 
+months Alive 
+28 55 Ia AGCT 6 cm Incomplete 
+surgery 24 months Liver Defaulted Dead at 26 
+months Died 
+29 19 Ia AGCT 10 cm FSO 13 months Omentum and 
+Pelvis 
+Initially no chemo, 3 lines 
+chemo 
+Alive 98 
+months Alive 
+30 28 Ia AGCT 7 cm Complete 
+Surgery 75 months Pelvis Initially no chemo, 2 lines Alive 75 
+months Alive 
+31 44 Ic AGCT 11 x 12 
+cm 
+Incomplete 
+Surgery 23 months Pelvis Initially no chemo, CDDP+ 
+Ctx, then CDDP + Etop 
+Alive 85 
+months Alive 
+32 54 IIIc AGCT 9 x 10 
+cm 
+Incomplete 
+Surgery 16 months Pelvis 
+Initially no chemo, CDDP+ 
+Ctx, then CDDP + Etop 
+then PVB 
+LTFU at 28 
+months LTFU 
+33 60 IIIC AGCT 13 x 13 Incomplete 
+Surgery 12 months Pelvis CDDP + CTx, then CDDP + 
+Etop 
+Dead at 27 
+months Died 
+34 67 IIC AGCT 10 x 10 Incomplete 
+Surgery 24 months Pelvis CDDP + CTX 6 cycles, then 
+CDDP + Etop 
+Dead at 33 
+months Died 
+Details of Chemotherapy in the Patients 
+ 
+Statistical Analysis 
+The collected data was analysed with IBM  SPSS statistics 
+software 23.0 Version. To describe about the data descriptive 
+statistics frequency analysis, percentage analysis was used. 
+For survival analysis , the Kaplan-Meyer curve with log -rank 
+method was used for the comparison of groups. In the above 
+statistical tools, the probability value of .05 will be considered 
+as significant level. Kaplan-Meier analysis is one of the best 
+ways to measure the proportion of patients living for a 
+certain amount of time after treatment. The time starting 
+from a defined point to the occurrence of a given event,  for 
+example death is called as survival time and the analysis of 
+group data as survival analysis. The effect of an intervention 
+is assessed by measuring the number of patients survived 
+after that intervention over a period of time. 
+The chance of occurrence of events over a period of time 
+is computed and multiplying these successive probabilities by 
+any earlier computed probabilities will give the final 
+estimated values, which are used for plotting survival curves. 
+ 
+RESULTS 
+This is an analysis of the surviv al rate and the treatment 
+results of Granulosa cell tumo ur between 1995 and 2015 
+over a period of 20 years. We have analysed the results of 126 
+patients, of which 53 patients (42%) were premenopausal 
+and 73 patients (58 %) were postmenopausal. Out of the 126 
+patients, 84 patients had complete surgical staging which 
+constitutes transabdominal hysterectomy and bilateral 
+salpingo-oophorectomy and a staging lap arotomy, 35 
+patients had incomplete or suboptimal surgery, 7 patients 
+had fertility sparing operation.  The 67 patients who had 
+complete surgery and early stage disease with no risk factors 
+were on observation. These patients have not had relapse.  7 
+patients after complete surgical staging had chemotherapy 
+with Cisplatin and Cyclophosphamide. Amongst them 2  
+patients had recurrence and were given chemo with good 
+response surviving. Out of the 35 patients who had 
+incomplete surgery , 13 patients had adjuvant chemo with 
+Cisplatin and Cyclophosphamide and 22 patients were on 
+observation. Amongst the 22 patients w ho were on 
+observation 6 patients recurred and were treated with 2  - 3 
+lines of chemo. Out of the 6 patients, 4 patients are alive, and 
+2 patients died due to progressive treatment. In the 13 
+patients who had chemo , one relapsed and died without any 
+2nd line chemo. 9 patients recurred were given 2nd line chemo 
+with Cisplatin and Etoposide and 3 rd line with Cisplatin, 
+Vinblastine and Bleomycin or Bleomycin , Etoposide and 
+Cisplatin. 7 patients had fertility sparing surgery and one of 
+them had adjuvant chem o with no relapse. The 6 patients 
+who did not have adjuvant chemo recurred. Amongst, the 6 
+patients 1 was lost for follow-up, 3 patients died after 2nd line 
+chemo and 2 patients are alive. 
+On analysing the chemotherapy details and the pattern of 
+failure, t here were few points which were clear. In the 
+
+[PAGE 5]
+Jemds.com Original Research Article 
+ 
+J. Evolution Med. Dent. Sci./eISSN- 2278-4802, pISSN- 2278-4748/ Vol. 7/ Issue 26/ June 25, 2018                                                                           Page 3008 
+ 
+ 
+ 
+complete surgery group , those with adjuvant chemo did not 
+relapse. Those who relapsed were treated with chemo and 
+had good response to treatment and survived. Those with 
+incomplete surgery had increased risk of  recurrence, 
+especially when the size of the tumo ur was > 9 cm, when 
+there was tumour spill and when the stage was advanced. In 
+the fertility sparing group also , those with lower stage with 
+chemo did better than those with late stage disease, those 
+without chemo or with increased risk factors. 
+A dataset of 34 patients is analy sed, out of these 19 
+patients have survived cancer. Out of 34 cases, 10 patients 
+had complete surgery and 15 patients had incomplete 
+surgery. Kaplan -Meier survival analysis results sho w that 
+cancer was cured by complete surgery followed by 
+chemotherapy wherever high-risk factors were present, 
+whereas the survival rate drastically declined in the cases of 
+incomplete s urgery without adjuvant chemotherapy. For 
+patients, stage of cancer, si ze of the tumo ur, type of surgery 
+done, tumour spill, histopathology, chemotherapy in positive 
+high-risk parameters, has relatively more effect on survival 
+chance. 
+ 
+Analysis of the Treatment Details of Relapsed Patients 
+ 
+ 
+ 
+
+
+[PAGE 6]
+Jemds.com Original Research Article 
+ 
+J. Evolution Med. Dent. Sci./eISSN- 2278-4802, pISSN- 2278-4748/ Vol. 7/ Issue 26/ June 25, 2018                                                                           Page 3009 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+[PAGE 7]
+Jemds.com Original Research Article 
+ 
+J. Evolution Med. Dent. Sci./eISSN- 2278-4802, pISSN- 2278-4748/ Vol. 7/ Issue 26/ June 25, 2018                                                                           Page 3010 
+ 
+ 
+ 
+Survival Plot with Respect to Stage 
+ 
+ 
+ 
+ 
+Survival Plot with Respect to Surgery 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+[PAGE 8]
+Jemds.com Original Research Article 
+ 
+J. Evolution Med. Dent. Sci./eISSN- 2278-4802, pISSN- 2278-4748/ Vol. 7/ Issue 26/ June 25, 2018                                                                           Page 3011 
+ 
+ 
+ 
+Survival Plot with Respect to Histopathology 
+ 
+ 
+ 
+DISCUSSION 
+Granulosa cell tumo urs are a subtype of malignant sex cord 
+stromal tumours. It has two histological types , namely adult 
+95% and juvenile 5%. Adult type occurs in postmenopausal 
+women in the 5 th decade with favourable prognosis. Juvenile 
+type occurs in younger age with severe symptoms and signs 
+and increased risk o f recurrence implicating poorer 
+prognosis. Hyperoestrogenic symptoms have been reported 
+in a retrospective study of 118 patients with abnormal 
+uterine bleeding, hyperplastic endometrium. It can also 
+produce precocious puberty, mastalgia and galactorrhoea.4 
+Granulosa cell tumo urs radiologically presents as a solid 
+tumour with cystic component with a median size of 12 cm. 5 
+Diagnosis of granulosa cell tumour is through histopathology. 
+The adult form has 5 subtypes the most common is 
+microfollicular with call e xner bodies. The Juvenile form is 
+with macrofollicular with lobulated architecture and few call-
+exner bodies. The common immunohistochemical markers 
+expressed by these cells are alpha inhibin, CD 99, Vimentin; 
+serum tumour markers are inhibin, estr adiol, anti-Mullerian 
+hormone.6 Serum CA-125 are not of any significance in this 
+tumour variety.7 FOXL2 gene mutation has been identified in 
+97% of adult granulosa cell tumour and 10% of juvenile type. 
+The common differential diagnosis with this entity are 
+stromal sarcoma, carcinoid tumo ur, endometrial cancer and 
+adenocarcinoma. The main modality of treatment here is 
+complete staging laparotomy with transabdominal 
+hysterectomy and bilateral salpingo -oophorectomy with 
+pelvic and para-aortic lymph node resection. For women who 
+would like to preserve the fertility in stage I unilateral 
+salpingo-oophorectomy with uterine preservation is done. In 
+majority of the cases , where the tumo ur is limited to one 
+ovary the patients are just kept of close follow -up with 
+observation. In case, the stage is IC (Tumo ur size >  10 - 15 
+cm) or there are high risk features such as tumour rupture or 
+poorly differentiated tumour or advanced stages (Stage III or 
+IV). The outcome is unfavourable , therefore in such cases 
+adjuvant chemotherapy is given.11 However, the value-add  
+ 
+and the significance of the use of the adjuvant chemo is yet to 
+be validated given the rarity of the disease and the difficulty 
+in conducting randomised trial in such rarity.  The 
+recommended chemotherapy options available are Paclitaxel 
++ Carboplatin, Bleomycin + Etoposide + Cisplatin (BEP) 
+Etoposide + Cisplatin (EP), Cyclophosphamide + Doxorubicin 
++ Cisplatin (CAP) and platin alone.10 
+In children with juvenile granulosa cell tumour, the usage 
+of adjuvant chemo yields complete and a long -lasting 
+response which is usually given in Stage Ic with a high mitotic 
+index (>  20 per high power field). Long surveillance is 
+recommended in granulosa cell tumo ur, as these tumo urs 
+have an in dolent course. The median time to relapse ranges 
+from 4 years to 30 years.12 The sites of recurrence commonly 
+are pelvis, retroperitoneum and upper abdomen. Local 
+relapse is managed with complete resection when feasible. 
+The other chemo regimens in inopera ble tumo urs or the 
+recurrent tumo urs would be Docetax el, Paclitax el + 
+Ifosfamide, Paclitaxel + Carboplatin and VAC.13 The hormonal 
+treatment used are Tamoxifen alone, Megestrol or in 
+combination which does produce sustained long-term clinical 
+response. The investigational agents in relapse cases includes 
+anti-angiogenic therapy, LHRH antagonist and mTOR 
+inhibitors.14 Large tumour size >  10 cm is associated with 
+poor prognosis. In Sehouili ’s trial , survival was lower with 
+suboptimal surgery or residual tumo ur or tumo ur 
+rupture.15,16,17 
+ 
+CONCLUSION 
+Granulosa cell tumours are known for their rarity. They occur 
+both in premenopausal and postmenopausal women. Patients 
+who had tumo ur size of > 10  cm seem to have more 
+recurrence. Juvenile granulosa cell tumo ur and sex cord 
+stromal tumours have poorer prognosis as compared to adult 
+granulosa tumo ur. The role of chemotherapy is explicit in 
+operated cases, as adjuvant in high risk group decreasing the 
+recurrence rates. Chemotherapy has a compelling role in 
+locally advanced cases, inoperable cases, metastatic cases, in 
+
+
+[PAGE 9]
+Jemds.com Original Research Article 
+ 
+J. Evolution Med. Dent. Sci./eISSN- 2278-4802, pISSN- 2278-4748/ Vol. 7/ Issue 26/ June 25, 2018                                                                           Page 3012 
+ 
+ 
+ 
+cases with tumo ur spill or rupture, certain histopathological 
+variants (such as juvenile granulosa cell tumo ur, yolk sac 
+tumour), tumours > 10 cm. Other factors which do contribute 
+to the prognosis would b e age at diagnosis, nuclear atypia, 
+mitotic index, surgical method and presence of residual 
+disease after initial surgery.18,19,20 
+ 
+REFERENCES 
+[1] Seagle BL, Ann P, Butler S, et al. Ovarian granulosa cell 
+tumor: A National Cancer Database study. Gynecol 
+Oncol 2017;146(2):285-91. 
+[2] Calaminus G, Wessalowski R, Harms D, et al.  Juvenile 
+granulosa c ell tumors of the ovary in children and 
+adolescents: results from 33 patients registered in a 
+prospective c ooperative study. Gynecol Oncol 
+1997;65(3):447-52. 
+[3] Segal R, De Petrillo AD, Thomas G. Clinical review of 
+adult granulosa cell tumors of the ovary. Gynecol 
+Oncol 1995;56(3):338-44. 
+[4] Khosla D, Dimri K, Pandey AK, et al. Ovarian granulosa 
+cell tumor: clinical features, tre atment, outcome a nd 
+prognostic factors. N Am J Med Sci 2014;6(3):133-8. 
+[5] Pautier P, Lhommé C, Culine S, et al. Adult granulosa-
+cell tumor of the ovary: a rétrospective study of 45 
+cases. Int J Gynecol Cancer 1997;7(1):58-65. 
+[6] Shim SH, Lee SJ, Kim DY, et al. A long-term follow-up 
+study of 91 cases with ovarian granulosa cell tumors. 
+Anticancer Res 2014;34(2):1001-10. 
+[7] Sekkate S, Kai rouani M, Se rji B, et al . Ovarian 
+granulosa c ell t umors: a retrospective study of 27 
+cases a nd a review of the literature. World J Surg 
+Oncol 2013;11(1):142. 
+[8] D'Angelo E, M ozos A, Nakayama D, et  al. Prognostic 
+significance of FOXL2 mutation and mRNA expression 
+in adult and juvenile granulosa c ell tumors of the 
+ovary. Modern Pathol 2011;24(10):1360-7. 
+[9] Gershenson DM. Sex cord-stromal tumors of the ovary: 
+Granulosa-stromal c ell tumors. Up To Date. 
+https://www.uptodate.com/contents/sex-cord-
+stromal-tumors-of-the-ovary-granulosa-Cell tumors. 
+ 
+ 
+[10] NCCN Guidelines for Patients® | Ovarian Cancer. 
+www.nccn.org/patients/guidelines/ovarian/index.ht
+ml  
+[11] Van Meurs HS, Buist MR, Westermann AM, et al . 
+Effectiveness of c hemotherapy in measurable 
+granulosa cell tumors: a retrospective study and 
+review of literature. Intl J Gynecol Cancer 
+2014;24(3):496-505. 
+[12] Mangili G, Ott olina J, Ga dducci A, et al . Long-term 
+follow-up is crucial after treatment for granulosa cell 
+tumours of the ovary. Br J Cancer 2013;109(1):29-34. 
+[13] Koutroumpa I, Thomakos N, S otiropoulou M, et  al. 
+Clinicopathological prognostic factors for recurrence 
+in adult granulosa cell tumor of the ovary. Gynecol 
+Oncol 2014;133(Suppl 1):84. 
+[14] Kottarathil VD, A ntony MA, Nair  IR, et al . Recent 
+advances in granulosa cell tumor ovary: a review. 
+Indian J Surg Oncol 2013;4(1):37-47. 
+[15] Malmstrom H, Hogberg T, Risberg B, et al. Granulosa 
+cell t umors of t he ovary: prognostic factors and 
+outcome. Gynecol Oncol 1994;52(1):50-5. 
+[16] Zhang M, Cheung MK, Shin JY, et al. Prognostic factors 
+responsible for survival in sex cord stromal tumors of 
+the ovary- an analysis of 376 women. Gynecol Oncolo 
+2007;104(2):396-400. 
+[17] Sehouli J, Drescher FS, Mustea A, et al. Granulosa cell 
+tumor of the ovary: 10 years follow-up data of 65 
+patients. Anticancer Res 2004;24(2C):1223-30. 
+[18] Bjorkholm E , Silfversward C . Prognostic factors in 
+granulosa cell tumors. Gynecol Oncol 1981;11 (3):261- 
+74. 
+[19] Ayhan A, Sa lman MC, Veli pasaoglu M, et al . 
+Prognostic factors in adult granulosa cell t umors of 
+the ovary: a retrospective analysis of 80 cases. J 
+Gynecol Oncol 2009;20(3):158-63. 
+[20] Lauszus FF, Peterson AC . Granulosa cell tumor of the 
+ovary: a population-based study of 37 women with 
+stage I disease. Gynecol Oncol 2001;81(3):456-60. 
+ 
+ 
+ 
+ 
