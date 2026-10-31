@@ -1,0 +1,34 @@
+source_id: '21993272'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21993272/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/21993272/
+language: en
+pmid: '21993272'
+doi: 10.1097/PAP.0b013e318234aaed
+pmcid: null
+title: WT1 expression in the female genital tract
+journal: Advances in anatomic pathology
+year: 2011
+first_author: Bárcena C
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review of WT1 expression in the female genital tract: WT1 distinguishes sex cord-stromal tumors (positive) from endometrioid carcinoma but is not helpful in separating small cell carcinoma of hypercalcemic type from juvenile granulosa cell tumor, described as a common diagnostic problem.'
+relevance_to_jgct: WT1 does not separate SCCOHT from JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

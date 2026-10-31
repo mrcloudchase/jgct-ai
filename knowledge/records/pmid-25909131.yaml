@@ -1,0 +1,37 @@
+source_id: '25909131'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25909131/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/25909131/
+language: bu
+pmid: '25909131'
+doi: null
+pmcid: null
+title: '[A case of gynandroblastoma in a 16-year old girl and review of literature]'
+journal: Akusherstvo i ginekologiia
+year: 2015
+first_author: Marinova P
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: null
+age_range: 16 years
+alterations: []
+treatments: []
+presentation:
+- abdominal pain
+- virilization
+- irregular menses
+key_findings:
+- A 16-year-old with abdominal pain, virilization and irregular menses had a 73 x 42 x 36 mm cystic left ovarian gynandroblastoma composed of juvenile granulosa cell nodules admixed with Sertoli-Leydig tubules; the intraoperative diagnosis had been adenocarcinoma; a year after salpingo-oophorectomy menses were regular but virilization persisted (Bulgarian).
+relevance_to_jgct: Gynandroblastoma with a juvenile granulosa component in an adolescent.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

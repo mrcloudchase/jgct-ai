@@ -1,0 +1,39 @@
+source_id: '18721930'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/18721930/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/18721930/
+language: en
+pmid: '18721930'
+doi: 10.1016/j.juro.2008.03.097
+pmcid: null
+title: Aberrant expression of ovary determining gene FOXL2 in the testis and juvenile granulosa cell tumor in children.
+journal: The Journal of urology
+year: 2008
+first_author: Kalfa N
+study_type: case_series
+tumor_site: testis
+n_jgct_patients: 3
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: aberrant nuclear protein expression in testis
+  frequency: 3/3
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- 3 boys with testicular JGCT (1990-2004) from French TGM95 database and 8 pediatric endocrinology centers; orchiectomy in all.
+- Tumor cells showed aberrant nuclear FOXL2 expression resembling ovarian granulosa cells; SOX9 was sequestered in cytoplasm or markedly under-expressed; FOXL2 and SOX9 mutually exclusive where SOX9 residual.
+relevance_to_jgct: Shows testicular JGCT cells express the ovarian determinant FOXL2, supporting transdifferentiation.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

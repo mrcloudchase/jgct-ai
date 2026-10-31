@@ -1,0 +1,34 @@
+source_id: '31409083'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/31409083/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/31409083/
+language: en
+pmid: '31409083'
+doi: 10.14735/amko2019S79
+pmcid: null
+title: Genetic Causes of Rare Pediatric Ovarian Tumors
+journal: 'Klinicka onkologie : casopis Ceske a Slovenske onkologicke spolecnosti'
+year: 2019
+first_author: Plevová P
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Czech review of genetic causes of rare pediatric ovarian tumors: juvenile granulosa cell tumors occur in Ollier disease and Maffucci syndrome, caused by postzygotic IDH1 and IDH2 mutations; Sertoli-Leydig cell tumors with DICER1 syndrome; sex cord tumors with annular tubules with Peutz-Jeghers syndrome (STK11); small cell carcinoma hypercalcemic type with SMARCA4 loss; germ cell tumors with gonadal dysgenesis.'
+relevance_to_jgct: Summarizes the syndromic associations of JGCT for clinicians.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

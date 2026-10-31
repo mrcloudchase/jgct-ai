@@ -1,0 +1,38 @@
+source_id: '8602303'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/8602303/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/8602303/
+language: en
+pmid: '8602303'
+doi: 10.1016/0029-7844(95)00491-2
+pmcid: null
+title: Treatment of poor-prognosis sex cord-stromal tumors of the ovary with the combination of bleomycin, etoposide, and cisplatin
+journal: Obstetrics and gynecology
+year: 1996
+first_author: Gershenson DM
+study_type: trial
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 12-69 years (median 37) for all 9
+alterations: []
+treatments:
+- regimen: BEP (bleomycin 10-15 mg/day continuous infusion days 1-3, etoposide 100 mg/m2 days 1-3, cisplatin 100 mg/m2 day 1)
+  setting: metastatic or poor-prognosis ovarian sex cord-stromal tumors; 1 of 9 was JGCT
+  n: 9
+  outcome: Overall response 83% in 6 measurable (2 complete, 3 partial); only 1 of 7 metastatic patients had a durable remission; median PFS 14 months, median survival 28 months
+presentation: []
+key_findings:
+- 'Phase II trial of BEP in 9 poor-prognosis sex cord-stromal tumors (5 adult granulosa, 1 juvenile granulosa, 2 poorly differentiated Sertoli-Leydig, 1 mixed): response rate 83% among 6 measurable patients but only 1 of 7 with metastatic disease had a durable remission; median progression-free survival 14 months and survival 28 months; the regimen lacked durable activity.'
+relevance_to_jgct: The early BEP trial that included one JGCT; high response, poor durability.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

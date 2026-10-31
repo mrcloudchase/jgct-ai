@@ -1,0 +1,36 @@
+source_id: '37650316'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37650316/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/37650316/
+language: en
+pmid: '37650316'
+doi: 10.1002/dc.25221
+pmcid: null
+title: Metastatic juvenile granulosa cell tumor in abdominal wall.
+journal: Diagnostic cytopathology
+year: 2023
+first_author: Biswas D
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- abdominal wall recurrence
+key_findings:
+- Fine-needle aspiration cytology of a recurrent metastatic JGCT of the anterior abdominal wall.
+- Recurrence occurred 5 years post-surgery (total abdominal hysterectomy with bilateral salpingo-oophorectomy).
+relevance_to_jgct: Documents late (5-year) abdominal wall recurrence of JGCT and its cytomorphology.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only, very brief; age, stage and treatment of recurrence not stated. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

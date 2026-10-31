@@ -1,0 +1,43 @@
+source_id: '37151162'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/37151162/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/37151162/
+language: en
+pmid: '37151162'
+doi: 10.1002/ijgo.14831
+pmcid: null
+title: 'Ovarian epithelioid malignant peripheral nerve sheath tumor with EWSR1-CREM fusion: A case report and literature review'
+journal: 'International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics'
+year: 2023
+first_author: Li S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: 7 years
+alterations:
+- gene: EWSR1-CREM
+  alteration: fusion (exon 12 to exon 6) with NF2 deletion
+  frequency: 1 of 1
+  notes: no FOXL2 or DICER1 mutation; final diagnosis epithelioid malignant peripheral nerve sheath tumor
+treatments:
+- regimen: Six cycles bleomycin, etoposide, carboplatin, then nine further courses and repeated cytoreduction
+  setting: tumor first diagnosed as JGCT after rupture at salpingo-oophorectomy
+  n: 1
+  outcome: Relapse 4 months after chemotherapy and again 3 months after the second course
+presentation: []
+key_findings:
+- A 7-year-old's ruptured ovarian tumor was diagnosed as JGCT at two hospitals, treated with six cycles of bleomycin-etoposide-carboplatin, relapsed with extensive seeding, and was finally reclassified as ovarian epithelioid malignant peripheral nerve sheath tumor with EWSR1-CREM fusion, NF2 deletion, H3K27me3, SOX10 and S-100 positivity; markers and sex hormones were never raised.
+- Poor response to JGCT treatment should prompt molecular re-evaluation.
+relevance_to_jgct: A sarcoma mimicking JGCT through two consultations; molecular testing resolved it.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,39 @@
+source_id: '21040368'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21040368/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/21040368/
+language: en
+pmid: '21040368'
+doi: 10.1111/j.1464-410X.2010.09796.x
+pmcid: null
+title: Prepubertal testicular tumours and efficacy of testicular preserving surgery
+journal: BJU international
+year: 2011
+first_author: Bujons A
+study_type: case_series
+tumor_site: testis
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments:
+- regimen: Testis-sparing tumourectomy
+  setting: benign testicular tumours in children 13 and under
+  n: 11
+  outcome: All tumourectomy specimens benign, one a juvenile granulosa cell tumour
+presentation: []
+key_findings:
+- 'Fifteen testicular tumours in children 13 or under (1984 to 2008): 12 benign and 3 malignant; organ-preserving surgery achieved in 11, whose pathology was benign in all, including one juvenile granulosa cell tumour; testis-sparing surgery is advised for a palpable mass with negative markers.'
+relevance_to_jgct: Testis-sparing surgery for a juvenile granulosa cell tumour in a Spanish series.
+conflicts_with: []
+overlaps_with:
+- pmid-21256631
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

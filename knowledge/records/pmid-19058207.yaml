@@ -1,0 +1,42 @@
+source_id: '19058207'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19058207/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19058207/
+language: en
+pmid: '19058207'
+doi: 10.1002/pbc.21775
+pmcid: null
+title: Neonatal bilateral ovarian sex cord stromal tumors
+journal: Pediatric blood & cancer
+year: 2009
+first_author: Capito C
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: neonate
+alterations: []
+treatments:
+- regimen: Left ovarian tumorectomy, then completion left oophorectomy; right oophorectomy declined
+  setting: neonatal bilateral ovarian tumors
+  n: 1
+  outcome: Hormone levels normalized after 2 months without right-sided surgery
+presentation:
+- prenatal macrosomia, clitoromegaly, labial hypertrophy and left ovarian cyst
+- isosexual precocious puberty after hCG stimulation test
+- high AMH and testosterone
+key_findings:
+- A 46,XX neonate with prenatal clitoromegaly and an ovarian cyst, high AMH and testosterone, developed isosexual precocious puberty and bilateral ovarian enlargement after an hCG test; left tumorectomy showed fibrothecoma, relapse 6 weeks later was a juvenile granulosa cell tumor, and a right JGCT was then diagnosed by hormone rise and enlargement; the parents declined surgery and hormones normalized after 2 months.
+- The authors describe the overlap between developmental and neoplastic biology in neonates.
+relevance_to_jgct: Neonatal bilateral ovarian JGCT with apparent spontaneous resolution on one side.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

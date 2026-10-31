@@ -1,0 +1,34 @@
+source_id: '7731938'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/7731938/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/7731938/
+language: en
+pmid: '7731938'
+doi: 10.1016/0893-6080(94)00059-u
+pmcid: null
+title: Smooth muscle differentiation in normal human ovaries, ovarian stromal hyperplasia and ovarian granulosa-stromal cells tumors
+journal: 'Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc'
+year: 1995
+first_author: Santini D
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 6
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- All 10 adult and 6 juvenile granulosa cell tumors showed intense alpha-smooth muscle actin immunoreaction (diffuse in 5 of 6 JGCT) with weaker desmin, and ultrastructural myofilament bundles; thecomas and stromal hyperplasia showed minimal staining.
+relevance_to_jgct: Smooth muscle differentiation is constant in JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

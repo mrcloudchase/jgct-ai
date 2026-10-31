@@ -1,0 +1,34 @@
+source_id: '11696779'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/11696779/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/11696779/
+language: en
+pmid: '11696779'
+doi: 10.1016/s0022-5347(05)65583-8
+pmcid: null
+title: 'Stromal testis tumors in children: a report from the prepubertal testis tumor registry'
+journal: The Journal of urology
+year: 2001
+first_author: Thomas JC
+study_type: registry
+tumor_site: testis
+n_jgct_patients: null
+age_range: mean 1.5 months for JGCT
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Prepubertal Testis Tumor Registry: 43 stromal tumors; mean age at presentation 38 months overall and 1.5 months for juvenile granulosa cell tumors; no Leydig, Sertoli or juvenile granulosa cell tumor had metastases at presentation or during a mean 24.6 months of follow-up; one undifferentiated stromal tumor with frequent mitoses and local invasion metastasized.'
+relevance_to_jgct: Registry confirmation that testicular JGCT behaves benignly.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

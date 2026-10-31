@@ -1,0 +1,41 @@
+source_id: '41839237'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41839237/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/41839237/
+language: en
+pmid: '41839237'
+doi: 10.1016/j.modpat.2026.100990
+pmcid: null
+title: Evaluation of DICER1 Immunohistochemistry as a Potential Surrogate for Mutation Status in Ovarian Sex Cord-Stromal Tumors.
+journal: 'Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc'
+year: 2026
+first_author: Němejcová K
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 5
+age_range: null
+alterations:
+- gene: DICER1
+  alteration: mutation
+  frequency: 0/5
+  notes: no JGCT showed DICER1 mutation or IHC expression
+treatments: []
+presentation: []
+key_findings:
+- DICER1 IHC and mutation status evaluated in 267 AGCTs, 38 SLCTs, 5 JGCTs, and 21 Leydig cell/steroid cell tumors.
+- No JGCT demonstrated a DICER1 mutation or expression.
+- DICER1 positivity in 21 of 38 (55.3%) SLCTs and 16 of 21 (76.2%) SCTs; 4 of 267 (1.5%) AGCTs.
+- Using a cutoff of >=10% positive tumor cells, IHC matched mutational status with sensitivity of 90.5%, specificity of 92.1%.
+relevance_to_jgct: Small JGCT subset (n=5) negative for DICER1 mutation and DICER1 protein expression.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; no OA full text. JGCT n=5 is small; DICER1 mutations have been reported in rare JGCTs elsewhere (e.g. pmid-26428316), so this is not a direct conflict. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

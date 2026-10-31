@@ -1,0 +1,36 @@
+source_id: '8051349'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/8051349/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/8051349/
+language: fr
+pmid: '8051349'
+doi: null
+pmcid: null
+title: '[Juvenile ovarian granulosa tumor associated with pregnancy. A case report. Review of the literature]'
+journal: Journal de gynecologie, obstetrique et biologie de la reproduction
+year: 1994
+first_author: Levêque J
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: adult (pregnant)
+alterations: []
+treatments: []
+presentation:
+- pregnancy
+key_findings:
+- A JGCT in a pregnant woman with a rapidly fatal outcome (French).
+- 'Review statements: the juvenile form occurs before age 30 in 97% of cases; the tumor stays confined to the ovary for a long time and may be treated by conservative surgery; relapse may occur early and then carries a very poor prognosis; pregnancy does not change the prognosis.'
+relevance_to_jgct: A fatal pregnancy-associated JGCT, with the 97%-under-30 figure repeated from Young 1984.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

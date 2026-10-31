@@ -1,0 +1,35 @@
+source_id: '8293741'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/8293741/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/8293741/
+language: en
+pmid: '8293741'
+doi: 10.1016/0720-048x(93)90096-6
+pmcid: null
+title: A retrospective study of large ovarian masses in paediatric practice
+journal: European journal of radiology
+year: 1993
+first_author: Moss EH
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 3
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- gross abdominal swelling
+key_findings:
+- Fifteen children presenting with gross abdominal swelling from large ovarian tumors over 15 years included three benign-behaving juvenile granulosa cell tumours (two premenarchal); all patients were well, and the radiological appearances of pediatric masses are contrasted with adult ones.
+relevance_to_jgct: Three JGCT among large pediatric ovarian masses in a radiology series.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

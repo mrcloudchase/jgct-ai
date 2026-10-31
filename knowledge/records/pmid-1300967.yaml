@@ -1,0 +1,48 @@
+source_id: '1300967'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/1300967/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/1300967/
+language: fr
+pmid: '1300967'
+doi: null
+pmcid: null
+title: '[Granulosa cell tumors of the ovary in children and adolescents. Multicenter retrospective study in 40 patients aged 7 months to 22 years]'
+journal: Archives francaises de pediatrie
+year: 1992
+first_author: Plantaz D
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 40
+age_range: 7 months to 22 years (mean 6)
+alterations: []
+treatments:
+- regimen: Unilateral oophorectomy
+  setting: primary treatment in 35 of 40; bilateral in 4; biopsy alone in 1
+  n: 35
+  outcome: 34 of 40 alive and disease free 10 months to 26 years after surgery; 6 died
+- regimen: Combination chemotherapy
+  setting: 13 patients; abdominal radiotherapy in 2
+  n: 13
+  outcome: Chemotherapy did not appear to improve prognosis of the rare malignant forms
+presentation:
+- abdominal tumor (all)
+- precocious pseudopuberty (23)
+- virilization after normal puberty (2)
+- secondary amenorrhea (2)
+key_findings:
+- 'French multicenter series of 40 ovarian JGCT (1965 to 1990, 11 pediatric oncology centers), all re-reviewed by one pathologist: ages 7 months to 22 years (mean 6), 28 under 10; 3 had Ollier disease; stages I 21, II 1, III 16, IV 2.'
+- Treatment was unilateral oophorectomy in 35, bilateral in 4, biopsy alone in 1; 13 received combination chemotherapy and 2 abdominal radiotherapy; 34 were alive and disease free 10 months to 26 years later and 6 died; all 23 with precocious pseudopuberty did well.
+- The authors found no evidence that tumors complicated by rupture and hemoperitoneum require chemotherapy, and that age under 10 and precocious pseudopuberty are favorable factors.
+relevance_to_jgct: The largest early pediatric JGCT series; the first to argue that rupture alone does not require chemotherapy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

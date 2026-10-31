@@ -1,0 +1,35 @@
+source_id: '33323862'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33323862/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/33323862/
+language: en
+pmid: '33323862'
+doi: 10.1097/PGP.0000000000000746
+pmcid: null
+title: 'Hyperreactio Luteinalis (Multiple Luteinized Follicle Cysts): A Report of 10 Cases'
+journal: 'International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists'
+year: 2021
+first_author: Watkins JC
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Ten cases of hyperreactio luteinalis in pregnancy (ages 22 to 30; ovaries 8.5 to 29 cm, bilateral in 8) with multiple cystic follicles lined by granulosa and theca cells and granulosa mitoses averaging 2.6 per high-power field; the differential includes cystic granulosa cell tumors, especially the juvenile type, which can also present in pregnancy.
+- Absence of pale or vacuolated cytoplasm and of solid granulosa growth distinguishes hyperreactio luteinalis from JGCT.
+relevance_to_jgct: A benign pregnancy mimic of JGCT and how to tell them apart.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

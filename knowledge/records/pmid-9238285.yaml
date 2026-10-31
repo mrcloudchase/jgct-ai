@@ -1,0 +1,34 @@
+source_id: '9238285'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9238285/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9238285/
+language: en
+pmid: '9238285'
+doi: 10.1111/j.1749-6632.1997.tb52159.x
+pmcid: null
+title: Ovarian malignancies in adolescence
+journal: Annals of the New York Academy of Sciences
+year: 1997
+first_author: Fotiou SK
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review of adolescent ovarian malignancies: germ cell tumors 61.5%, epithelial 20%, sex cord-stromal 9.5%; granulosa cell tumor, presenting as the juvenile form in young females, is of low malignant potential and adequately treated with adnexectomy only.'
+relevance_to_jgct: JGCT within adolescent ovarian malignancies; adnexectomy alone advised.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,42 @@
+source_id: '7149091'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/7149091/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/7149091/
+language: en
+pmid: '7149091'
+doi: 10.1097/00000478-198209000-00002
+pmcid: null
+title: 'Granulosa tumors of the ovary in children: a clinical and pathologic study of 32 cases'
+journal: The American journal of surgical pathology
+year: 1982
+first_author: Zaloudek C
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 26
+age_range: 16 years and under
+alterations: []
+treatments:
+- regimen: Unilateral salpingo-oophorectomy
+  setting: stage IA granulosa tumors in girls 16 and under
+  n: 25
+  outcome: 23 of 25 well without recurrence at last contact
+presentation:
+- isosexual precocious pseudopuberty (15 of 20 premenarcheal)
+- menstrual abnormalities (7 of 12 postmenarcheal)
+- virilization (2)
+key_findings:
+- Of 32 granulosa tumors in girls 16 or younger, 26 were juvenile, 3 cystic and 3 adult-type; the juvenile tumor has larger cells and luteinization; two-thirds had endocrine abnormalities, 15 of 20 premenarcheal girls had isosexual precocious pseudopuberty, and 7 of 12 postmenarcheal girls had menstrual abnormalities (2 virilized).
+- All 32 were stage IA; only 2 of 26 with follow-up recurred; 23 of 25 treated by unilateral salpingo-oophorectomy were well.
+relevance_to_jgct: Early defining pediatric series establishing JGCT histology and the adequacy of unilateral surgery at stage IA.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

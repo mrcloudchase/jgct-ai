@@ -1,0 +1,45 @@
+source_id: '20371195'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20371195/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/20371195/
+language: en
+pmid: '20371195'
+doi: 10.1016/j.jpag.2010.01.003
+pmcid: null
+title: 'Juvenile granulosa and theca cell tumor of the ovary as a rare cause of precocious puberty: case report and review of literature.'
+journal: Journal of pediatric and adolescent gynecology
+year: 2010
+first_author: Fleming NA
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 7 years
+alterations: []
+treatments:
+- regimen: left salpingo-oophorectomy
+  setting: primary, FIGO 1A
+  n: 1
+  outcome: bleeding stopped, estradiol normalized; follow-up length not stated
+presentation:
+- peripheral precocious puberty
+- vaginal bleeding
+- elevated estradiol
+key_findings:
+- 7-year-old girl with rapid pubertal development and elevated estradiol; menarche 5 months after thelarche.
+- Large multicystic left ovary; exploratory laparotomy and left salpingo-oophorectomy.
+- 'Pathology: juvenile granulosa and theca cell tumor, FIGO stage 1A.'
+- Postoperatively, vaginal bleeding stopped and estradiol normalized.
+- 'Authors'' literature review: early-stage disease has an excellent prognosis and adjuvant chemotherapy is not indicated in this setting.'
+relevance_to_jgct: Peripheral precocious puberty from a mixed juvenile granulosa-theca cell tumor treated with surgery alone.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. See Haroon 2013 [pmid-23776871], whose abstract wording closely matches this one but describes a different case. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

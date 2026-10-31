@@ -1,0 +1,42 @@
+source_id: '9143029'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9143029/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9143029/
+language: en
+pmid: '9143029'
+doi: 10.1111/j.1440-1827.1997.tb04501.x
+pmcid: null
+title: 'Juvenile granulosa cell tumor discovered during pregnancy: case report with immunohistochemical study of steroidogenesis.'
+journal: Pathology international
+year: 1997
+first_author: Sasano H
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 33 years
+alterations:
+- gene: Ad4BP (SF-1/NR5A1)
+  alteration: protein expression (IHC)
+  frequency: almost all tumor cells
+  notes: null
+treatments: []
+presentation:
+- cystic adnexal mass in pregnancy
+key_findings:
+- Multilobular cystic JGCT in a 33-year-old pregnant woman removed at cesarean section at 38 weeks.
+- Three intermingled histological patterns (diffuse, trabecular/cord-like, microfollicular) plus numerous luteinized stromal cells.
+- Steroidogenic enzymes (P450scc, 3beta-HSD, 17alpha-hydroxylase) detected only in luteinized stromal cells; Ad4BP present in almost all tumor cells.
+- Authors suggest the pregnancy hormonal environment altered histological and biological features.
+relevance_to_jgct: JGCT in pregnancy; steroidogenesis immunohistochemistry.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,39 @@
+source_id: '32782216'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32782216/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/32782216/
+language: en
+pmid: '32782216'
+doi: 10.1016/j.pathol.2020.06.008
+pmcid: null
+title: 'Evaluation of molecular analysis in challenging ovarian sex cord-stromal tumours: a review of 50 cases'
+journal: Pathology
+year: 2020
+first_author: Stewart CJR
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: null
+alterations:
+- gene: GNAS
+  alteration: sequence variant
+  frequency: 1 of 4 JGCT
+  notes: molecular profiling of 50 problematic sex cord-stromal tumours
+treatments: []
+presentation: []
+key_findings:
+- 'Molecular profiling of 50 problematic ovarian sex cord-stromal tumours: 16 of 17 adult granulosa cell tumours had a FOXL2 variant, all 6 Sertoli-Leydig cell tumours had DICER1 hotspot variants, and 4 tumours classified as JGCT included one with a GNAS variant.'
+- All 8 unclassified tumours were FOXL2-negative; TP53 variants accompanied high-grade transformation in one AGCT and one SLCT.
+relevance_to_jgct: GNAS variant in 1 of 4 JGCT in a consultation series; molecular analysis changed some provisional diagnoses.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

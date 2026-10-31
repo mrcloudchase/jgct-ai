@@ -1,0 +1,36 @@
+source_id: '27042471'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/27042471/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/27042471/
+language: en
+pmid: '27042471'
+doi: 10.7860/JCDR/2016/15207.7168
+pmcid: PMC1731190
+title: 'Juvenile Granulosa Cell Tumour: Anaplastic Variant with Omental Deposits'
+journal: 'Journal of clinical and diagnostic research : JCDR'
+year: 2016
+first_author: Rao AC
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- omental deposits
+key_findings:
+- An anaplastic variant of JGCT with numerous large cystic spaces, anaplasia, focal syncytiotrophoblast-like giant cells and omental deposits.
+- 'Background figures: JGCT is 5 to 15% of granulosa cell tumors, almost always in the first three decades, mostly unilateral.'
+relevance_to_jgct: Anaplastic JGCT with omental spread.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

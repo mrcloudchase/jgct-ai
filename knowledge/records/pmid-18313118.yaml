@@ -1,0 +1,41 @@
+source_id: '18313118'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/18313118/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/18313118/
+language: en
+pmid: '18313118'
+doi: 10.1016/j.urology.2007.11.126
+pmcid: null
+title: 'Juvenile granulosa cell tumor of adult testis: a case report.'
+journal: Urology
+year: 2008
+first_author: Lin KH
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 27 years
+alterations: []
+treatments:
+- regimen: orchiectomy
+  setting: primary
+  n: 1
+  outcome: no recurrence at 8 years
+presentation: []
+key_findings:
+- 27-year-old man with JGCT in the right testis; orchiectomy performed.
+- No recurrence during an 8-year follow-up.
+- Described as the first reported case of JGCT occurring in an adult testis; testicular JGCT typically occurs at age 4 years or younger.
+relevance_to_jgct: Adult testicular JGCT with benign course over 8 years.
+conflicts_with:
+- pmid-42421431
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The 2026 TESST classification (pmid-42421431) states testicular JGCT has not been reported in adult patients; this report describes an adult case (linked 2026-10-30). Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

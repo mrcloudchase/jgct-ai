@@ -1,0 +1,34 @@
+source_id: '29290327'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/29290327/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/29290327/
+language: es
+pmid: '29290327'
+doi: 10.1016/j.patol.2017.02.002
+pmcid: null
+title: '[The value of immunohistochemistry using SMARCA4/BRG1 in the diagnosis of small cell ovarian carcinoma hypercalcemic type. A report of two cases]'
+journal: 'Revista espanola de patologia : publicacion oficial de la Sociedad Espanola de Anatomia Patologica y de la Sociedad Espanola de Citologia'
+year: 2018
+first_author: Ruiz-García G
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Two small cell carcinomas of the ovary, hypercalcemic type, in women aged 32 and 29 with large unresectable masses and follicle-like spaces required a differential diagnosis with adult or juvenile granulosa cell tumour, pulmonary-type small cell carcinoma, dysgerminoma and PNET; absence of SMARCA4/BRG1 staining made the diagnosis (Spanish).
+relevance_to_jgct: SMARCA4 immunohistochemistry separating SCCOHT from JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

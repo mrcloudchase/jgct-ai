@@ -1,0 +1,34 @@
+source_id: '8154078'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/8154078/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/8154078/
+language: en
+pmid: '8154078'
+doi: 10.1016/0090-4295(94)90251-8
+pmcid: null
+title: Gonadal tumors in disorders of sexual differentiation
+journal: Urology
+year: 1994
+first_author: Gourlay WA
+study_type: cohort
+tumor_site: other
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Of 21 patients with disorders of sexual differentiation who had bilateral gonadectomy (1982 to 1990), 9 (44%) had gonadal tumors: 4 gonadoblastomas, 2 dysgerminomas, and one each teratocarcinoma, seminoma, cystadenofibroma and juvenile granulosa cell tumor; risk was highest in mixed and pure gonadal dysgenesis.'
+relevance_to_jgct: JGCT among gonadal tumors in disorders of sex development.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

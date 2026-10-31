@@ -1,0 +1,42 @@
+source_id: '22088573'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/22088573/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/22088573/
+language: en
+pmid: '22088573'
+doi: 10.1016/j.urology.2011.09.023
+pmcid: null
+title: 'Juvenile granulosa cell tumor arising from intra-abdominal testis in newborn: case report and review of the literature.'
+journal: Urology
+year: 2012
+first_author: Partalis N
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: newborn
+alterations: []
+treatments:
+- regimen: laparotomy with tumor resection
+  setting: primary
+  n: 1
+  outcome: outcome not reported in abstract
+presentation:
+- abdominal mass
+- empty scrotum (undescended testis)
+key_findings:
+- Neonate with a left-sided abdominal mass and empty left scrotum.
+- Ultrasonography showed a well-defined cystic formation; laparotomy revealed a tumor arising from an intra-abdominal left testis.
+- CEA and NSE normal; beta-HCG and AFP within age-related normal values; immunochemistry confirmed the diagnosis.
+relevance_to_jgct: Testicular JGCT arising in an undescended intra-abdominal testis in a newborn.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

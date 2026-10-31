@@ -1,0 +1,34 @@
+source_id: '12793611'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/12793611/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/12793611/
+language: en
+pmid: '12793611'
+doi: 10.1515/jpem.2003.16.4.571
+pmcid: null
+title: Adult type granulosa cell tumor causing precocious pseudopuberty in a 6 year-old girl
+journal: 'Journal of pediatric endocrinology & metabolism : JPEM'
+year: 2003
+first_author: Isguven P
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: 6 years
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- A 6-year-old with early breast development and vaginal bleeding had an encapsulated ovarian tumor with adult-type granulosa cell histology, an extremely rare cause of precocious pseudopuberty at this age where the juvenile type is expected; malignant ovarian tumors cause 2 to 3% of pseudopuberty in girls.
+relevance_to_jgct: Adult-type tumor in a young child, a differential for JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

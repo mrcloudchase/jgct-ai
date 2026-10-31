@@ -1,0 +1,39 @@
+source_id: '41340166'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41340166/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/41340166/
+language: en
+pmid: '41340166'
+doi: 10.1111/cen.70066
+pmcid: null
+title: 'Paediatric Virilizing Ovarian Tumors: A Systematic Review'
+journal: Clinical endocrinology
+year: 2026
+first_author: Ravindra S
+study_type: meta_analysis
+tumor_site: ovary
+n_jgct_patients: null
+age_range: under 20 years (median 15)
+alterations: []
+treatments: []
+presentation:
+- hirsutism (73.5%)
+- clitoromegaly (68.4%)
+- menstrual irregularity
+- voice change (60.7%)
+key_findings:
+- 'Systematic review of 117 pediatric virilizing ovarian tumors (median age 15): hirsutism 73.5%, clitoromegaly 68.4%, voice change 60.7%; children under 8 had shorter diagnostic latency and fewer hyperandrogenic signs; 17-hydroxyprogesterone was elevated in 70% and DHEAS in 18.3%; median tumor size 6.6 cm, bilateral in 8.'
+- Juvenile granulosa cell tumors were the most common virilizing tumor under 8 years and Sertoli-Leydig cell tumors over 13; recurrence was rare over a median follow-up of 1 year.
+relevance_to_jgct: JGCT is the leading virilizing ovarian tumor in young children; raised 17-OHP does not exclude it.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

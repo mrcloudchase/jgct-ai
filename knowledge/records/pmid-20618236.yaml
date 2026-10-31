@@ -1,0 +1,34 @@
+source_id: '20618236'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20618236/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/20618236/
+language: en
+pmid: '20618236'
+doi: 10.1111/j.1479-828X.2010.01154.x
+pmcid: null
+title: Granulosa cell tumours of the ovary
+journal: The Australian & New Zealand journal of obstetrics & gynaecology
+year: 2010
+first_author: Geetha P
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review of granulosa cell tumours (Medline and Cochrane 1999 to 2010): most present early because of hormone production; the juvenile form in young girls may be managed by unilateral salpingo-oophorectomy as 95% are unilateral; poor prognostic factors listed are advanced stage, size over 5 cm, more than 10 mitoses per high-power field, nuclear atypia and absence of Call-Exner bodies; inhibin and estradiol are useful in follow-up.'
+relevance_to_jgct: General review restating conservative surgery for the juvenile form.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

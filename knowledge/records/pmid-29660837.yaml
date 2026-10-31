@@ -1,0 +1,47 @@
+source_id: '29660837'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/29660837/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/29660837/
+language: en
+pmid: '29660837'
+doi: 10.1111/his.13630
+pmcid: null
+title: DICER1 hot-spot mutations in ovarian gynandroblastoma
+journal: Histopathology
+year: 2018
+first_author: Wang Y
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: DICER1
+  alteration: RNase IIIb hotspot mutations
+  frequency: 3 of 16 gynandroblastomas, all with SLCT plus JGCT components, present in both components
+  notes: null
+- gene: AKT1
+  alteration: pleckstrin-homology domain
+  frequency: 0 of 16
+  notes: no AKT1 PH-domain mutation in any gynandroblastoma including the 10 with a JGCT component
+- gene: FOXL2
+  alteration: C134W
+  frequency: 0 of 16
+  notes: FOXL2 protein expressed in male and female components of all cases
+treatments: []
+presentation: []
+key_findings:
+- 'Sixteen gynandroblastomas, 10 with a juvenile granulosa component and 7 with an adult granulosa component: DICER1 hotspot mutations in 3, all composed of moderately or poorly differentiated Sertoli-Leydig and JGCT components and present in both; no FOXL2 C134W and no AKT1 PH-domain mutation in any case.'
+- The authors conclude that gynandroblastomas with SLCT and JGCT components may be morphological variants of SLCT.
+relevance_to_jgct: JGCT-like components in DICER1-mutant gynandroblastomas lack AKT1 mutations and may be SLCT variants.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,34 @@
+source_id: '8314261'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/8314261/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/8314261/
+language: en
+pmid: '8314261'
+doi: 10.1016/0046-8177(94)90172-4
+pmcid: null
+title: 'Immunohistochemical phenotype of ovarian granulosa cell tumors: absence of epithelial membrane antigen has diagnostic value'
+journal: Human pathology
+year: 1994
+first_author: Costa MJ
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 5
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Immunophenotype of 52 granulosa cell tumors including 5 juvenile: cytokeratin AE1/AE3 in 32.7%, EMA in none, vimentin in 100%, desmin none, smooth muscle actin 92.3%, S-100 in 50%; absence of EMA and presence of actin distinguish granulosa cell tumors from carcinomas, and S-100 from Sertoli-stromal tumors.'
+relevance_to_jgct: EMA negativity has diagnostic value for JGCT against carcinoma mimics.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

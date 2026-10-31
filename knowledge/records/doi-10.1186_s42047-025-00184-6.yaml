@@ -1,0 +1,34 @@
+source_id: 10.1186/s42047-025-00184-6
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.1186/s42047-025-00184-6
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.1186/s42047-025-00184-6
+language: en
+pmid: null
+doi: 10.1186/s42047-025-00184-6
+pmcid: null
+title: 'The many faces of ovarian sex cord stromal tumors: a clinicopathological analysis at a tertiary cancer center in North India'
+journal: Surgical and Experimental Pathology
+year: 2025
+first_author: Chowdhury Zachariah
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Thirty-five ovarian sex cord-stromal tumors at a North Indian cancer center (2019 to 2023), 11.4% in children or adolescents: adult granulosa cell tumor commonest, then fibroma, Sertoli-Leydig, juvenile granulosa cell and steroid cell tumors; 57.7% stage I; 5-year survival 95.5% over a median 36 months.'
+relevance_to_jgct: JGCT among a mixed Indian SCST series; number not stated in the abstract.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

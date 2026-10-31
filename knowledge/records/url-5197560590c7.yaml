@@ -1,0 +1,36 @@
+source_id: 5197560590c7
+source_type: url
+source_tier: preprint
+source_url: https://doi.org/10.22541/au.172445613.39123498/v1
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.22541/au.172445613.39123498/v1
+language: en
+pmid: null
+doi: null
+pmcid: null
+title: 'Secondary Ovarian Germ Cell Tumor Following Wilms Tumor after Eight Years Post-Treatment: A Rare Case Report'
+journal: Authorea Preprints
+year: 2024
+first_author: Ansari S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 11 years
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Case of an 11-year-old girl who developed a secondary juvenile granulosa cell tumor of the ovary eight years after treatment for stage III Wilms tumor.
+- Initial Wilms tumor treatment included nephrectomy, chemotherapy, and radiation.
+- The secondary tumor was identified through imaging and surgery; authors argue for extended follow-up of Wilms tumor survivors beyond the typical five-year surveillance period.
+relevance_to_jgct: Preprint case of JGCT as a second neoplasm after treated Wilms tumor; note the title says 'germ cell tumor' while the abstract says juvenile granulosa cell tumor.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Europe PMC PPR1200995; abstract retrieved verbatim via Europe PMC REST (resultType=core). Not peer reviewed. No PubMed version found (PubMed search Wilms[tiab] AND granulosa[tiab], 2026-10-30). Title/abstract inconsistency (germ cell vs juvenile granulosa cell tumor) is in the source. OpenAlex also lists a second Authorea DOI for the same title (10.22541/au.172489585.54589722/v1). Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

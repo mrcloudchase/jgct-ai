@@ -1,0 +1,35 @@
+source_id: '30358638'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30358638/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/30358638/
+language: en
+pmid: '30358638'
+doi: 10.1097/PGP.0000000000000555
+pmcid: null
+title: 'Multiple Luteinized Follicle Cysts of the Ovary in a Patient With a Pituitary Adenoma: Report of a Case and Review of the Literature'
+journal: 'International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists'
+year: 2019
+first_author: Lebok P
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- A 36-year-old with a pituitary adenoma had bilateral ovarian masses (right ovary 15 cm) of multiple luteinized follicle cysts; the left ovary returned to normal size about 3 months after adenoma excision.
+- The differential in pregnancy-type follicle cysts is cystic granulosa cell tumor, more likely juvenile; the cyst lining is identical to standard follicle cysts and lacks the immature mitotically active nuclei and follicular differentiation of JGCT.
+relevance_to_jgct: Multiple luteinized follicle cysts as a mimic of cystic JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,35 @@
+source_id: '19162310'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19162310/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19162310/
+language: en
+pmid: '19162310'
+doi: 10.1016/j.ygyno.2008.12.007
+pmcid: null
+title: 'Patterns of metastasis in sex cord-stromal tumors of the ovary: can routine staging lymphadenectomy be omitted?'
+journal: Gynecologic oncology
+year: 2009
+first_author: Brown J
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 27
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Of 257 ovarian sex cord-stromal tumors at MD Anderson (1985 to 2005), 178 were adult granulosa, 27 juvenile granulosa, 31 Sertoli-Leydig; of 58 patients with lymph nodes removed at staging, none had positive nodes; of 117 recurrences, 6 (5.1%) involved nodes, 3 of them after negative initial nodes.
+- The authors conclude lymphadenectomy may be omitted when staging sex cord-stromal tumors.
+relevance_to_jgct: Evidence base (27 JGCT included) for omitting lymphadenectomy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

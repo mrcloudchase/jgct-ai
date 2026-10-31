@@ -1,0 +1,42 @@
+source_id: 10.1093/ajcp/aqae129.005
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1093/ajcp/aqae129.005
+retrieved_on: '2026-10-31'
+evidence_basis: full_text
+full_text_source: https://doi.org/10.1093/ajcp/aqae129.005
+abstract_source: null
+language: en
+pmid: null
+doi: 10.1093/ajcp/aqae129.005
+pmcid: null
+title: 'DICER1 Syndrome in a 25-Year-Old Female: Autopsy Case Report of Mixed Sex Cord-Stromal and Primitive Sarcoma Tumors with Diverse Differentiation Patterns'
+journal: American Journal of Clinical Pathology (ASCP 2024 abstract)
+year: 2024
+first_author: Al Hosri R
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: null
+age_range: 25 years
+alterations:
+- gene: DICER1
+  alteration: germline (DICER1 syndrome)
+  frequency: 1 of 1
+  notes: metastatic mixed sex cord-stromal tumor with Sertoli-Leydig and JGCT-like features plus primitive sarcoma of the liver
+treatments:
+- regimen: Oophorectomy, salpingectomy, partial hepatectomy and multiple cycles of chemotherapy
+  setting: metastatic DICER1-related mixed sex cord-stromal tumor and liver sarcoma
+  n: 1
+  outcome: Died of complications of metastatic disease; autopsy showed abdominopelvic mass with hemoperitoneum
+presentation: []
+key_findings:
+- A 25-year-old with DICER1 syndrome had a metastatic ovarian sex cord-stromal tumor with Sertoli-Leydig and juvenile granulosa cell tumor-like features and a primitive multilineage sarcoma of the liver; despite extensive surgery and chemotherapy she died, and autopsy showed a large abdominopelvic mass with hemoperitoneum and extensive organ involvement.
+relevance_to_jgct: JGCT-like component in a fatal DICER1-syndrome mixed stromal tumor.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Meeting abstract; the complete published item is the abstract.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,38 @@
+source_id: '17661024'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/17661024/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/17661024/
+language: en
+pmid: '17661024'
+doi: 10.1007/s00247-007-0545-7
+pmcid: null
+title: MRI findings of bilateral juvenile granulosa cell tumor of the testis in a newborn presenting as intraabdominal masses.
+journal: Pediatric radiology
+year: 2007
+first_author: Yikilmaz A
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: newborn
+alterations: []
+treatments: []
+presentation:
+- bilateral intraabdominal masses
+- undescended testes
+key_findings:
+- Bilateral testicular JGCT presenting as large multiseptated abdominal masses arising from undescended intraabdominal testes in a neonate.
+- Preoperative MRI findings reported.
+- Testicular JGCT typically presents as a relatively small (<2 cm) unilateral scrotal mass in neonates or infants.
+relevance_to_jgct: Rare bilateral, intraabdominal testicular JGCT; imaging.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

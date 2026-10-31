@@ -1,0 +1,35 @@
+source_id: '41243833'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41243833/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/41243833/
+language: en
+pmid: '41243833'
+doi: 10.1097/PAP.0000000000000515
+pmcid: null
+title: 'DICER1 -Associated Gynecologic Neoplasms: An Update and Review.'
+journal: Advances in anatomic pathology
+year: 2026
+first_author: Kim HS
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- In the gynecologic tract, DICER1-associated neoplasms most commonly include embryonal rhabdomyosarcoma and moderately to poorly differentiated Sertoli-Leydig cell tumor, and less frequently juvenile granulosa cell tumor among others.
+- In syndromic patients a germline loss-of-function DICER1 mutation is usually followed by a somatic hotspot mutation in the tumor as a second hit.
+relevance_to_jgct: Lists JGCT as a less frequent DICER1-associated gynecologic neoplasm.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; no OA full text. Overlaps pmid-42817922 (same first author). Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

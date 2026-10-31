@@ -1,0 +1,34 @@
+source_id: '9777570'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9777570/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9777570/
+language: en
+pmid: '9777570'
+doi: 10.1515/jpem.1998.11.4.497
+pmcid: null
+title: Gonadotropin independent precocious puberty
+journal: 'Journal of pediatric endocrinology & metabolism : JPEM'
+year: 1998
+first_author: Low LC
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review of gonadotropin-independent precocious puberty: in girls with recurrent ovarian cysts, persistence beyond three months, especially with a significant solid component, should raise the possibility of juvenile granulosa cell tumor.'
+relevance_to_jgct: A practical rule for suspecting JGCT behind persistent ovarian cysts in precocious puberty.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

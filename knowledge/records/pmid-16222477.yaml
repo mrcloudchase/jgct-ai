@@ -1,0 +1,38 @@
+source_id: '16222477'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/16222477/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/16222477/
+language: en
+pmid: '16222477'
+doi: 10.1007/s10024-005-0055-2
+pmcid: null
+title: 'Pediatric sex cord-stromal tumor with composite morphology: a case report'
+journal: 'Pediatric and developmental pathology : the official journal of the Society for Pediatric Pathology and the Paediatric Pathology Society'
+year: 2005
+first_author: Jarzembowski JA
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: null
+age_range: 12 years
+alterations: []
+treatments: []
+presentation:
+- nonspecific abdominal complaints
+- 4.5 kg, 25 x 23 x 15 cm pelvic mass
+- retroperitoneal and mesenteric lymphadenopathy
+- raised CA-125 and inhibin B
+key_findings:
+- A 12-year-old with developmental delay and a family history of gynecologic cancers had a 4.5 kg mixed sex cord-stromal tumor with adult granulosa, juvenile granulosa (with marked atypia) and intermediate- to high-grade Sertoli cell areas, positive for calretinin, CD99, S100, PGP 9.5 and NSE, with Charcot-Bottcher filaments on electron microscopy.
+relevance_to_jgct: Composite pediatric sex cord-stromal tumor with a markedly atypical JGCT component.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

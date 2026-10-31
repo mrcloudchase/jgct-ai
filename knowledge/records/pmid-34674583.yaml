@@ -1,0 +1,39 @@
+source_id: '34674583'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/34674583/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/34674583/
+language: en
+pmid: '34674583'
+doi: 10.1177/03008916211052332
+pmcid: null
+title: 'Treating rare tumors with the assistance of the expert virtual consultation system: two cases of juvenile granulosa cell tumors'
+journal: Tumori
+year: 2021
+first_author: Hovsepyan S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: 15-16 years
+alterations: []
+treatments:
+- regimen: Surgery then 4 cycles PEI (cisplatin, etoposide, ifosfamide)
+  setting: FIGO stage IC, two adolescents, Armenia; regimen chosen with the EXPeRT virtual consultation board
+  n: 2
+  outcome: Not stated in the abstract
+presentation: []
+key_findings:
+- Two girls aged 16 and 15 with stage IC ovarian JGCT in Armenia had surgery and 4 cycles of PEI chemotherapy chosen through the EXPeRT online advisory board (vrt.cineca.it).
+- The authors conclude that international collaboration with EXPeRT helps physicians with limited experience of very rare tumors.
+relevance_to_jgct: Shows how the EXPeRT virtual consultation system is used for JGCT treatment decisions in a low-resource setting; both stage IC patients received PEI.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

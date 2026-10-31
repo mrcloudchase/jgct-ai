@@ -1,0 +1,34 @@
+source_id: '19106661'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19106661/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19106661/
+language: en
+pmid: '19106661'
+doi: 10.1097/CCO.0b013e328306316f
+pmcid: null
+title: Management of granulosa cell tumour of the ovary
+journal: Current opinion in oncology
+year: 2008
+first_author: Jamieson S
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review of granulosa cell tumour management: serum inhibin is useful for diagnosis in postmenopausal women and for monitoring after oophorectomy; surgery remains the most effective treatment; about 80% of patients with advanced tumours die of recurrence; the gsp oncogene and high GATA-4 expression in juvenile granulosa cell tumours may provide prognostic markers.'
+relevance_to_jgct: Early mention of gsp (GNAS) and GATA-4 as candidate prognostic markers in JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,34 @@
+source_id: '11936727'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/11936727/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/11936727/
+language: en
+pmid: '11936727'
+doi: 10.1080/088800102753541297
+pmcid: null
+title: Ovarian granulosa cell tumors in childhood
+journal: Pediatric hematology and oncology
+year: 2002
+first_author: Merras-Salmio L
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Three children with granulosa cell tumors and a review: granulosa cell tumors are prepubertal in 5% of patients, and 80% of those under 20 are juvenile type, usually benign; young children present with precocious pseudopuberty and adolescents with menstrual irregularity, virilization, swelling and pain; outcome is excellent with salpingo-oophorectomy when confined to the ovary, while spread disease is hard to treat; estrogens and inhibin are useful in follow-up.'
+relevance_to_jgct: Finnish case series and review of childhood granulosa cell tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,50 @@
+source_id: '19995209'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19995209/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19995209/
+language: en
+pmid: '19995209'
+doi: 10.2350/09-04-0638-CR.1
+pmcid: null
+title: Congenital intra-abdominal bilateral juvenile granulosa cell tumors of the testis associated with constitutional loss of material from chromosome 4.
+journal: 'Pediatric and developmental pathology : the official journal of the Society for Pediatric Pathology and the Paediatric Pathology Society'
+year: 2011
+first_author: Yu DC
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: newborn
+alterations:
+- gene: chromosome 4
+  alteration: constitutional loss of material
+  frequency: 1/1
+  notes: germline/constitutional; exact region not given in abstract
+treatments:
+- regimen: emergency resection of bilateral intra-abdominal testicular tumors
+  setting: primary
+  n: 1
+  outcome: outcome not reported in abstract
+presentation:
+- abdominal distention
+- respiratory distress at birth
+- bilateral intra-abdominal masses
+- polymicrogyria
+- renal cysts
+key_findings:
+- Newborn boy with bilateral intra-abdominal testicular JGCT presenting with abdominal distention and respiratory distress at birth.
+- Emergency resection of 2 large masses connected by gubernacula to the inguinal canals.
+- 'Associated abnormalities: constitutional chromosome 4 abnormality, polymicrogyria and renal cysts.'
+- Authors describe it as the first report of JGCT associated with a chromosome 4 abnormality, highlighting a region that may be important in JGCT development.
+relevance_to_jgct: Constitutional genetic association (chromosome 4 loss) with bilateral congenital testicular JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

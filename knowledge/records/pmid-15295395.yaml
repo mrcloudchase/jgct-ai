@@ -1,0 +1,45 @@
+source_id: '15295395'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/15295395/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/15295395/
+language: en
+pmid: '15295395'
+doi: 10.1016/j.ajog.2003.09.019
+pmcid: null
+title: Late recurrence of juvenile granulosa cell tumor of the ovary.
+journal: American journal of obstetrics and gynecology
+year: 2004
+first_author: Frausto SD
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments:
+- regimen: left oophorectomy
+  setting: primary
+  n: 1
+  outcome: recurrence at 48 months
+- regimen: cytoreductive surgery + chemotherapy (regimen not stated)
+  setting: recurrence
+  n: 1
+  outcome: disease free 19 months after recurrence
+presentation: []
+key_findings:
+- Patient treated with left oophorectomy at initial presentation.
+- Recurrence in the left adnexa diagnosed 48 months later, treated with cytoreductive surgery followed by chemotherapy.
+- Disease free 19 months after the recurrence.
+- Authors state recurrences are uncommon and typically occur within the first year, but late recurrences can occur.
+relevance_to_jgct: Documents late (48-month) JGCT recurrence; relevant to surveillance duration.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Age and stage not stated in abstract. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

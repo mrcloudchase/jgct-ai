@@ -1,0 +1,34 @@
+source_id: '12808064'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/12808064/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/12808064/
+language: en
+pmid: '12808064'
+doi: 10.1097/01.MP.0000073133.79591.A1
+pmcid: null
+title: 'Ovarian sex cord-stromal tumors: an immunohistochemical study including a comparison of calretinin and inhibin'
+journal: 'Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc'
+year: 2003
+first_author: Deavers MT
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Immunopanel on 53 ovarian sex cord-stromal tumors including 4 JGCT: calretinin positive in all but one metastatic SLCT, inhibin in 85%, WT1 in 74%, cytokeratin cocktail in 43%, EMA in only one tumor (1+ in a JGCT), CK5/6 in none; calretinin is at least as sensitive as inhibin.'
+relevance_to_jgct: 'Panel behaviour of JGCT: calretinin and inhibin positive, EMA essentially negative.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -3,6 +3,7 @@ source_type: url
 source_tier: database
 source_url: https://www.ncbi.nlm.nih.gov/books/NBK196157/
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: https://www.ncbi.nlm.nih.gov/sites/books/NBK196157/
 language: en
 pmid: null

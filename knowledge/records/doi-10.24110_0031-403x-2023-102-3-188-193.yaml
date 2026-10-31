@@ -1,0 +1,35 @@
+source_id: 10.24110/0031-403x-2023-102-3-188-193
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.24110/0031-403x-2023-102-3-188-193
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.24110/0031-403x-2023-102-3-188-193
+language: en
+pmid: null
+doi: 10.24110/0031-403x-2023-102-3-188-193
+pmcid: null
+title: 'JUVENILE GRANULOSA CELL TUMOR OF THE OVARY IN A CHILD: CLINICAL CASE AND BIBLIOGRAPHICAL REVIEW'
+journal: Pediatria. Journal named after G.N. Speransky
+year: 2023
+first_author: ''
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- A 15-year-old with JGCT of the right ovary treated at the Morozov Children's Hospital, Moscow, with a review of the largest treatment studies (Russian).
+- The review states that no pediatric treatment standard exists, that management follows adult recommendations, that adjuvant chemotherapy is used above stage IC, and that chemotherapy at stage IC remains debatable.
+relevance_to_jgct: Russian case and review; restates the stage IC chemotherapy debate.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

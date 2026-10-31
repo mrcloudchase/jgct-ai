@@ -1,0 +1,34 @@
+source_id: '25440719'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/25440719/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/25440719/
+language: en
+pmid: '25440719'
+doi: 10.1053/j.semdp.2014.08.001
+pmcid: null
+title: Ovarian tumors and tumor-like lesions in the first three decades
+journal: Seminars in diagnostic pathology
+year: 2014
+first_author: Young RH
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review of ovarian tumors in the first three decades: juvenile granulosa cell tumor preponderantly occurs in the first two decades, the retiform Sertoli-Leydig cell tumor peaks at about 15 years, small cell carcinoma of hypercalcemic type in the early 20s, and neonatal follicular cysts can be large with dramatic manifestations; the varied differential diagnosis of JGCT is emphasized, with gross pathology stressed.'
+relevance_to_jgct: Age-distribution context and differential diagnosis of JGCT from an expert review.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

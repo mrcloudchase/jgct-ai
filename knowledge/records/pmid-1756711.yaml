@@ -1,0 +1,38 @@
+source_id: '1756711'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/1756711/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/1756711/
+language: en
+pmid: '1756711'
+doi: null
+pmcid: null
+title: 'Pseudo-precocious puberty in a Kenyan African child: a case report'
+journal: East African medical journal
+year: 1991
+first_author: Mwathe EG
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- lower abdominal mass
+- growth spurt
+- pubic hair
+- breast enlargement
+key_findings:
+- A Kenyan girl with pseudoprecocious puberty (abdominal mass, growth spurt, pubic hair, breast enlargement) from a juvenile granulosa cell tumour, the first such Kenyan report.
+relevance_to_jgct: Pediatric JGCT reported from East Africa.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

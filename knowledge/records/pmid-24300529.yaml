@@ -1,0 +1,39 @@
+source_id: '24300529'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24300529/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/24300529/
+language: en
+pmid: '24300529'
+doi: 10.1097/PGP.0b013e31828309e6
+pmcid: null
+title: 'Juvenile granulosa cell tumors: immunoreactivity for CD99 and Fli-1 and EWSR1 translocation status: a study of 11 cases.'
+journal: International journal of gynecological pathology
+year: 2014
+first_author: Jarboe EA
+study_type: case_series
+tumor_site: null
+n_jgct_patients: 11
+age_range: null
+alterations:
+- gene: EWSR1
+  alteration: rearrangement (FISH)
+  frequency: 0/11
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- All 11 JGCTs were positive for Fli-1 and CD99 by immunohistochemistry.
+- None had EWSR1 rearrangement by FISH; authors suggest EWSR1 FISH to separate JGCT from Ewing sarcoma when needed.
+relevance_to_jgct: 'Diagnostic pitfall: JGCT expresses Ewing-sarcoma markers CD99 and Fli-1 but lacks EWSR1 rearrangement.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

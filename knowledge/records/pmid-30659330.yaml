@@ -1,0 +1,34 @@
+source_id: '30659330'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30659330/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/30659330/
+language: de
+pmid: '30659330'
+doi: 10.1007/s00292-018-0562-3
+pmcid: null
+title: '[Sex cord-stromal tumors of the ovary : Current aspects with a focus on granulosa cell tumors, Sertoli-Leydig cell tumors, and gynandroblastomas]'
+journal: Der Pathologe
+year: 2019
+first_author: Kommoss F
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'German review of ovarian sex cord-stromal tumors focused on adult and juvenile granulosa cell tumors, Sertoli-Leydig cell tumors and gynandroblastomas: inhibin and calretinin confirm lineage; FOXL2 and DICER1 mutation analysis helps in difficult cases and may guide future classification and therapy.'
+relevance_to_jgct: German-language pathology review including JGCT; details not in the abstract.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

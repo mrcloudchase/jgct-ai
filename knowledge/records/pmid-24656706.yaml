@@ -1,0 +1,45 @@
+source_id: '24656706'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/24656706/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/24656706/
+language: en
+pmid: '24656706'
+doi: 10.1016/j.jpag.2013.10.001
+pmcid: null
+title: Fertility-sparing surgery for advanced juvenile granulosa cell tumor of the ovary.
+journal: Journal of pediatric and adolescent gynecology
+year: 2014
+first_author: Powell JL
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: teenager
+alterations: []
+treatments:
+- regimen: debulking and staging with fertility-sparing surgery + combination chemotherapy
+  setting: primary, stage III
+  n: 1
+  outcome: recurred at 18 months
+- regimen: surgery + chemotherapy
+  setting: recurrence at 18 months and at 17 years
+  n: 1
+  outcome: long-term survival; 2 pregnancies, 3 children
+presentation: []
+key_findings:
+- Teenager with Stage III JGCT treated with aggressive debulking and thorough staging, conserving uterus, contralateral uninvolved ovary and tube, plus combination chemotherapy.
+- Tumor recurred twice, 18 months and 17 years later, treated with 2 additional surgeries and more chemotherapy.
+- Patient achieved 2 pregnancies and had 3 children; long-term survival.
+- Authors state about 90% of JGCT are diagnosed in FIGO I and more advanced stages (II-IV) usually have a poor outcome.
+relevance_to_jgct: Documents long-term survival and late (17-year) recurrence in stage III JGCT, with fertility preserved by conservative surgery.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. Chemotherapy regimens not specified in abstract. Notable for very late recurrence at 17 years. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

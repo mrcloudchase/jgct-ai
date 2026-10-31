@@ -1,0 +1,36 @@
+source_id: '9134041'
+source_type: pmid
+source_tier: registry
+source_url: https://pubmed.ncbi.nlm.nih.gov/9134041/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9134041/
+language: en
+pmid: '9134041'
+doi: 10.1007/BF01092753
+pmcid: null
+title: 'Testicular juvenile granulosa cell and Sertoli cell tumours: a clinicopathological study of 29 cases from the Kiel Paediatric Tumour Registry.'
+journal: Virchows Archiv
+year: 1997
+first_author: Harms D
+study_type: registry
+tumor_site: testis
+n_jgct_patients: 11
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Of 198 childhood testicular tumours in the Kiel Paediatric Tumour Registry, 11 were JGCT (5.6%); average age at diagnosis 0.4 months.
+- Infiltrative growth, dense cellularity and considerable proliferation were common; cytokeratins in 7/10 and smooth-muscle actin in 4/10 JGCTs.
+- After complete removal (usually orchiectomy) no local recurrences or metastases; authors state adjuvant chemotherapy or lymphadenectomy not indicated.
+relevance_to_jgct: Registry pathology series supporting surgery alone for infantile testicular JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Tier set to registry (2026-10-30) per CLAUDE.md: a disease registry or consortium report is registry even in a peer-reviewed journal. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

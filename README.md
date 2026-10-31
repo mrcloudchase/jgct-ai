@@ -22,13 +22,13 @@ Everything known about juvenile granulosa cell tumor (JGCT), gathered from sourc
 
 Once a month an AI agent (Claude Code) reads this whole repository, searches for everything new about JGCT, reads every source in full, updates the records, the indexes, the summaries and the site, and opens a pull request. The maintainer reviews every change before it reaches this branch and the site. The rules it works under are short and public: [`CLAUDE.md`](CLAUDE.md) and [`prompts/research.md`](prompts/research.md).
 
-Three rules do not bend. Nothing is written from an abstract: a source is in the base only if its complete text was read. Numbers are copied from sources, never computed across them. Where sources disagree, both are recorded and neither is declared right.
+Three rules do not bend. Every record says what it rests on: the complete text, read start to finish, or, when no open route to the full text exists, the abstract alone, which is marked on the record and on every citation of it until the full text can be read. Numbers are copied from sources, never computed across them. Where sources disagree, both are recorded and neither is declared right.
 
 The agent never rates its own work. Every record is a draft until a human has checked it against its source.
 
 ## How to help
 
-- **Full text.** The largest gap is papers behind paywalls, including several of the field's foundational studies. They are listed on the site under [Not yet read](https://mrcloudchase.github.io/jgct-ai/pending.html). If you have library access or wrote one of them, open an issue and we will arrange a way for the agent to read it.
+- **Full text.** The largest gap is papers behind paywalls, including several of the field's foundational studies. Their records rest on abstracts alone; they are listed on the site under [Not yet read in full](https://mrcloudchase.github.io/jgct-ai/pending.html). If you have library access or wrote one of them, open an issue and we will arrange a way for the agent to read it.
 - **Corrections.** If a record misstates its source, open an issue or a pull request naming the record and the passage.
 - **Sources.** If you know of a registry, a meeting abstract, a guideline, or a paper the base has missed, open an issue with a link.
 

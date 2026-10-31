@@ -1,0 +1,34 @@
+source_id: '33789803'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33789803/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/33789803/
+language: en
+pmid: '33789803'
+doi: 10.1016/j.jpedsurg.2021.02.063
+pmcid: null
+title: Management and outcome of paediatric testicular tumours - A 20 year experience
+journal: Journal of pediatric surgery
+year: 2021
+first_author: O'Shea K
+study_type: cohort
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 0-18 years (cohort)
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Of 34 pediatric testicular tumors in North West England (1998 to 2018), 20 were prepubertal, including 4 sex cord-stromal tumors (1 juvenile granulosa cell tumor, 2 Sertoli cell, 1 Leydig cell); 6 patients had testis-sparing surgery; overall survival 97%.
+relevance_to_jgct: One testicular JGCT in a 20-year UK regional series.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

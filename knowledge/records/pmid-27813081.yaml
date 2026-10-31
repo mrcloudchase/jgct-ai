@@ -1,0 +1,43 @@
+source_id: '27813081'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/27813081/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/27813081/
+language: en
+pmid: '27813081'
+doi: 10.1111/cge.12917
+pmcid: null
+title: Genetics and genomics of ovarian sex cord-stromal tumors
+journal: Clinical genetics
+year: 2017
+first_author: Fuller PJ
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: GNAS
+  alteration: gsp oncogene (activating mutation)
+  frequency: approximately 30% of jGCT (review figure)
+  notes: null
+- gene: AKT1
+  alteration: activating mutation
+  frequency: a further 60% of jGCT (review figure)
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- 'Review of sex cord-stromal tumor genetics: about 30% of juvenile GCT carry the gsp (GNAS) oncogene mutation and a further 60% an activating AKT mutation; FOXL2 C134W is found in almost all adult GCT.'
+- Sex cord-stromal tumors occur in Peutz-Jeghers syndrome, Ollier disease and Maffucci syndrome, and DICER1 syndrome.
+relevance_to_jgct: Review giving the GNAS 30% and AKT1 60% figures for JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

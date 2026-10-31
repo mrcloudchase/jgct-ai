@@ -1,0 +1,34 @@
+source_id: '2909044'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/2909044/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/2909044/
+language: en
+pmid: '2909044'
+doi: null
+pmcid: null
+title: Inhibition of ovarian cancer cell proliferation in vivo and incorporation of 3H-thymidine in vitro after follicle regulatory protein administration
+journal: Obstetrics and gynecology
+year: 1989
+first_author: Rodgers KE
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Follicle regulatory protein was found in the ascites and tumor cytosol of a patient with juvenile granulosa cell tumor; daily partially purified protein slowed growth of her tumor cells xenografted in nude mice and inhibited their clonogenic proliferation, without effect on an endometrial adenocarcinoma.
+relevance_to_jgct: An early xenograft of JGCT and a protein that slowed its growth.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

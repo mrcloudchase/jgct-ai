@@ -1,0 +1,35 @@
+source_id: 10.36106/ijsr/1901987
+source_type: doi
+source_tier: other
+source_url: https://doi.org/10.36106/ijsr/1901987
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.36106/ijsr/1901987
+language: en
+pmid: null
+doi: 10.36106/ijsr/1901987
+pmcid: null
+title: 'OVARIAN SEX CORD STROMAL TUMORS IN CHILDREN AND ADOLESCENTS: AN INSTITUTIONAL-BASED STUDY'
+journal: INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH
+year: 2022
+first_author: K Apoorva.
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: null
+age_range: under 18 (median 14)
+alterations: []
+treatments: []
+presentation:
+- menstrual irregularity (most common)
+key_findings:
+- 'Six pediatric ovarian sex cord-stromal tumors at an Indian cancer institute (median age 14, mean size 11 cm): juvenile granulosa cell tumor was the most frequent type; 4 were FIGO stage I; 4 were disease free at a mean 4 years.'
+relevance_to_jgct: Small Indian pediatric SCST series with JGCT predominant.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

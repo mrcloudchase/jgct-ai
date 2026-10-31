@@ -1,0 +1,34 @@
+source_id: '42143686'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/42143686/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/42143686/
+language: hu
+pmid: '42143686'
+doi: 10.1556/650.2026.33550
+pmcid: null
+title: '[Testicular sex cord stromal tumors]'
+journal: Orvosi hetilap
+year: 2026
+first_author: Gráczia MC
+study_type: review
+tumor_site: testis
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Hungarian review of testicular sex cord-stromal tumors (about 90% benign, the rest aggressive and therapy-resistant) covering Leydig, Sertoli, large cell calcifying Sertoli, adult- and juvenile-type granulosa cell tumors and others, intended to raise awareness and case collection.
+relevance_to_jgct: Testicular JGCT within a national review of testicular stromal tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

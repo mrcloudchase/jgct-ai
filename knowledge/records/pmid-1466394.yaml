@@ -1,0 +1,38 @@
+source_id: '1466394'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/1466394/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/1466394/
+language: en
+pmid: '1466394'
+doi: null
+pmcid: PMC1886775
+title: Trisomy 12 in pediatric granulosa-stromal cell tumors. Demonstration by a modified method of fluorescence in situ hybridization on paraffin-embedded material
+journal: The American journal of pathology
+year: 1992
+first_author: Schofield DE
+study_type: genomic
+tumor_site: both
+n_jgct_patients: 4
+age_range: null
+alterations:
+- gene: chromosome 12
+  alteration: trisomy 12 by FISH on disaggregated paraffin nuclei
+  frequency: 3 of 4 juvenile granulosa cell tumors (3 ovarian, 1 testicular)
+  notes: also one malignant granulosa cell tumor; tetrasomy 12 in a thecoma
+treatments: []
+presentation: []
+key_findings:
+- FISH on nuclei from paraffin blocks showed trisomy 12 in the majority of cells of 3 of 4 pediatric juvenile granulosa cell tumors (3 ovarian, 1 testicular) and in one malignant granulosa cell tumor, and tetrasomy 12 in a thecoma.
+relevance_to_jgct: Trisomy 12 in most pediatric JGCT tested.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

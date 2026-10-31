@@ -1,0 +1,35 @@
+source_id: '19819941'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19819941/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19819941/
+language: en
+pmid: '19819941'
+doi: 10.1210/en.2009-0644
+pmcid: PMC1859945
+title: Smad1-Smad5 ovarian conditional knockout mice develop a disease profile similar to the juvenile form of human granulosa cell tumors
+journal: Endocrinology
+year: 2009
+first_author: Middlebrook BS
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Conditional deletion of Smad1 and Smad5 in mouse granulosa cells produces metastatic granulosa cell tumors whose histology and hormone profile most resemble juvenile GCT; human JGCT samples expressed anti-Mullerian hormone and showed activation of TGF-beta/SMAD2/3 signaling but not Wnt/beta-catenin.
+- The authors propose that disruption of SMAD1/5 or activation of SMAD2/3 contributes to human JGCT.
+relevance_to_jgct: The Smad1/5 knockout mouse as a JGCT model; TGF-beta pathway active in human JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

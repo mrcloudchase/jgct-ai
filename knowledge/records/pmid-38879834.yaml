@@ -1,0 +1,38 @@
+source_id: '38879834'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/38879834/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/38879834/
+language: en
+pmid: '38879834'
+doi: 10.1007/s40477-024-00905-9
+pmcid: null
+title: 'Testicular juvenile granulosa cell tumor: a case report.'
+journal: Journal of ultrasound
+year: 2025
+first_author: Baldazzi M
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 2 months
+alterations: []
+treatments: []
+presentation:
+- painless testicular mass
+- bilateral
+key_findings:
+- 2-month-old infant with bilateral testicular JGCT.
+- Abstract describes testicular JGCT as appearing in the first months of life as a painless testicular mass, with cystic ultrasound appearance, follicular histology, and inhibin immunoreactivity.
+- Treatment involves conservative surgery when feasible (per authors).
+relevance_to_jgct: Rare bilateral testicular JGCT in an infant.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; fulltext fetch returned no open-access text despite a PMC ID listed (PMC12675841). Treatment and outcome of this patient not given in abstract. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

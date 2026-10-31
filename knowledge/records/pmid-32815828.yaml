@@ -1,0 +1,36 @@
+source_id: '32815828'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32815828/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/32815828/
+language: en
+pmid: '32815828'
+doi: 10.1097/PAS.0000000000001544
+pmcid: null
+title: 'Sertoli-Leydig Cell Tumors of the Ovary With Follicular Differentiation Often Resembling Juvenile Granulosa Cell Tumor: A Report of 38 Cases Including Comments on Sex Cord-Stromal Tumors of Mixed Forms (So-called Gynandroblastoma).'
+journal: The American journal of surgical pathology
+year: 2021
+first_author: Ordulu Z
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 38 ovarian Sertoli-Leydig cell tumors containing follicles; in 33, follicles resembled juvenile granulosa cell tumor.
+- JGCT-like follicles accounted for about 5% to 40% of tumor volume; average age 28; androgenic manifestations 40%.
+- Authors argue such tumors belong in the Sertoli-Leydig category rather than mixed sex cord-stromal tumor (gynandroblastoma).
+relevance_to_jgct: 'Key differential-diagnosis paper: JGCT-like areas occur within Sertoli-Leydig cell tumors, relevant to DICER1-associated cases labelled JGCT.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

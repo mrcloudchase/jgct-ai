@@ -1,0 +1,39 @@
+source_id: '33904645'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/33904645/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/33904645/
+language: en
+pmid: '33904645'
+doi: 10.1111/jog.14805
+pmcid: null
+title: Retrospective analysis of clinicopathological characteristics of 19 ovarian juvenile granulosa cell tumor cases.
+journal: The journal of obstetrics and gynaecology research
+year: 2021
+first_author: Ndhlovu E
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 19
+age_range: 0.25-28 years (median 8.25)
+alterations: []
+treatments: []
+presentation:
+- abdominal pain
+- precocious puberty (5/10 prepubertal)
+key_findings:
+- 19 JGCT patients from two Wuhan centers, 1999-2019; median age 8.25 years (0.25-28).
+- Abdominal pain most common; five out of 10 prepubertal children had precocious puberty.
+- Radical surgery in 3, fertility-sparing in 16; FIGO stage I 18, stage II 1; 12 received adjuvant chemotherapy.
+- 'Median follow-up 35 months: one relapse with death at 32 months; 18 alive without recurrence.'
+relevance_to_jgct: Chinese two-centre series with mostly stage I disease and favorable outcome.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

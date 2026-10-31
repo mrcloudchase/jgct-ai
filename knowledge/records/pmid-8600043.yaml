@@ -1,0 +1,35 @@
+source_id: '8600043'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/8600043/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/8600043/
+language: en
+pmid: '8600043'
+doi: 10.1016/s0046-8177(96)90069-6
+pmcid: null
+title: 'Transformation in recurrent ovarian granulosa cell tumors: Ki67 (MIB-1) and p53 immunohistochemistry demonstrates a possible molecular basis for the poor histopathologic prediction of clinical behavior'
+journal: Human pathology
+year: 1996
+first_author: Costa MJ
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 7
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Ki67 and p53 immunostaining of 68 granulosa cell tumors (53 primary, 15 recurrent) including 7 juvenile tumors: p53 staining was associated with juvenile type (p<0.001) and higher Ki67 index; the 7 juvenile GCT were the most proliferative type and none recurred.'
+- Recurrence of adult tumors was associated with stage above I, capsular vessel invasion, rupture and older age; paired primaries and recurrences showed a striking rise in Ki67 and mitotic activity.
+relevance_to_jgct: JGCT showed the highest proliferation and p53 positivity yet no recurrences in this series.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

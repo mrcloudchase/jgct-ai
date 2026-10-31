@@ -1,0 +1,36 @@
+source_id: '12004856'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/12004856/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/12004856/
+language: en
+pmid: '12004856'
+doi: null
+pmcid: null
+title: 'Juvenile granulosa cell tumor of the testis: case report and review of literature.'
+journal: Tumori
+year: 2002
+first_author: Nieto N
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Testicular JGCT usually appears as a scrotal mass and less frequently as an abdominal or inguinal mass.
+- May be associated with ambiguous genitalia and/or abnormal sex chromosomes.
+- Authors state recommended treatment is orchiectomy alone because local recurrence or metastasis have never been observed.
+relevance_to_jgct: Testicular JGCT case report and review.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract gives no patient-specific details. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -3,6 +3,7 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/34286167/
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: PMC8282215
 language: en
 pmid: '34286167'
@@ -23,7 +24,7 @@ alterations:
   notes: mosaic distribution; no other Tier 1-3 mutations or copy number variants on 447-gene panel
 treatments:
 - regimen: Right salpingo-oophorectomy via laparotomy, then bleomycin, cisplatin, etoposide x4 cycles
-  setting: FIGO stage IC2 (intra-operative rupture)
+  setting: FIGO stage IC2 as assigned by the authors (ruptured tumor)
   n: 1
   outcome: inhibin B, FSH, LH and estradiol normalized; in remission 16 months after therapy
 presentation:

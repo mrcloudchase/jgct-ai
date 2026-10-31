@@ -1,0 +1,35 @@
+source_id: '3027212'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/3027212/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/3027212/
+language: ja
+pmid: '3027212'
+doi: null
+pmcid: null
+title: '[Endocrinological and clinico-pathologic study of granulosa-theca cell tumors of the ovary]'
+journal: Nihon Sanka Fujinka Gakkai zasshi
+year: 1986
+first_author: Obata N
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- precocious pseudopuberty (both juvenile cases)
+key_findings:
+- Nine granulosa-theca cell tumors studied endocrinologically, including two juvenile granulosa-theca tumors that caused precocious pseudopuberty; ovarian-to-peripheral vein ratios were 8.8 to 28.6 for estradiol, 2.7 to 16.9 for estrone, 3.6 to 4.7 for progesterone and 1.6 to 6.6 for testosterone; estradiol localized to granulosa and theca cells (Japanese).
+relevance_to_jgct: Direct evidence of tumor steroid secretion in juvenile granulosa-theca tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,37 @@
+source_id: '20395670'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20395670/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/20395670/
+language: en
+pmid: '20395670'
+doi: 10.1159/000313396
+pmcid: null
+title: Unusual virilization in girls with juvenile granulosa cell tumors of the ovary is related to intratumoral aromatase deficiency.
+journal: Hormone research in paediatrics
+year: 2010
+first_author: Kalfa N
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 30
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- virilization / hyperandrogenism (6/30)
+key_findings:
+- 'Nationwide French study: 6/30 JGCT patients had clinical hyperandrogenism and high plasma testosterone.'
+- Intratumoral aromatase absent (n=5) or dramatically reduced (n=1) in 6/6 virilized patients vs conserved aromatase in 15/24 without virilization (p<0.05).
+- SOX9 and FOXL2 expression did not differ between groups.
+relevance_to_jgct: Explains the mechanism of virilization, an atypical JGCT presentation.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

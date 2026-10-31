@@ -1,0 +1,36 @@
+source_id: '20715666'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20715666/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/20715666/
+language: en
+pmid: '20715666'
+doi: 10.1159/000325187
+pmcid: null
+title: 'Unusual ovarian malignancies in ascitic fluid: a report of 2 cases'
+journal: Acta cytologica
+year: 2010
+first_author: Murugan P
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 25 years
+alterations: []
+treatments: []
+presentation:
+- abdominal mass
+- ascites
+key_findings:
+- Ascitic fluid from two young women (23 and 25) was read as adenocarcinoma but histology showed yolk sac tumor and juvenile granulosa cell tumor; on review the JGCT fluid showed distinct tubular structures, and the authors urge a combined clinical and cytologic approach in young patients.
+relevance_to_jgct: JGCT cells in ascitic fluid can be misread as adenocarcinoma.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

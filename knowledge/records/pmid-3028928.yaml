@@ -1,0 +1,34 @@
+source_id: '3028928'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/3028928/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/3028928/
+language: en
+pmid: '3028928'
+doi: 10.1016/s0046-8177(87)80199-5
+pmcid: null
+title: 'Complete and incomplete Drash syndrome: a clinicopathologic study of five cases of a dysontogenetic-neoplastic complex'
+journal: Human pathology
+year: 1987
+first_author: Manivel JC
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Five cases of complete and incomplete Drash syndrome (abnormal renal function, abnormal sexual differentiation, nephroblastoma): all had dysgenetic gonads; two unilateral and two bilateral gonadoblastomas, one of the latter with a juvenile granulosa cell tumor; one bilateral Wilms tumor.'
+relevance_to_jgct: JGCT arising with gonadoblastoma in dysgenetic gonads of Drash syndrome.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

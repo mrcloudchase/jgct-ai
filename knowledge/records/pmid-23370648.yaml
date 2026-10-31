@@ -1,0 +1,34 @@
+source_id: '23370648'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23370648/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/23370648/
+language: en
+pmid: '23370648'
+doi: 10.1097/PGP.0b013e31825a0353
+pmcid: null
+title: 14-3-3 sigma is a useful immunohistochemical marker for diagnosing ovarian granulosa cell tumors and steroid cell tumors
+journal: 'International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists'
+year: 2013
+first_author: Chen L
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 7
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- '14-3-3 sigma immunostaining in 103 ovarian sex cord-stromal neoplasms: positive in all 51 granulosa cell tumors (44 adult, 7 juvenile) and all 12 steroid cell tumors, negative in Sertoli cell tumors, fibromas, thecomas, endometrial stromal sarcomas and unclassified tumors.'
+relevance_to_jgct: 14-3-3 sigma stains all JGCT and separates granulosa from Sertoli and stromal tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

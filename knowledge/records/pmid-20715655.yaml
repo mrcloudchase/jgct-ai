@@ -1,0 +1,34 @@
+source_id: '20715655'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20715655/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/20715655/
+language: en
+pmid: '20715655'
+doi: 10.1159/000325176
+pmcid: null
+title: 'Granulosa cell tumor of the ovary: cytologic findings'
+journal: Acta cytologica
+year: 2010
+first_author: Kavuri S
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Cytology of 6 adult and 1 juvenile granulosa cell tumor: Call-Exner bodies and nuclear grooves were seen only in adult tumors; the JGCT showed more striking hyperchromasia and nucleoli; cytoplasmic vacuoles, prominent nucleoli, mitoses and necrosis marked recurrent adult tumors.'
+relevance_to_jgct: Cytologic features separating JGCT from adult-type tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

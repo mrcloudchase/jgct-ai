@@ -1,0 +1,35 @@
+source_id: '18301054'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/18301054/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/18301054/
+language: en
+pmid: '18301054'
+doi: 10.1097/PAS.0b013e31815c186f
+pmcid: null
+title: 'Granulosa cell tumors of the ovary with a pseudopapillary pattern: a study of 14 cases of an unusual morphologic variant emphasizing their distinction from transitional cell neoplasms and other papillary ovarian tumors'
+journal: The American journal of surgical pathology
+year: 2008
+first_author: Irving JA
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 10
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Fourteen granulosa cell tumors with a pseudopapillary pattern (10 juvenile, 4 adult), 12 received in consultation: referring pathologists favored transitional cell neoplasm in 3 and retiform Sertoli-Leydig cell tumor in 2; all were unilateral, mostly cystic, with papillary projections 0.1 to 1.5 cm lining the cyst wall.'
+- Thorough sampling showed typical granulosa cell areas in all; the pattern seems related to cystic change.
+relevance_to_jgct: Pseudopapillary JGCT can be mistaken for transitional cell or retiform tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

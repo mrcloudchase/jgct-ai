@@ -1,0 +1,43 @@
+source_id: '27751908'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/27751908/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/27751908/
+language: en
+pmid: '27751908'
+doi: 10.1016/j.jpag.2016.10.005
+pmcid: null
+title: 'Gynandroblastoma with a Juvenile Granulosa Cell Component in an Adolescent: Case Report and Literature Review.'
+journal: Journal of pediatric and adolescent gynecology
+year: 2017
+first_author: Takeda A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 18 years
+alterations: []
+treatments:
+- regimen: laparoendoscopic single-site ovarian tumorectomy + 3 cycles carboplatin/paclitaxel
+  setting: primary, stage Ic after intraoperative rupture
+  n: 1
+  outcome: no recurrence at 3 years
+presentation:
+- intermittent vaginal bleeding
+- adnexal mass
+key_findings:
+- 18-year-old with intermittent vaginal bleeding; right adnexal mass identified a year later.
+- Laparoendoscopic single-site ovarian tumorectomy; histology gynandroblastoma composed of juvenile granulosa and Sertoli-Leydig cells.
+- Upstaged to stage Ic because of intraoperative cyst rupture; three cycles of adjuvant carboplatin and paclitaxel.
+- No signs of recurrence three years after surgery.
+relevance_to_jgct: Mixed tumor with a JGCT component in an adolescent managed with ovary-sparing tumorectomy and platinum-taxane chemotherapy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. Gynandroblastoma, not pure JGCT. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

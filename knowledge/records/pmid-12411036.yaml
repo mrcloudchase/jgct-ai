@@ -1,0 +1,46 @@
+source_id: '12411036'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/12411036/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/12411036/
+language: en
+pmid: '12411036'
+doi: null
+pmcid: null
+title: Clinical analysis of 4 cases of juvenile granulosa cell tumor of the ovary.
+journal: Zhonghua fu chan ke za zhi
+year: 2002
+first_author: Peng P
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: null
+alterations: []
+treatments:
+- regimen: surgery plus combination chemotherapy
+  setting: stage I
+  n: 4
+  outcome: 2 progressed and died (10 and 14 months); 2 in remission at 25 and 32 months
+presentation:
+- solid pelvic mass
+- ascites
+- pleural effusion
+key_findings:
+- Four JGCT patients treated at Peking Union Medical College Hospital from 1983 to 2002.
+- Solid pelvic mass with ascites and pleural effusion were the main clinical features; estrogen levels were normal in all four.
+- All 4 were stage I and treated with surgery and combined chemotherapy.
+- Two patients with high mitotic index progressed and died after 10 and 14 months; the two without high mitotic index had complete remission for 25 and 32 months.
+- Authors conclude prognosis is poor with high mitotic index.
+relevance_to_jgct: Small series suggesting mitotic index as a prognostic factor even in stage I; deaths despite chemotherapy.
+conflicts_with:
+- pmid-21176530
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only. PubMed lists language as English for this Chinese journal entry. Conflicts with pmid-21176530, which reports that mitotic activity does not correlate with aggressive behavior. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

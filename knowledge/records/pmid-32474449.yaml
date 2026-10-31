@@ -1,0 +1,34 @@
+source_id: '32474449'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/32474449/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/32474449/
+language: en
+pmid: '32474449'
+doi: 10.1136/ijgc-2020-001276
+pmcid: null
+title: Transvaginal ultrasound in evaluation and follow-up of ovarian granulosa cell tumors
+journal: 'International journal of gynecological cancer : official journal of the International Gynecological Cancer Society'
+year: 2020
+first_author: Petrone M
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 3
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Transvaginal ultrasound of 27 granulosa cell tumors (24 adult, 3 juvenile) at primary diagnosis: mean size 103.8 mm; multilocular solid in 48%, solid in 36%, multilocular in 16%; cyst content low-level or anechoic in 56.3%, mixed 31.2%, hemorrhagic 12.5%; moderate to high color Doppler score in 45.1%; relapses looked like primaries.'
+relevance_to_jgct: Ultrasound morphology of granulosa cell tumors including 3 JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

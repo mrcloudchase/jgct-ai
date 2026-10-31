@@ -1,0 +1,34 @@
+source_id: '19546054'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19546054/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19546054/
+language: en
+pmid: '19546054'
+doi: 10.4158/EP09060.CRR
+pmcid: null
+title: Ambiguous genitalia in a newborn with 45,X/46,X,idic(Y) ovotesticular disorder of sex development
+journal: 'Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists'
+year: 2009
+first_author: Pascual J
+study_type: case_report
+tumor_site: other
+n_jgct_patients: 1
+age_range: 2 months
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'A term newborn with ambiguous genitalia and 45,X/46,X,idic(Y) mosaicism had both gonads removed at 2 months (incarcerated hernia): each contained testicular and ovarian tissue, with a fallopian tube on the left and an incipient juvenile granulosa cell tumor on the right; diagnosed as ovotesticular disorder of sex development and raised as a boy.'
+relevance_to_jgct: Incipient JGCT in an ovotestis of a 45,X/46,X,idic(Y) infant.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

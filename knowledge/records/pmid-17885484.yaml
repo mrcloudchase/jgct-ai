@@ -1,0 +1,34 @@
+source_id: '17885484'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/17885484/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/17885484/
+language: en
+pmid: '17885484'
+doi: 10.1097/PGP.0b013e318064511c
+pmcid: null
+title: 'CD10 expression in pure stromal and sex cord-stromal tumors of the ovary: an immunohistochemical analysis of 101 cases'
+journal: 'International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists'
+year: 2007
+first_author: Oliva E
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 9
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'CD10 immunostaining in 101 ovarian stromal and sex cord-stromal tumors: 8 of 9 juvenile granulosa cell tumors were positive, mostly in under 5% to 39% of cells at 1+ intensity; staining was faint across SCST compared with the strong diffuse staining of endometrial stromal tumors.'
+relevance_to_jgct: Faint CD10 positivity is compatible with JGCT and does not indicate endometrial stromal tumor.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

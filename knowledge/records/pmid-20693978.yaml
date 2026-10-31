@@ -1,0 +1,39 @@
+source_id: '20693978'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/20693978/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/20693978/
+language: en
+pmid: '20693978'
+doi: 10.1038/modpathol.2010.145
+pmcid: null
+title: The FOXL2 C134W mutation is characteristic of adult granulosa cell tumors of the ovary
+journal: 'Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc'
+year: 2010
+first_author: Jamieson S
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 3
+age_range: null
+alterations:
+- gene: FOXL2
+  alteration: C134W
+  frequency: 52 of 56 adult GCT; juvenile tumors examined for expression
+  notes: two of three JGCT lacked FOXL2 expression; COV434 wild type, KGN heterozygous
+treatments: []
+presentation: []
+key_findings:
+- FOXL2 C134W was present in 52 of 56 adult granulosa cell tumors from Melbourne and Helsinki (3 hemi/homozygous); 3 of the 4 wild-type cases may have been misclassified.
+- KGN cells were heterozygous for the mutation and COV434 cells wild type; COV434 and two of three juvenile granulosa cell tumors lacked FOXL2 expression.
+relevance_to_jgct: Two of three JGCT lacked FOXL2 expression; COV434 (then a JGCT model) was FOXL2 wild type.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

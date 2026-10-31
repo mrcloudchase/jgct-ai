@@ -3,6 +3,7 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/37011030/
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: https://digital.library.adelaide.edu.au/server/api/core/bitstreams/5fc94f79-4b07-4c7c-b312-91e0a412b6f9/content
 language: en
 pmid: '37011030'

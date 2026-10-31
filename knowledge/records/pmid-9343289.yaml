@@ -1,0 +1,36 @@
+source_id: '9343289'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9343289/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9343289/
+language: en
+pmid: '9343289'
+doi: 10.1111/j.1651-2227.1997.tb15193.x
+pmcid: null
+title: Precocious pseudopuberty due to a granulosa cell tumour in a seven-month-old female
+journal: 'Acta paediatrica (Oslo, Norway : 1992)'
+year: 1997
+first_author: Cameron FJ
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 7 months
+alterations: []
+treatments: []
+presentation:
+- precocious pseudopuberty with non-consonant progression
+- marginally elevated alpha-fetoprotein
+key_findings:
+- A 7-month-old with pseudopuberty from a juvenile granulosa cell tumour; diagnosis was complicated by marginally raised AFP and confirmed by histology and MIC2 (CD99) staining.
+relevance_to_jgct: Infant JGCT with mildly raised AFP, a potential confusion with yolk sac tumor.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

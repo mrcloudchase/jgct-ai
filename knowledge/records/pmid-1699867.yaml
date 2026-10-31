@@ -1,0 +1,41 @@
+source_id: '1699867'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/1699867/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/1699867/
+language: en
+pmid: '1699867'
+doi: 10.1111/j.1365-2559.1990.tb00666.x
+pmcid: null
+title: 'Congenital juvenile granulosa cell tumour of the testis: report of a case showing extensive degenerative changes.'
+journal: Histopathology
+year: 1990
+first_author: Chan JK
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 1 month
+alterations:
+- gene: karyotype
+  alteration: 45,X/46,X,iso(Yq) mosaicism (constitutional)
+  frequency: 1/1
+  notes: null
+treatments: []
+presentation:
+- intra-abdominal mass
+key_findings:
+- Pedunculated intra-abdominal mass resected from a 1-month-old boy with 45,X/46,X,iso(Yq) mosaicism.
+- Extensive degenerative changes with large cysts mimicking multicystic mesothelioma, cystic lymphangioma and cystic dysplasia.
+- Granulosa cells identified only in rare cysts and smaller cysts near the pedicle, permitting diagnosis.
+relevance_to_jgct: Diagnostic pitfall in degenerated testicular JGCT with sex chromosome mosaicism.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

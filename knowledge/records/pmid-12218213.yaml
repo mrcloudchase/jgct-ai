@@ -1,0 +1,46 @@
+source_id: '12218213'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/12218213/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/12218213/
+language: en
+pmid: '12218213'
+doi: 10.1097/01.MP.0000024290.55261.14
+pmcid: null
+title: Characteristic pattern of genetic aberrations in ovarian granulosa cell tumors
+journal: 'Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc'
+year: 2002
+first_author: Mayr D
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 3
+age_range: null
+alterations:
+- gene: chromosome 22
+  alteration: monosomy 22
+  frequency: 8 of 18 GCT (40%) by FISH; losses in 35% by CGH
+  notes: series of 17 adult and 3 juvenile tumors
+- gene: chromosome 12
+  alteration: trisomy 12
+  frequency: 5 of 20 (25%) by FISH; gains in 33% by CGH
+  notes: null
+- gene: chromosome 14
+  alteration: gain
+  frequency: 33% by CGH
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- 'CGH, FISH, DNA cytometry and immunohistochemistry on 20 granulosa cell tumors (17 adult, 3 juvenile): 80% diploid; monosomy 22 in 40%, trisomy 12 in 25%, monosomy X in 10% by FISH; gains of 12 and 14 and loss of 22 by CGH; inhibin in 100% and p53 in 95%; Ki67 0 to 61%; none of the findings carried prognostic information.'
+relevance_to_jgct: Cytogenetic pattern of granulosa cell tumors with 3 JGCT; monosomy 22 commoner than trisomy 12.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,37 @@
+source_id: '15490488'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/15490488/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/15490488/
+language: en
+pmid: '15490488'
+doi: 10.1002/pbc.20233
+pmcid: null
+title: 'Pediatric ovarian tumors: a review of 67 cases'
+journal: Pediatric blood & cancer
+year: 2005
+first_author: Schultz KA
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 7
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- abdominal pain (more than half of all tumors)
+- abdominal mass (46%)
+- precocious puberty (7 patients overall)
+key_findings:
+- Of 67 pediatric ovarian tumors at three referral centers (1980 to 2003), 37 were malignant, including 7 juvenile granulosa cell tumors, 11 immature teratomas, 7 mixed germ cell tumors, 5 dysgerminomas and 1 small cell carcinoma; pain was the commonest symptom, precocious puberty occurred in 7 patients, and torsion was more frequent with benign tumors (23% versus 8%).
+relevance_to_jgct: JGCT accounted for 7 of 37 malignant pediatric ovarian tumors.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

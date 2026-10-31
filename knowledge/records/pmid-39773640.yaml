@@ -3,6 +3,7 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/39773640/
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: PMC11707838
 language: en
 pmid: '39773640'
@@ -78,6 +79,7 @@ key_findings:
 relevance_to_jgct: Small but deeply characterized ovarian JGCT cohort showing AKT1 ITD in 2/5 and PTEN loss in the AKT1-wild-type tumors, consistent with PI3K/AKT/mTOR pathway activation; also gives a broad negative and positive IHC panel useful for pathology.
 conflicts_with:
 - pmid-39877787
+- pmid-17430735
 overlaps_with: []
 superseded_by: null
 retracted: false

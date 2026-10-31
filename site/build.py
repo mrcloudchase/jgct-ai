@@ -63,7 +63,7 @@ def load_pending() -> list[dict]:
         return []
     con = sqlite3.connect(LEDGER)
     cols = [r[1] for r in con.execute("pragma table_info(items)")]
-    rows = [dict(zip(cols, r)) for r in con.execute("select * from items where status='needs_full_text'")]
+    rows = [dict(zip(cols, r)) for r in con.execute("select * from items where status in ('needs_full_text', 'abstract_only')")]
     con.close()
     for r in rows:
         r["year"] = str(r.get("year") or "")[:4]
@@ -89,17 +89,31 @@ def esc(s) -> str:
     return html.escape(str(s if s is not None else ""))
 
 
+ABSTRACT_ONLY: set[str] = set()  # record stems whose evidence_basis is abstract; filled in main()
+
+
 def cite_links(text: str, depth: str) -> str:
-    """Turn [pmid-123, url-abc] into links to source pages. `depth` is the relative prefix to the site root."""
+    """Turn [pmid-123, url-abc] into links to source pages. `depth` is the relative prefix to the site root.
+    A source read only from its abstract is marked with a dagger and a class."""
+    def one(i):
+        if i in ABSTRACT_ONLY:
+            return f"<a class=\"abs\" href=\"{depth}sources/{esc(i)}.html\" title=\"Source {esc(i)}: abstract only, full text not read\">{esc(i)}†</a>"
+        return f"<a href=\"{depth}sources/{esc(i)}.html\" title=\"Source {esc(i)}\">{esc(i)}</a>"
+
     def repl(m):
         ids = [i.strip() for i in m.group(1).split(",")]
-        return "<span class=\"cite\">[" + ", ".join(f"<a href=\"{depth}sources/{esc(i)}.html\">{esc(i)}</a>" for i in ids) + "]</span>"
+        return "<sup class=\"cite\">[" + ", ".join(one(i) for i in ids) + "]</sup>"
     return CITE_RE.sub(repl, text)
 
 
+MD_LINK_RE = re.compile(r'href="(?!https?://|mailto:|#)([^"#]+?)\.md(#[^"]*)?"')
+
+
 def md(text: str, depth: str) -> str:
+    """Render Markdown; relative links to .md files (topic cross-links) become links to the built pages."""
     MD.reset()
-    return cite_links(MD.convert(text), depth)
+    html_out = MD_LINK_RE.sub(lambda m: f'href="{m.group(1)}.html{m.group(2) or ""}"', MD.convert(text))
+    return cite_links(html_out, depth)
 
 
 def page(title: str, body: str, depth: str, stats: dict, active: str = "", description: str = "") -> str:
@@ -108,7 +122,7 @@ def page(title: str, body: str, depth: str, stats: dict, active: str = "", descr
            ("genes/index.html", "Genes", "genes"),
            ("treatments.html", "Treatments", "treatments"), ("cohorts.html", "Cohorts", "cohorts"),
            ("conflicts.html", "Where sources disagree", "conflicts"), ("sources/index.html", "All sources", "sources"),
-           ("pending.html", "Not yet read", "pending"), ("about.html", "About", "about")]
+           ("pending.html", "Not yet read in full", "pending"), ("about.html", "About", "about")]
     links = "".join(f'<a href="{depth}{href}"{" class=\"active\"" if key == active else ""}>{label}</a>' for href, label, key in nav)
     return f"""<!doctype html>
 <html lang="en">
@@ -134,7 +148,7 @@ def page(title: str, body: str, depth: str, stats: dict, active: str = "", descr
 </div>
 <footer>
   <p><strong>Not medical advice.</strong> This site synthesizes published sources about juvenile granulosa cell tumor. It describes what those sources report. Decisions about any person's care belong with their care team.</p>
-  <p>{stats['n_records']} sources read in full · {stats['n_pending']} known sources not yet read · last updated {stats['updated']} · <a href="{REPO_URL}">repository</a> · content CC BY 4.0</p>
+  <p>{stats['n_full']} sources read in full · {stats['n_abstract']} from abstracts only (†) · {stats['n_pending']} not yet read in full · last updated {stats['updated']} · <a href="{REPO_URL}">repository</a> · content CC BY 4.0</p>
 </footer>
 <script src="{depth}assets/site.js"></script>
 </body>
@@ -153,7 +167,8 @@ def source_link(stem: str, r: dict, depth: str) -> str:
 
 def source_row(stem: str, r: dict, depth: str) -> str:
     n = r.get("n_jgct_patients")
-    return (f'<tr><td>{esc(r["year"])}</td><td><a href="{depth}sources/{esc(stem)}.html">{esc(r["title"])}</a>'
+    dag = ' <span class="abs" title="Abstract only, full text not read">†</span>' if stem in ABSTRACT_ONLY else ''
+    return (f'<tr><td>{esc(r["year"])}</td><td><a href="{depth}sources/{esc(stem)}.html">{esc(r["title"])}</a>{dag}'
             f'<div class="muted">{esc(r.get("first_author") or "")}{", " + esc(r["journal"]) if r.get("journal") else ""}</div></td>'
             f'<td>{esc(TYPE_LABEL.get(r["study_type"], r["study_type"]))}</td><td>{esc(SITE_LABEL.get(r.get("tumor_site"), r.get("tumor_site")))}</td>'
             f'<td class="num">{esc(n) if n is not None else ""}</td></tr>')
@@ -166,27 +181,32 @@ def table(rows: list[str]) -> str:
 
 # ----------------------------------------------------------------------------------------------- pages
 
-def build_home(recs, stats, intro_md):
+def build_home(recs, stats, intro_md, topics=()):
     tiers = Counter(r["source_tier"] for r in recs.values())
     types = Counter(r["study_type"] for r in recs.values())
     sites = Counter(r.get("tumor_site") for r in recs.values())
+    topic_list = ""
+    if topics:
+        lis = "".join(f'<li><a href="topics/{esc(stem)}.html">{esc(title)}</a></li>' for stem, title, _ in topics)
+        topic_list = f'<h2>Topics</h2><p class="muted">One article per subject, from every relevant source. Each opens in plain language before the detail.</p><ul class="cols">{lis}</ul>'
     body = f"""
 <h1>Juvenile granulosa cell tumor: what is known</h1>
-<p class="lead">A knowledge base built from {stats['n_records']} sources about juvenile granulosa cell tumor (JGCT), each read in full. It exists for the clinicians and researchers who treat and study this rare tumor, and for the families who have just heard its name.</p>
+<p class="lead">A knowledge base built from {stats['n_records']} sources about juvenile granulosa cell tumor (JGCT): {stats['n_full']} read in full, {stats['n_abstract']} known only from their abstracts. It exists for the clinicians and researchers who treat and study this rare tumor, and for the families who have just heard its name.</p>
 <div class="doors">
   <a class="door" href="clinicians.html"><h2>For clinicians and researchers</h2><p>Epidemiology, presentation, pathology, molecular biology, staging, treatment, outcomes, and where the literature disagrees. Every sentence cited.</p></a>
   <a class="door" href="families.html"><h2>For parents and patients</h2><p>The same knowledge in plain language, with every term explained, what is established and what is uncertain, and questions worth asking the care team.</p></a>
 </div>
 <section class="stats">
-  <div><span class="big">{stats['n_records']}</span>sources read in full</div>
+  <div><span class="big">{stats['n_full']}</span>sources read in full</div>
   <div><span class="big">{sum(1 for r in recs.values() if (r.get('n_jgct_patients') or 0) >= 10)}</span>series of 10 or more patients</div>
   <div><span class="big">{tiers.get('guideline', 0)}</span>guidelines</div>
-  <div><span class="big">{stats['n_pending']}</span>known sources not yet read</div>
+  <div><span class="big">{stats['n_abstract']}</span>known from the abstract only</div>
 </section>
+{topic_list}
 <h2>How to read this site</h2>
 <ul>
-  <li><strong>Every claim is cited.</strong> A bracketed code such as <span class="cite">[<a href="sources/index.html">pmid-40272823</a>]</span> is a source. Click it to see what was taken from that source and where its full text was read.</li>
-  <li><strong>Nothing is summarized from an abstract.</strong> A source is in this base only if its full text was read start to finish. Sources known but not yet readable are listed under <a href="pending.html">Not yet read</a>.</li>
+  <li><strong>Every claim is cited.</strong> A small bracketed code such as <sup class="cite">[<a href="sources/index.html">pmid-40272823</a>]</sup> is a source. Click it to see what was taken from that source and where its full text was read.</li>
+  <li><strong>Full text first, abstracts marked.</strong> Most sources were read start to finish. Where no open route to the full text exists, the record rests on the abstract alone and every citation of it carries a dagger, like <sup class="cite">[<a class="abs" href="pending.html">pmid-6711799†</a>]</sup>. All of those are listed under <a href="pending.html">Not yet read in full</a>, where help with full text is most useful.</li>
   <li><strong>Disagreements are shown, not settled.</strong> Where sources conflict, both are presented under <a href="conflicts.html">Where sources disagree</a>.</li>
   <li><strong>Go deeper by topic.</strong> <a href="topics/index.html">Topics</a> holds one synthesized article per subject, written from every relevant source.</li>
   <li><strong>Browse by evidence.</strong> <a href="genes/index.html">Genes</a> lists every reported alteration by gene. <a href="treatments.html">Treatments</a> lists every regimen and outcome reported. <a href="cohorts.html">Cohorts</a> lists the larger series and registries.</li>
@@ -235,10 +255,11 @@ def build_topics(stats):
     else:
         body = "<h1>Topics</h1><p class=\"lead\">Topic articles are written by the maintenance runs from the records and appear here as they are completed. Until then, start with the two summaries.</p><p><a href=\"../clinicians.html\">For clinicians and researchers</a> · <a href=\"../families.html\">For parents and patients</a></p>"
     write(DOCS / "topics" / "index.html", page("Topics", body, "../", stats, "topics"))
-    return len(entries)
+    return entries
 
 
 def build_audience(key, title, section_md, stats, lead):
+    section_md = section_md.replace("](../topics/", "](topics/")
     body = f"<h1>{esc(title)}</h1><p class=\"lead\">{lead}</p>" + md(section_md, "")
     return page(title, body, "", stats, key)
 
@@ -246,7 +267,10 @@ def build_audience(key, title, section_md, stats, lead):
 def build_source_pages(recs, stats):
     for stem, r in recs.items():
         fts = str(r.get("full_text_source") or "")
-        if fts.startswith("http"):
+        abstract_only = r.get("evidence_basis") == "abstract"
+        if abstract_only:
+            fts_html = f'<strong>Not read.</strong> This record rests on the abstract alone, read at <a href="{esc(r.get("abstract_source") or r["source_url"])}">{esc(r.get("abstract_source") or r["source_url"])}</a>; no open route to the full text was found. Every citation of it on this site carries a dagger (†).'
+        elif fts.startswith("http"):
             fts_html = f'<a href="{esc(fts)}">{esc(fts)}</a>'
         elif fts.upper().startswith("PMC"):
             fts_html = f'<a href="https://pmc.ncbi.nlm.nih.gov/articles/{esc(fts)}/">{esc(fts)}</a>'
@@ -305,7 +329,7 @@ def build_source_pages(recs, stats):
 <tr><th>JGCT patients</th><td>{esc(r['n_jgct_patients']) if r.get('n_jgct_patients') is not None else 'Not stated'}</td></tr>
 <tr><th>Ages</th><td>{esc(r.get('age_range') or 'Not stated')}</td></tr>
 <tr><th>Identifiers</th><td>{' · '.join(ids) or esc(r['source_url'])}</td></tr>
-<tr><th>Full text read from</th><td>{fts_html}</td></tr>
+<tr><th>{'Evidence' if abstract_only else 'Full text read from'}</th><td>{fts_html}</td></tr>
 <tr><th>Record</th><td><code>{esc(stem)}</code> · {esc(r['review_status'])}{' · reviewed by ' + esc(r['reviewed_by']) if r.get('reviewed_by') else ''} · retrieved {esc(r['retrieved_on'])}{' · <strong>retracted</strong>' if r.get('retracted') else ''}</td></tr>
 </table>
 <h2>Why it matters for JGCT</h2><p>{esc(r['relevance_to_jgct'])}</p>
@@ -315,7 +339,7 @@ def build_source_pages(recs, stats):
 {section('Treatments reported', r.get('treatments') or [], tx)}
 {rel}
 {('<h2>Notes</h2><p class="muted">' + esc(r['notes']) + '</p>') if r.get('notes') else ''}
-<p class="muted">Every statement above was taken from the full text of this source. It is a draft until a human reviewer checks it against the source. <a href="{REPO_URL}/blob/main/knowledge/records/{esc(stem)}.yaml">View the record</a> · <a href="{REPO_URL}/issues/new?title=Correction%20to%20{esc(stem)}">Report a problem</a>.</p>
+<p class="muted">{'Every statement above was taken from the abstract of this source; its full text has not been read.' if abstract_only else 'Every statement above was taken from the full text of this source.'} It is a draft until a human reviewer checks it against the source. <a href="{REPO_URL}/blob/main/knowledge/records/{esc(stem)}.yaml">View the record</a> · <a href="{REPO_URL}/issues/new?title=Correction%20to%20{esc(stem)}">Report a problem</a>.</p>
 """
         write(DOCS / "sources" / f"{stem}.html", page(r["title"], body, "../", stats, "sources", r["relevance_to_jgct"]))
 
@@ -324,7 +348,7 @@ def build_sources_index(recs, stats):
     by_year = defaultdict(list)
     for stem, r in recs.items():
         by_year[r["year"]].append((stem, r))
-    parts = [f"<h1>All sources</h1><p class=\"lead\">{len(recs)} sources, each read in full. Newest first. Use the search box for a title, author, gene, or finding.</p>"]
+    parts = [f"<h1>All sources</h1><p class=\"lead\">{len(recs)} sources: {len(recs) - len(ABSTRACT_ONLY)} read in full and {len(ABSTRACT_ONLY)} known from their abstracts only (marked †). Newest first. Use the search box for a title, author, gene, or finding.</p>"]
     for y in sorted(by_year, reverse=True):
         rows = [source_row(s, r, "../") for s, r in sorted(by_year[y], key=lambda x: x[1]["title"])]
         parts.append(f"<h2 id=\"y{y}\">{y}</h2>" + table(rows))
@@ -416,19 +440,29 @@ def build_conflicts(recs, stats):
 
 
 def build_pending(pending, stats):
-    parts = [f"<h1>Known but not yet read</h1><p class=\"lead\">{len(pending)} sources the base knows about and judges relevant, whose full text could not be obtained by any open route. Nothing from them is in the base, because nothing here is written from an abstract. They are retried on every run. If you have library access to any of these, they are the fastest way to make this knowledge base more complete.</p>"]
-    by_year = defaultdict(list)
-    for p in pending:
-        by_year[p["year"] or "undated"].append(p)
-    for y in sorted(by_year, reverse=True):
-        lis = []
-        for p in by_year[y]:
-            pid = str(p.get("id") or "")
-            link = f'https://pubmed.ncbi.nlm.nih.gov/{pid[5:]}/' if pid.startswith("pmid:") else (f'https://doi.org/{pid[4:]}' if pid.startswith("doi:") else "")
-            t = esc(p.get("title") or pid)
-            lis.append(f"<li>{f'<a href=\"{esc(link)}\">{t}</a>' if link else t}<span class=\"muted\"> {esc(pid)}</span></li>")
-        parts.append(f"<h2>{esc(y)}</h2><ul>{''.join(lis)}</ul>")
-    write(DOCS / "pending.html", page("Known but not yet read", "".join(parts), "", stats, "pending"))
+    abs_items = [p for p in pending if p.get("status") == "abstract_only"]
+    nft = [p for p in pending if p.get("status") != "abstract_only"]
+    parts = [f"<h1>Not yet read in full</h1><p class=\"lead\">{len(pending)} relevant sources whose full text could not be obtained by any open route. {len(abs_items)} of them have a record written from the abstract alone (marked † wherever they are cited); {len(nft)} have no record yet. Every one is retried on every run. If you have library access to any of these, they are the fastest way to make this knowledge base more complete.</p>"]
+
+    def listing(items, with_record):
+        by_year = defaultdict(list)
+        for p in items:
+            by_year[p["year"] or "undated"].append(p)
+        out = []
+        for y in sorted(by_year, reverse=True):
+            lis = []
+            for p in by_year[y]:
+                pid = str(p.get("id") or "")
+                link = f'https://pubmed.ncbi.nlm.nih.gov/{pid[5:]}/' if pid.startswith("pmid:") else (f'https://doi.org/{pid[4:]}' if pid.startswith("doi:") else "")
+                t = esc(p.get("title") or pid)
+                rec = f' · <a href="sources/{esc(p["record"])}.html">record</a>' if with_record and p.get("record") else ""
+                lis.append(f"<li>{f'<a href=\"{esc(link)}\">{t}</a>' if link else t}<span class=\"muted\"> {esc(pid)}{rec}</span></li>")
+            out.append(f"<h3>{esc(y)}</h3><ul>{''.join(lis)}</ul>")
+        return "".join(out)
+
+    parts.append("<h2>Known from the abstract only</h2>" + (listing(abs_items, True) or "<p>None.</p>"))
+    parts.append("<h2>No record yet</h2><p class=\"muted\">Relevant by title or abstract, but neither full text nor an abstract usable for a record.</p>" + (listing(nft, False) or "<p>None.</p>"))
+    write(DOCS / "pending.html", page("Not yet read in full", "".join(parts), "", stats, "pending"))
 
 
 def build_about(stats):
@@ -439,7 +473,7 @@ def build_about(stats):
 <p>JGCT is rare. What is known about it is scattered across a few hundred papers, conference abstracts, registry reports, guidelines and databases, in several languages, much of it behind paywalls. A family that hears the diagnosis, or a clinician who sees one case in a career, has no single place to go. This is that place. It was started by a parent whose seven-year-old daughter is being treated for JGCT.</p>
 <h2>How it is built</h2>
 <ul>
-<li><strong>Every source is read in full.</strong> A source enters the base only after its complete text has been read, start to finish. Nothing is taken from an abstract, a summary, a citation, or memory. Sources whose full text cannot be obtained are listed under <a href="pending.html">Not yet read</a>.</li>
+<li><strong>Full text first; abstracts only when there is no other way, and always marked.</strong> A source is read start to finish whenever an open route to its text exists. Where none does, the record rests on the abstract alone, says so, and every citation of it carries a dagger (†). Nothing is taken from a citation or from memory. Sources not yet read in full are listed under <a href="pending.html">Not yet read in full</a>.</li>
 <li><strong>Numbers are copied, never computed.</strong> A source that says "4 of 31" is recorded as 4 of 31. Patient counts from overlapping cohorts are linked, not summed.</li>
 <li><strong>Disagreements are recorded, not resolved.</strong> See <a href="conflicts.html">Where sources disagree</a>.</li>
 <li><strong>Every claim traces to its source.</strong> Each bracketed citation opens a page showing exactly what was taken from that source and where its full text was read.</li>
@@ -448,9 +482,9 @@ def build_about(stats):
 <h2>What it is not</h2>
 <p>It is not medical advice, and it does not recommend treatment for anyone. It reports what published sources say. Decisions about a person's care belong with that person's care team, who can use this site to find the sources quickly.</p>
 <h2>Help it grow</h2>
-<p>The biggest gap is full text behind paywalls. Many of the field's foundational papers are on the <a href="pending.html">Not yet read</a> list. If you have library access or are an author of one of them, the <a href="{REPO_URL}">repository</a> explains how to help. Corrections to any record are welcome there too.</p>
+<p>The biggest gap is full text behind paywalls. Many of the field's foundational papers are on the <a href="pending.html">Not yet read in full</a> list, known here only from their abstracts. If you have library access or are an author of one of them, the <a href="{REPO_URL}">repository</a> explains how to help. Corrections to any record are welcome there too.</p>
 <h2>Licenses and source</h2>
-<p>Content is CC BY 4.0. The code that builds this site is MIT. Everything lives at <a href="{REPO_URL}">{REPO_URL}</a>. This site was last rebuilt on {stats['updated']} from {stats['n_records']} sources.</p>
+<p>Content is CC BY 4.0. The code that builds this site is MIT. Everything lives at <a href="{REPO_URL}">{REPO_URL}</a>. This site was last rebuilt on {stats['updated']} from {stats['n_records']} sources, {stats['n_full']} read in full and {stats['n_abstract']} from abstracts.</p>
 """
     write(DOCS / "about.html", page("About", body, "", stats, "about"))
 
@@ -470,7 +504,9 @@ def build_search(recs, stats):
 def main() -> None:
     recs = load_records()
     pending = load_pending()
-    stats = {"n_records": len(recs), "n_pending": len(pending), "updated": last_run_date()}
+    ABSTRACT_ONLY.update(s for s, r in recs.items() if r.get("evidence_basis") == "abstract")
+    stats = {"n_records": len(recs), "n_full": len(recs) - len(ABSTRACT_ONLY), "n_abstract": len(ABSTRACT_ONLY),
+             "n_pending": len(pending), "updated": last_run_date()}
     if DOCS.exists():
         for p in DOCS.iterdir():
             if p.name != "CNAME":
@@ -478,9 +514,9 @@ def main() -> None:
     DOCS.mkdir(exist_ok=True)
     (DOCS / ".nojekyll").write_text("")
     shutil.copytree(ASSETS_SRC, DOCS / "assets")
-    intro = ""
-    write(DOCS / "index.html", build_home(recs, stats, intro))
-    n_topics = build_topics(stats)
+    topics = build_topics(stats)
+    write(DOCS / "index.html", build_home(recs, stats, "", topics))
+    n_topics = len(topics)
     write(DOCS / "clinicians.html", build_audience("clinicians", "For clinicians and researchers", read_summary("clinicians"), stats,
           "A technical synthesis of the knowledge base. Every factual sentence cites the sources it rests on; click a citation to see what that source reports and where its full text was read."))
     write(DOCS / "families.html", build_audience("families", "For parents and patients", read_summary("families"), stats,

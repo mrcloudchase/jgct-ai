@@ -1,0 +1,38 @@
+source_id: '9090524'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/9090524/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/9090524/
+language: en
+pmid: '9090524'
+doi: 10.1002/(SICI)1098-1004(1997)9:3<209::AID-HUMU2>3.0.CO;2-2
+pmcid: null
+title: A clinical overview of WT1 gene mutations
+journal: Human mutation
+year: 1997
+first_author: Little M
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: WT1
+  alteration: intragenic mutation
+  frequency: reported in juvenile granulosa cell tumour (review)
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- 'Review of 100 reports of intragenic WT1 mutations: only 5% of sporadic Wilms tumours but more than 90% of Denys-Drash syndrome patients carry them; WT1 mutations had also been reported in juvenile granulosa cell tumour, mesothelioma, desmoplastic small round cell tumour and acute myeloid leukemia.'
+relevance_to_jgct: Lists JGCT among tumours with reported WT1 mutations (in the Denys-Drash setting).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

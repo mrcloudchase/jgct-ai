@@ -1,0 +1,43 @@
+source_id: '14678975'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/14678975/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/14678975/
+language: en
+pmid: '14678975'
+doi: null
+pmcid: null
+title: High-resolution genetic map of X-linked juvenile-type granulosa cell tumor susceptibility genes in mouse
+journal: Cancer research
+year: 2003
+first_author: Dorward AM
+study_type: genomic
+tumor_site: other
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: Gct4 (mouse X chromosome)
+  alteration: susceptibility modifier allele from SJL/Bm, paternally inherited
+  frequency: null
+  notes: mapped to a 3 cM region
+- gene: Gct6 (mouse X chromosome)
+  alteration: second modifier gene 6.5 cM distal to Gct4
+  frequency: null
+  notes: null
+treatments: []
+presentation: []
+key_findings:
+- SWR/Bm mice spontaneously develop early-onset ovarian granulosa cell tumors that can metastasize and serve as a model of human juvenile-type tumors; susceptibility is polygenic.
+- Congenic strains mapped two X-linked modifier genes, Gct4 (paternal-origin effect) and Gct6, 6.5 cM apart, that raise tumor frequency.
+relevance_to_jgct: Mouse genetic model of juvenile-type granulosa cell tumor; X-linked susceptibility loci.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

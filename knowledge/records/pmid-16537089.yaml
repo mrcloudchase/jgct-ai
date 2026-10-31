@@ -1,0 +1,34 @@
+source_id: '16537089'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/16537089/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/16537089/
+language: en
+pmid: '16537089'
+doi: 10.1016/j.ygyno.2006.01.050
+pmcid: null
+title: Retroperitoneal nodal metastasis in primary and recurrent granulosa cell tumors of the ovary
+journal: Gynecologic oncology
+year: 2006
+first_author: Abu-Rustum NR
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Sixty-eight granulosa cell tumor patients at Memorial Sloan-Kettering (64 adult, 4 juvenile; median age 49): 81% incompletely staged; no nodal metastases in the 16 with pelvic sampling; 34 recurrences (31 adult, 3 juvenile) at a median 63 months, first sites pelvis 70%, with about 15% involving the retroperitoneum.'
+relevance_to_jgct: Three juvenile recurrences among 34; no nodal metastases at staging.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

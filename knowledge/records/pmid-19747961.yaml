@@ -1,0 +1,34 @@
+source_id: '19747961'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19747961/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19747961/
+language: en
+pmid: '19747961'
+doi: 10.1016/j.bbcan.2009.09.002
+pmcid: null
+title: 'The forkhead factor FOXL2: a novel tumor suppressor?'
+journal: Biochimica et biophysica acta
+year: 2010
+first_author: Benayoun BA
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Review proposing FOXL2 as a tumor suppressor: the authors had previously shown markedly reduced FOXL2 expression in a series of juvenile ovarian granulosa cell tumors, and the somatic p.Cys134Trp mutation recurs in adult tumors.'
+relevance_to_jgct: Reduced FOXL2 expression in JGCT as evidence for a tumor-suppressor role.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

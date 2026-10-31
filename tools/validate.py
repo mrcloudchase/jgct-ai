@@ -6,8 +6,9 @@ plus project rules the schema cannot express.
 
 Extra checks: file stem == <source_type>-<source_id>; reviewed records name a reviewer;
 conflicts_with targets exist and link back; overlaps_with targets exist and link back;
-tumor_site key present; full_text_source equals pmcid when it is a PMC ID; ledger item for
-the record is 'processed' (pmid:<n> / doi:<doi> items only).
+tumor_site key present; full_text_source equals pmcid when it is a PMC ID; abstract-based records
+have abstract_source and no full_text_source; ledger item for the record is 'processed' (or
+'abstract_only' for abstract-based records) (pmid:<n> / doi:<doi> items only).
 """
 import glob, json, os, sqlite3, sys
 import yaml, jsonschema
@@ -43,11 +44,17 @@ def main():
         fts = r.get("full_text_source") or ""
         if fts.startswith("PMC") and r.get("pmcid") not in (None, fts):
             errs.append(f"{stem}: full_text_source {fts} differs from pmcid {r.get('pmcid')}")
+        basis = r.get("evidence_basis")
+        if basis == "abstract" and (r.get("full_text_source") or not r.get("abstract_source")):
+            errs.append(f"{stem}: abstract-based record must have abstract_source and full_text_source null")
+        if basis == "full_text" and not r.get("full_text_source"):
+            errs.append(f"{stem}: full_text record without full_text_source")
         lid = {"pmid": "pmid:", "doi": "doi:"}.get(r.get("source_type"))
         if lid and led is not None:
             row = led.execute("SELECT status FROM items WHERE id=?", (lid + str(r.get("source_id")).lower() if lid == "doi:" else lid + str(r.get("source_id")),)).fetchone()
-            if row and row[0] != "processed":
-                errs.append(f"{stem}: ledger status is {row[0]}, expected processed")
+            want = "abstract_only" if basis == "abstract" else "processed"
+            if row and row[0] != want:
+                errs.append(f"{stem}: ledger status is {row[0]}, expected {want}")
         for key in ("conflicts_with", "overlaps_with"):
             for o in r.get(key) or []:
                 if o not in recs:

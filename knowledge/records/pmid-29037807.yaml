@@ -3,6 +3,7 @@ source_type: pmid
 source_tier: registry
 source_url: https://pubmed.ncbi.nlm.nih.gov/29037807/
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: PMC5716477
 language: en
 pmid: '29037807'
@@ -51,6 +52,7 @@ overlaps_with:
 - url-0a529aa0ceb0
 - url-599767ff9c45
 - pmid-40267023
+- doi-10.1200_jco.2020.38.15_suppl.6064
 superseded_by: null
 retracted: false
 notes: Registry enrollment may favor referral of difficult or advanced cases; for 5 JGCT no pathologic material was available and the local diagnosis was used. Stage counts in Table 4 (7+1+4+4+3+6) sum to 25; status NED 21, relapse 5 (some relapsed patients later NED). Likely overlap with other OTST Registry papers. Journal and first author not in cached text.

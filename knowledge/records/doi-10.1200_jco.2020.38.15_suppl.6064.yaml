@@ -1,0 +1,45 @@
+source_id: 10.1200/jco.2020.38.15_suppl.6064
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1200/jco.2020.38.15_suppl.6064
+retrieved_on: '2026-10-31'
+evidence_basis: full_text
+full_text_source: https://doi.org/10.1200/jco.2020.38.15_suppl.6064
+abstract_source: null
+language: en
+pmid: null
+doi: 10.1200/jco.2020.38.15_suppl.6064
+pmcid: null
+title: 'Juvenile granulosa cell tumor: An interim report from the international ovarian and testicular stromal tumor (OTST) registry'
+journal: Journal of Clinical Oncology (ASCO 2020 abstract 6064)
+year: 2020
+first_author: Harris A
+study_type: registry
+tumor_site: ovary
+n_jgct_patients: 42
+age_range: 0-27 years (median 9)
+alterations: []
+treatments:
+- regimen: Post-operative adjuvant chemotherapy (use varied by stage and timing of rupture)
+  setting: 'stage IC: 2 of 7 with preoperative rupture and 3 of 9 with intraoperative rupture recurred'
+  n: null
+  outcome: see key findings
+presentation: []
+key_findings:
+- 'Interim OTST Registry report on 42 ovarian JGCT: median age 9 years (0 to 27); stage IA 16, IB 1, IC 16, II 2, III 5, unknown 2.'
+- Three-year overall survival 88% (CI 77 to 100%) and event-free survival 69% (CI 54 to 88%) at a median follow-up of 25 months.
+- Nine recurrences (stage IA 1, IC 5, III 3), median 11.5 months after diagnosis (3 to 19), all within 2 years; among stage IC, 2 of 7 with preoperative rupture and 3 of 9 with intraoperative rupture recurred.
+- Four of 9 with recurrence survived (2 without disease, 2 with); all who died had extrapelvic recurrence; median time from recurrence to death 10 months (2 to 53); 3-year OS after recurrence 57%.
+- Advanced stage at diagnosis (HR 5.1, p 0.087) and recurrence outside the tumor bed (p 0.048) were associated with worse survival after recurrence.
+relevance_to_jgct: Interim OTST registry analysis of 42 ovarian JGCT preceding the 2025 full report; shows early recurrence and poor survival after extrapelvic relapse.
+conflicts_with: []
+overlaps_with:
+- pmid-40267023
+- pmid-29037807
+- url-0a529aa0ceb0
+superseded_by: null
+retracted: false
+notes: ASCO 2020 meeting abstract; the complete published item is the abstract.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

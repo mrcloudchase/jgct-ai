@@ -1,0 +1,39 @@
+source_id: '17151531'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/17151531/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/17151531/
+language: fr
+pmid: '17151531'
+doi: 10.1016/s0368-2315(06)76477-8
+pmcid: null
+title: '[Granulosa-cell tumor of the ovary: report of 16 cases]'
+journal: Journal de gynecologie, obstetrique et biologie de la reproduction
+year: 2006
+first_author: Ellouze S
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 35 years (the juvenile case)
+alterations: []
+treatments:
+- regimen: Surgery and adjuvant chemotherapy
+  setting: JGCT stage IV at diagnosis
+  n: 1
+  outcome: Locoregional recurrence with liver metastasis after 9 months
+presentation: []
+key_findings:
+- 'Sixteen granulosa cell tumors over 10 years (Tunisia; 15 adult, 1 juvenile): the juvenile tumor, in a 35-year-old, was stage IV at diagnosis, received adjuvant chemotherapy and recurred locoregionally with liver metastasis after 9 months; no adult-type recurrence at a mean 2 years 2 months (French).'
+- The authors describe juvenile forms as rarer, more aggressive and prone to early recurrence.
+relevance_to_jgct: A stage IV adult-age JGCT with early fatal course in a mixed series.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

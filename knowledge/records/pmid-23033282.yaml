@@ -1,0 +1,34 @@
+source_id: '23033282'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23033282/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/23033282/
+language: en
+pmid: '23033282'
+doi: null
+pmcid: null
+title: 'Granulosa cell tumors of the ovary: review of 43 cases'
+journal: 'Journal of B.U.ON. : official journal of the Balkan Union of Oncology'
+year: 2012
+first_author: Oztekin D
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Forty-three ovarian granulosa cell tumors (1990 to 2007, Turkey): 39 stage I; radical surgery in 37, conservative in 6; chemotherapy in 18; 8 recurrences, one of them a juvenile-type tumor, at a mean 55 months (15 to 122); 5-year survival 96.8% for local and 66.7% for advanced disease.'
+relevance_to_jgct: Mixed-type series with one juvenile-type recurrence; number of JGCT not stated.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

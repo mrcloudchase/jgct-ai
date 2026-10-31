@@ -1,0 +1,37 @@
+source_id: '12823914'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/12823914/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/12823914/
+language: en
+pmid: '12823914'
+doi: 10.1016/s0899-7071(02)00586-7
+pmcid: null
+title: Juvenile granulosa cell tumor.
+journal: Clinical imaging
+year: 2003
+first_author: Gittleman AM
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- sexual precocity
+key_findings:
+- Case report with radiology and pathology plus literature review.
+- JGCT in premenarchal girls usually produces sexual precocity from estrogen secretion.
+- Authors state JGCTs tend to grow to a relatively large size with much smaller likelihood of peritoneal spread than epithelial ovarian neoplasms.
+relevance_to_jgct: Imaging-focused case report and review.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; patient age not in abstract. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

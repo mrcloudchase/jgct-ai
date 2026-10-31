@@ -3,6 +3,7 @@ source_type: url
 source_tier: conference_abstract
 source_url: https://doi.org/10.1002/pbc.25998#poster-701
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: PMC7167840
 language: en
 pmid: null
@@ -32,6 +33,7 @@ relevance_to_jgct: Early OTST Registry abstract covering JGCT together with SLCT
 conflicts_with: []
 overlaps_with:
 - pmid-29037807
+- doi-10.1200_jco.2020.38.15_suppl.6064
 superseded_by: null
 retracted: false
 notes: Conference abstract read whole in the ASPHO 2016 supplement (Pediatr Blood Cancer 2016;63 Suppl, PMC7167840). Patients overlap with the full OTST report pmid-29037807 and probably later OTST papers; do not add counts. The abstract does not say how many of the 73 had JGCT, and the JGCT DICER1 rate cannot be derived from the figures given.

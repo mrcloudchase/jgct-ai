@@ -1,0 +1,38 @@
+source_id: '1655284'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/1655284/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/1655284/
+language: en
+pmid: '1655284'
+doi: 10.1016/0092-8674(91)90194-4
+pmcid: null
+title: Germline mutations in the Wilms' tumor suppressor gene are associated with abnormal urogenital development in Denys-Drash syndrome
+journal: Cell
+year: 1991
+first_author: Pelletier J
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations:
+- gene: WT1
+  alteration: germline zinc-finger point mutation with reduction to homozygosity in the tumor
+  frequency: 1 JGCT in a Denys-Drash patient
+  notes: 9 of 10 mutations in exon 9
+treatments: []
+presentation: []
+key_findings:
+- Germline WT1 zinc-finger point mutations were found in 10 of 10 Denys-Drash syndrome cases; Wilms tumors from three patients and one juvenile granulosa cell tumor showed reduction to homozygosity for the mutant allele.
+relevance_to_jgct: A JGCT in Denys-Drash syndrome with loss of the wild-type WT1 allele.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

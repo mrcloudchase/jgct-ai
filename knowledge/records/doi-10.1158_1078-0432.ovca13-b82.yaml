@@ -1,0 +1,35 @@
+source_id: 10.1158/1078-0432.ovca13-b82
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1158/1078-0432.ovca13-b82
+retrieved_on: '2026-10-31'
+evidence_basis: full_text
+full_text_source: https://doi.org/10.1158/1078-0432.ovca13-b82
+abstract_source: null
+language: en
+pmid: null
+doi: 10.1158/1078-0432.ovca13-b82
+pmcid: null
+title: G-protein coupled estrogen receptor (GPER) agonist G-1 inhibits growth of human granulosa cell tumor cells via blocking microtubule assembly (AACR 2013 abstract B82)
+journal: Clinical Cancer Research (AACR Ovarian Cancer conference 2013)
+year: 2013
+first_author: Lv X
+study_type: other
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- The GPER agonist G-1 suppressed proliferation of KGN (adult-type) and COV434 (then used as juvenile-type) granulosa cell tumor cells in a concentration- and time-dependent manner, arrested cells in G2/M, disrupted chromosome segregation and inhibited tubulin polymerization in vitro, without affecting cyclins D1, D2, E or G2/M checkpoint kinases.
+- The authors propose G-1 as a candidate drug for granulosa cell tumors.
+relevance_to_jgct: Preclinical result in COV434, which has since been reclassified as SCCOHT (pmid-33328126), so it may not apply to JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Meeting abstract; the complete published item is the abstract. COV434 identity caveat applies.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

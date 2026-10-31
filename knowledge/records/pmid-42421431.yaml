@@ -3,6 +3,7 @@ source_type: pmid
 source_tier: guideline
 source_url: https://pubmed.ncbi.nlm.nih.gov/42421431/
 retrieved_on: '2026-10-30'
+evidence_basis: full_text
 full_text_source: PMC13551126
 language: en
 pmid: '42421431'
@@ -36,7 +37,8 @@ key_findings:
 - 'Other changes: Sertoli cell tumour NOS becomes ''usual type''; inflammatory and nested testicular sex cord tumour (EWSR1::ATF1) is a new malignant entity; FH-deficient Leydig cell tumour and spindle cell gonadal stromal tumour are new entities; testicular Sertoli-Leydig cell tumour provisionally included (a DICER1 RNase IIIb hotspot mutation reported in one case).'
 - 'Limitations stated: relies on limited datasets, limited molecular validation for some entities, considerable interobserver variability, some entities provisional.'
 relevance_to_jgct: Formal expert-consensus nomenclature that separates benign infantile testicular JGCT from ovarian JGCT, relevant to counselling and to avoiding overtreatment of testicular cases.
-conflicts_with: []
+conflicts_with:
+- pmid-18313118
 overlaps_with:
 - pmid-41384702
 superseded_by: null

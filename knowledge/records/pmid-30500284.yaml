@@ -1,0 +1,34 @@
+source_id: '30500284'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30500284/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/30500284/
+language: en
+pmid: '30500284'
+doi: 10.5858/arpa.2018-0291-RA
+pmcid: null
+title: 'Ovarian Sex Cord-Stromal Tumors: Reflections on a 40-Year Experience With a Fascinating Group of Tumors, Including Comments on the Seminal Observations of Robert E. Scully, MD'
+journal: Archives of pathology & laboratory medicine
+year: 2018
+first_author: Young RH
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Reflective review of 40 years of ovarian sex cord-stromal tumor pathology, including the juvenile granulosa cell tumor, which usually but not always occurs in the young, and the adult type, which despite its name may occur in young individuals.
+relevance_to_jgct: Expert overview; details of the JGCT section are not in the abstract.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

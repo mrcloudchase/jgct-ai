@@ -1,0 +1,36 @@
+source_id: '19346888'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/19346888/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/19346888/
+language: en
+pmid: '19346888'
+doi: 10.1097/MPH.0b013e318196a70e
+pmcid: null
+title: Ovarian juvenile granulosa cell tumors in infants.
+journal: Journal of pediatric hematology/oncology
+year: 2009
+first_author: Leyva-Carmona M
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: infants (incl. newborn)
+alterations: []
+treatments: []
+presentation:
+- bilateral ovarian JGCT
+key_findings:
+- 'Two infant JGCT cases: one with late recurrence of bilateral ovarian JGCT and one in a newborn with Ollier disease.'
+- Authors state most tumors are benign but recurrences up to 4 years of follow-up have been described.
+relevance_to_jgct: Infant cases including bilateral disease with late recurrence and association with Ollier disease.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract only; thin abstract without numeric details. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

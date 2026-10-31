@@ -1,0 +1,42 @@
+source_id: '3740351'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/3740351/
+retrieved_on: '2026-10-30'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/3740351/
+language: en
+pmid: '3740351'
+doi: 10.1097/00000478-198608000-00008
+pmcid: null
+title: Congenital testicular juvenile granulosa cell tumor in a neonate with X/XY mosaicism.
+journal: The American journal of surgical pathology
+year: 1986
+first_author: Raju U
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: newborn
+alterations:
+- gene: karyotype
+  alteration: X/XY mosaicism (constitutional)
+  frequency: 1/1
+  notes: null
+treatments: []
+presentation:
+- ambiguous genitalia
+- abdominal testis mass
+- ascites
+key_findings:
+- Congenital JGCT in an abdominal testis of a newborn with X/XY karyotype and ambiguous genitalia, presenting as a partially cystic mass with ascites.
+- Described as the 19th reported testicular JGCT and the fourth with a sex chromosome anomaly.
+relevance_to_jgct: Testicular JGCT with sex chromosome mosaicism.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

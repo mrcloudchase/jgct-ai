@@ -1,0 +1,55 @@
+source_id: '36813116'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/36813116/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/36813116/
+language: en
+pmid: '36813116'
+doi: 10.1016/j.modpat.2023.100142
+pmcid: null
+title: Testicular Juvenile Granulosa Cell Tumors Demonstrate Recurrent Loss of Chromosome 10 and Absence of Molecular Alterations Described in Ovarian Counterparts.
+journal: Modern pathology
+year: 2023
+first_author: Collins K
+study_type: genomic
+tumor_site: testis
+n_jgct_patients: 18
+age_range: newborn to 5 months
+alterations:
+- gene: chromosome 10
+  alteration: monosomy
+  frequency: 8/14 (57%)
+  notes: null
+- gene: AKT1
+  alteration: variants
+  frequency: not detected
+  notes: null
+- gene: GNAS
+  alteration: variants
+  frequency: not detected
+  notes: null
+treatments:
+- regimen: Radical orchiectomy
+  setting: primary
+  n: 18
+  outcome: not stated in abstract
+presentation:
+- scrotal or intra-abdominal mass/enlargement
+key_findings:
+- 18 testicular JGCTs evaluated with DNA and RNA sequencing panels; median patient age <1 month (newborn to 5 months); all underwent radical orchiectomy (17 unilateral, 1 bilateral); median size 1.8 cm.
+- Tumors expressed SF-1 (11/12), inhibin (6/7), calretinin (3/4), keratins (2/4); nuclear atypia mild or absent; median mitoses 0.4/mm2.
+- No recurrent single-nucleotide variants; no gene fusions in 3 cases successfully RNA-sequenced.
+- Recurrent monosomy 10 in 8 of 14 cases (57%) with interpretable copy-number data; multiple whole-chromosome gains in the 2 cases with significant spindle cell components.
+- Testicular JGCTs lack the GNAS and AKT1 variants described in ovarian JGCT.
+relevance_to_jgct: Shows testicular JGCT is molecularly distinct from ovarian JGCT (monosomy 10, no AKT1/GNAS).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,34 @@
+source_id: '2198463'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/2198463/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/2198463/
+language: de
+pmid: '2198463'
+doi: null
+pmcid: null
+title: '[Diagnosis and treatment of adnexa tumors in childhood and adolescence]'
+journal: 'Monatsschrift Kinderheilkunde : Organ der Deutschen Gesellschaft fur Kinderheilkunde'
+year: 1990
+first_author: Schück R
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Forty-seven children and adolescents treated for ovarian tumors in Erlangen (1968 to 1988): 33 cysts and 14 neoplasms, including 8 teratomas, 4 epithelial tumors and 2 juvenile granulosa cell tumors, with follow-up to 19 years (German).'
+relevance_to_jgct: Two JGCT among 14 pediatric ovarian neoplasms in a German series.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

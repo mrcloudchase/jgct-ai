@@ -1,0 +1,46 @@
+source_id: '30728165'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/30728165/
+retrieved_on: '2026-10-29'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/30728165/
+language: en
+pmid: '30728165'
+doi: 10.1136/ijgc-2018-000083
+pmcid: null
+title: Outcomes of fertility-sparing surgery in ovarian juvenile granulosa cell tumor.
+journal: International journal of gynecological cancer
+year: 2019
+first_author: Zhao D
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 6
+age_range: 12-33 years
+alterations: []
+treatments:
+- regimen: BEP
+  setting: adjuvant
+  n: 3
+  outcome: null
+- regimen: Paclitaxel/carboplatin
+  setting: adjuvant
+  n: 2
+  outcome: null
+presentation:
+- adnexal mass
+- ascites (2/6)
+key_findings:
+- Six patients, mean age 20.5 years (12-33); all had fertility-sparing surgery with complete staging; mean tumor size 15.3 cm (5-35); two had ascites.
+- Five received 3-6 courses of adjuvant chemotherapy (3 BEP, 2 paclitaxel/carboplatin).
+- Five stage I patients had no recurrence at 52 to 155 months; the stage IIIB patient recurred at 55 months and was disease-free 30 months after reoperation and chemotherapy.
+relevance_to_jgct: Small series supporting fertility-sparing surgery in JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

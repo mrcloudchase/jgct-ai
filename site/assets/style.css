@@ -13,7 +13,7 @@ main{min-width:0}
 h1{font-size:2rem;line-height:1.15;margin:.2rem 0 .6rem}h2{font-size:1.35rem;margin:1.8rem 0 .5rem;border-bottom:1px solid var(--line);padding-bottom:.2rem}h3{font-size:1.1rem;margin:1.2rem 0 .3rem}h4{font-size:1rem;margin:1rem 0 .2rem}
 .lead{font-size:1.1rem;color:var(--muted);margin-top:0}
 .muted{color:var(--muted);font-size:.92rem}
-.cite{font-family:system-ui,sans-serif;font-size:.78rem;color:var(--muted);white-space:nowrap}.cite a{color:var(--accent)}
+sup.cite{font-family:system-ui,sans-serif;font-size:.62rem;line-height:0;color:var(--muted);white-space:nowrap;vertical-align:super;margin-left:.1em}sup.cite a{color:var(--muted)}sup.cite a:hover{color:var(--accent)}sup.cite a.abs,span.abs{color:#9a6b1f;border-bottom:1px dotted #9a6b1f}@media (prefers-color-scheme:dark){sup.cite a.abs,span.abs{color:#d9a85a;border-color:#d9a85a}}
 .crumbs{font-family:system-ui,sans-serif;font-size:.85rem;color:var(--muted)}
 .doors{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.2rem 0}
 .door{display:block;padding:1.1rem 1.2rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg)}

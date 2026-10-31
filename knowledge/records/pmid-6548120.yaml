@@ -1,0 +1,38 @@
+source_id: '6548120'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/6548120/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/6548120/
+language: en
+pmid: '6548120'
+doi: null
+pmcid: null
+title: Androgenic granulosa cell tumors of the ovary. A clinicopathologic analysis of 17 cases and review of the literature
+journal: Archives of pathology & laboratory medicine
+year: 1984
+first_author: Nakashima N
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 6
+age_range: 2-58 years (average 22.5) for all 17
+alterations: []
+treatments: []
+presentation:
+- virilization (14 of 17)
+- amenorrhea (5)
+- hirsutism only (3)
+- sexual pseudoprecocity with hyperestrinism (4 prepubertal patients)
+key_findings:
+- 'Seventeen androgenic granulosa cell tumors (11 adult, 6 juvenile), ages 2 to 58, two pregnant: 14 masculinized, plasma testosterone elevated in 9; all stage IA; 7 were thin-walled cysts 23 to 36 cm and 9 solid averaging 7 cm; the only clinically malignant tumor was a cystic adult-type tumor fatal within 4 years.'
+relevance_to_jgct: Six androgenic JGCT in the classic series of virilizing granulosa cell tumors, often large and cystic.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

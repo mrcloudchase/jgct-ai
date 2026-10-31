@@ -1,0 +1,34 @@
+source_id: 10.3390/biochem6010005
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.3390/biochem6010005
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.3390/biochem6010005
+language: en
+pmid: null
+doi: 10.3390/biochem6010005
+pmcid: null
+title: 'Paediatric Ovarian Neoplasms: Histopathological, Molecular, and Translational Perspectives'
+journal: BioChem
+year: 2026
+first_author: Marzullo Andrea
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Pathology-oriented review of pediatric ovarian neoplasms: sex cord-stromal tumors (Sertoli-Leydig, juvenile granulosa cell, adrenal-like stromal tumors) present nonspecifically or with endocrine signs; diagnosis integrates imaging, markers and immunohistochemistry; treatment prioritizes fertility-sparing surgery with selective adjuvant chemotherapy by histotype and stage; referral centers and multicenter studies are urged.'
+relevance_to_jgct: General pediatric review; JGCT specifics not in the abstract.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: MDPI BioChem; not indexed in PubMed. Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

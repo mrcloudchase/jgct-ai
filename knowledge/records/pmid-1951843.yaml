@@ -1,0 +1,34 @@
+source_id: '1951843'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/1951843/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/1951843/
+language: en
+pmid: '1951843'
+doi: 10.1097/00000478-199109000-00005
+pmcid: null
+title: Malignant melanoma metastatic to the ovary. A clinicopathologic analysis of 20 cases
+journal: The American journal of surgical pathology
+year: 1991
+first_author: Young RH
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Twenty malignant melanomas metastatic to the ovary (ages 21 to 60): bilateral in 9, average 10.5 cm, follicle-like spaces in 8; S-100 strongly positive in all 10 tested; these neoplasms were often difficult to differentiate from juvenile granulosa cell tumor and small cell carcinoma because of the follicle-like spaces.'
+relevance_to_jgct: Metastatic melanoma with follicle-like spaces as a mimic of JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

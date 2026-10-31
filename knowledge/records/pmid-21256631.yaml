@@ -1,0 +1,39 @@
+source_id: '21256631'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21256631/
+retrieved_on: '2026-10-31'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/21256631/
+language: es
+pmid: '21256631'
+doi: 10.1016/j.acuro.2010.09.005
+pmcid: null
+title: '[Testicular tumours in infancy and children]'
+journal: Actas urologicas espanolas
+year: 2011
+first_author: Bujons A
+study_type: case_series
+tumor_site: testis
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments:
+- regimen: Tumorectomy (testis-sparing)
+  setting: juvenile granulosa tumour in a child under 13, Spain
+  n: 1
+  outcome: Not individually stated
+presentation: []
+key_findings:
+- 'Fifteen testicular tumours in children 13 or under (1984 to 2008, Spain): 11 treated by tumourectomy including one juvenile granulosa tumour, and 4 radical orchiectomies for malignant tumours; benign tumours outnumbered malignant, and conservative surgery is advised when markers are negative.'
+relevance_to_jgct: Testis-sparing tumourectomy for a juvenile granulosa tumour.
+conflicts_with: []
+overlaps_with:
+- pmid-21040368
+superseded_by: null
+retracted: false
+notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
