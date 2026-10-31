@@ -143,14 +143,14 @@ url-6e9d1ea4030e,2013,Czerwinska K,full_text,,1,M,0,testis,,,,,,,scrotal_mass,,o
 url-7878f52277db,2017,Malabuyoc MLC,full_text,,1,F,4,ovary,,,,,,,precocious_puberty;abdominal_mass_or_distension,,other,,,,,unknown,,conference abstract; bleeding stopped and estradiol normalized after excision; no follow-up
 url-991aeae8d365,2016,Tuteja G,full_text,,1,F,1,ovary,,,,,,,precocious_puberty;abdominal_mass_or_distension,,other,,,,,unknown,,poster abstract; no stage or follow-up
 url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 1 (7 months),F,0.58,ovary,,,,,,,precocious_puberty,,oophorectomy,none,none,,,unknown,,"Alexandria series of 9, all with pseudo-precocious puberty; 8 unilateral and 1 partial oophorectomy (assignment not stated); signs regressed over 10 to 120 days; no staging or follow-up"
-url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 2,F,5,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,ages 4 to 6 for patients 2 to 9; see patient 1
-url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 3,F,5,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,see patient 1
-url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 4,F,5,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,see patient 1
-url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 5,F,5,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,see patient 1
-url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 6,F,5,ovary,,,,,,,precocious_puberty;virilization,,unknown,none,none,,,unknown,,see patient 1; one patient had clitoromegaly
-url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 7,F,5,ovary,,,,,,,precocious_puberty;abdominal_mass_or_distension,,unknown,none,none,,,unknown,,see patient 1; one patient had a huge abdominal swelling
-url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 8,F,5,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,see patient 1
-url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 9,F,5,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,see patient 1
+url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 2,F,,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,age 4 to 6 years (individual age not stated); ages 4 to 6 for patients 2 to 9; see patient 1
+url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 3,F,,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,age 4 to 6 years (individual age not stated); see patient 1
+url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 4,F,,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,age 4 to 6 years (individual age not stated); see patient 1
+url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 5,F,,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,age 4 to 6 years (individual age not stated); see patient 1
+url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 6,F,,ovary,,,,,,,precocious_puberty;virilization,,unknown,none,none,,,unknown,,age 4 to 6 years (individual age not stated); see patient 1; one patient had clitoromegaly
+url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 7,F,,ovary,,,,,,,precocious_puberty;abdominal_mass_or_distension,,unknown,none,none,,,unknown,,age 4 to 6 years (individual age not stated); see patient 1; one patient had a huge abdominal swelling
+url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 8,F,,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,age 4 to 6 years (individual age not stated); see patient 1
+url-a3204c897af7,2017,Saad-eldin Sadek Y,full_text,,patient 9,F,,ovary,,,,,,,precocious_puberty,,unknown,none,none,,,unknown,,age 4 to 6 years (individual age not stated); see patient 1
 url-a3c143927c76,2019,Kirigin M,full_text,,1,F,16,ovary,,,,,40,12,menstrual_change,,cystectomy_then_completion,,,,,unknown,,classification uncertain: JGCT with adult-type areas; conference abstract; no outcome
 url-d9e99f99c3cf,2021,Ahmed S,full_text,pmid-34487069,1,F,0.75,ovary,IA,TNM (pT1a),none,,,10,precocious_puberty,,unilateral_salpingo-oophorectomy,none,none,,,NED,1,conference abstract of the case also reported in pmid-34487069 (same infant: identical hormone values)
 url-e7696d5604e8,2019,Barona Garcia L,full_text,,1,M,0.03,testis,,,,,,2.2,scrotal_mass,,orchiectomy,none,none,,,unknown,,conference abstract; no follow-up

@@ -10,8 +10,8 @@
 
 ### Age
 
-Age stated for 113 of 133: median 10.0 years (range 0.20 to 66). 
-18 and over: 27. 8 to 17: 36. age not stated: 20. under 8: 50.
+Age stated for 105 of 133: median 13.0 years (range 0.20 to 66). 
+18 and over: 27. 8 to 17: 36. age not stated: 28. under 8: 42.
 
 ### Presentation by age group
 
@@ -19,16 +19,16 @@ Denominators are patients in each age group with any presentation recorded.
 
 | feature | under 8 | 8 to 17 | 18 and over |
 |---|---|---|---|
-| precocious puberty | 42/48 (88%) | 4/34 (12%) | 0/25 (0%) |
-| virilization | 3/48 (6%) | 5/34 (15%) | 4/25 (16%) |
-| abdominal pain | 6/48 (12%) | 10/34 (29%) | 10/25 (40%) |
-| abdominal mass or distension | 25/48 (52%) | 19/34 (56%) | 14/25 (56%) |
-| menstrual change | 0/48 (0%) | 15/34 (44%) | 2/25 (8%) |
-| torsion | 4/48 (8%) | 2/34 (6%) | 2/25 (8%) |
-| rupture or hemoperitoneum | 1/48 (2%) | 1/34 (3%) | 4/25 (16%) |
-| ascites | 6/48 (12%) | 6/34 (18%) | 8/25 (32%) |
-| pregnancy | 0/48 (0%) | 1/34 (3%) | 6/25 (24%) |
-| incidental | 0/48 (0%) | 2/34 (6%) | 2/25 (8%) |
+| precocious puberty | 34/40 (85%) | 4/34 (12%) | 0/25 (0%) |
+| virilization | 2/40 (5%) | 5/34 (15%) | 4/25 (16%) |
+| abdominal pain | 6/40 (15%) | 10/34 (29%) | 10/25 (40%) |
+| abdominal mass or distension | 24/40 (60%) | 19/34 (56%) | 14/25 (56%) |
+| menstrual change | 0/40 (0%) | 15/34 (44%) | 2/25 (8%) |
+| torsion | 4/40 (10%) | 2/34 (6%) | 2/25 (8%) |
+| rupture or hemoperitoneum | 1/40 (2%) | 1/34 (3%) | 4/25 (16%) |
+| ascites | 6/40 (15%) | 6/34 (18%) | 8/25 (32%) |
+| pregnancy | 0/40 (0%) | 1/34 (3%) | 6/25 (24%) |
+| incidental | 0/40 (0%) | 2/34 (6%) | 2/25 (8%) |
 
 ### Stage at diagnosis (as the source states it)
 
