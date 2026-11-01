@@ -54,11 +54,11 @@ Query details with `python3 tools/ledger.py`.
 
 | status | items |
 |---|---|
-| abstract_only | 397 |
+| abstract_only | 396 |
 | found | 491 |
 | needs_full_text | 476 |
 | processed | 315 |
-| skipped | 819 |
+| skipped | 820 |
 | unreachable | 3 |
 
 ### Next 40 unprocessed items by priority
