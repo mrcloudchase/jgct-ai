@@ -1,0 +1,42 @@
+source_id: '42889762'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/42889762/
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://pmc.ncbi.nlm.nih.gov/articles/PMC13671097/pdf/CCR3-14-e73700.pdf
+abstract_source: null
+language: en
+pmid: '42889762'
+doi: null
+pmcid: PMC13671097
+title: 'Multidisciplinary management of a giant ovarian Sertoli-Leydig cell tumor presenting with isosexual precocious puberty: a pediatric case report'
+journal: Clinical Case Reports
+year: 2026
+first_author: Bouramdane S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: 7 years 4 months (SLCT patient; no JGCT patients)
+alterations: []
+treatments: []
+presentation:
+- abdominal distension over 2 months
+- intermittent vaginal bleeding
+- Tanner II breast, Tanner III pubic hair; peripheral isosexual precocious puberty
+key_findings:
+- A 7-year-4-month-old girl presented with 2 months of abdominal distension and intermittent vaginal bleeding; imaging showed a 135 x 85 x 165 mm solid-cystic abdominopelvic mass (left ovarian origin on MRI), five 2-5 mm lung micronodules and a little ascites.
+- Estradiol was 378 pg/mL, inhibin B above 5000 pg/mL and AMH 30.2 ng/mL with suppressed gonadotropins (peripheral precocious puberty); testosterone 0.479 ng/mL and androstenedione 0.862 ng/mL were moderately raised; AFP and beta-hCG were normal.
+- Biopsy showed an undifferentiated proliferation positive for calretinin and inhibin (sex cord-stromal tumour). After 3 cycles of VIP (etoposide, ifosfamide, cisplatin) tumour shrank about 65%, and a fertility-sparing left salpingo-oophorectomy followed (tumour 100 x 90 mm, about 70% treatment response).
+- The authors state the initial histological impression on the resection was a sex cord-stromal tumour suggestive of juvenile granulosa cell tumour, but IHC including androgen receptor expression (with inhibin and calretinin) supported residual Sertoli-Leydig cell tumour.
+- FIGO stage IC2 (preoperative capsular breach from biopsy); one further VIP cycle was given; the child was in complete remission at 27 months, with a transient rise of inhibin B and estradiol at 15 months after treatment without radiological abnormality. DICER1 testing was not available.
+- The authors state that this estrogenic presentation is unusual for SLCT, clinically overlaps with JGCT and caused initial diagnostic uncertainty, and that in children JGCT is the most frequent sex cord-stromal subtype followed by SLCT (their citation).
+relevance_to_jgct: This paper is about a mimic, not JGCT. It reports no JGCT patient. It shows that an estrogen-secreting Sertoli-Leydig cell tumour with high inhibin B and AMH can look like a JGCT clinically and on first histology, and that androgen receptor and full pathology resolved the diagnosis.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Read in full in English (PMC PDF text). Patient is a single child; no JGCT patients so no patients list. The article text carries some PMC page furniture at the end, ignored.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,65 @@
+source_id: 10.1055/s-2006-952778
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1055/s-2006-952778
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W2559882001
+language: de
+pmid: null
+doi: 10.1055/s-2006-952778
+pmcid: null
+title: Juveniler Granulosazelltumor bei einem 1 Jahr und 2 Monate altem Mädchen
+journal: Geburtshilfe und Frauenheilkunde
+year: 2006
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 1 year 2 months
+alterations: []
+treatments:
+- regimen: left adnexectomy via longitudinal laparotomy according to the MAKEI protocol (January 2006)
+  setting: primary surgery
+  n: 1
+  outcome: close follow-up ongoing; no result stated
+presentation:
+- breast swelling (Tanner 2) and labial hyperplasia
+- enlarged uterus and a 5 cm solid, well-vascularised left ovarian tumour on ultrasound
+- estradiol 960 pmol/l, LH < 0.3 IU/l, FSH < 1.2 IU/l, inhibin B 8497 ng/l, CA-125 71.9 U/ml
+key_findings:
+- A girl aged 1 year 2 months was noticed to have breast swelling corresponding to Tanner 2 and labial hyperplasia; ultrasound showed an enlarged uterus and a solid, well-vascularised left ovarian tumour of 5 cm.
+- Estradiol was 960 pmol/l, LH < 0.3 IU/l, FSH < 1.2 IU/l, inhibin B 8497 ng/l and CA-125 71.9 U/ml.
+- After interdisciplinary discussion of laparoscopy versus laparotomy, a longitudinal laparotomy with left adnexectomy was done in January 2006 according to the MAKEI protocol.
+- Histology showed a sex cord-stromal tumour with a dominant juvenile granulosa cell tumour component; close follow-up is under way.
+- The authors advise that clinically visible pubertal signs in a toddler call for paediatric gynaecology referral as well as endocrine work-up, and that transabdominal ultrasound with colour Doppler is essential.
+relevance_to_jgct: Infant (14 months) ovarian JGCT with isosexual precocious puberty and very high inhibin B, treated by adnexectomy per the German MAKEI protocol.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction of the publisher abstract); the publisher (Thieme) blocks automated access to the full text. Histology described as a sex cord-stromal tumour with a dominant JGCT component, i.e. possibly mixed; stage, rupture and outcome are not stated; estradiol written as 'pmol7l' in the OpenAlex text and read as pmol/l.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 1.17
+  site: ovary
+  stage: null
+  stage_system: null
+  rupture: null
+  malignant_ascites: null
+  tumor_size_cm: 5
+  presentation:
+  - precocious_puberty
+  syndrome: null
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: null
+  outcome: unknown
+  follow_up_months: null
+  notes: 1 year 2 months; Tanner 2 breast, labial hyperplasia; estradiol 960 pmol/l, inhibin B 8497 ng/l, CA-125 71.9 U/ml; sex cord-stromal tumour with dominant JGCT component; 'close follow-up' only

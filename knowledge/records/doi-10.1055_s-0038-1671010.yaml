@@ -1,0 +1,39 @@
+source_id: 10.1055/s-0038-1671010
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1055/s-0038-1671010
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W2899517623
+language: de
+pmid: null
+doi: 10.1055/s-0038-1671010
+pmcid: null
+title: 'Patientinnen mit Keimstrang-Stroma-Tumor: Charakteristika aus der Online-Tumorkonferenz für seltene Tumoren'
+journal: Geburtshilfe und Frauenheilkunde
+year: 2018
+first_author: null
+study_type: registry
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- The Charité nationwide online tumour conference for rare gynaecological tumours (228 registered participants) discussed 22 patients with sex cord-stromal tumours between February 2016 and February 2018, out of 187 patients overall.
+- The 22 comprised 13 adult granulosa cell tumours, 2 juvenile granulosa cell tumours, 5 Sertoli-Leydig cell tumours, 1 gynandroblastoma and 1 atypical sex cord tumour.
+- Patient ages for the whole group of 22 were 16-78 years (median 40.5); 11 were presented at first diagnosis, 8 of them FIGO I (3 IA, 1 IB, 4 IC).
+- Patients with recurrence had a median disease course of 12 years (4 months to 29 years); 3 had a first, 3 a second, 1 a third and 4 a fourth recurrence.
+- Eight patients had previously been treated at Charité and 14 were presented from outside; tumour markers were available in 10 of 22, in 2 of those only CA-125.
+- The abstract does not give age, stage, treatment or outcome for the two JGCT patients specifically.
+relevance_to_jgct: Only count-level JGCT content (2 of 22 sex cord-stromal tumour patients in a German online tumour conference); shows how rare-tumour boards see few JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction of the publisher abstract); the publisher (Thieme) blocks automated access to the full text. All figures except the JGCT count (2) apply to the whole group of 22 sex cord-stromal tumour patients, not to JGCT. Whether the two JGCT patients were ovarian is not stated explicitly (all are described as ovarian sex cord-stromal tumours in the introduction).
+review_status: draft
+reviewed_by: null
+reviewed_on: null

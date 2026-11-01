@@ -10,7 +10,8 @@
 Defaults: source_url (PubMed URL for pmid, https://doi.org/<doi> for doi), source_tier peer_reviewed,
 retrieved_on today, language en, review_status draft, evidence_basis full_text. A record is written from
 the full text (full_text_source required) or, when no open route to the full text exists, from the abstract:
-pass evidence_basis="abstract", abstract_source=<URL>, full_text_source=None. Raises on schema errors and writes nothing.
+pass evidence_basis="abstract", abstract_source=<URL>, full_text_source=None. Raises on schema errors and writes nothing. Refuses to replace a record written on an earlier day unless overwrite=True
+(re-running a scratch script on the same day is allowed).
 File name: knowledge/records/<source_type>-<source_id with / replaced by _>.yaml.
 For url sources pass source_url; source_id defaults to sha1(source_url)[:12].
 """
@@ -41,8 +42,14 @@ def write(**f):
              superseded_by=None, retracted=False, notes=None, review_status="draft", reviewed_by=None, reviewed_on=None)
     d.update(f)
     d = {k: d[k] for k in ORDER if k in d} | {k: v for k, v in d.items() if k not in ORDER}
+    overwrite = d.pop("overwrite", False)
     jsonschema.validate(d, SCHEMA)
     path = os.path.join(OUT, f"{st}-{sid.replace('/', '_')}.yaml")
+    if os.path.exists(path) and not overwrite:
+        prev = yaml.safe_load(open(path)) or {}
+        if prev.get("retrieved_on") != d["retrieved_on"]:
+            raise FileExistsError(f"{os.path.relpath(path, ROOT)} already exists (retrieved {prev.get('retrieved_on')}); "
+                                  "read it first and pass overwrite=True to replace it")
     yaml.safe_dump(d, open(path, "w"), sort_keys=False, allow_unicode=True, width=1000)
     print("wrote", os.path.relpath(path, ROOT))
     return path

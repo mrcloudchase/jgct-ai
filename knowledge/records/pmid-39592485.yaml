@@ -1,0 +1,47 @@
+source_id: '39592485'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/39592485/
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: PMC12289768
+abstract_source: null
+language: en
+pmid: '39592485'
+doi: null
+pmcid: PMC12289768
+title: A molecular and immunohistochemical study of 37 cases of ovarian Sertoli-Leydig cell tumor
+journal: null
+year: 2025
+first_author: Nemejcova K
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 14-76 years (SLCT cohort; median 43)
+alterations:
+- gene: DICER1
+  alteration: mutation (SLCT cohort)
+  frequency: 18/33 SLCT (54.5%)
+  notes: all moderately differentiated; 14 of the 18 had two DICER1 mutations
+- gene: FOXL2
+  alteration: p.C134W (SLCT cohort)
+  frequency: 2/33 SLCT
+  notes: mutually exclusive with DICER1; both moderately differentiated, DICER1 wild-type, postmenopausal patients
+treatments: []
+presentation: []
+key_findings:
+- The cohort is 37 ovarian Sertoli-Leydig cell tumours (SLCT) (9 well, 25 moderately, 3 poorly differentiated; median age 43, range 14-76), studied by 28 IHC markers and DNA and RNA targeted sequencing.
+- 'During central expert review, 5 cases submitted as SLCT were reclassified and excluded: 1 adult granulosa cell tumour, 1 juvenile granulosa cell tumour, 1 sex cord tumour with annular tubules (STK11 mutation) and 2 sex cord-stromal tumours NOS. No clinical, histological or molecular details of the juvenile granulosa cell tumour are given.'
+- SLCT expressed sex cord markers (FOXL2 97%, SF1 97%, inhibin A 94%, CD99 81%, calretinin 58%); the authors conclude these markers are sensitive but of limited use for distinguishing SLCT from other sex cord-stromal tumours, and that molecular testing should be used in problematic cases.
+- DICER1 mutation was found in 54.5% of SLCT and FOXL2 p.C134W in 2 of 33; no tumour showed aberrant p53 or HER2 positivity, all were mismatch-repair proficient and PD-L1 negative.
+- The authors state that finding a DICER1 mutation supports SLCT while AKT1 or GNAS mutations would support juvenile granulosa cell tumour (citing a review), and that TERT promoter mutation, found in 2 DICER1-mutant SLCT, has been described in rare cases of JGCT (their citation).
+- The authors list JGCT and AGCT first among the sex cord-stromal tumours in the differential diagnosis of SLCT, alongside hypercalcemic-type small cell carcinoma, endometrial stromal sarcoma and undifferentiated or endometrioid carcinoma.
+relevance_to_jgct: This paper is about a mimic (Sertoli-Leydig cell tumour), not JGCT. JGCT appears as one case reclassified out of the SLCT series without details, and in the authors' discussion of differential diagnosis (DICER1 favours SLCT, AKT1 or GNAS favours JGCT). It reports no JGCT clinical or molecular data of its own.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Read in full in English (PMC text). n_jgct_patients is 1 (the single reclassified case) but it has no data, so no patients entry is given. Tissue microarray scoring is a stated limitation. Supplementary tables were not read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

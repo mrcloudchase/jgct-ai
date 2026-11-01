@@ -1,0 +1,68 @@
+source_id: 08fbb6ac79f2
+source_type: url
+source_tier: conference_abstract
+source_url: https://abstracts.eurospe.org/hrp/0089/hrp0089p3-p270
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://abstracts.eurospe.org/hrp/0089/abstracts/poster-presentations/multisystem-endocrine-disorders-p3/hrp0089p3-p270/
+abstract_source: null
+language: en
+pmid: null
+doi: null
+pmcid: null
+title: 'Case Report: Neonatal McCune-Albright Syndrome with Juvenile Ovarian Granulosa Cell Tumor in a 4 Months Old Girl (ESPE 2018 poster P3-P270)'
+journal: ESPE Abstracts 89 (57th Annual ESPE, Athens 2018)
+year: 2018
+first_author: Schulz E
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 4 months
+alterations:
+- gene: GNAS
+  alteration: c.602G>A p.R201H (activating)
+  frequency: 1/1
+  notes: found in the ovarian tumour cells and in the adrenal glands (McCune-Albright syndrome)
+treatments:
+- regimen: metyrapone for hypercortisolism
+  setting: before the tumour
+  n: 1
+  outcome: controlled hypercortisolism; hypertension and hyperandrogenaemia as side effects
+- regimen: surgery for the ruptured ovarian tumour (type not stated); bilateral adrenalectomy at 5 months to stop hyperandrogenaemia
+  setting: primary
+  n: 1
+  outcome: not reported
+presentation:
+- 'neonatal McCune-Albright syndrome from 6 weeks: ACTH-independent Cushing syndrome, hypertrophic obstructive cardiomyopathy, hyperthyroidism, hepatopathy, bilateral nephrocalcinosis, autonomous ovarian cysts, cafe-au-lait pigmentation'
+- hypercalcaemia at 3 months
+- acute abdomen at 4 months from a ruptured large ovarian JGCT
+key_findings:
+- A girl in Hamburg with neonatal McCune-Albright syndrome presented at 6 weeks with ACTH-independent Cushing syndrome, hypertrophic obstructive cardiomyopathy, hyperthyroidism, hepatopathy, bilateral nephrocalcinosis, autonomous ovarian cysts and cafe-au-lait pigmentation.
+- Metyrapone controlled the hypercortisolism but caused hypertension and hyperandrogenaemia; she developed hypercalcaemia at 3 months, treated with a bisphosphonate.
+- At 4 months she had an acute abdomen from a ruptured large juvenile granulosa cell tumour of the ovary; the tumour cells highly expressed androgen receptors.
+- The activating GNAS mutation c.602G>A (p.R201H) was found in the ovarian tumour cells and in the adrenal glands. Bilateral adrenalectomy was performed at 5 months to stop the hyperandrogenaemia.
+- The authors state that JGCT had not been described in McCune-Albright syndrome, and suggest that high androgen levels under metyrapone may have driven rapid growth of the tumour.
+relevance_to_jgct: 'Ruptured JGCT at 4 months in an infant with neonatal McCune-Albright syndrome and a GNAS R201H mutation in the tumour: a direct syndromic link between GNAS-activated McCune-Albright syndrome and JGCT.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Complete meeting abstract read on abstracts.eurospe.org. Stage, surgery type, chemotherapy and follow-up are not given. The suggestion that metyrapone-induced androgens drove tumour growth is the authors' hypothesis. Compare doi-10.36013_ijipem.v6i.85 (McCune-Albright syndrome with an ovarian mass that was not JGCT) and the GNAS literature in the genetics topic.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 0.33
+  site: ovary
+  stage: null
+  rupture: preoperative
+  presentation:
+  - rupture_or_hemoperitoneum
+  - other
+  syndrome: McCune-Albright syndrome (GNAS p.R201H)
+  surgery: unknown
+  chemotherapy: null
+  outcome: unknown
+  notes: ruptured tumour; stage and follow-up not given

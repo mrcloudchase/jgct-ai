@@ -1,0 +1,73 @@
+source_id: 10.1055/s-0036-1592834
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1055/s-0036-1592834
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W2530220260
+language: de
+pmid: null
+doi: 10.1055/s-0036-1592834
+pmcid: null
+title: Juveniler Granulosazelltumor mit Aszites – Ein Fallbericht
+journal: Geburtshilfe und Frauenheilkunde
+year: 2016
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 25 years
+alterations: []
+treatments:
+- regimen: unilateral adnexectomy, peritoneal biopsies, appendectomy, omentectomy, hysteroscopy with fractional curettage
+  setting: primary surgery
+  n: 1
+  outcome: pT1a R0; postoperative inhibin B < 10 ng/l
+- regimen: cisplatin-containing chemotherapy (recommended by the national tumour board)
+  setting: adjuvant, recommended
+  n: 1
+  outcome: null
+presentation:
+- lower and upper abdominal pain and increasing abdominal girth over several weeks
+- 14 cm cystic-solid right ovarian mass with ascites on ultrasound
+- thick endometrium; PCOS diagnosed 12 months earlier during work-up of amenorrhoea
+- preoperative CA-125 100 kU/l, inhibin B 4496 ng/l, testosterone 0.29 ug/l, estradiol 279 ng/l
+key_findings:
+- A 25-year-old woman presented with several weeks of lower and upper abdominal pain and increasing abdominal girth; ultrasound showed a 14 cm cystic-solid mass of the right ovary with ascites and a thick endometrium. A PCOS diagnosis had been made 12 months earlier during amenorrhoea work-up.
+- Preoperative CA-125 was 100 kU/l, inhibin B 4496 ng/l, testosterone 0.29 ug/l and estradiol 279 ng/l; postoperatively CA-125 was 34 kU/l, inhibin B < 10 ng/l, testosterone 0.24 ug/l and estradiol 62 ng/l.
+- At laparotomy 5 l of yellowish-bloody ascites were drained and a multichambered cystic adnexal tumour was found without peritoneal carcinomatosis; unilateral adnexectomy, peritoneal biopsies, appendectomy, omentectomy and hysteroscopy with fractional curettage were done.
+- Histology showed a 15 cm juvenile granulosa cell tumour, pT1a R0; peritoneal lavage cytology was negative, but the surgeons had the impression of an in situ rupture, and no tumour was found on the ovarian surface.
+- 'Immunohistochemistry: oestrogen and progesterone receptor both IRS 1 (weakly positive), Ki67 11%.'
+- The discrepancy between clinical FIGO IC2 and pathological pT1a was discussed at the national tumour board, which recommended cisplatin-containing chemotherapy because of the intraoperative rupture; the patient took part in FertiPROTEKT. Follow-up and whether chemotherapy was given are not stated.
+relevance_to_jgct: Adult-age (25 years) ovarian JGCT with ascites and a rupture-based stage question (pT1a vs IC2) that led to a tumour-board recommendation for adjuvant platinum chemotherapy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction of the publisher abstract); the publisher (Thieme) blocks automated access to the full text. Age 25 is outside the usual JGCT age range; the abstract does not say whether FOXL2 was tested. Outcome and follow-up are not given. Stage is given as pT1a (pathological) and FIGO IC2 (clinical).
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 25
+  site: ovary
+  stage: IC2
+  stage_system: FIGO (clinical IC2 vs pathological pT1a)
+  rupture: intraoperative
+  malignant_ascites: false
+  tumor_size_cm: 15
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  - ascites
+  syndrome: null
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: cisplatin-containing regimen recommended by tumour board
+  chemo_setting: adjuvant
+  relapse: null
+  outcome: unknown
+  follow_up_months: null
+  notes: in situ rupture impression at surgery, negative lavage cytology; ascites 5 l (cytology of ascites not stated separately); whether chemotherapy was given is not stated; Ki67 11%, ER/PR IRS 1
