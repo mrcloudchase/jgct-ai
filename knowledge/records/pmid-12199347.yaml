@@ -1,0 +1,45 @@
+source_id: '12199347'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/12199347/
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/12199347
+language: en
+pmid: '12199347'
+doi: null
+pmcid: null
+title: 'Premature thelarche and granulosa cell tumors: a search for FSH receptor and Gs-alpha activating mutations'
+journal: null
+year: 2002
+first_author: null
+study_type: genomic
+tumor_site: null
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: GNAS (Gs-alpha)
+  alteration: no activating mutations at the screened hot-spots
+  frequency: 0 in the tumor and premature thelarche samples screened
+  notes: juvenile and adult granulosa cell tumor specimens combined
+- gene: FSHR
+  alteration: no activating mutations in the fragment screened; polymorphisms Ser680Asn and Ala307Thr common
+  frequency: polymorphisms in 25/27 tumor samples and 9/9 premature thelarche samples
+  notes: polymorphisms previously reported
+treatments: []
+presentation: []
+key_findings:
+- PCR and DNA sequencing screened children with premature thelarche and pathologic specimens of juvenile and adult granulosa cell tumors for activating mutations of Gs-alpha and of the FSH receptor, because both disorders involve overactive FSH signalling.
+- No mutation was detected in either the Gs-alpha or the FSH receptor fragment studied.
+- Previously reported FSH receptor polymorphisms (Ser680Asn and Ala307Thr) were found in 25 of 27 tumor samples and 9 of 9 premature thelarche samples.
+- The authors conclude that activating mutations in the known hot-spots of Gs-alpha and the FSH receptor are probably not a major cause of premature thelarche or granulosa cell tumors.
+relevance_to_jgct: Negative genetic screen (GNAS/Gs-alpha and FSHR hot-spots) in a set of juvenile and adult granulosa cell tumors; the number of juvenile specimens is not given in the abstract.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract page only (PubMed); first author and journal were not on the cached page. The split of the 27 tumor samples between juvenile and adult type is not stated. Replace if the full text is read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

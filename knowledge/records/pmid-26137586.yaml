@@ -46,7 +46,8 @@ key_findings:
 - The authors conclude that somatic AKT1 mutations are a major driver event in JGCT, that the duplications could facilitate molecular diagnosis, and that PI3K-AKT-mTOR inhibitors in clinical trials open targeted-therapy perspectives; functional work was in HeLa cells, not patient-derived cells.
 relevance_to_jgct: Identifies recurrent activating AKT1 pleckstrin-homology-domain duplications in about 60% of pediatric JGCTs, one of the main known somatic drivers and a candidate therapeutic target.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- url-9b4e4d6ec368
 superseded_by: null
 retracted: false
 notes: Table 1 (clinical features) was not present in the extracted text, so per-patient clinical data (stage, age, outcome) are not captured. Abstract says 'more than 60%', consistent with 10/16 in the text. Text states duplications in 9 of 16 by gel plus T1 (slow band only) = 10. Same group previously reported GNAS mutations in about one third of JGCTs (older cohort), so cohort overlap with earlier Kalfa papers is possible but not stated.

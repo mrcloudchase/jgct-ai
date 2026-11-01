@@ -1,0 +1,70 @@
+source_id: 10.5935/2965-1980.2022v1n3a25
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5935/2965-1980.2022v1n3a25
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://brad.org.br/pdf/4266/v1n3a25.pdf
+abstract_source: null
+language: pt
+pmid: null
+doi: 10.5935/2965-1980.2022v1n3a25
+pmcid: null
+title: Juvenile granulosa cell tumor in the left ovary - case report [Tumor de células da granulosa juvenil em ovário esquerdo - relato de caso]
+journal: Brazilian Radiological Cases (BRAD Cases)
+year: 2022
+first_author: Borges SP
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: not stated (first sexual activity at 15 years)
+alterations: []
+treatments:
+- regimen: left oophorectomy (mass of about 20 cm)
+  setting: primary surgery
+  n: 1
+  outcome: not reported
+presentation:
+- severe diffuse abdominal pain and vomiting leading to emergency referral
+- palpable mass from the pubic symphysis to the umbilicus
+- hirsutism of the upper lip and linea alba
+key_findings:
+- A female patient (age not stated; G0P0A0, first sexual activity at 15 years) was sent to the gynaecology emergency service with severe diffuse abdominal pain and vomiting; an outside ultrasound had shown a hypogastric/pelvic mass.
+- Examination found significant hair growth on the upper lip and linea alba and a palpable mass from the pubic symphysis to the umbilicus; serum estradiol and testosterone were reported as increased (no values given) and beta-hCG was negative.
+- 'Imaging: ultrasound showed a 14.7 x 11.9 x 7.5 cm heterogeneous, mainly hypoechoic mass with cystic areas (700 cm3); CT 14.0 x 12.4 x 9.1 cm (about 820 mL), solid and heterogeneous with cystic areas; MRI 14.3 x 12.9 x 8.1 cm (747 mL) in the left ovarian fossa, enhancing, without diffusion restriction, displacing the uterus posteriorly and to the right.'
+- Left oophorectomy removed a mass of about 20 cm; the case history says morphology and histochemistry favoured granulosa cell tumour, and the stated diagnosis is juvenile-type granulosa cell tumour.
+- The authors cite in their discussion that JGCT is about 5% of granulosa cell tumours, is associated with Ollier disease and Maffucci syndrome, that stage is the main prognostic factor, and that late recurrence occurs (longest cited time 40 years), so lifelong follow-up with inhibin B is advised.
+- 'Differential list given: endodermal sinus tumour, small cell carcinoma of hypercalcaemic type, thecoma, fibroma, fibrosarcoma. Stage, histological details (mitoses, immunohistochemistry), adjuvant treatment and follow-up are not reported.'
+relevance_to_jgct: Radiology case report of a large (about 20 cm) androgen/oestrogen-producing ovarian tumour labelled juvenile-type granulosa cell tumour in a patient of unstated age; imaging features and differential diagnosis described, no stage or outcome.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Language read: Portuguese; figures not readable in the text extraction. The patient''s age is not given (only first sexual activity at 15 years and cannabis/tobacco use for 1.5 years), so she may be an adolescent or older; the ''juvenile'' label rests on the authors'' diagnosis line, while the case history only says ''granulosa cell tumour'' favoured, with no histological description. Hirsutism with raised testosterone is unusual for JGCT. Size of the mass differs between imaging (about 14 cm) and surgery (about 20 cm) as stated.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: null
+  site: ovary
+  stage: null
+  stage_system: null
+  rupture: null
+  malignant_ascites: null
+  mitoses_per_10hpf: null
+  tumor_size_cm: 20
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  - virilization
+  syndrome: null
+  surgery: oophorectomy
+  chemotherapy: null
+  chemo_setting: null
+  relapse: null
+  relapse_months: null
+  outcome: unknown
+  follow_up_months: null
+  notes: age not stated; estradiol and testosterone raised (no values); 'juvenile' type per authors' diagnosis line, no histology given

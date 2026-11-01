@@ -1,0 +1,69 @@
+source_id: 10.5281/zenodo.6564246
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5281/zenodo.6564246
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://zenodo.org/record/6564247
+abstract_source: null
+language: es
+pmid: null
+doi: 10.5281/zenodo.6564246
+pmcid: null
+title: Juvenile granulosa-cell tumor in the left ovary [Tumor de células de la granulosa de tipo juvenil en ovario izquierdo]
+journal: Revista Informacion Cientifica (Guantanamo)
+year: 2020
+first_author: Giraudy-Zuniga M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 14 years
+alterations: []
+treatments:
+- regimen: left oophorectomy; then paediatric oncology treatment (not specified)
+  setting: primary surgery
+  n: 1
+  outcome: in follow-up, markers fell
+presentation:
+- gradual enlargement of the whole abdomen over a year
+- sudden diffuse abdominal pain 1 month before admission
+- visible and palpable lower-abdominal mass
+key_findings:
+- A 14-year-old girl in Guantanamo, Cuba, with no relevant history had gradual enlargement of the whole abdomen over a year (faster in the last 6 months) and, a month before admission, sudden moderate diffuse abdominal pain.
+- A firm, round, poorly mobile, non-tender mass was visible and palpable in the lower abdomen, lateralised to the left; ultrasound showed a heterogeneous echogenic mass of 145 x 83 mm and CT a 152 x 92 mm pelvic mass with central necrosis and no calcification; uterus was normal; beta-hCG was 9.4 mIU/mL ('doubtful range') and AFP 4.54 IU/mL (normal); thyroid ultrasound showed mild heterogeneity.
+- Left oophorectomy found a 13 cm tumour with intact smooth capsule, not adherent to other structures, with normal uterus and right ovary and no lymph node enlargement.
+- 'Pathology: 13 x 7 cm tumour, more than 90% solid with variably sized cysts; microscopically nests and cords with nuclear variability, more than five atypical mitoses per high-power field, extensive necrosis and haemorrhage, minimal vascular invasion, no capsular infiltration, and structures resembling Call-Exner bodies.'
+- She was transferred to paediatric oncology (treatment not described) and postoperative markers fell (beta-hCG 6.7 mIU/mL, AFP 3.53 IU/mL); thyroid changes were followed with favourable evolution.
+- No stage, immunohistochemistry, hormone levels (oestradiol, inhibin) or follow-up duration is reported; the discussion (literature-based) says presentation with abdominal enlargement is generally stage II or III.
+relevance_to_jgct: Case of a 14-year-old with a 13 cm ovarian JGCT with high mitotic activity (>5 atypical mitoses per HPF), necrosis and minimal vascular invasion, treated by oophorectomy and referred to oncology; no stage or outcome beyond falling markers.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Language read: Spanish; extraction has odd line breaks. The English abstract wrongly says ''ophthalmectomy'' for oophorectomy. This Zenodo deposit (record 6564247) is a copy of the journal article Rev Inf Cient 2020;99(5):478-486, which the Mexican case report in doi:10.62954/t96nbw45 cites; no other record of it is in the base. Stage is not stated and the paper does not say whether chemotherapy was given. Hormonal activity (precocious puberty, oestrogen) was not documented, which is unusual for JGCT; ''juvenile'' rests on the pathologist''s report.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 14
+  site: ovary
+  stage: null
+  stage_system: null
+  rupture: none
+  malignant_ascites: null
+  mitoses_per_10hpf: null
+  tumor_size_cm: 13
+  presentation:
+  - abdominal_mass_or_distension
+  - abdominal_pain
+  syndrome: null
+  surgery: oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: null
+  relapse_months: null
+  outcome: unknown
+  follow_up_months: null
+  notes: '>5 atypical mitoses per HPF (count not a single number), extensive necrosis, minimal vascular invasion; capsule intact; postoperative tumour markers fell; oncology treatment not described'

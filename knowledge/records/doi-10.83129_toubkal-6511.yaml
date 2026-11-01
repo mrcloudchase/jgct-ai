@@ -1,0 +1,126 @@
+source_id: 10.83129/toubkal-6511
+source_type: doi
+source_tier: other
+source_url: https://doi.org/10.83129/toubkal-6511
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://doi.org/10.83129/toubkal-6511
+abstract_source: null
+language: fr
+pmid: null
+doi: 10.83129/toubkal-6511
+pmcid: null
+title: '[Juvenile granulosa tumors of the ovary]'
+journal: Thèse de médecine n°165, Université Mohammed V, Faculté de Médecine et de Pharmacie, Rabat
+year: 2016
+first_author: Kebabi S
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: 3 months to 14 years
+alterations: []
+treatments:
+- regimen: unilateral adnexectomy/ovariectomy by laparotomy in all 4
+  setting: surgery
+  n: 4
+  outcome: 3 uneventful; 1 relapse
+- regimen: 3 courses of ifosfamide-cisplatin-etoposide-type 'VIP' (written 'Vogaset/Ifosfamide/Cisplatine'), then palliative cyclophosphamide (Endoxan)
+  setting: relapse (5 months after surgery)
+  n: 1
+  outcome: minimal tumour reduction, pain worsened, hepatic metastasis; palliative care
+presentation:
+- abdominopelvic mass
+- precocious pseudopuberty
+- vulvar bleeding
+- ascites
+key_findings:
+- Retrospective descriptive thesis (Rabat children's hospital, paediatric surgery department A, January 1998 to February 2016) of 4 juvenile granulosa cell tumors; ages 3 months to 14 years, mean 8 years; the textbook chapters (anatomy, embryology, histology, physiology, classification, literature discussion) were not abstracted.
+- 'Patient 1 (14 years, menarche at 13): 15 days of abdominal pain and distension; mass 22 x 21 cm, ascites on imaging, white peritoneal nodules at laparotomy; right adnexectomy; tumour 26 x 25.5 x 15 cm, 3 kg, no rupture; juvenile type with macrofollicular pattern; hormones not done for lack of means; no stage is stated.'
+- Patient 1 relapsed 5 months after surgery (5.9 x 3.9 x 3.8 cm suprauterine lesion plus retroperitoneal and iliac nodes), received 3 courses of 'VIP' chemotherapy, later developed a sacral epidural mass, retroperitoneal nodal mass and a hepatic secondary, and was put on palliative analgesia, corticosteroids and cyclophosphamide; the thesis reports no later status.
+- 'Patient 2 (3 years 4 months): haematuria; breast Tanner 3, pubic hair, vulvar hypertrophy; FSH 0.1, LH 0.07 mUI/ml (low), testosterone 0.05 ng/ml, estradiol and AFP normal; left ovarian cystic mass 62 x 40 mm on ultrasound (45 x 55 mm on CT); left adnexectomy; granulosa cell tumor of cystic type; no chemotherapy; uneventful follow-up.'
+- 'Patient 3 (3 months 24 days): right genital swelling and abdominal distension with large ascites; right ovarian mass 39 x 40 x 40 mm on CT; bone age 2 years; estradiol 387 pg/ml, FSH 0.05 and LH 0.02 mU/ml (low), AFP 134.4 ''ug/ml'' as printed; right adnexectomy; juvenile granulosa tumor with luteinization; no chemotherapy; hormones and ultrasound normalised at 6 months and a photograph is captioned 4 years after surgery.'
+- 'Patient 4 (8 months): vulvar bleeding with bilateral breast development (Tanner 2), 0.5 cm vaginal prolapse; right multiloculated ovarian mass 44 x 32 mm on ultrasound and 60 x 40 x 43 mm on CT; AFP 15 ng/ml; hormonal tests not done for lack of means; right oophorectomy; juvenile granulosa tumor; no chemotherapy; uneventful follow-up with a photograph captioned 3 years after surgery.'
+- In the thesis's cases all tumours were unilateral, cystic in 2 and solid-cystic in 2, and all stained positive for vimentin, inhibin, CD99 and smooth muscle actin; the pathology descriptions say no cytonuclear atypia in the first two cases while the summary says atypia was evident.
+- The authors cite the literature that FOXL2 402C>G occurs in about 10% of juvenile-type GCT (97% of adult-type) and that DICER1 exon 26/27 mutation was found in 1 of 14 juvenile tumours; none of their patients was tested.
+relevance_to_jgct: Four-patient Moroccan paediatric series (infants to age 14) with one early relapse that progressed to metastatic disease on palliative care; two infants with very low gonadotropins and high estradiol.
+conflicts_with: []
+overlaps_with:
+- doi-10.83129_toubkal-11437
+- doi-10.83129_toubkal-9338
+superseded_by: null
+retracted: false
+notes: 'Language read: French; PDF text extraction is noisy (accents, some Arabic and font-encoded headings; most front matter and figures empty). Read in full; the long discussion repeats published literature and is not abstracted except where the authors compare with their own cases. FIGO stage is not stated for any patient in the case sections. Possible overlap with doi-10.83129_toubkal-11437 / doi-10.83129_toubkal-9338 (2010 Rabat children''s hospital thesis, 2 JGCT aged 3 and 14 with one relapse), though tumour sizes and the stage/chemotherapy details differ between the documents; do not add the counts. Patient 3 has a very high AFP as printed (units probably ng/ml). Patient 2''s histology line does not use the word juvenile (''granulosa cell tumor of cystic type'') but the thesis counts it among the four juvenile tumours. Summary says estradiol was very high in the two patients tested, but patient 2''s estradiol is reported as normal.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 14
+  site: ovary
+  stage: null
+  rupture: none
+  malignant_ascites: null
+  tumor_size_cm: 26
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  - ascites
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: 3 courses VIP-type (as written 'Vogaset, ifosfamide, cisplatin'), then palliative cyclophosphamide
+  chemo_setting: relapse
+  relapse: true
+  relapse_months: 5
+  outcome: AWD
+  follow_up_months: null
+  notes: peritoneal nodules and ascites at diagnosis; stage not stated; progression with hepatic and epidural/retroperitoneal disease, palliative; later status not reported
+- id: '2'
+  sex: F
+  age_years: 3.33
+  site: ovary
+  stage: null
+  tumor_size_cm: 6.2
+  presentation:
+  - precocious_puberty
+  - other
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: NED
+  follow_up_months: null
+  notes: presented with haematuria; cystic tumour; follow-up described only as uneventful; moderate intraperitoneal effusion on ultrasound
+- id: '3'
+  sex: F
+  age_years: 0.32
+  site: ovary
+  stage: null
+  malignant_ascites: null
+  tumor_size_cm: 4.0
+  presentation:
+  - abdominal_mass_or_distension
+  - ascites
+  - other
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: NED
+  follow_up_months: 48
+  notes: large ascites; estradiol 387 pg/ml; AFP very high as printed; 'after 4 years' from a photograph caption
+- id: '4'
+  sex: F
+  age_years: 0.67
+  site: ovary
+  stage: null
+  tumor_size_cm: 6.0
+  presentation:
+  - precocious_puberty
+  - other
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: NED
+  follow_up_months: 36
+  notes: vulvar bleeding, breast Tanner 2, vaginal prolapse; AFP 15 ng/ml; 'after 3 years' from a photograph caption

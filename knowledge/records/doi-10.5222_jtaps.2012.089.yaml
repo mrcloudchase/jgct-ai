@@ -1,0 +1,46 @@
+source_id: 10.5222/jtaps.2012.089
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5222/jtaps.2012.089
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: http://doi.org/10.5222/jtaps.2012.089
+language: en
+pmid: null
+doi: 10.5222/jtaps.2012.089
+pmcid: null
+title: 'A rare testicular tumor in infacy: Juvenile granulosa cell tumor'
+journal: Turkish Journal of Pediatric Surgery
+year: 2012
+first_author: Taşkınlar H
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: infancy
+alterations: []
+treatments: []
+presentation:
+- scrotal swelling (the abstract says testicular tumors in infancy should be considered in the differential diagnosis of scrotal swellings)
+key_findings:
+- The authors (Mersin University, Turkey) present one infant with juvenile granulosa cell tumor of the testis.
+- The abstract states that testicular tumors in infancy are rarely seen and should be considered in the differential diagnosis of scrotal swellings.
+- The abstract states that juvenile granulosa cell tumor of the testis is a rare tumor of prepubertal children, considered a benign neoplasm that can be cured with orchiectomy (general statement, not a result for this patient).
+- The abstract gives no age, size, marker, stage, treatment or follow-up details for the infant.
+relevance_to_jgct: Abstract-only record of an infant testicular JGCT case report from Turkey; no patient-level detail is available without the full text.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract page only (the cached page is the journal landing page with the abstract; the PDF was not available). Pages 089-091. Abstract title spells 'infacy' as printed. Replace with a full-text record if the PDF becomes readable.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: M
+  age_years: null
+  site: testis
+  stage: null
+  outcome: unknown
+  notes: infant; treatment and follow-up not stated in the abstract

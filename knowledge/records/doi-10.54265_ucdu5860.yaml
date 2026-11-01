@@ -1,0 +1,70 @@
+source_id: 10.54265/ucdu5860
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.54265/ucdu5860
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://doi.org/10.54265/ucdu5860
+abstract_source: null
+language: pt
+pmid: null
+doi: 10.54265/ucdu5860
+pmcid: null
+title: 'Case report: juvenile granulosa cell ovarian tumor [Relato de caso: tumor ovariano de células da granulosa juvenil]'
+journal: Anais do 2º Congresso Nacional Online de Cirurgia (24-27 Oct 2022; ISBN 978-65-81152-93-2)
+year: 2022
+first_author: Acuna EEM
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 6 years
+alterations: []
+treatments:
+- regimen: right salpingo-oophorectomy with omentectomy
+  setting: primary surgery
+  n: 1
+  outcome: not reported
+presentation:
+- diffuse abdominal pain for 1 month with abdominal distension, nausea, vomiting and anorexia, worse for 1 day
+- 'CT: heterogeneous expansile lesion with cystic component and enhancing solid mural areas, about 10.6 x 9.6 x 10.2 cm'
+- at laparotomy a solid-cystic right ovarian tumour of about 12 cm with rupture and active capsular bleeding
+key_findings:
+- A 6-year-old girl presented with diffuse abdominal pain for 1 month with abdominal distension, nausea, vomiting and loss of appetite, worse over the last day.
+- Abdominal and pelvic CT showed a heterogeneous expansile lesion with a cystic component and solid mural areas that enhanced with contrast, measuring about 10.6 x 9.6 x 10.2 cm, with regular contours, near the right adnexal region and without signs of invasion of adjacent structures.
+- Exploratory laparotomy found a moderate amount of serohaematic fluid and a solid-cystic right ovarian tumour of about 12 cm in diameter with rupture and active capsular bleeding; right salpingo-oophorectomy with omentectomy was performed.
+- Pathology showed a sex cord tumour compatible with juvenile granulosa cell tumour.
+- The authors state, in their discussion, that treatment is surgical with resection of all tumour, that JGCT is considered borderline but needs oncological follow-up because relapse usually occurs at 5-10 years, and that prognosis is favourable when diagnosed early with adequate resection.
+- The abstract does not report tumour stage, hormone or tumour-marker levels, immunohistochemistry, adjuvant treatment or any follow-up.
+relevance_to_jgct: Meeting-abstract case of ovarian JGCT in a 6-year-old with a ruptured 12 cm tumour treated by salpingo-oophorectomy and omentectomy; no stage, markers or outcome given.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Language read: Portuguese. The complete meeting abstract is the full text (about 3,700 characters). Diagnosis is stated as ''compatible with'' juvenile granulosa cell tumour. Staging, adjuvant therapy and follow-up are not stated; timing of the rupture (before or during surgery) is not stated. No other record by these authors or from UNOESTE was found in the base.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 6
+  site: ovary
+  stage: null
+  stage_system: null
+  rupture: unknown
+  malignant_ascites: null
+  mitoses_per_10hpf: null
+  tumor_size_cm: 12
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  - rupture_or_hemoperitoneum
+  syndrome: null
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: null
+  relapse: null
+  relapse_months: null
+  outcome: unknown
+  follow_up_months: null
+  notes: right salpingo-oophorectomy plus omentectomy; ruptured tumour with active capsular bleeding at laparotomy; stage not stated

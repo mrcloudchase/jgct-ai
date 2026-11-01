@@ -1,0 +1,56 @@
+source_id: 10.1002/uog.24062
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1002/uog.24062
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W3205409672
+language: en
+pmid: null
+doi: 10.1002/uog.24062
+pmcid: null
+title: 'VP04.02: Granulosa cell tumour of the ovary: a study of six cases'
+journal: Ultrasound in Obstetrics and Gynecology
+year: 2021
+first_author: null
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 19 years
+alterations: []
+treatments:
+- regimen: emergency laparotomy
+  setting: primary surgery
+  n: 1
+  outcome: null
+presentation:
+- severe acute pelvic pain
+- heterogeneous pelvic mass on ultrasound
+- no hyperoestrogenism; normal pubertal development
+key_findings:
+- A retrospective single-centre series from the Charles Nicolle Hospital (obstetrics-gynaecology department A), 2016 to 2019, covered six ovarian granulosa cell tumours.
+- Adult-type GCT was found in 83.33% of cases; only one patient had a juvenile-type GCT.
+- The JGCT was diagnosed at age 19; she had no signs of hyperoestrogenism and normal pubertal development.
+- Pelvic ultrasound showed a heterogeneous pelvic mass, and she underwent emergency laparotomy for severe acute pelvic pain.
+- For the series as a whole, pelvic pain was the most common symptom, inhibin B was measured in one case (high), and Demons-Meigs syndrome was diagnosed in 20% of cases.
+relevance_to_jgct: A small series with a single JGCT (age 19, no oestrogenic signs); the abstract gives no stage, pathology detail or outcome for that patient.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction); Wiley/UOG meeting abstract; publisher blocks scripted access. Series is mostly adult-type; only the JGCT patient is counted. Stage, surgery extent and outcome for the JGCT patient not stated.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 19
+  site: ovary
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  surgery: unknown
+  outcome: unknown
+  notes: Emergency laparotomy for acute pelvic pain; no hyperoestrogenism, normal puberty. Stage and follow-up not stated.

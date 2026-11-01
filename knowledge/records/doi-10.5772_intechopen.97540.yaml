@@ -1,0 +1,45 @@
+source_id: 10.5772/intechopen.97540
+source_type: doi
+source_tier: other
+source_url: https://doi.org/10.5772/intechopen.97540
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W3164856092
+language: en
+pmid: null
+doi: 10.5772/intechopen.97540
+pmcid: null
+title: Genetics and Mutational Landscape of Ovarian Sex Cord-Stromal Tumors
+journal: IntechOpen eBooks
+year: 2021
+first_author: null
+study_type: review
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: GNAS (gsp oncogene)
+  alteration: somatic mutation
+  frequency: approximately 30% of jGCT
+  notes: as stated by the chapter's authors, from the literature
+- gene: AKT1
+  alteration: activating mutations or duplications
+  frequency: approximately 60% of jGCT
+  notes: as stated by the chapter's authors, from the literature; the abstract says 'AKT gene'
+treatments: []
+presentation: []
+key_findings:
+- This review chapter states that ovarian sex cord-stromal tumours are about 8% of ovarian malignancies, of which granulosa cell tumours are about 90%.
+- The authors state that approximately 30% of juvenile GCT contain a somatic gsp mutation and a further 60% have activating mutations or duplications in AKT.
+- For adult GCT the authors describe FOXL2 C134W as present in the majority of tumours, arguably defining the disease, and a TERT promoter mutation as a driver of recurrence.
+- SCSTs also occur in Peutz-Jeghers syndrome, Ollier disease and Maffucci syndrome, and DICER1 syndrome.
+relevance_to_jgct: Review chapter summarising the mutation landscape of JGCT (gsp about 30%, AKT about 60%) alongside adult GCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction); Narrative book chapter; its figures are the authors' summary of the literature, not original data, and are not to be combined with primary records. No patients reported.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

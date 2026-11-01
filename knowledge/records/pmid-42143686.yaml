@@ -25,8 +25,9 @@ key_findings:
 - Hungarian review of testicular sex cord-stromal tumors (about 90% benign, the rest aggressive and therapy-resistant) covering Leydig, Sertoli, large cell calcifying Sertoli, adult- and juvenile-type granulosa cell tumors and others, intended to raise awareness and case collection.
 relevance_to_jgct: Testicular JGCT within a national review of testicular stromal tumors.
 conflicts_with: []
-overlaps_with: []
-superseded_by: null
+overlaps_with:
+- url-openalex-W7162269322
+superseded_by: url-openalex-W7162269322
 retracted: false
 notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
 review_status: draft

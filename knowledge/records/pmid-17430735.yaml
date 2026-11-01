@@ -36,7 +36,8 @@ relevance_to_jgct: Reports loss of FOXL2 protein expression as a marker of aggre
 conflicts_with:
 - pmid-21623383
 - pmid-39773640
-overlaps_with: []
+overlaps_with:
+- url-670c73814ffc
 superseded_by: null
 retracted: false
 notes: Conflicts with pmid-21623383, which found higher FOXL2 protein expression associated with worse survival in JGCT. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.

@@ -1,0 +1,69 @@
+source_id: 10.62954/t96nbw45
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.62954/t96nbw45
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://remim.upaep.mx/index.php/remim/article/download/72/17
+abstract_source: null
+language: es
+pmid: null
+doi: 10.62954/t96nbw45
+pmcid: null
+title: 'Juvenile granulosa cell ovarian tumor: case report [Tumor de ovario de células de la granulosa juvenil: reporte de un caso]'
+journal: REMIM (journal name not printed in the extracted text; from remim.upaep.mx)
+year: 2025
+first_author: Rubio Morales E
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years
+alterations: []
+treatments:
+- regimen: oophorectomy with ipsilateral salpingectomy and bilateral pelvic lymphadenectomy, contralateral ovary conserved; referred for 'prophylactic chemotherapy' protocol
+  setting: primary surgery
+  n: 1
+  outcome: under surveillance; no outcome data
+presentation:
+- heavy menstrual bleeding for 9 days with clots
+- abdominal mass of about 15 cm
+- outside ultrasound reported leiomyomas
+key_findings:
+- A 15-year-old nulligravid girl (menarche at 14 years) was referred with 9 days of heavy menstrual bleeding with clots, after menses had lengthened from 3 to 5-6 days over two months; an outside ultrasound reported leiomyomas; examination found a mobile, non-tender abdominal mass of about 15 cm.
+- MRI showed an oval heterogeneous multicystic mass measuring 71.1 x 224.7 x 183 mm (text) or 196.8 x 172.3 x 96.5 mm (figure legend), dependent on an adnexum; CA 125 was 17.10 UI/mL, AFP 1.76 UI/mL, beta-hCG < 2.39 mU/mL and LDH 210.03 U/L (all described as negative).
+- A staging laparotomy was done with oophorectomy and ipsilateral salpingectomy plus bilateral pelvic lymphadenectomy, preserving the contralateral ovary for future fertility.
+- Pathology reported juvenile granulosa cell tumour weighing 2,897 g, lymph nodes with hyperplasia and no malignancy, and a negative peritoneal-wash smear; no FIGO stage, mitotic count or immunohistochemistry is given.
+- The patient was referred to the paediatric oncology unit of Centro Medico Nacional Siglo XXI, where a protocol for 'prophylactic chemotherapy' was started with pre-treatment organ assessments; inhibin A and B, AFP and CA-125 with CT and pelvic ultrasound are used for follow-up, and she had not yet been discharged from paediatric oncology (no follow-up duration or outcome stated).
+- The authors cite in their discussion another case series and reports (for example a 10-year-old with stage IV disease who died 9 months after surgery, described by the cited authors as a mixed germ cell tumour) and state that stage is the most important prognostic factor.
+relevance_to_jgct: Case report of a 15-year-old with a very large (2,897 g) ovarian JGCT found through abnormal menstrual bleeding, treated with fertility-sparing surgery with lymphadenectomy and referred for adjuvant chemotherapy; no stage or outcome.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Language read: Spanish. Internal inconsistencies: the surgical text describes the tumour in the left adnexum, whereas the MRI figure legend says right adnexum; MRI dimensions differ between text and figure legend. Journal title as printed on the cover is not shown in the cached text (taken from the download URL remim.upaep.mx only). Whether chemotherapy was actually given is not stated. Staging was formally done (lymphadenectomy, wash) but no FIGO stage is written.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 15
+  site: ovary
+  stage: null
+  stage_system: null
+  rupture: null
+  malignant_ascites: false
+  mitoses_per_10hpf: null
+  tumor_size_cm: null
+  presentation:
+  - menstrual_change
+  - abdominal_mass_or_distension
+  syndrome: null
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: '''prophylactic chemotherapy'' protocol started (regimen not stated)'
+  chemo_setting: adjuvant
+  relapse: null
+  relapse_months: null
+  outcome: unknown
+  follow_up_months: null
+  notes: tumour weight 2,897 g; peritoneal wash negative; nodes hyperplastic only; side inconsistent in text (left) and figure legend (right)

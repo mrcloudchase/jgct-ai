@@ -1,0 +1,48 @@
+source_id: '21267827'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/21267827/
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/21267827
+language: fr
+pmid: '21267827'
+doi: null
+pmcid: null
+title: '[Granulosa cell tumors: a study of 7 cases]'
+journal: null
+year: 2011
+first_author: null
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- pelvic pain (3 cases)
+- menometrorrhagia and post-menopausal bleeding (2)
+- secondary amenorrhea (2)
+key_findings:
+- Retrospective series of 7 granulosa cell tumors treated at department C of Gynecology and Obstetrics, Center of Maternity and Neonatology, Tunis (French article, English abstract).
+- Mean age of the 7 patients was 40 years; final pathology showed 6 adult-type tumors and one juvenile-type tumor.
+- 'Whole-series data, not given by type: 5 tumors stage Ia, one Ic and one IIa; treatment conservative in most; ilio-obturator and para-aortic lymphadenectomy in 3; adjuvant chemotherapy in 2; 6 patients in complete remission at last follow-up; two pregnancies carried to term after surgery.'
+- The abstract gives no age, stage, treatment or outcome for the single juvenile-type patient.
+relevance_to_jgct: Mostly adult-type series containing one juvenile-type tumor with no individual detail.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract page from PubMed only; journal name, first author and full text were not on the cached page (journal links via the Tunisian Society for Medical Sciences). Replace with a full-text record if the article can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: null
+  site: ovary
+  stage: null
+  outcome: unknown
+  notes: the one juvenile-type tumor among 7; no individual data in the abstract

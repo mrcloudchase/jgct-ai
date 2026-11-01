@@ -1,0 +1,67 @@
+source_id: 10.33425/2689-1093.1008
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.33425/2689-1093.1008
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: http://doi.org/10.33425/2689-1093.1008
+abstract_source: null
+language: en
+pmid: null
+doi: 10.33425/2689-1093.1008
+pmcid: null
+title: 'Acute Abdomen with Hemoperitoneum: A Rare Presentation Caused by The Rupture of Ovarian Granulosa Juvenile Cell Tumor'
+journal: Surgical Research
+year: 2019
+first_author: Hamillour B
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 12 years
+alterations: []
+treatments:
+- regimen: emergency laparotomy, drainage of haemoperitoneum, salpingo-oophorectomy; no chemotherapy
+  setting: surgery
+  n: 1
+  outcome: asymptomatic at 1 year
+presentation:
+- acute abdomen with haemoperitoneum
+- abdominal distension for 3 months
+- right adnexal mass
+key_findings:
+- A 12-year-old girl, menarche two weeks earlier, presented to the emergency department of a hospital in Mila, Algeria with severe right lower abdominal pain, tachycardia (120 bpm), blood pressure 90/60 mmHg, temperature 38.2 C and abdominal distension for three months.
+- Examination found a pelvic mass of nearly 15 cm in the right adnexal region; haemoglobin was 9 g/dl; ultrasound and CT showed a right adnexal mass of 13 x 12 x 8 cm without septations and free fluid.
+- Haemoglobin fell 1 g/dl in three hours, so emergency laparotomy was done; a large mass arising from the right ovary was ruptured and actively bleeding and 2700 cc of blood was found; the left ovary, uterus and omentum were normal.
+- Right salpingo-oophorectomy was performed; histology confirmed juvenile granulosa cell tumor, cystic, evaluated as 'at least stage 1'; no chemotherapy was given.
+- Recovery was uneventful and she was completely asymptomatic one year after surgery. The patient had no secondary sexual characteristics beyond menarche reported.
+- The authors cite the literature for FOXL2 402C>G mutation, inhibin and other background; none of this was tested in the patient.
+relevance_to_jgct: Case of spontaneous rupture of a large ovarian JGCT with 2.7 litre haemoperitoneum in a 12-year-old, treated by emergency salpingo-oophorectomy without chemotherapy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The abstract says 'left salpingo-oophorectomy' but the case text, operative description and conclusion state the right ovary; the right side is recorded. Tumor size 13 cm is the imaging size (15 cm on examination). Stage given only as 'at least stage 1'; rupture noted as preoperative/spontaneous. No hormone, immunohistochemistry or molecular results. Text is lightly garbled English.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 12
+  site: ovary
+  stage: I
+  stage_system: FIGO (pre-2014)
+  rupture: preoperative
+  malignant_ascites: null
+  tumor_size_cm: 13
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  - rupture_or_hemoperitoneum
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 12
+  notes: stage 'at least stage 1'; 2700 cc haemoperitoneum

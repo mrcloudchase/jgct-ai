@@ -1,0 +1,56 @@
+source_id: 25110c0836bc
+source_type: url
+source_tier: peer_reviewed
+source_url: https://doaj.org/article/2862ba9973204d4ca00785034ffaf89a
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W4388891491
+language: es
+pmid: null
+doi: null
+pmcid: null
+title: 'Síndrome de desarrollo sexual precoz por tumor de células granulosas: presentación de un caso [Syndrome of precocious sexual development due to granulosa cell tumour: a case]'
+journal: DOAJ-indexed journal (title not given in the abstract record)
+year: 2012
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 3 years
+alterations: []
+treatments:
+- regimen: excision of right ovarian tumour with the involved tube
+  setting: primary surgery
+  n: 1
+  outcome: evolved satisfactorily, no signs of metastasis, hormones normal
+presentation:
+- isosexual precocious puberty, rapid and progressive
+- palpable hypogastric mass
+key_findings:
+- A 3-year-old girl presented with rapidly progressive isosexual precocious puberty and a palpable hypogastric mass.
+- Oestradiol was high, 17-OH-progesterone was 13.44 ng/ml, FSH and LH were suppressed and alpha-fetoprotein was normal; imaging confirmed a right ovarian mass.
+- The right ovarian tumour (about 10-12 cm, solid, well delimited, granular surface) was removed together with the involved tube; histopathology showed juvenile granulosa cell tumour.
+- After surgery the patient evolved satisfactorily with no signs of metastasis and hormone levels in the normal range.
+relevance_to_jgct: Classic JGCT presentation with isosexual precocious puberty at age 3 in a Spanish-language report, treated by surgery alone.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction); Spanish with English translation in the abstract; DOAJ record, the originating journal and the full text were not identified. Stage and follow-up length not stated. Year 2012 from OpenAlex.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 3
+  site: ovary
+  tumor_size_cm: 12
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  outcome: NED
+  notes: Tumour 10-12 cm; stage not stated; follow-up length not stated.

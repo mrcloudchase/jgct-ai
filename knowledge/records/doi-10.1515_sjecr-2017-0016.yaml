@@ -1,0 +1,62 @@
+source_id: 10.1515/sjecr-2017-0016
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.1515/sjecr-2017-0016
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://reference-global.com/download/article/10.1515/sjecr-2017-0016.pdf
+abstract_source: null
+language: en
+pmid: null
+doi: 10.1515/sjecr-2017-0016
+pmcid: null
+title: Juvenile type granulosa cell tumor
+journal: Serbian Journal of Experimental and Clinical Research
+year: 2018
+first_author: Andric B
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 35 years
+alterations: []
+treatments:
+- regimen: total abdominal hysterectomy with bilateral salpingo-oophorectomy; hormone replacement; no chemotherapy mentioned
+  setting: surgery
+  n: 1
+  outcome: testosterone normalised one week after surgery
+presentation:
+- virilization (hirsutism, clitoromegaly)
+- severe anaemia and fatigue
+- uterine fibroids
+key_findings:
+- A 35-year-old woman with hirsutism and severe obesity (menarche at 18, frequent heavy periods) was admitted to a haematology clinic in Kragujevac, Serbia, for extreme fatigue and dizziness; blood count showed severe anaemia (Er 1.97, Hgb 36 as printed).
+- Plasma testosterone was high (198 ng/ml as printed); karyotype was 46,XX; examination showed clitoral hypertrophy and a uterus about 20 cm across with fibroids; CA 125 and HE4 were normal.
+- Ultrasound and MRI showed both ovaries of normal size (right 45 x 25 mm) and a uterus of about 18 cm with multiple fibroids; she underwent total abdominal hysterectomy with bilateral salpingo-oophorectomy for suspected uterine neoplasm.
+- Histology found uterine fibroids (uterus 1880 g), follicular cysts in both ovaries and a juvenile type granulosa cell tumor in the right ovary (one solitary brown node 30 mm).
+- Testosterone one week after surgery was 0.6 ng/ml (within reference range); no further follow-up, staging or adjuvant treatment is reported.
+- The authors attribute the virilization to intratumoral aromatase deficiency with androgen overproduction, citing the literature.
+relevance_to_jgct: Adult (35-year-old) patient labelled juvenile-type GCT with virilizing presentation; the tumor was an incidental 30 mm node found at hysterectomy for fibroids.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Unusual age for the juvenile type (the authors cite juvenile type as usually under 30). Classification rests on a one-sentence histology statement; no immunohistochemistry, mitoses, FOXL2 or stage are given, so the juvenile label is unverified. Units for testosterone and haemoglobin appear garbled in the source (198 ng/ml; Hgb 36). Bilingual English/Serbian article; the DOI carries 2017 but the issue is 19(4), 2018.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 35
+  site: ovary
+  stage: null
+  tumor_size_cm: 3
+  presentation:
+  - virilization
+  - menstrual_change
+  - other
+  surgery: other
+  chemotherapy: null
+  outcome: unknown
+  follow_up_months: null
+  notes: TAH-BSO; testosterone normal 1 week after; no later follow-up; age atypical for juvenile type; histology detail minimal

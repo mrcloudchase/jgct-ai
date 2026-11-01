@@ -1,0 +1,63 @@
+source_id: 10.21203/rs.3.rs-143384/v1
+source_type: doi
+source_tier: preprint
+source_url: https://doi.org/10.21203/rs.3.rs-143384/v1
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.researchsquare.com/article/rs-143384/latest.pdf
+abstract_source: null
+language: en
+pmid: null
+doi: 10.21203/rs.3.rs-143384/v1
+pmcid: null
+title: 'Ultrasound feature discordance in a bilateral juvenile ovarian granulosa cell tumor: A case report'
+journal: Research Square (preprint)
+year: 2021
+first_author: Zhang L
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 10 years
+alterations: []
+treatments:
+- regimen: left adnexal resection then postoperative chemotherapy (regimen not stated); right adnexal resection then postoperative chemotherapy
+  setting: adjuvant after each surgery
+  n: 1
+  outcome: no recurrence in 15 months after second surgery
+presentation:
+- abdominal pain for 2 weeks
+- large left ovarian mass
+- right ovarian unilocular cyst 2 years later
+key_findings:
+- A 10-year-old girl (menarche one year earlier) at Peking Union Medical College Hospital had 2 weeks of abdominal pain; ultrasound showed a 23.0 x 16.4 x 7.2 cm hypoechoic mass with honeycomb-like anechoic areas and MRI a giant multilocular solid-cystic mass; the right ovary looked normal.
+- Serum progesterone was above 40.00 ng/ml, estradiol 514.00 pg/ml, LDH 335 U/L and neuron-specific enolase 26.8 ng/ml; laparotomy led to left adnexal resection; pathology showed JGCT, stage IC, and postoperative chemotherapy was given.
+- Two years later ultrasound found a 4.8 x 3.5 x 3.5 cm anechoic right ovarian mass with smooth wall and normal oestrogen and progestin; it was followed as a physiological cyst and in 6 months grew to a unilocular cyst of 21.3 x 18.1 x 9.9 cm with estradiol 171 pg/ml.
+- Right adnexal resection showed a unilocular cystic JGCT; she received postoperative chemotherapy and had no recurrence in the following 15 months.
+- The authors state that this is the first reported bilateral JGCT with completely inconsistent imaging on the two sides and that only 4 bilateral and 2 unilocular cystic JGCTs had been reported (citing the literature), and recommend laparotomy for persistent enlarging cystic lesions.
+relevance_to_jgct: Metachronous bilateral JGCT in a 10-year-old; second tumour was a giant unilocular cyst that mimicked a benign cyst.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Preprint (Research Square, posted 13 January 2021), not peer reviewed; a published version may exist under another identifier and was not checked. Chemotherapy regimens, stage of the second tumour and the follow-up of the first interval beyond 'no abnormalities' are not given. Whether the right tumour is a second primary or a recurrence is not discussed beyond the term 'bilateral'. The PDF text file contains NUL bytes but was read normally.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 10
+  site: ovary
+  stage: IC
+  stage_system: null
+  rupture: null
+  tumor_size_cm: 23.0
+  presentation:
+  - abdominal_pain
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: postoperative chemotherapy after each surgery (regimen not stated)
+  chemo_setting: adjuvant
+  relapse: null
+  outcome: NED
+  follow_up_months: 15
+  notes: left tumour 23.0 cm stage IC; right unilocular cystic JGCT 21.3 cm found about 2.5 years later (stage not stated); 15 months NED after second surgery
