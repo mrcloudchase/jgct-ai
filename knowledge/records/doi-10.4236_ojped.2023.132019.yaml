@@ -1,0 +1,66 @@
+source_id: 10.4236/ojped.2023.132019
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.4236/ojped.2023.132019
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.scirp.org/pdf/ojped_2023021411271322.pdf
+abstract_source: null
+language: en
+pmid: null
+doi: 10.4236/ojped.2023.132019
+pmcid: null
+title: Premature Puberty Revealing an Ovarian Tumor in a Five-Year-Old Girl
+journal: Open Journal of Pediatrics
+year: 2023
+first_author: Kissou SLA
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 5 years
+alterations: []
+treatments:
+- regimen: left salpingo-oophorectomy without neoadjuvant or adjuvant chemotherapy
+  setting: surgery
+  n: 1
+  outcome: no event at 3 years
+presentation:
+- abdominal mass
+- breast development (Tanner II)
+- abdominal pain
+key_findings:
+- A 5-year-old girl in Bobo-Dioulasso, Burkina Faso had an abdominal mass for about 2 to 4 months (the text gives both), intermittent abdominal pain and breast enlargement noted earlier but not brought to medical attention; examination showed Tanner stage II.
+- Ultrasound showed a heterogeneous left ovarian mass of 206 x 145 mm and CT 162 x 153 x 100 mm; the uterus was enlarged for age (64 x 18 x 28 mm); no ascites; HCG, AFP, LH, FSH and estradiol were normal for age; inhibin could not be measured; bone age was not assessed.
+- Left salpingo-oophorectomy without chemotherapy was done; the tumour was classified FIGO stage Ia and pathology concluded juvenile granulosa tumor.
+- Secondary sexual characteristics began to regress about two months after surgery; hormone assays were not repeated for lack of funds; there was no event at a current follow-up of 3 years.
+- The authors note that estradiol was normal despite precocious pseudopuberty and suggest circadian variation or assay limits, and cite literature that large size, ascites and capsule rupture are poor prognostic factors.
+relevance_to_jgct: Resource-limited-setting case of a 5-year-old with a 16-20 cm JGCT, stage Ia, with precocious pseudopuberty and normal measured estradiol; surgery alone, disease free at 3 years.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The abstract says 4 months of abdominal enlargement, the case text says about 2 months. Histology is a single sentence (no immunohistochemistry or mitoses). Treatment and follow-up as stated; stage by FIGO 2000 reference.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  rupture: none
+  malignant_ascites: false
+  tumor_size_cm: 20.6
+  presentation:
+  - abdominal_mass_or_distension
+  - abdominal_pain
+  - precocious_puberty
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 36
+  notes: ultrasound size 206 x 145 mm; estradiol normal; inhibin not measured; rupture not mentioned (recorded none)

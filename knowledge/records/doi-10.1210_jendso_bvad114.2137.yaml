@@ -1,0 +1,43 @@
+source_id: 10.1210/jendso/bvad114.2137
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1210/jendso/bvad114.2137
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W4387361982
+language: en
+pmid: null
+doi: 10.1210/jendso/bvad114.2137
+pmcid: null
+title: 'THU509 Tapping Into The Potential Of Social Media To Understand Treatment Experiences Of Survivors Of Rare Cancers: Findings From The Granulosa Cell Tumor (GCT) Survivor Sisters Facebook Group Member Survey'
+journal: Journal of the Endocrine Society
+year: 2023
+first_author: null
+study_type: other
+tumor_site: ovary
+n_jgct_patients: 52
+age_range: null
+alterations: []
+treatments:
+- regimen: BEP (bleomycin, etoposide, cisplatin) among chemotherapy used
+  setting: adjuvant
+  n: null
+  outcome: BEP use fell from 47% (diagnosed before 2015) to 21% (after 2015); data reported for adult GCT
+presentation: []
+key_findings:
+- A 43-item online survey of members of the closed multinational GCT Survivor Sisters Facebook group, collected 2014 to 2019, had 744 respondents on average 4.4 years (SD 5.9) after diagnosis, including 52 with juvenile GCT.
+- Across the sample 67% reported stage I and 8% stage III-V at diagnosis; 30% of adult-type and 25% of juvenile-type respondents reported recurrent disease at survey completion.
+- Recurrence was more frequent when the tumour was ruptured (p<.001) or cut (p=.01).
+- Among adult-type respondents 48% had laparoscopic surgery and 19% had chemotherapy (most often for stage II-III); BEP use fell from 47% before 2015 to 21% after.
+- The authors conclude that treatment patterns reported by members are generally in line with clinical audits and that social-media communities are feasible research partners.
+relevance_to_jgct: Patient-reported survey that includes 52 survivors with JGCT and reports a 25% self-reported recurrence rate for them; most other figures are for adult-type or the combined sample.
+conflicts_with: []
+overlaps_with:
+- pmid-37011030
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction); Endocrine Society meeting abstract (OUP blocks scripts). Self-reported, unverified data; the full paper is pmid-37011030 (Cancer 2023), a separate record, so do not add counts. Stage and treatment figures mostly are not split by type in the abstract.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,88 @@
+source_id: 10.52611/confluencia.2026.1821
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.52611/confluencia.2026.1821
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://revistas.udd.cl/index.php/confluencia/article/download/1821/1168
+abstract_source: null
+language: es
+pmid: null
+doi: 10.52611/confluencia.2026.1821
+pmcid: null
+title: 'Juvenile testicular granulosa cell tumor in the neonatal period: diagnosis and management based on two clinical cases'
+journal: Revista Confluencia (Universidad del Desarrollo, Chile)
+year: 2026
+first_author: Bozzo Ahumada FP
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 2
+age_range: newborn; 1 month
+alterations: []
+treatments:
+- regimen: radical (inguinal) orchiectomy
+  setting: primary surgery
+  n: 2
+  outcome: good postoperative evolution; follow-up length not stated
+presentation:
+- unilateral cryptorchidism (intra-abdominal testis) with a solid-cystic lesion on ultrasound
+- raised AFP in one infant (> 1000), normal markers in the other
+key_findings:
+- 'Case A: a term newborn with an absent left scrotal testis; ultrasound at 48 hours showed a left intra-abdominal testis next to the bladder with a heterogeneous, vascularised solid-cystic lesion of about 1.5 cm, with normal AFP, LDH and beta-hCG.'
+- Case A underwent left inguinal orchiectomy; the intra-abdominal testis carried an indurated mass of about 14 mm, replaced almost completely by a non-encapsulated solid-cystic tumour without vascular invasion or spread to epididymis or cord; immunohistochemistry was positive for inhibin, calretinin, WT1 and FOXL2 and negative for SALL4 and beta-catenin; she/he was discharged at 24 hours.
+- 'Case B: a male infant aged 1 month with an absent right scrotal testis; ultrasound showed a right intra-abdominal testis of 2.0 x 1.4 x 2.0 cm, heterogeneous and hypoechoic with anechoic areas and flow, first read as possible yolk sac tumour; AFP was > 1000 (reference 0-5.8) with normal beta-hCG and LDH.'
+- Case B had a right scrotal mass 14 days later and underwent right orchiectomy with tumour resection and contralateral orchidopexy at 35 days of life; the testis was replaced by an ill-defined orange-yellow multicystic tumour; immunohistochemistry was positive for calretinin, inhibin A, BRG1 (SMARCA4) and WT1 and negative for SALL4, PLAP, glypican 3 and AFP, consistent with juvenile granulosa cell tumour.
+- Both infants were reported to have good postoperative evolution; follow-up duration, imaging surveillance and AFP normalisation are not reported.
+- The authors discuss that AFP can be physiologically raised in infants and that yolk sac tumour is the main differential, and cite (without reporting it themselves) a case of bilateral testicular JGCT controlled with GnRH-analogue therapy and registry series.
+relevance_to_jgct: Two neonatal/infant testicular JGCT cases, both with cryptorchidism and treated by orchiectomy; one had AFP > 1000 mimicking yolk sac tumour, resolved by immunohistochemistry (SALL4/glypican 3 negative).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Language read: Spanish. Published 2026 (received May, accepted July 2026). Case A sex is not stated explicitly (testicular tumour, so male). Staging is not given; no karyotype or genetic testing reported; FOXL2 stained only in case A (the paper does not say whether FOXL2 was tested in B). Follow-up time is not given for either infant.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: A
+  sex: M
+  age_years: 0
+  site: testis
+  stage: null
+  stage_system: null
+  rupture: null
+  malignant_ascites: null
+  mitoses_per_10hpf: null
+  tumor_size_cm: 1.4
+  presentation:
+  - scrotal_mass
+  syndrome: null
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  relapse_months: null
+  outcome: unknown
+  follow_up_months: null
+  notes: newborn; left intra-abdominal (cryptorchid) testis; markers normal; FOXL2, inhibin, calretinin, WT1 positive; 'good postoperative evolution', follow-up length not stated
+- id: B
+  sex: M
+  age_years: 0.08
+  site: testis
+  stage: null
+  stage_system: null
+  rupture: null
+  malignant_ascites: null
+  mitoses_per_10hpf: null
+  tumor_size_cm: 2.0
+  presentation:
+  - scrotal_mass
+  syndrome: null
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  relapse_months: null
+  outcome: unknown
+  follow_up_months: null
+  notes: 1 month old; right intra-abdominal testis; AFP > 1000; orchiectomy at 35 days with contralateral orchidopexy; 'good evolution', follow-up length not stated

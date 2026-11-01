@@ -9,6 +9,7 @@ import sys, re, os, html, urllib.request
 pmc = sys.argv[1]; pat = re.compile(sys.argv[2] if len(sys.argv) > 2 else r"juvenile[ -](type )?granulosa|JGCT", re.I)
 cache = sys.argv[3] if len(sys.argv) > 3 else "state/cache/supp"
 fn = os.path.join(cache, pmc + ".xml")
+os.makedirs(cache, exist_ok=True)
 if not os.path.exists(fn):
     for url in (f"https://www.ebi.ac.uk/europepmc/webservices/rest/{pmc}/fullTextXML",
                 f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id={pmc.replace('PMC','')}&retmode=xml"):

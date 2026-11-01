@@ -1,0 +1,70 @@
+source_id: 71fabf45e585
+source_type: url
+source_tier: peer_reviewed
+source_url: https://www.elsevier.es/es-revista-gaceta-mexicana-oncologia-305-articulo-tumor-celulas-granulosa-juvenil-del-X1665920113270151
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.elsevier.es/es-revista-gaceta-mexicana-oncologia-305-articulo-tumor-celulas-granulosa-juvenil-del-X1665920113270151
+abstract_source: null
+language: es
+pmid: null
+doi: null
+pmcid: null
+title: Juvenile granulosa cell tumor of the ovary associated with Maffucci syndrome [Tumor de células de la granulosa juvenil del ovario asociado a síndrome de Maffucci]
+journal: Gaceta Mexicana de Oncologia
+year: 2013
+first_author: Jaimes-Garcia Y
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 13 years
+alterations: []
+treatments:
+- regimen: complete surgical resection (laparotomy)
+  setting: primary surgery
+  n: 1
+  outcome: alive, disease free at just over 3 years
+presentation:
+- precocious/irregular pubertal development with menarche at 13 years
+- abdominopelvic mass found on examination
+- elevated estradiol
+key_findings:
+- A 13-year-old girl from Hidalgo, Mexico, with Maffucci syndrome (diagnosed in 2003 from soft-tissue haemangiomas, limb deformity and multiple enchondromas; cavernous haemangiomas of both hands resected in 2004) had menarche in November 2009 with irregular, frequent cycles and Tanner stage II breast and pubic hair.
+- In December 2009 an abdominopelvic mass was found; estradiol was 671 pg/mL with LH < 0.10 mU/mL and FSH < 0.10 mU/mL, AFP 4.6 UI/mL and beta-hCG 3.8 UI/mL; ultrasound showed a heterogeneous pelvic mass of 135 x 62 x 133 mm with marked vascularity, and CT a predominantly cystic lesion of 16.3 x 14.2 cm with multiple bone enchondromas.
+- Laparotomy on 11 December 2009 found a left ovarian tumour and two right paratubal cysts; pathology reported cystic granulosa cell tumour, with no tumour in the left tube, paratubal region, colonic gutters, diaphragms or omentum; the abstract states complete resection and stage IA (staging system not named).
+- Histology figure legend describes medium-sized cells with scant eosinophilic cytoplasm, ovoid nuclei with prominent nucleoli and grooves ('coffee beans').
+- At the time of writing she was alive and free of disease after a little over 3 years of follow-up; no adjuvant therapy is described.
+- The authors state that this was the only one of 5 granulosa cell tumours treated at their hospital in 10 years with this association, and cite roughly 10 reported cases of Maffucci syndrome with ovarian stromal tumour.
+relevance_to_jgct: 'Documented JGCT in a 13-year-old with Maffucci syndrome: stage IA, estradiol 671 pg/mL, complete resection, disease-free at just over 3 years; no molecular work-up.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Language read: Spanish. The cached text is the publisher''s HTML page with full article text. Side is inconsistent in the text: CT describes a lesion in the right iliac fossa/flank extending to the midline, laparotomy and pathology say left ovary. Histology description (nuclear grooves) is given only in a figure legend and no immunohistochemistry or mitotic count is reported; the ''juvenile'' label rests on the authors'' title and discussion. The extent of surgery (oophorectomy vs other) is not specified. Maffucci syndrome with JGCT is also cited by other records as a known association.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 13
+  site: ovary
+  stage: IA
+  stage_system: null
+  rupture: null
+  malignant_ascites: null
+  mitoses_per_10hpf: null
+  tumor_size_cm: 16.3
+  presentation:
+  - precocious_puberty
+  - menstrual_change
+  - abdominal_mass_or_distension
+  syndrome: Maffucci syndrome
+  surgery: unknown
+  chemotherapy: none described
+  chemo_setting: none
+  relapse: false
+  relapse_months: null
+  outcome: NED
+  follow_up_months: 36
+  notes: follow-up 'a little over 3 years'; estradiol 671 pg/mL; staging system not named; side inconsistent between CT description (right) and operation (left)

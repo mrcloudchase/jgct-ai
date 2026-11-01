@@ -1,0 +1,41 @@
+source_id: '41935983'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41935983/
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: PMC13199555
+abstract_source: null
+language: en
+pmid: '41935983'
+doi: 10.1007/s12672-026-04844-1
+pmcid: PMC13199555
+title: 'Clinicopathological and molecular characteristics of small cell carcinoma of the ovary, hypercalcemic type: three case reports.'
+journal: Discover oncology
+year: 2026
+first_author: Jiang W
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: 16-38 years (the three SCCOHT patients; no JGCT patients)
+alterations: []
+treatments: []
+presentation:
+- abdominal pain or pelvic mass (SCCOHT patients)
+- raised CA-125 and hypercalcemia (SCCOHT patients)
+key_findings:
+- Three patients (aged 19, 38 and 16 years) with small cell carcinoma of the ovary, hypercalcemic type (SCCOHT), all right-ovarian, were identified from one hospital's files (2019-2024); all had raised preoperative CA-125 (205.0, 72.8 and 137.4 U/mL) and hypercalcemia during disease progression. None had JGCT.
+- Two of the three (cases 1 and 2) were initially misdiagnosed at local hospitals as adult-type granulosa cell tumour (AGCT), not JGCT; case 1 (FIGO IC) died 13 months after initial diagnosis, case 2 (FIGO IIA) progressed and was lost to follow-up at 28 months, case 3 (FIGO IIIA1) was lost to follow-up at 3 months.
+- All three tumours showed complete loss of nuclear SMARCA4 (BRG1) and SMARCA2 (BRM) with retained SMARCB1 and ARID1A, diffuse WT1 N-terminus and vimentin, negative inhibin-alpha and calretinin, and SMARCA4 mutations on targeted sequencing (c.3934G>T p.Glu1312*; c.3215+1G>A; c.3168G>C p.Glu1056Asp plus c.4756C>T p.Gln1586*).
+- The authors state that differentiating SCCOHT from JGCT remains challenging because of overlapping immunohistochemical and morphological features, especially when hypercalcemia is present in JGCT.
+- The authors state that sex cord markers (inhibin-alpha, FOXL2, SF1) are not reliably expressed in SCCOHT, that nuclear SMARCA4 (BRG1) is absent in SCCOHT but present in AGCT and JGCT, and that JGCTs have shown mutations in FOXL2, AKT1, GNAS and DICER1 (their citation, not a finding of this study).
+- The authors' Table 4 lists JGCT as diffuse with follicular patterns, cells with abundant pale or eosinophilic cytoplasm and no nuclear grooves, positive for sex cord markers (calretinin, inhibin-alpha, FOXL2, SF1), against SCCOHT with sheets, follicle-like spaces, small cells with scant cytoplasm and large or rhabdoid cells, and loss of BRG1 and BRM.
+relevance_to_jgct: 'This paper is about a mimic, not JGCT. It reports no JGCT patient. Its relevance is for differential diagnosis: SCCOHT can resemble granulosa cell tumours (two of its three patients were first called adult-type GCT), and BRG1/BRM immunohistochemistry plus SMARCA4 testing separates it from JGCT, in which BRG1 is retained according to the authors.'
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Read in full in English (PMC text). The journal name and first author are not given in the cached text. The JGCT statements are in the Discussion and Table 4 and rest on the authors' literature citations, not on JGCT patients in this study. The text contains an OCR/typo 'JACT' in Table 4 for JGCT. Case 3 was diagnosed as SCCOHT from the start. Case series of three patients from Chongqing University Cancer Hospital.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,66 @@
+source_id: 10.17116/repro20212705148
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.17116/repro20212705148
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://doi.org/10.17116/repro20212705148
+abstract_source: null
+language: ru
+pmid: null
+doi: 10.17116/repro20212705148
+pmcid: null
+title: Hormone-producing juvenile-type granulosa cell tumor in childhood (clinical case)
+journal: Problemy Reproduktsii (Russian Journal of Human Reproduction)
+year: 2021
+first_author: Adamyan LV
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 1 year 6 months
+alterations: []
+treatments:
+- regimen: laparoscopic right adnexectomy with cyst puncture inside an endobag
+  setting: surgery
+  n: 1
+  outcome: follow-up not reported
+presentation:
+- lower abdominal pain for a month
+- breast swelling
+- estrogenised vulva
+- right pelvic-abdominal mass
+key_findings:
+- A girl aged 1 year 6 months came to the Morozov children's hospital gynaecology department (Moscow) with a month of intermittent lower abdominal pain and breast swelling; examination showed slight breast enlargement (Ma 1), an estrogenised vulva, and a rectally palpable pelvic mass up to 10 cm.
+- 'Ultrasound showed an enlarged uterus (like age 10-12 years, endometrium 5-6 mm) and a solid-cystic mass of 98 mm with blood flow; hormones: estradiol 1841.00 pmol/L, progesterone 17.18 nmol/L, 17-OH-progesterone 14.05 nmol/L, testosterone 0.82 ng/ml, prolactin 20.83 ng/ml; bone age 2 years; AFP 4.40 IU/ml, beta-hCG 0.27 mIU/ml, CA-125 34 U/ml; height SDS +2.8.'
+- Laparoscopy found an 85-90 mm right adnexal mass, no free fluid and a normal left ovary (20 x 18 x 25 mm); one fluid cavity was punctured inside an endobag and sealed, and right adnexectomy was done.
+- 'Histology: diffuse growth with solid fields and many follicular structures, uneven mitotic activity up to 6 mitoses per high-power field (x400) in foci, expression of calretinin, inhibin and S100; diagnosis juvenile-type granulosa cell tumor, ICD-O 8622/1; isosexual precocious pseudopuberty.'
+- No stage, adjuvant treatment or follow-up is reported; the authors state in the discussion, citing the literature, that stage I disease needs adnexectomy with contralateral ovary revision and surgical staging, and stages II-IV need postoperative chemotherapy.
+relevance_to_jgct: Toddler with a hormone-producing JGCT (estradiol 1841 pmol/L) and isosexual precocious puberty treated by laparoscopic adnexectomy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Language read: Russian (HTML full text). Stage, chirurgical staging steps beyond adnexectomy and outcome are not reported. Mitotic count is per high-power field (x400), not per 10 HPF. Laparoscopic cyst puncture was done deliberately in an endobag; rupture status not otherwise stated. Mass size is written ''10x85x90 mm'' in the text (likely a typo).'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 1.5
+  site: ovary
+  stage: null
+  rupture: unknown
+  malignant_ascites: false
+  mitoses_per_10hpf: null
+  tumor_size_cm: 9.8
+  presentation:
+  - abdominal_pain
+  - precocious_puberty
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: null
+  relapse: null
+  outcome: unknown
+  follow_up_months: null
+  notes: up to 6 mitoses per HPF x400 in foci; no free fluid; stage and follow-up not reported

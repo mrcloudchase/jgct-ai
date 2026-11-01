@@ -1,0 +1,67 @@
+source_id: 10.4067/s0717-95022010000200023
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.4067/s0717-95022010000200023
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: http://www.scielo.cl/pdf/ijmorphol/v28n2/art23.pdf
+abstract_source: null
+language: es
+pmid: null
+doi: 10.4067/s0717-95022010000200023
+pmcid: null
+title: 'Granulosa Cell Tumor of Testis, Juvenile Type: Case Report and Review of Literature'
+journal: International Journal of Morphology
+year: 2010
+first_author: Tapia EO
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: 3 months
+alterations: []
+treatments:
+- regimen: left orchiectomy
+  setting: primary surgery
+  n: 1
+  outcome: no evidence of disease at 8 months
+presentation:
+- left testicular enlargement noticed at the 2-month check
+- indurated painless left testicular mass of about 3 cm
+key_findings:
+- 'A male infant born at 34 weeks (Apgar 9 and 10) had an enlarged left testis noticed at the second-month check: an indurated, painless mass of about 3 cm without scrotal involvement; the right testis and penis were normal.'
+- Ultrasound showed a 25 x 35 x 20 mm testis with heterogeneous parenchyma, multiple anechoic spaces up to 14 mm and marked colour-Doppler vascularity; alpha-fetoprotein and beta-hCG were normal; CT of pelvis, abdomen and chest showed no secondary lesions.
+- Left orchiectomy gave a 15 g, 45 x 25 x 20 mm testis with parenchyma replaced by cysts of 3-15 mm with mucoid contents and yellowish-white solid areas.
+- Histology showed cystic follicle-like spaces lined by granulosa cells and filled with basophilic material, polyhedral cells with round to oval hyperchromatic nuclei without nuclear grooves, a mitotic count of 6 per 10 high-power fields, no Call-Exner bodies, surrounding spindle (theca-like) cells and remnant immature seminiferous tubules; the spermatic cord was unremarkable.
+- There were no postoperative complications and at 8 months after surgery the patient was well with no evidence of disease on chest, abdomen and pelvis CT.
+- The authors cite in their review that testicular JGCT has not been reported to recur or metastasise, that orchiectomy is considered curative, and that cited series report associated urogenital malformations in 17% and Y-chromosome anomalies in 20%.
+relevance_to_jgct: Classic infantile testicular JGCT (3 months, left testis, normal markers, 6 mitoses/10 HPF) cured by orchiectomy with 8 months of disease-free follow-up; immunohistochemistry and genetics not reported.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Language read: Spanish with English summary. Immunohistochemistry, karyotype and stage are not reported for this case (the immunophenotype in the discussion is from the literature). Mitotic count is stated as 6 per 10 high-power fields (dry high power). Page 2 text is partly interleaved with the discussion by the PDF extraction but all content was readable. No other record by these authors was found in the base.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: M
+  age_years: 0.25
+  site: testis
+  stage: null
+  stage_system: null
+  rupture: null
+  malignant_ascites: null
+  mitoses_per_10hpf: 6
+  tumor_size_cm: 4.5
+  presentation:
+  - scrotal_mass
+  syndrome: null
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  relapse_months: null
+  outcome: NED
+  follow_up_months: 8
+  notes: preterm 34 weeks; AFP and beta-hCG normal; CT no metastases; no IHC reported

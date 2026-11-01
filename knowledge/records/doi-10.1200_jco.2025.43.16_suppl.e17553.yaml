@@ -1,0 +1,44 @@
+source_id: 10.1200/jco.2025.43.16_suppl.e17553
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1200/jco.2025.43.16_suppl.e17553
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W4410814263
+language: en
+pmid: null
+doi: 10.1200/jco.2025.43.16_suppl.e17553
+pmcid: null
+title: 'Clinical and pathological insights from 164 patients with ovarian granulosa cell tumors: An 18-year real-world study from China.'
+journal: Journal of Clinical Oncology
+year: 2025
+first_author: null
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 18
+age_range: null
+alterations: []
+treatments:
+- regimen: postoperative chemotherapy
+  setting: adjuvant
+  n: 78
+  outcome: whole cohort of 164 GCT; effect on recurrence not significant
+presentation: []
+key_findings:
+- 'Retrospective study at West China Second University Hospital, surgery January 2001 to January 2018: 164 patients with granulosa cell tumours, 146 adult-type and 18 juvenile-type.'
+- Whole-cohort mean age was 44.24 +/- 15.13 years; FIGO stage I 132 (80.49%), II 16 (9.76%), III 5 (3.05%), IV 1 (0.61%).
+- After 19 to 146 months of follow-up, 4 patients (2.44%) died and 10 (6.10%) recurred (whole cohort).
+- FIGO stage was a significant risk factor for recurrence (P<0.001); pathological type, age, tumour size, fertility-sparing surgery, lymphadenectomy and chemotherapy were not significant for recurrence.
+- In univariate analysis pathological type (adult vs juvenile; P<0.001) was a risk factor for survival, along with tumour diameter, FIGO stage and pelvic lymphadenectomy; in Cox analysis only FIGO stage was independent for overall survival (P=0.003). The abstract does not give the direction of the type effect.
+- 88 patients had pelvic lymphadenectomy and none had nodal metastasis; the authors conclude lymphadenectomy may be unnecessary.
+relevance_to_jgct: Large single-centre Chinese series that includes 18 JGCT; the abstract gives no JGCT-specific stage, treatment or outcome numbers, only that histological type was associated with survival on univariate analysis.
+conflicts_with: []
+overlaps_with:
+- doi-10.21037_gpm-22-45
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction); ASCO meeting abstract; ASCO/Wolters Kluwer blocks scripts. All numbers except n=18 refer to the combined adult and juvenile cohort. Same hospital as doi-10.21037_gpm-22-45 (JGCT 2013-2022); overlap of patients is likely but not stated.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

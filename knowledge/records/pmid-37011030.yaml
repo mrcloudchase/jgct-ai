@@ -50,7 +50,8 @@ key_findings:
 - Authors conclude this is one of the largest treatment surveys of GCT and that treatment patterns are in line with clinical audits; they caution about self-report, selection and survival bias.
 relevance_to_jgct: Patient self-report survey of aGCT and jGCT; 52 jGCT respondents give a patient-reported view of age, stage, tumor size, surgery and early recurrence in jGCT. Not verified against medical records.
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- doi-10.1210_jendso_bvad114.2137
 superseded_by: null
 retracted: false
 notes: 'Social-media survey; no clinical verification. Text says 744 completed and 743 analyzed (one removed). The abstract''s ''25% jGCT recurrent'' matches the text (n=13). Table 4 column values for the ''Type of disease'' row appear mislabeled in the published table (aGCT row shows 691/483/208). Open-access copy hosted by University of Adelaide. Full-text rule: patients'' own report, not forum content as a source.'

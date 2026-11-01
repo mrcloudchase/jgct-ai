@@ -2,14 +2,14 @@ source_id: '27993794'
 source_type: pmid
 source_tier: guideline
 source_url: https://pubmed.ncbi.nlm.nih.gov/27993794/
-retrieved_on: '2026-10-30'
-evidence_basis: abstract
-full_text_source: null
-abstract_source: https://pubmed.ncbi.nlm.nih.gov/27993794/
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: PMC6246130
+abstract_source: null
 language: en
 pmid: '27993794'
 doi: 10.1093/annonc/mdw662
-pmcid: null
+pmcid: PMC6246130
 title: 'Fifth Ovarian Cancer Consensus Conference of the Gynecologic Cancer InterGroup (GCIG): clinical trial design for rare ovarian tumours.'
 journal: 'Annals of oncology : official journal of the European Society for Medical Oncology'
 year: 2017
@@ -22,16 +22,20 @@ alterations: []
 treatments: []
 presentation: []
 key_findings:
-- GCIG fifth Ovarian Cancer Consensus Conference (Tokyo, November 2015) statements on trial design for rare ovarian tumours including sex-cord stromal tumours (SCST).
-- Lack of randomised phase III data defining standards of care; internationally agreed diagnostic criteria, expert pathological review and translational research are crucial.
-- For SCSTs, validated prognostic markers and alternatives to the current standard of bleomycin/etoposide/cisplatin (BEP) should be identified.
-- Randomised trials are considered feasible through international collaboration; ongoing trials have demonstrated feasibility of RCT in SCST.
-relevance_to_jgct: International consensus that BEP is the current SCST standard and that alternatives and prognostic markers are research priorities; not JGCT-specific in the abstract.
+- Consensus statements from working group C of the fifth Ovarian Cancer Consensus Conference of the Gynecologic Cancer InterGroup (Tokyo, 7-9 November 2015; 99 delegates, 29 member groups) on designing clinical trials in rare epithelial ovarian cancers, germ cell tumours (GCT) and sex cord-stromal tumours (SCST). The text never mentions juvenile granulosa cell tumour or distinguishes juvenile from adult type, and does not discuss children specifically for SCST.
+- The authors give an incidence of 0.2 per 100,000 per year for SCST, 2%-3% of ovarian malignancies (same figures as GCT), and classify GCT and SCST as rare diseases (incidence below 6-15 per 100,000 per year). They state that most SCST have a good prognosis and present early, and that two thirds present at stage I, where surgery is the cornerstone.
+- 'Research priorities for SCST (Table 2 and Statement 2): an urgently needed prognostic system incorporating histological parameters, which high-risk SCST need adjuvant systemic treatment, effective alternatives to first-line BEP, the role of post-operative chemotherapy or hormonal therapy after resection of relapse, and novel targeted therapies for relapsed SCST.'
+- The authors state that studies are needed on whether pre-operatively ruptured stage IC granulosa cell tumours benefit from adjuvant chemotherapy; a histological risk-stratification score was suggested for stage IC SCST, and trials of systemic treatment versus observation in stage IC granulosa cell tumours stratified by histological features could define risk-adapted management. There is no consensus on the prognostic value of histological pattern, mitotic index, atypia, p53 overexpression, or FOXL2 and DICER1 mutations (for granulosa and Sertoli-Leydig tumours respectively). The small numbers and indolent course (median time to relapse of 5 years, as the authors state) make such trials challenging.
+- 'Treatment statements for SCST: post-operative chemotherapy may be offered for stage II-IV disease and for stage I poorly differentiated Sertoli-Leydig tumours with heterologous elements or retiform component, but no prospective data support adjuvant chemotherapy for stage II-IV in the absence of macroscopic disease. BEP has long been the default; carboplatin and paclitaxel is also active, without prospective comparison to BEP (the authors cite two retrospective reports). Repeat resection is offered for recurrence when feasible, with no standard for unresectable metastatic disease. A GOG trial was ongoing.'
+- 'Trial feasibility: the authors state phase III trials are unrealistic in SCST but randomised phase II trials are possible with strong international cooperation. The phase II ALIENOR trial (chemotherapy with or without bevacizumab in recurrent SCST, NCT01770301) had randomised 48 of a planned 60 patients in under 3 years, which they cite as evidence of feasibility. Possible randomised designs: first-line BEP versus carboplatin alone or with paclitaxel, or post-operative chemotherapy versus hormonal therapy after resection of recurrence; the challenge is the number of patients needed in this slow-growing disease. Overall survival may be an unrealistic endpoint in slow-growing tumours such as SCST.'
+- 'General recommendations for rare ovarian tumours: harmonised international histopathological diagnostic criteria and expert pathological review before trial or registry entry; international registries with clinical samples and tumour banks; prospective single-arm studies with common data elements allowing pooled analysis; individual-patient meta-analyses; translational and molecular characterisation; and Bayesian designs that borrow prior external data to strengthen small randomised trials.'
+- 'Paediatric points (GCT, not SCST): the authors state that pre-menarchal girls with ovarian GCT receive JEB (bleomycin, etoposide, carboplatin) rather than BEP, and that randomised trials in poor-prognosis or relapsed GCT may best be run as a subset of male and/or paediatric germ cell studies; this is the only paediatric-specific content in the text.'
+relevance_to_jgct: International consensus on research priorities and trial feasibility for sex cord-stromal tumours, including whether ruptured stage IC granulosa cell tumours need chemotherapy; not specific to JGCT (the text never names the juvenile type), and its granulosa statements largely reflect adult-type disease.
 conflicts_with: []
 overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Abstract only; Europe PMC/PMC full-text fetch failed (HTTP 500 / publisher-restricted). JGCT is not named in the abstract; SCST statements apply to the group. Written from the abstract only (restored 2026-10-31 under the abstract rule); full text not obtainable by any open route.
+notes: Upgraded on 2026-11-01 from an abstract record; the full text (PMC6246130, PMC website) was read in full this run, including the sections on rare epithelial (low grade serous, clear cell, mucinous) and germ cell tumours, all four tables and the statements. Rare epithelial content is not relevant to JGCT and is not summarised. Statements about granulosa cell tumours are not separated by type. Trial and incidence figures are the authors' own or cited from their references and are not pooled with other records. Supplementary material not applicable.
 review_status: draft
 reviewed_by: null
 reviewed_on: null

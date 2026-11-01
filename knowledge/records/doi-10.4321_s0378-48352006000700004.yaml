@@ -1,0 +1,45 @@
+source_id: 10.4321/s0378-48352006000700004
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.4321/s0378-48352006000700004
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W1999994310
+language: es
+pmid: null
+doi: 10.4321/s0378-48352006000700004
+pmcid: null
+title: 'Tumor de células de la granulosa ovárico (TCG) juvenil: a propósito de un caso [Juvenile ovarian granulosa cell tumour: a case]'
+journal: Oncología (Barcelona)
+year: 2006
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 36 years
+alterations: []
+treatments: []
+presentation:
+- recurrence
+key_findings:
+- The report presents a 36-year-old woman with a recurrence of a tumour the authors call juvenile ovarian granulosa cell tumour, with its therapeutic approach and current situation, plus a literature review.
+- The authors conclude that surgery is the standard therapy and chemotherapy is reserved for particular cases.
+relevance_to_jgct: Spanish case of a recurrent tumour labelled juvenile GCT in a 36-year-old; the abstract gives no pathology or treatment details, so the classification cannot be assessed (age is atypical for JGCT).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Written from the abstract only (OpenAlex reconstruction); Very short abstract: no stage, histology, interval to recurrence, treatment or outcome. A JGCT label at age 36 may reflect older terminology or misclassification; the full text should be checked.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 36
+  site: ovary
+  relapse: true
+  surgery: unknown
+  outcome: unknown
+  notes: Age at report/recurrence 36 (age at original diagnosis not stated).

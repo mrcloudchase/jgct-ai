@@ -1,0 +1,68 @@
+source_id: 10.11437/sanpunosinpo1949.41.783
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.11437/sanpunosinpo1949.41.783
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.jstage.jst.go.jp/article/sanpunosinpo1949/41/6/41_6_783/_pdf/-char/ja
+abstract_source: null
+language: ja
+pmid: null
+doi: 10.11437/sanpunosinpo1949.41.783
+pmcid: null
+title: A case of juvenile granulosa cell tumor of the ovary
+journal: Sanpu no Shinpo (Obstet Gynecol Progress)
+year: 1989
+first_author: Takemura T
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 7 years
+alterations: []
+treatments:
+- regimen: left ovariectomy (unilateral, age considered), then adjuvant cisplatin 100 mg, cyclophosphamide 1000 mg, mitomycin 8 mg i.v. because tumour cells were in ascites
+  setting: primary surgery plus adjuvant
+  n: 1
+  outcome: no recurrence signs at more than 3.5 years
+presentation:
+- small-volume vaginal bleeding
+- slight breast enlargement, mild clitoral enlargement, no pubic or axillary hair
+- lower abdominal fist-sized firm mass
+key_findings:
+- A 7-year-old premenarchal girl (height 131 cm, weight 31 kg) presented in May with small vaginal bleeding, slight breast enlargement, no pubic or axillary hair and a mildly enlarged clitoris; a firm fist-sized lower abdominal mass was palpable.
+- Pelvic ultrasound and CT showed an 11.0 x 9.3 x 6.0 cm mostly solid tumour with some cystic parts, a 5.1 cm uterus with thickened endometrium and no ascites. Estradiol was 87.4 pg/ml, testosterone 59.7 ng/ml (as printed), LH 7.5 mIU/ml, FSH 2.7 mIU/ml, AFP 7 ng/ml.
+- At laparotomy in June about 30 ml of clear yellow ascites was present; the left ovary was a fist-sized solid tumour without adhesion. The surgeons removed only the left ovary because of her age. The resected tumour measured 12 x 7.5 x 5 cm with an intact capsule.
+- Histology showed follicular and solid areas with granulosa-type cells (mitoses 16-18 per 10 HPF in follicular parts, 7-11 per 10 HPF in solid parts, no abnormal mitoses, no Call-Exner bodies) surrounded by spindle theca-type cells (1-5 mitoses per 10 HPF); estradiol was positive and prolactin negative by enzyme-antibody staining. Tumour cells were present in ascites and the authors call the case stage Ic.
+- Postoperatively she received cisplatin 100 mg, cyclophosphamide 1000 mg and mitomycin 8 mg i.v.; estradiol fell to 10.0 pg/ml or below, and there was no sign of recurrence more than 3.5 years after surgery.
+- The paper emphasises the cytology of ascites and imprint smears (two cell types, moderate N/C ratio, mildly enlarged nucleoli) and states, citing others, that JGCT recurrences occurred within 3 years; the authors consider the cisplatin-containing chemotherapy to have been meaningful, an inference rather than something shown.
+relevance_to_jgct: Early Japanese JGCT with detailed histology and the first ascitic-fluid cytology the authors found in the literature; stage Ic, unilateral oophorectomy plus platinum chemotherapy, NED at 3.5 years.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Japanese with English abstract; OCR text legible with spacing between characters. Year of onset is blank in the extracted text; the paper was received May 1989 and the presentation date is May of that year. Testosterone value 59.7 'ng/ml' is as printed (probably pg/ml). Chemotherapy schedule and number of courses not stated. Cited by the record doi-10.5795_jjscc.31.74 (a different patient).
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 7
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: none
+  malignant_ascites: true
+  mitoses_per_10hpf: 18
+  tumor_size_cm: 12
+  presentation:
+  - virilization
+  - abdominal_mass_or_distension
+  - other
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: cisplatin 100 mg, cyclophosphamide 1000 mg, mitomycin 8 mg i.v.
+  chemo_setting: adjuvant
+  relapse: false
+  outcome: NED
+  follow_up_months: 42
+  notes: oophorectomy of the left ovary; tumour cells in ascites; mitoses 16-18/10 HPF in follicular part (up to 18 recorded); estradiol 87.4 pg/ml; also vaginal bleeding and mild clitoral enlargement

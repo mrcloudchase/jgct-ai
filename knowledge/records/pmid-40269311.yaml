@@ -3,32 +3,57 @@ source_type: pmid
 source_tier: peer_reviewed
 source_url: https://pubmed.ncbi.nlm.nih.gov/40269311/
 retrieved_on: '2026-10-31'
-evidence_basis: abstract
-full_text_source: null
-abstract_source: https://pubmed.ncbi.nlm.nih.gov/40269311/
+evidence_basis: full_text
+full_text_source: PMC12152133
+abstract_source: null
 language: en
 pmid: '40269311'
-doi: 10.1093/annonc/mdy001
-pmcid: PMC9115029
-title: Single-cell profiling in ovarian germ cell and sex cord-stromal tumours
+doi: 10.1038/s41416-025-03012-6
+pmcid: PMC12152133
+title: Single-cell profiling in ovarian germ cell and sex cord-stromal tumours.
 journal: British journal of cancer
 year: 2025
 first_author: Laga T
 study_type: genomic
 tumor_site: ovary
-n_jgct_patients: 1
-age_range: null
+n_jgct_patients: 9
+age_range: 5 years (single-cell sample)
 alterations: []
-treatments: []
+treatments:
+- regimen: fertility-sparing surgery (R0), follow-up only
+  setting: primary
+  n: 1
+  outcome: complete remission, no recurrence, 42 months
 presentation: []
 key_findings:
-- 'Single-cell RNA sequencing of 66,919 cells from 12 ovarian germ cell and sex cord-stromal tumors (7 adult granulosa, 1 juvenile granulosa, 1 Sertoli-Leydig, 2 immature teratoma, 1 dysgerminoma): dysgerminoma showed an immune-activated microenvironment; adult granulosa cell tumors a fibroblast-rich immune-desert phenotype with immunosuppressive macrophages; the juvenile tumor''s profile is not described in the abstract.'
-relevance_to_jgct: One JGCT in the first single-cell atlas of ovarian stromal tumors.
+- 'Leuven study (approved s64996, written consent) of fresh biopsies taken May 2020 to March 2023: scRNA-seq of 66,919 cells from 12 samples (7 adult granulosa cell tumours [4 treatment-naive, 3 recurrent], 1 juvenile granulosa cell tumour, 1 Sertoli-Leydig, 2 immature teratoma, 1 dysgerminoma). Validation: PD-L1 combined positive score (CPS, 22C3 antibody; negative below 10, positive 10 or above) on archived FFPE tissue from 46 ovarian germ cell tumours and 66 SCST (41 adult granulosa, 9 juvenile granulosa, 16 Sertoli-Leydig; Leuven and Hospital Clinico San Carlos, Spain), and bulk RNA-seq of 32 frozen samples (27 adult granulosa, 5 dysgerminoma).'
+- The single juvenile tumour (P11) was a treatment-naive primary in a 5-year-old, FIGO 2014 stage IA, treated with fertility-sparing surgery, R0, follow-up only; complete remission, no recurrence, 42 months of follow-up, CPS 0 in the table.
+- In the single-cell data the juvenile sample had a higher fraction of myeloid cells than the adult granulosa samples (17% versus 6%). In both adult and juvenile granulosa tumours the authors found extremely low abundance of T cell subclusters, which they describe as an immune desert; the most abundant myeloid cells in all granulosa samples, including the juvenile one, were anti-inflammatory C7_CX3CR1 and C8_LYVE1 macrophages. Granulosa tumours had the highest fractions of endothelial cells and cancer-associated fibroblasts; no separate juvenile fibroblast result is given.
+- Adult granulosa tumours (treatment-naive samples averaged 4% T/NK cells and 6% myeloid cells; recurrent 3% T/NK cells) had a fibroblast-dominated, immune-desert microenvironment with low cytotoxicity; the dysgerminoma was immune-hot with PD-1 exhausted T cells. IHC on the single-cell samples confirmed absent CD3 and CD20 staining, weak CD68 and negative Granzyme B in all granulosa samples.
+- 'PD-L1: among the 112 tumours only pure dysgerminomas (n = 13) expressed PD-L1, with a median CPS of 22.4; all SCST had near-zero expression (CPS below 10). The paper gives no separate CPS figures for the 9 juvenile granulosa tumours beyond this statement for SCST as a group and the CPS of 0 for the single-cell juvenile sample.'
+- 'Bulk RNA-seq compared low-CPS (26 granulosa and 2 dysgerminoma) with high-CPS samples (3 dysgerminoma): low-CPS samples showed oxidative phosphorylation, oestrogen response and EMT pathways; ConsensusTME deconvolution confirmed low immune scores in granulosa tumours, with a few early-stage outliers (Rec9, rec19, Prim15) showing higher T cell expression despite negative CPS; TP53 staining was negative. Bulk RNA-seq did not include juvenile tumours.'
+- 'The authors state that the immune-suppressive microenvironment of adult granulosa tumours likely limits immunotherapy response, and cite (not their own data) that checkpoint inhibitors have shown no efficacy in SCST and that a TGF-beta inhibitor (livmoniplimab) with anti-PD-1 shrank tumours in 4 of 4 adult granulosa patients in a phase I abstract. Limitations stated: small sample size, few patients per subgroup, most SCST samples early stage, and cell-communication results dominated by adult granulosa samples.'
+relevance_to_jgct: One juvenile granulosa cell tumour (5 years, stage IA) in the first single-cell atlas of ovarian stromal tumours; it shares the immune-desert, anti-inflammatory macrophage profile of adult tumours, and the 9 juvenile tumours in the CPS cohort were PD-L1 negative as part of SCST. A single sample cannot define a juvenile-specific profile.
 conflicts_with: []
 overlaps_with: []
 superseded_by: null
 retracted: false
-notes: Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+notes: Upgraded on 2026-11-01 from an abstract record; full text (PMC12152133) read in full this run. n_jgct_patients is 9, the number of juvenile granulosa tumours in the CPS cohort; the single-cell patient P11 may be one of them but the paper does not say, so the total could be up to 10. Only P11 has individual data. Supplementary tables (S1-S5, Table S2 listing the cohort) were not available in the text. Cohort also contributed treatment-naive and recurrent adult-type samples whose data are not extracted as patients here. The full text does not report FOXL2 or other mutation status.
 review_status: draft
 reviewed_by: null
 reviewed_on: null
+patients:
+- id: P11_jGSCT_prim
+  sex: F
+  age_years: 5
+  site: ovary
+  stage: IA
+  stage_system: FIGO 2014
+  presentation: []
+  surgery: other
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 42
+  notes: treatment-naive primary; fertility-sparing surgery, R0; adjuvant listed as follow-up only; complete remission; Table 1 gives overall survival column 42 months (taken as follow-up) and CPS 0; surgery type described only as fertility-sparing

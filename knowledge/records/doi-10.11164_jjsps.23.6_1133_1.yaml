@@ -1,0 +1,59 @@
+source_id: 10.11164/jjsps.23.6_1133_1
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.11164/jjsps.23.6_1133_1
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.jstage.jst.go.jp/article/jjsps/23/6/23_KJ00003309406/_pdf/-char/ja
+abstract_source: null
+language: ja
+pmid: null
+doi: 10.11164/jjsps.23.6_1133_1
+pmcid: null
+title: '[A case of pediatric ovarian granulosa cell tumor presenting as acute abdomen] (meeting abstract 49)'
+journal: Nihon Shoni Geka Gakkai Zasshi (J Jpn Soc Pediatr Surg), meeting abstracts
+year: 1987
+first_author: Harada T
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 7 years
+alterations: []
+treatments:
+- regimen: removal of the torsed right ovarian tumour (extent not further specified)
+  setting: emergency laparotomy
+  n: 1
+  outcome: follow-up not reported
+presentation:
+- sudden night-time abdominal pain (suspected appendicitis)
+- torsion of right ovarian tumour
+key_findings:
+- A 7-year-old girl developed sudden abdominal pain at night and was referred for suspected appendicitis; ultrasound showed a solid right ovarian tumour.
+- At laparotomy a 4.5 x 3.5 x 2.5 cm, 55 g right ovarian tumour that had twisted on its pedicle was removed; pathology was juvenile granulosa cell tumor, Stage Ia, and no hormonal abnormality was found.
+- The authors state that granulosa cell tumour accounts for about 10% of paediatric solid ovarian tumours and is rare in children.
+relevance_to_jgct: Small stage Ia JGCT in a 7-year-old presenting as torsion with an acute abdomen and no hormonal abnormality.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Meeting abstract (Nagoya University Branch Hospital and Aichi Colony Central Hospital); the page contains several other unrelated abstracts. The word translated 'removed' (摘除) does not say whether the ovary was removed, so surgery is recorded as unknown; follow-up and chemotherapy are not stated.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 7
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  rupture: null
+  tumor_size_cm: 4.5
+  presentation:
+  - torsion
+  - abdominal_pain
+  surgery: unknown
+  chemotherapy: null
+  chemo_setting: null
+  outcome: unknown
+  notes: no hormonal abnormality; right ovarian tumour 55 g; follow-up not reported

@@ -1,0 +1,52 @@
+source_id: 670c73814ffc
+source_type: url
+source_tier: other
+source_url: http://www.theses.fr/2006MON1T010
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W563934436
+language: fr
+pmid: null
+doi: null
+pmcid: null
+title: 'Tumeurs juvéniles de la granulosa : analyse moléculaire de la Gαs et des gènes de la détermination gonadique [Juvenile granulosa tumours: molecular analysis of Gαs and gonadal determination genes]'
+journal: Doctoral thesis (theses.fr, 2006)
+year: 2006
+first_author: null
+study_type: genomic
+tumor_site: both
+n_jgct_patients: 46
+age_range: null
+alterations:
+- gene: GNAS (Gsα)
+  alteration: activating mutations R201H and R201C
+  frequency: 30% of tumours
+  notes: described as a major prognostic factor for recurrence and locoregional extension
+- gene: FOXL2
+  alteration: extinction of expression
+  frequency: null
+  notes: in tumours with aggressive behaviour
+- gene: SOX9/FOXL2
+  alteration: dysregulated expression
+  frequency: null
+  notes: possible transdifferentiation of Sertoli cells into tumour granulosa cells in 3 XY patients with testicular granulosa cell tumour
+treatments: []
+presentation: []
+key_findings:
+- A national multicentre study with the Societe Francaise des Cancers de l'Enfant and 8 paediatric endocrinology centres included 46 patients.
+- Laser microdissection, selective amplification and sequencing found activating Gsα mutations (R201H, R201C) in 30% of the tumours, which the author describes as a major prognostic factor for recurrence and locoregional extension.
+- A PNA-clamping method for detecting these mutations was shown to be efficient and reliable, and was also applied to a series of 150 DNAs from McCune-Albright syndrome.
+- Loss of FOXL2 expression occurred in tumours with aggressive behaviour.
+- SOX9 and FOXL2 expression was dysregulated, with possible transdifferentiation of Sertoli cells into tumour granulosa cells in 3 XY patients with testicular granulosa cell tumour.
+relevance_to_jgct: Thesis behind the first French paediatric JGCT Gsα (GNAS) mutation series (30%), including testicular cases and the FOXL2 loss in aggressive tumours.
+conflicts_with: []
+overlaps_with:
+- pmid-16507630
+- pmid-17430735
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction); French thesis, no open full text found. The 46-patient cohort likely overlaps with Kalfa 2006 (pmid-16507630, 30 patients) and Kalfa 2007 (pmid-17430735, 26 patients); do not add counts. Whether all 46 have the juvenile type is not explicit in the abstract. tumor_site 'both' because 3 testicular tumours are mentioned.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

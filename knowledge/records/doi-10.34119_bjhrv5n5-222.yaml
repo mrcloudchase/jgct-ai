@@ -1,0 +1,56 @@
+source_id: 10.34119/bjhrv5n5-222
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.34119/bjhrv5n5-222
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W4306796492
+language: pt
+pmid: null
+doi: 10.34119/bjhrv5n5-222
+pmcid: null
+title: 'Relato de caso tumor de celulas da granulosa juvenil de ovario [Case report: juvenile granulosa cell tumour of the ovary]'
+journal: Brazilian Journal of Health Review
+year: 2022
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 6 years
+alterations: []
+treatments:
+- regimen: surgery
+  setting: primary surgery
+  n: 1
+  outcome: null
+presentation:
+- non-specific progressive abdominal pain for one month
+- suspect hypogastric mass of probable right adnexal origin
+- free fluid in the abdominal cavity
+key_findings:
+- A 6-year-old girl had non-specific, progressive abdominal pain for one month.
+- Imaging showed a suspicious hypogastric mass of probable right adnexal origin with free fluid in the abdominal cavity.
+- After surgery, pathology and immunohistochemistry showed a juvenile granulosa cell tumour.
+- The authors state that JGCT has a good prognosis at early stages but a risk of metastatic malignant progression when advanced or diagnosed late.
+relevance_to_jgct: Brazilian paediatric JGCT case (age 6) with abdominal pain, adnexal mass and free fluid.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction); Portuguese abstract. Stage, tumour size, hormones, further treatment and outcome not stated.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 6
+  site: ovary
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  - ascites
+  surgery: unknown
+  outcome: unknown
+  notes: Right adnexal mass with free fluid; stage and follow-up not stated.

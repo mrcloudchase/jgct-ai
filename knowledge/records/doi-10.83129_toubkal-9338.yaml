@@ -1,0 +1,73 @@
+source_id: 10.83129/toubkal-9338
+source_type: doi
+source_tier: other
+source_url: https://doi.org/10.83129/toubkal-9338
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.83129/toubkal-9338
+language: fr
+pmid: null
+doi: 10.83129/toubkal-9338
+pmcid: null
+title: '[Juvenile granulosa tumors of the ovary: two cases]'
+journal: Thèse de médecine, Université Mohammed V, Faculté de Médecine et de Pharmacie, Rabat
+year: 2010
+first_author: Moumene H
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: 3 and 14 years
+alterations: []
+treatments:
+- regimen: unilateral oophorectomy removing the tumour in both patients; chemotherapy in one patient (regimen not stated); no radiotherapy
+  setting: surgery in both; chemotherapy adjuvant then palliative in the relapsed patient
+  n: 2
+  outcome: one postoperative recurrence, treated with chemotherapy first adjuvant then palliative
+presentation:
+- precocious pseudopuberty
+- increased abdominal volume
+key_findings:
+- Thesis summary (Rabat, Morocco) of two juvenile granulosa cell tumors diagnosed at the Rabat children's hospital; the patients were aged 3 and 14 years.
+- Main revealing signs were precocious pseudopuberty and increased abdominal volume; tumour diameter was 20 and 6 cm on ultrasound.
+- Abdominal CT in both patients and MRI in one confirmed the ovarian origin; estradiol was normal while FSH and LH were low; inhibin and anti-Mullerian hormone were not measured.
+- By FIGO the patients were classified IIIb and Ia respectively; pathology of both specimens showed juvenile-type granulosa tumors.
+- Both patients had unilateral oophorectomy removing the tumour; chemotherapy was indicated in one patient and neither had radiotherapy; one case relapsed after surgery and received chemotherapy, first adjuvant and then palliative.
+relevance_to_jgct: Two-patient Moroccan thesis series; the repository offers only the summary page, so this is an abstract-level record. Which patient received chemotherapy and relapsed is not stated in the summary.
+conflicts_with: []
+overlaps_with:
+- doi-10.83129_toubkal-11437
+- doi-10.83129_toubkal-6511
+superseded_by: null
+retracted: false
+notes: 'Abstract (French) from the Toubkal repository page. Same 2010 thesis as doi-10.83129_toubkal-11437 (identical abstract text): do not count twice. Possible overlap with the 2016 Rabat thesis (doi-10.83129_toubkal-6511), see that record.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 3
+  site: ovary
+  stage: IIIB
+  stage_system: FIGO (pre-2014)
+  tumor_size_cm: 20
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: oophorectomy
+  outcome: unknown
+  notes: stage/size assigned by the summary's 'respectively' order; which patient relapsed/received chemotherapy not stated
+- id: '2'
+  sex: F
+  age_years: 14
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  tumor_size_cm: 6
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: oophorectomy
+  outcome: unknown
+  notes: stage/size assigned by the summary's 'respectively' order; which patient relapsed/received chemotherapy not stated

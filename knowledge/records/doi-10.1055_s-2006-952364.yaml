@@ -1,0 +1,69 @@
+source_id: 10.1055/s-2006-952364
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1055/s-2006-952364
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W2559884937
+language: de
+pmid: null
+doi: 10.1055/s-2006-952364
+pmcid: null
+title: Juveniler Granulosazelltumor mit ausgeprägter Aszitesbildung ohne peritoneale Tumormanifestation–ein Fallbericht
+journal: Geburtshilfe und Frauenheilkunde
+year: 2006
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 23 years
+alterations: []
+treatments:
+- regimen: laparoscopic tumour biopsy and ascites drainage, then unilateral oophorectomy; no adjuvant chemotherapy
+  setting: primary surgery
+  n: 1
+  outcome: not stated
+presentation:
+- 3 months of secondary amenorrhoea
+- persistent lower abdominal pain
+- distended abdomen with abundant ascites (more than 5 l)
+- 6x4x3 cm cystic-solid right ovarian tumour
+key_findings:
+- A 23-year-old nullipara with 3 months of secondary amenorrhoea and persistent lower abdominal pain had a distended abdomen with abundant ascites and a 6x4x3 cm cystic-solid right ovarian tumour on vaginal ultrasound.
+- Laparoscopy yielded a tumour biopsy and more than 5 l of ascites; neither cytology nor frozen section showed malignancy, and immunohistochemistry raised suspicion of a granulosa cell tumour.
+- A second operation with unilateral oophorectomy found an otherwise normal genital tract and abdomen; final histology confirmed a granulosa cell tumour (the title calls it juvenile; the abstract text does not repeat the subtype).
+- Repeated ascites examinations showed no malignant cells, so adjuvant chemotherapy was omitted.
+- The authors highlight the discrepancy between an early tumour stage and the huge ascites, whose cause is unknown, and advise short-interval follow-up with systemic chemotherapy as a therapeutic option; follow-up results are not reported.
+- The authors cite general figures (granulosa cell tumours 70% of sex cord tumours; about 5% recurrence within 3 years; adverse factors of higher stage, size over 10-15 cm, high mitotic index and higher age); these are not findings of the case.
+relevance_to_jgct: Adult-age (23 years) ovarian JGCT presenting with amenorrhoea and massive benign-cytology ascites, managed by unilateral oophorectomy without chemotherapy.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction of the publisher abstract); the publisher (Thieme) blocks automated access to the full text. Stage is not given numerically (the authors call it early, without peritoneal spread); no outcome or follow-up length; size of final specimen not stated beyond the 6x4x3 cm ultrasound size.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 23
+  site: ovary
+  stage: null
+  stage_system: null
+  rupture: null
+  malignant_ascites: false
+  presentation:
+  - menstrual_change
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  - ascites
+  syndrome: null
+  surgery: oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: null
+  outcome: unknown
+  follow_up_months: null
+  notes: more than 5 l ascites, repeated cytology negative; no peritoneal spread; ultrasound size 6x4x3 cm (not entered as tumour_size_cm); follow-up not reported

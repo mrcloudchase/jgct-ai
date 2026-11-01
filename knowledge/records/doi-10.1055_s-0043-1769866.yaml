@@ -1,0 +1,67 @@
+source_id: 10.1055/s-0043-1769866
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1055/s-0043-1769866
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W4384009363
+language: de
+pmid: null
+doi: 10.1055/s-0043-1769866
+pmcid: null
+title: Juveniler Granulosazelltumor in einer Geminischwangerschaft
+journal: Geburtshilfe und Frauenheilkunde
+year: 2023
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 35 years
+alterations: []
+treatments:
+- regimen: left adnexectomy at planned repeat caesarean section (34+2 weeks), cytology and biopsy of right ovary
+  setting: primary surgery
+  n: 1
+  outcome: pT1a R0; guideline-recommended completion surgery declined by the patient
+presentation:
+- twin pregnancy (DCDA) at 33+3 weeks
+- 17x15 cm cystic-solid, well-circumscribed, hypervascularised ovarian tumour on ultrasound
+- CA-125 mildly raised (46.9 U/ml)
+key_findings:
+- A 35-year-old woman (IV gravida, II para, DCDA twin pregnancy, two previous caesarean sections and a 13 cm paracervical myoma) was seen at 33+3 weeks; ultrasound showed a 17x15 cm cystic-solid, smooth, hypervascularised ovarian tumour, and CA-125 was only slightly raised at 46.9 U/ml.
+- At rupture of membranes and onset of labour a planned repeat caesarean section with left adnexectomy was done at 34+2 weeks (live, eutrophic girls); the tumour was soft but intact, and the left ovary weighed 1336 g (18x15x10 cm); cytology and biopsy were taken from the right ovary.
+- Histology showed a juvenile granulosa cell tumour, pT1a R0; the patient declined guideline-recommended completion of surgery.
+- The authors state that the sonographic change during pregnancy delayed suspicion of malignancy, and that timing the operation at the advanced gestational age gave the best situation for mother and children without worsening of prognosis.
+- The authors cite from the literature that juvenile GCT in pregnancy is very rarely described, is almost always FIGO stage I and mostly found before the third trimester (91%), and that the tumour has an increased rupture risk; these are not findings of the case.
+- Follow-up after surgery is not reported.
+relevance_to_jgct: Ovarian JGCT diagnosed in a 35-year-old at caesarean section in a twin pregnancy; adult-age, pregnancy-associated presentation with fertility-sparing surgery only.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction of the publisher abstract); the publisher (Thieme) blocks automated access to the full text. Patient aged 35 (adult) with a pregnancy; the abstract gives no outcome, no FOXL2 testing and no chemotherapy information. Literature statements in the abstract are the authors' citations, not findings.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 35
+  site: ovary
+  stage: IA
+  stage_system: pT1a R0 (FIGO not named)
+  rupture: none
+  malignant_ascites: null
+  tumor_size_cm: 18
+  presentation:
+  - pregnancy
+  - abdominal_mass_or_distension
+  syndrome: null
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: null
+  outcome: unknown
+  follow_up_months: null
+  notes: twin DCDA pregnancy, delivered at 34+2 weeks by repeat caesarean section; tumour 18x15x10 cm, ovary 1336 g, intact; patient declined completion surgery; stage given only as pT1a R0; rupture inferred none from 'intact' tumour

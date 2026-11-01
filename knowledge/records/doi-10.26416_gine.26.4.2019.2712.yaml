@@ -1,0 +1,55 @@
+source_id: 10.26416/gine.26.4.2019.2712
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.26416/gine.26.4.2019.2712
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W3001752199
+language: en
+pmid: null
+doi: 10.26416/gine.26.4.2019.2712
+pmcid: null
+title: 'Sex cord-stromal tumors of the ovary: granulosa-stromal cell tumors. Case report and literature review'
+journal: Ginecologia.ro
+year: 2019
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: young woman (age not stated)
+alterations: []
+treatments:
+- regimen: fertility-sparing surgery
+  setting: primary surgery
+  n: 1
+  outcome: close clinical and pelvic/abdominal MRI surveillance; adjuvant chemotherapy and radiotherapy held in reserve for recurrence
+presentation:
+- secondary amenorrhoea
+- primary infertility
+key_findings:
+- A young woman with secondary amenorrhoea and primary infertility had a juvenile-type granulosa cell tumour suspected from clinical and paraclinical tests, with MRI describing the ovarian tumour.
+- Because she wished to conceive, fertility-sparing surgery was performed.
+- Chemotherapy and radiotherapy were discussed in the multidisciplinary meeting, but as no adjuvant therapy was found effective they were reserved for recurrence and palliation of advanced disease; follow-up is clinical plus pelvic/abdominal MRI.
+- The authors emphasise multidisciplinary care involving gynaecology, fertility, oncology and radiology.
+relevance_to_jgct: Romanian young-woman JGCT case managed with fertility-sparing surgery and surveillance only.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction); Age, stage, histology details and outcome are not stated in the abstract. Source journal full text not retrieved (no open route found).
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  site: ovary
+  presentation:
+  - menstrual_change
+  - other
+  surgery: other
+  chemotherapy: none
+  chemo_setting: none
+  outcome: unknown
+  notes: Fertility-sparing surgery; secondary amenorrhoea and primary infertility; stage and follow-up outcome not stated.

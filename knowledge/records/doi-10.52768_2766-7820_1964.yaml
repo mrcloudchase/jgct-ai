@@ -1,0 +1,67 @@
+source_id: 10.52768/2766-7820/1964
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.52768/2766-7820/1964
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://jcimcr.org/pdfs/JCIMCR-v3-1964.pdf
+abstract_source: null
+language: en
+pmid: null
+doi: 10.52768/2766-7820/1964
+pmcid: null
+title: Cutaneous metastasis of juvenile-type granulosa cell tumor
+journal: Journal of Clinical Images and Medical Case Reports
+year: 2022
+first_author: Han X
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 12 years at diagnosis
+alterations: []
+treatments:
+- regimen: right salpingo-oophorectomy (laparoscopic exploration); 'at least 6 cycles' of chemotherapy expected (regimen not stated); at recurrence excision of the incision mass with 6 cycles expected
+  setting: adjuvant and relapse
+  n: 1
+  outcome: no recurrence in follow-up (duration not given)
+presentation:
+- abdominal distension
+- ascites
+- heavy periods with intermittent bleeding
+- ruptured right ovarian tumour
+key_findings:
+- A 12-year-old post-menarchal girl presented with 2 months of abdominal distension and heavy periods with intermittent bleeding; ascites and a pelvic mass were found; tumour markers (AFP, LDH, CA125, CEA, CA199) were normal.
+- Laparoscopy collected about 8,000 ml of green ascites (cytology negative) and showed a ruptured right ovarian tumour of '20 x 15 x 6 mm' (CT earlier showed a 45 x 43 mm solid-cystic mass); unilateral salpingo-oophorectomy was done and pathology confirmed juvenile-type GCT, FIGO stage IC2 because of preoperative capsule rupture.
+- At least 6 cycles of chemotherapy were 'expected'; the text does not say what was given.
+- Five years later she found a mass in the surgical incision (4 x 3 'milimeter' on CT); it was incised and pathology showed recurrence of juvenile-type GCT; tumour markers were normal; 6 cycles of chemotherapy were expected after surgery and she had no recurrence during follow-up (length not stated).
+- The authors state that cutaneous metastasis of juvenile-type GCT has never been reported; they cite ESMO, ESGO and NCCN positions on stage I treatment and state BEP or taxane-carboplatin is recommended for stage IC.
+relevance_to_jgct: Case of a stage IC2 JGCT in a 12-year-old with a late (5-year) recurrence in the abdominal wall incision.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Units are inconsistent in the source (20 x 15 x 6 mm tumour vs 45 x 43 mm CT mass; 4 x 3 ''milimeter'' incision mass): likely centimetres but recorded as printed. Chemotherapy is described only as ''expected'', so whether it was given is unconfirmed. The incision recurrence is labelled cutaneous metastasis by the authors; it could also be tumour implantation from the ruptured tumour. Authors are from Ningxia People''s Hospital.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 12
+  site: ovary
+  stage: IC2
+  stage_system: FIGO 2014
+  rupture: preoperative
+  malignant_ascites: false
+  presentation:
+  - abdominal_mass_or_distension
+  - ascites
+  - menstrual_change
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: at least 6 cycles expected (regimen not stated)
+  chemo_setting: adjuvant
+  relapse: true
+  relapse_months: 60
+  outcome: NED
+  follow_up_months: null
+  notes: incision-site recurrence 5 years after diagnosis, excised; ascites 8,000 ml with negative cytology

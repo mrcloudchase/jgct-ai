@@ -1,0 +1,64 @@
+source_id: 10.1016/j.gamo.2016.03.006
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.1016/j.gamo.2016.03.006
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W2338923799
+language: es
+pmid: null
+doi: 10.1016/j.gamo.2016.03.006
+pmcid: null
+title: Tumor de células de la granulosa tipo juvenil [Juvenile-type granulosa cell tumour]
+journal: Gaceta Mexicana de Oncología
+year: 2016
+first_author: null
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: under 30 years
+alterations: []
+treatments:
+- regimen: exploratory laparotomy with left salpingo-oophorectomy and intraoperative study
+  setting: primary surgery
+  n: 1
+  outcome: null
+- regimen: close surveillance only (care received outside the hospital)
+  setting: primary
+  n: 1
+  outcome: a live healthy baby was delivered one year into oncological follow-up
+presentation:
+- 20 cm mass in the left iliac fossa extending to the left hypochondrium (case 1)
+key_findings:
+- Two women younger than 30 years with juvenile granulosa cell tumour are presented.
+- Case 1 had a 20 cm tumour in the left iliac fossa extending to the left hypochondrium and underwent exploratory laparotomy with left salpingo-oophorectomy and intraoperative study.
+- Case 2 received care outside the hospital, so only close surveillance was carried out; one year into oncological follow-up she delivered a live, healthy baby without complications.
+- The authors state that JGCT is about 5% of granulosa cell tumours and usually occurs in premenarchal women and those under 30, and conclude that unilateral adnexectomy is feasible for women of reproductive age when disease is confined to the ovary and endometrial cancer is excluded, with excellent survival because most are early stage.
+relevance_to_jgct: Two Mexican young-adult JGCT cases, one with a later successful pregnancy after conservative management; the abstract gives no ages, stage or outcome for case 1.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction); Spanish abstract; Elsevier blocks scripts. Individual ages, stage and the outcome of case 1 not stated in the abstract. Site assumed ovarian from the title/abstract.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  site: ovary
+  tumor_size_cm: 20
+  presentation:
+  - abdominal_mass_or_distension
+  surgery: unilateral_salpingo-oophorectomy
+  outcome: unknown
+  notes: Age under 30; left salpingo-oophorectomy; follow-up not stated.
+- id: '2'
+  sex: F
+  site: ovary
+  presentation:
+  - pregnancy
+  surgery: unknown
+  outcome: unknown
+  notes: Age under 30; surveillance only; a live healthy baby was delivered one year into follow-up. Disease status not explicitly stated.

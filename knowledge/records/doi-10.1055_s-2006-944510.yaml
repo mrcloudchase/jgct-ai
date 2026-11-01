@@ -1,0 +1,46 @@
+source_id: 10.1055/s-2006-944510
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.1055/s-2006-944510
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W2730950275
+language: de
+pmid: null
+doi: 10.1055/s-2006-944510
+pmcid: null
+title: Seltener Fall eines gleichzeitig juvenilen und adulten malignen Granulosazelltumors bei einer 17-jährigen Patientin
+journal: Zentralblatt für Gynäkologie
+year: 2006
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: null
+age_range: 17 years
+alterations: []
+treatments:
+- regimen: laparoscopic left adnexectomy in toto, then restaging laparotomy with inguinal lymphadenectomy, peritoneal biopsies, partial omentectomy and lavage cytology
+  setting: primary surgery
+  n: 1
+  outcome: pT1a R0; no further malignancy in restaging specimens; no adjuvant treatment indicated
+presentation:
+- severe left lower abdominal and flank pain
+- 7-8 cm paravesical polycystic structure on ultrasound
+- partial torsion of the left adnexa
+key_findings:
+- A 17-year-old virgo intacta with normal cycle and secondary sexual characteristics presented with severe left lower abdominal and flank pain; ultrasound showed a 7-8 cm polycystic paravesical structure with normal endometrial echo and no abnormal Doppler.
+- At laparoscopy on 02.11.2005 a smooth cystic tumour of the left ovary with partial torsion and a hydropic tube was removed with the whole left adnexa; frozen section suggested a malignant germ cell tumour.
+- Definitive histology and immunohistochemistry (negative for neuron-specific enolase, chromogranin, EMA and cytokeratin; positive for vimentin, S100 and CD56) were read as a malignant adult-type granulosa cell tumour; second review at the AGO reference centre for ovarian tumours in Mannheim confirmed a malignant granulosa cell tumour.
+- Restaging laparotomy on 16.11.2005 (inguinal lymphadenectomy, peritoneal biopsies, partial omentectomy, lavage cytology) found no further tumour; stage pT1a, R0.
+- The authors state that, because of R0 resection, no further treatment is indicated according to the current literature, and agreed 3-monthly follow-up with interval CT imaging with the patient.
+- The title names a simultaneous juvenile and adult type, but the abstract text itself describes and diagnoses only an adult-type malignant granulosa cell tumour and gives no juvenile component.
+relevance_to_jgct: Ovarian granulosa cell tumour in a 17-year-old whose title claims a combined juvenile and adult type but whose abstract diagnoses adult type only; classification is therefore uncertain and not counted as a confirmed JGCT.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction of the publisher abstract); the publisher (Thieme) blocks automated access to the full text. Conflict between title (simultaneously juvenile and adult) and abstract text (adult-type malignant GCT, with no description of a juvenile component); n_jgct_patients is left null for that reason and the patient entry is not given because juvenile type is not established by the abstract. Outcome after the planned follow-up is not reported.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

@@ -1,0 +1,41 @@
+source_id: '42463449'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/42463449/
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: PMC13375443
+abstract_source: null
+language: en
+pmid: '42463449'
+doi: 10.1002/cnr2.70628
+pmcid: PMC13375443
+title: 'Pregnancy-Associated Small Cell Carcinoma of the Ovary, Hypercalcaemic Type Initially Misdiagnosed as Granulosa Cell Tumour: Diagnostic Pitfalls, Treatment Challenges, and Molecular Confirmation by Next-Generation Sequencing.'
+journal: Cancer reports (Hoboken, N.J.)
+year: 2026
+first_author: Kumar M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 0
+age_range: 39 years (SCCOHT patient; no JGCT patients)
+alterations: []
+treatments: []
+presentation:
+- asymptomatic left adnexal mass found at antenatal ultrasound at 12.6 weeks
+- CA-125 222 IU/mL
+key_findings:
+- A 39-year-old woman (P2L2) had an incidental left adnexal mass at 12.6 weeks of gestation; CA-125 was 222 IU/mL, other tumour markers were normal, and she had no symptoms of hypercalcaemia.
+- At 16.2 weeks a left ovarian cystectomy (tumour about 12 x 10 cm) was reported at an outside nursing home as a high-grade juvenile granulosa cell tumour; a second laparotomy at 29 weeks (left oophorectomy) was again reported as juvenile granulosa cell tumour; no immunohistochemistry was done on either specimen.
+- At 39 weeks a caesarean hysterectomy with right oophorectomy was reported as high-grade adult-type granulosa cell tumour; review at the authors' institute revised the diagnosis to adult-type GCT but immunohistochemistry was negative for calretinin, inhibin, SF1, CD117 and NKX2.2 with Ki-67 about 70%, which raised doubt about the diagnosis. The authors state the morphology lacked nuclear grooves and microfollicular architecture.
+- After BEP x3, interval debulking and EP x3 she had a complete radiological response (July 2024) but relapsed about six months later with scar-site, liver, spleen, retroperitoneal, skeletal and abdominal wall metastases; repeat IHC (calretinin, inhibin, PAX8, CD45, NKX2.2 negative, faint CD99) was non-contributory.
+- Next-generation sequencing showed a pathogenic truncating SMARCA4 alteration and TP53 p.Arg280Gly, establishing SCCOHT; BRG1 immunohistochemistry was not available at the institution. She died in January 2025, about 20 months after initial diagnosis.
+- The authors state that follicle-like spaces in SCCOHT can mimic the microfollicular pattern of granulosa cell tumour, and that absence of inhibin, calretinin and SF1 effectively ruled out granulosa cell tumour and other sex cord-stromal neoplasms in this case.
+relevance_to_jgct: This paper is about a mimic, not JGCT. No JGCT patient is reported. The tumour was twice reported as high-grade juvenile granulosa cell tumour by outside pathologists without immunohistochemistry, then revised to adult-type GCT, and was finally shown to be SMARCA4-mutant SCCOHT. It illustrates that a 'JGCT' label without IHC or molecular work-up in a high-grade ovarian tumour can be wrong.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Read in full in English (PMC text). Patient is an adult (39 years), so the JGCT labels were also age-atypical; the authors do not comment on this. The first author is not given in the cached text (author list begins Mahendra Kumar); the journal name is not given. Single case from Dr. Bhubaneswar Borooah Cancer Institute, Guwahati.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

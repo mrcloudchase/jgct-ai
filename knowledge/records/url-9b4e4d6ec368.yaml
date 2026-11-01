@@ -1,0 +1,51 @@
+source_id: 9b4e4d6ec368
+source_type: url
+source_tier: other
+source_url: http://www.theses.fr/2015USPCC308
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W3013442966
+language: fr
+pmid: null
+doi: null
+pmcid: null
+title: Exploration génomique et fonctionnelle des tumeurs des cellules de la granulosa ovarienne [Genomic and functional exploration of ovarian granulosa cell tumours]
+journal: Doctoral thesis (theses.fr, 2015)
+year: 2015
+first_author: null
+study_type: genomic
+tumor_site: ovary
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: AKT1
+  alteration: in-frame duplications
+  frequency: more than 60% of the thesis's JGCT samples
+  notes: mutant AKT1 enriched at the membrane, hyperphosphorylated and hyperactive, giving cells a 'hirsute' membrane phenotype
+- gene: AKT1
+  alteration: point mutations, different from tumour to tumour
+  frequency: null
+  notes: activity of these mutations not yet characterised
+- gene: FOXL2
+  alteration: C134W (adult-type GCT; the thesis's second axis)
+  frequency: found in 95% of AGCT, as stated
+  notes: not a JGCT finding
+treatments: []
+presentation: []
+key_findings:
+- The thesis states that FOXL2 p.C134W is found in 95% of adult-type GCT and that no genetic marker was defined for JGCT.
+- Using a global tumour characterisation and a candidate-gene approach aimed at the PI3K/AKT/mTOR pathway, the author found in-frame duplications in AKT1 in more than 60% of the JGCT samples.
+- The mutant AKT1 proteins are enriched at the membrane, hyperphosphorylated and hyperactive, and give cells a 'hirsute' membrane phenotype.
+- Point mutations that differ from tumour to tumour were also found; their activity, and why the duplications are specific to JGCT, remain to be determined.
+- A second axis built a cell tool carrying wild-type or mutant FOXL2 at a fixed locus to test whether C134W alters DNA binding or partner interaction.
+relevance_to_jgct: Doctoral thesis behind the AKT1 in-frame duplication finding in JGCT; the number of tumours is not given in the abstract.
+conflicts_with: []
+overlaps_with:
+- pmid-26137586
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction); French thesis (theses.fr) with no open full text found. Sample size not stated in the abstract; likely the same material as the Bessiere 2015 paper (pmid-26137586), so do not add counts.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

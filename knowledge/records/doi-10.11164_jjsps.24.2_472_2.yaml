@@ -1,0 +1,65 @@
+source_id: 10.11164/jjsps.24.2_472_2
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.11164/jjsps.24.2_472_2
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.jstage.jst.go.jp/article/jjsps/24/2/24_KJ00003153465/_pdf/-char/ja
+abstract_source: null
+language: ja
+pmid: null
+doi: 10.11164/jjsps.24.2_472_2
+pmcid: null
+title: '[A case of juvenile granulosa cell tumor of the ovary associated with Maffucci syndrome] (meeting abstract P-20)'
+journal: Nihon Shoni Geka Gakkai Zasshi (J Jpn Soc Pediatr Surg), meeting abstracts
+year: 1988
+first_author: Tanaka Y
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 15 years
+alterations: []
+treatments:
+- regimen: surgical resection of the left ovarian tumour (details not given)
+  setting: primary surgery
+  n: 1
+  outcome: no sign of recurrence 5 months after surgery
+presentation:
+- abdominal mass
+- anaemia
+- ascites 1,800 ml and granular peritoneal deposits at surgery
+key_findings:
+- A 15-year-old girl (never pregnant) with Maffucci syndrome diagnosed at age 2, with left lower-leg amputation and haemangioma excision at age 11, presented in September 1987 with an abdominal tumour and anaemia; CA125 and LDH were high and general serum and hormone tests were otherwise normal.
+- At surgery the left ovary carried a child-head-sized tumour with granular deposits on surrounding peritoneum and 1,800 ml of serous yellow ascites; the right ovary and uterus were unremarkable. The tumour measured 28 x 15 x 9.5 cm and weighed 3,940 g, solid with cystic parts.
+- 'Histology: follicular arrangement areas and spindle stromal areas, medium-sized nuclei with size variation, bright cytoplasm with a tendency to luteinisation, marked mitoses reaching 20 in a x100 field at times (as printed), no clear Call-Exner bodies; electron microscopy showed both granulosa and theca cells; diagnosis JGCT. Ascitic cytology showed atypical cells.'
+- No recurrence was seen 5 months after surgery. The authors cite that Maffucci and Ollier disease are associated with non-epithelial neoplasms in 20-30% and that 8 ovarian sex cord-stromal tumours have been reported, 3 with Maffucci syndrome, 2 of which look like JGCT, and consider this a rare association.
+relevance_to_jgct: JGCT with peritoneal deposits and ascites in a 15-year-old with Maffucci syndrome (enchondromatosis with haemangiomas); the authors point to a link between Ollier/Maffucci disease and ovarian sex cord-stromal tumours.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Meeting abstract (page 472 of the journal also contains abstract P-19, an unrelated 46,XY ovarian teratoma case, which is not JGCT). Stage, the extent of surgery and any chemotherapy are not stated; peritoneal deposits plus ascites suggest advanced disease but the abstract gives no stage. Follow-up only 5 months. Likely to have a full paper by the same Kanagawa Children's Medical Center authors; not checked.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 15
+  site: ovary
+  stage: null
+  tumor_size_cm: 28
+  malignant_ascites: null
+  mitoses_per_10hpf: null
+  presentation:
+  - abdominal_mass_or_distension
+  - ascites
+  - other
+  syndrome: Maffucci syndrome
+  surgery: other
+  chemotherapy: null
+  chemo_setting: null
+  relapse: false
+  outcome: NED
+  follow_up_months: 5
+  notes: ascites 1,800 ml with atypical cells; granular peritoneal deposits; stage not stated; tumour 3,940 g; mitoses up to 20 per x100 field as printed

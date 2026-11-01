@@ -1,0 +1,71 @@
+source_id: 10.1055/s-2006-952443
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1055/s-2006-952443
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W2560478718
+language: de
+pmid: null
+doi: 10.1055/s-2006-952443
+pmcid: null
+title: Fetaler juveniler Granulosazelltumor und Hermaphroditismus verus–seltene Pathologie einer pränatal diagnostizierten komplizierten Ovarialzyste
+journal: Geburtshilfe und Frauenheilkunde
+year: 2006
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: fetus / newborn
+alterations:
+- gene: karyotype
+  alteration: 45,X/46,X mar(Y) in the child and in the tumour
+  frequency: null
+  notes: mosaic with a marker Y chromosome, as written in the abstract
+treatments:
+- regimen: postnatal surgical removal of the very large ovarian tumour; later hernia operation with sampling of a second gonad and inguinal tissue
+  setting: primary surgery
+  n: 1
+  outcome: not stated
+presentation:
+- complicated fetal ovarian cyst with labial oedema and ascites (32nd week)
+- enlarged clitoris and ambiguous genitalia at birth
+- high androgen levels in the child's blood
+key_findings:
+- A prenatally diagnosed complicated fetal ovarian cyst (labial oedema, ascites) was seen at 32 weeks; the newborn had abnormal genitalia with clitoral hypertrophy.
+- After birth the very large ovarian tumour displacing abdominal organs was removed; a small uterus and tubes on both sides were seen, and histology showed a juvenile granulosa cell tumour.
+- Karyotyping of the child and of the tumour gave 45,X/46,X mar(Y).
+- At a further operation for right inguinal hernia, tissue from a second intra-abdominal gonad and from the inguinal canal was dysplastic ovarian tissue and testicular tissue.
+- High androgen levels in the child's blood were thought most likely to be produced by the granulosa cell tumour.
+- The authors conclude this is a newborn with true hermaphroditism and a juvenile granulosa cell tumour; follow-up, adjuvant treatment and outcome are not given.
+relevance_to_jgct: Congenital ovarian JGCT with androgen production in a child with true hermaphroditism and a sex-chromosome mosaic (45,X/46,X mar(Y)).
+conflicts_with: []
+overlaps_with:
+- doi-10.1055_s-2006-953888
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction of the publisher abstract); the publisher (Thieme) blocks automated access to the full text. The same case appears to be the first case of the Ultraschall in der Medizin abstract doi-10.1055_s-2006-953888 (same karyotype and clinical details); do not add their counts. Outcome and follow-up not stated; sex of rearing not stated.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: null
+  age_years: 0
+  site: ovary
+  stage: null
+  stage_system: null
+  rupture: null
+  malignant_ascites: null
+  presentation:
+  - other
+  - ascites
+  syndrome: true hermaphroditism (ovotestis/gonadal dysgenesis); karyotype 45,X/46,X mar(Y)
+  surgery: oophorectomy
+  chemotherapy: null
+  chemo_setting: unknown
+  relapse: null
+  outcome: unknown
+  follow_up_months: null
+  notes: fetal ovarian cyst seen at 32 weeks, delivery by repeat caesarean section at 34+1 weeks, postnatal removal; tumour karyotype also 45,X/46,X mar(Y); high androgen levels attributed to the tumour; sex of rearing not stated

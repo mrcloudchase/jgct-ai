@@ -1,0 +1,38 @@
+source_id: 10.1055/s-0036-1592678
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1055/s-0036-1592678
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W2530284324
+language: de
+pmid: null
+doi: 10.1055/s-0036-1592678
+pmcid: null
+title: 'Maligne Keimzell- und Keimstrang-Stromatumoren des Ovars: Systematische Erfassung und Durchführung einer spezialisierten histopathologischen Zweitbegutachtung'
+journal: Geburtshilfe und Frauenheilkunde
+year: 2016
+first_author: null
+study_type: cohort
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: null
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'The Tübingen University Women''s Hospital identified all patients treated 2000-2015 with a diagnosis of malignant ovarian germ cell or sex cord-stromal tumour: 72 patients, of whom tumour material from 68 was supplied by 12 pathology institutes.'
+- 'The study cohort comprised 19 malignant germ cell tumours and 53 sex cord-stromal tumours: adult granulosa cell tumour n = 45, juvenile granulosa cell tumour n = 4, Sertoli-Leydig cell tumour n = 4.'
+- Specialist gynaecopathology second review by two pathologists had been completed in 43 cases; the original diagnoses were confirmed in 33 (76%).
+- The abstract gives no age, stage, treatment or outcome for the four juvenile granulosa cell tumour patients, and does not say whether they were among the cases already re-reviewed.
+- The authors cite recent work in which up to 20% of adult granulosa cell tumour diagnoses were made in error.
+relevance_to_jgct: Single-centre count of 4 ovarian JGCT among 72 malignant germ cell and sex cord-stromal tumours, with the finding that second pathology review changed about a quarter of original diagnoses (all types combined).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Written from the abstract only (OpenAlex reconstruction of the publisher abstract); the publisher (Thieme) blocks automated access to the full text. No JGCT-specific clinical data are given; the 76% confirmation figure is for all 43 reviewed cases combined. Counts as stated: 19 + 53 = 72 although 68 samples were supplied.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

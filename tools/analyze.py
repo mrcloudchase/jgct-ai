@@ -111,7 +111,9 @@ def table(header, rows):
 
 
 def cases_report():
-    all_rows = load_cases()
+    every_row = load_cases()
+    abstract_rows = [r for r in every_row if r["evidence_basis"] == "abstract"]
+    all_rows = [r for r in every_row if r["evidence_basis"] != "abstract"]  # protocol: full text only
     rows, dropped = dedupe(all_rows)
     uncertain = [r for r in rows if "classification uncertain" in (r["notes"] or "")]
     rows = [r for r in rows if r not in uncertain]
@@ -121,7 +123,7 @@ def cases_report():
     out = []
     out.append("# Published JGCT cases: a patient-level dataset and descriptive analysis\n")
     out.append("**What this is.** The maintenance agent's own analysis of the patient-level rows extracted into the records of this knowledge base. It is not a source, has not been checked by a human, and is not medical advice. Read [the protocol](protocol.md) first: it states what was included, how duplicates were removed, and why no treatment effect is estimated. Every row traces to a record; the dataset is `data/published-cases.csv`.\n")
-    out.append(f"**Dataset.** {len(all_rows)} patient rows from {len({r['record'] for r in all_rows})} records (full-text case reports, small series and complete meeting abstracts). {sum(1 for r in all_rows if r['record'] in dropped)} rows from {len(dropped)} records were dropped as duplicate reports of the same patients ({', '.join(dropped)}). {len(uncertain)} rows whose juvenile classification the source itself leaves uncertain were set aside ({', '.join(sorted({r['record'] for r in uncertain}))}). Analysed: **{len(rows)} patients** ({len(ov)} ovarian, {len(te)} testicular) from {len(recs)} records.\n")
+    out.append(f"**Dataset.** {len(all_rows)} patient rows from {len({r['record'] for r in all_rows})} records (full-text case reports, small series and complete meeting abstracts); {len(abstract_rows)} further rows on {len({r['record'] for r in abstract_rows})} abstract-only records are kept in the dataset but not analysed. {sum(1 for r in all_rows if r['record'] in dropped)} rows from {len(dropped)} records were dropped as duplicate reports of the same patients ({', '.join(dropped)}). {len(uncertain)} rows whose juvenile classification the source itself leaves uncertain were set aside ({', '.join(sorted({r['record'] for r in uncertain}))}). Analysed: **{len(rows)} patients** ({len(ov)} ovarian, {len(te)} testicular) from {len(recs)} records.\n")
     out.append("**Biases to keep in mind.** These are published cases: unusual presentations, syndromes, pregnancies, relapses and adult-age tumors are over-represented, and follow-up is short or missing in many. Proportions below describe the published literature, not the disease. The registry cohorts in [pooled-cohorts.md](pooled-cohorts.md) are the better guide to frequencies.\n")
 
     # ovary: age and presentation

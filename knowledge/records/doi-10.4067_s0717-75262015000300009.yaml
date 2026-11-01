@@ -1,0 +1,62 @@
+source_id: 10.4067/s0717-75262015000300009
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.4067/s0717-75262015000300009
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://scielo.conicyt.cl/pdf/rchog/v80n3/art09.pdf
+abstract_source: null
+language: es
+pmid: null
+doi: 10.4067/s0717-75262015000300009
+pmcid: null
+title: Diagnóstico prenatal de tumor de células de la granulosa de tipo juvenil
+journal: Revista Chilena de Obstetricia y Ginecología
+year: 2015
+first_author: González B I
+study_type: case_report
+tumor_site: testis
+n_jgct_patients: 1
+age_range: newborn (operated at 24 hours)
+alterations: []
+treatments:
+- regimen: right inguinal orchiectomy with spermatic cord at 24 hours of life
+  setting: primary
+  n: 1
+  outcome: healthy at 2 months, AFP falling progressively
+presentation:
+- 'prenatal ultrasound at 35 weeks: right testis 24 mm with multiple anechoic areas (left 13 mm)'
+- enlarged heterogeneous right testis (30 x 20 mm) at birth
+- AFP 45,836.5 ng/ml and beta-hCG 59.61 mIU/ml at birth
+key_findings:
+- In a 39-year-old woman (fourth pregnancy, three previous miscarriages) the third-trimester scan at 35 weeks showed a male fetus with a normal 13 mm left testis and a 24 mm right testis containing multiple anechoic, dysplastic-looking areas.
+- The boy was born at 39+2 weeks weighing 2910 g with normal male genitalia and no dysmorphic features; the right testis was enlarged (30 x 20 mm). Scrotal ultrasound showed a 24 x 17 mm solid mass with multiple cystic areas and increased vascularity.
+- Tests were normal except AFP 45,836.5 ng/ml and beta-hCG 59.61 mIU/ml. At 24 hours of life a right inguinal orchiectomy with the spermatic cord was done; no normal testicular tissue was identified at surgery.
+- The 7 g specimen held a 2.5 cm multicystic tumour with solid tracts. Cysts with basophilic content were lined by large round, partly vacuolated cells with some mitoses. Tumour cells expressed vimentin, alpha-inhibin, CD99, S100 and cytokeratin AE1/AE3 and not AFP, PLAP, D2-40, glypican-3, CD117 or CD30; Ki-67 was 20%. The diagnosis was JGCT.
+- The baby went home at 36 hours; two months after surgery he was healthy with progressively falling AFP.
+- The authors state that only three other prenatally diagnosed cases had been published (Peterson and Skoog 2008 at 35 weeks, Bulotta 2012 at 36 weeks, Illescas 2014), and that orchiectomy is curative and chemotherapy and radiotherapy are not indicated.
+relevance_to_jgct: Fourth prenatally detected testicular JGCT (by the authors' count), with neonatal AFP elevation that did not reflect tumour (AFP-negative on immunohistochemistry).
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Spanish; authors from Zaragoza and Barbastro, Spain, published in a Chilean journal. The newborn AFP (45,836.5 ng/ml) is within the physiological neonatal range discussed in other records, but the article does not say so; it reports only that AFP fell progressively. Follow-up 2 months.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: M
+  age_years: 0.0
+  site: testis
+  tumor_size_cm: 2.5
+  presentation:
+  - scrotal_mass
+  - other
+  surgery: orchiectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 2
+  notes: prenatal ultrasound detection at 35 weeks

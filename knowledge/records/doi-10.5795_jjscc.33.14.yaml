@@ -1,0 +1,55 @@
+source_id: 10.5795/jjscc.33.14
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5795/jjscc.33.14
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.jstage.jst.go.jp/article/jjscc1962/33/1/33_1_14/_pdf/-char/ja
+abstract_source: null
+language: ja
+pmid: null
+doi: 10.5795/jjscc.33.14
+pmcid: null
+title: Estrogen-producing activity and clinical and cytologic features of granulosa cell tumors
+journal: Nihon Rinsho Saibogaku Zasshi (J Jpn Soc Clin Cytol)
+year: 1994
+first_author: Motomatsu S
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: 6 and 17 years identified; other juvenile cases' ages not legible
+alterations: []
+treatments: []
+presentation:
+- 'case 1 (6 years): irregular genital bleeding with breast swelling (precocious puberty)'
+key_findings:
+- 'Single-institution series (Jichi Medical School, 17 years to March 1991): 10 granulosa cell tumours among 592 ovarian tumours (1.7%), ages 6 to 76 years (mean 44), 4 premenopausal (including 1 premenarchal), 5 postmenopausal, 1 unknown.'
+- 'The authors state that the juvenile type was seen in 40% of their cases (that is 4 of the 10), versus about 90% adult type in the literature they cite. In the legible text two juvenile cases are described: case 1, a 6-year-old with irregular genital bleeding and breast swelling, and case 2, a 17-year-old whose juvenile-type histology is illustrated (diffuse growth, size-variable atypical nuclei, a central follicle).'
+- Across all 10 patients, 8 were stage I and 2 stage IIIc (one tumour matted with small bowel, one with omental metastasis); 9 were unilateral (one case ended in exploratory laparotomy only); 7 were alive and 3 died, 2 of tumour and 1 of acute promyelocytic leukaemia. The text does not say which patients had which stage, although the authors state one juvenile-type patient died and an adult-type patient recurred at 67 months and died at 71 months.
+- Estradiol was high in 4 of 6 measured (2 premenopausal, 4 postmenopausal) and fell markedly after surgery in the 3 measured; associated endometrial adenocarcinoma in 2, atypical hyperplasia in 1, breast cancer, cervical carcinoma in situ and leukaemia in 1 each. These are series-wide, not JGCT-specific, since the patient table is not legible.
+relevance_to_jgct: Japanese granulosa cell tumour series in which 4 of 10 were juvenile type (including a 6-year-old with precocious puberty); the JGCT-specific data are thin because the case table is not legible in the extracted text.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Japanese with English summary. Table 1 and the figures are not legible in the extracted text, so ages, stages and outcomes of the 4 juvenile cases cannot be assigned individually; only cases 1 (6 years) and 2 (17 years) are identified. The paper's main focus is estrogen production and cytology of granulosa cell tumours; the 'adult type' cytology reported was from an adult patient (case 10, 76 years). Series-level figures are context, not JGCT findings.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 6
+  site: ovary
+  presentation:
+  - precocious_puberty
+  - menstrual_change
+  outcome: unknown
+  notes: irregular genital bleeding with breast swelling; stage and outcome not assignable from the legible text; juvenile type per series (case 1)
+- id: '2'
+  sex: F
+  age_years: 17
+  site: ovary
+  presentation: []
+  outcome: unknown
+  notes: juvenile-type histology photographed; no clinical details legible

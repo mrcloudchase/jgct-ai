@@ -1,0 +1,48 @@
+source_id: openalex-W7162269322
+source_type: url
+source_tier: peer_reviewed
+source_url: https://real.mtak.hu/238897/1/650-article-p784.pdf
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://real.mtak.hu/238897/1/650-article-p784.pdf
+abstract_source: null
+language: hu
+pmid: null
+doi: 10.1556/650.2026.33550
+pmcid: null
+title: '[Testicular sex cord-stromal tumors: a pathological overview]'
+journal: Orvosi Hetilap
+year: 2026
+first_author: Gráczia MC
+study_type: review
+tumor_site: testis
+n_jgct_patients: null
+age_range: null
+alterations:
+- gene: chromosome 10
+  alteration: monosomy of chromosome 10 in testicular JGCT
+  frequency: 60% (authors cite)
+  notes: presumed loss of heterozygosity of an uncharacterised tumour suppressor
+- gene: GNAS, AKT1
+  alteration: variants characteristic of ovarian JGCT absent in testicular JGCT
+  frequency: null
+  notes: authors cite
+treatments: []
+presentation: []
+key_findings:
+- Hungarian pathology review (14 pages, 10 authors, National Institute of Oncology Budapest and others) of testicular sex cord-stromal tumors, with a dedicated section on juvenile-type granulosa cell tumor; illustrations come from the authors' own diagnostic material.
+- The authors state that testicular juvenile-type granulosa cell tumor appears in 90% of cases before 6 months of age, may be associated with cryptorchidism and other gonadal developmental disorders, is mostly hormonally inactive and is 'without exception benign'.
+- 'Histology as described: small round cells in nests or follicles with eosinophilic or basophilic secretion, voluminous fibrous or fibromyxoid stroma, brisk mitotic activity, and no coffee-bean nuclei or Call-Exner bodies; most express SF1, calretinin, inhibin, SOX9, WT1 and FOXL2.'
+- The authors cite that the GNAS and AKT1 variants of the ovarian form are absent in testicular tumors, whereas monosomy of chromosome 10 is frequent (60%); for adult-type testicular GCT they cite FOXL2 p.C134W in 10-40%.
+- 'Differential diagnosis from yolk sac tumor: JGCT may have mildly raised AFP but not the pathological elevation of yolk sac tumor, has follicular, solid or cystic structure, and is mostly negative for SALL4, AFP and glypican-3; Schiller-Duval bodies indicate yolk sac tumor.'
+- For the group overall the authors state that about 90% of testicular sex cord-stromal tumors are indolent and about 10% aggressive and resistant to systemic therapy (BEP, VIP, PVB); aggressive histology is practically absent at ages 13-21; features suggesting aggressive disease are size over 5 cm, mitoses, positive margins, rete testis or lymphovascular invasion, atypia and necrosis. These are group-level statements, not JGCT-specific.
+relevance_to_jgct: Review chapter on testicular JGCT pathology, immunophenotype, molecular features and differential diagnosis from yolk sac tumor, stated as benign in infants.
+conflicts_with: []
+overlaps_with:
+- pmid-42143686
+superseded_by: null
+retracted: false
+notes: 'Language read: Hungarian (English abstract). No patients of the authors are reported. All figures are cited statements from the literature, not original data; the JGCT section is about one page. An abstract-based record for the same article exists as pmid-42143686 (retrieved 2026-10-31); this full-text record should replace it. Page-footer ''Unauthenticated'' download stamp is present in the PDF text.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null

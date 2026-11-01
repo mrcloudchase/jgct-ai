@@ -1,0 +1,57 @@
+source_id: bf94bf8a0b06
+source_type: url
+source_tier: conference_abstract
+source_url: https://doi.org/10.1007/s00247-017-3820-2#JGCT-Ollier-Joshi
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: PMC7103096
+abstract_source: null
+language: en
+pmid: null
+doi: 10.1007/s00247-017-3820-2
+pmcid: PMC7103096
+title: A rare case of Ovarian Juvenile Granulosa Cell Tumor associated with Ollier's Disease - Generalised mesodermal dysplasia (ESPR 2017 case poster)
+journal: Pediatric Radiology 47 (Suppl 2), ESPR 2017 Davos abstract supplement
+year: 2017
+first_author: Joshi P
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 2 years 8 months
+alterations: []
+treatments:
+- regimen: surgery (type not stated)
+  setting: primary
+  n: 1
+  outcome: not reported
+presentation:
+- thelarche (peripheral precocious puberty); bone age equal to chronological age
+- right ovarian solid pelvic mass
+- multiple enchondromas in the right hemipelvis, on the side of the tumour
+key_findings:
+- A girl aged 2 years 8 months (Pune, India) presented with thelarche; her bone age matched her chronological age, which the authors read as peripheral precocious puberty.
+- Ultrasound showed a solid pelvic mass, probably right ovarian; MRI confirmed it and showed multiple bone lesions in the right hemipelvis, on the same side as the tumour.
+- Histopathology showed JGCT in the pelvic mass and multiple enchondromas in the bone lesions (Ollier disease).
+- The poster's teaching point is that the bone lesions should not be mistaken for metastases; the authors suggest that ipsilateral hemiskeletal distribution may point to a generalised mesodermal dysplasia.
+- The authors state that their literature review found 11 previous JGCT cases with enchondromatosis, three with Maffucci syndrome and the rest with Ollier disease.
+relevance_to_jgct: Imaging poster of a toddler with JGCT and ipsilateral enchondromas (Ollier disease), warning that enchondromas can mimic bone metastases on staging MRI.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Complete meeting abstract read in the ESPR 2017 supplement (Pediatric Radiology 47 Suppl 2, PMC7103096). Stage, surgery type, treatment and follow-up are not given. The '11 previous cases' count is the authors' own review, lower than counts in later reviews (see pmid-32030011). Not known to be published as a full paper.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 2.67
+  site: ovary
+  stage: null
+  presentation:
+  - precocious_puberty
+  syndrome: Ollier disease (enchondromatosis)
+  surgery: unknown
+  chemotherapy: null
+  outcome: unknown

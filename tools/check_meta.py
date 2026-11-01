@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Cross-check pmid records' doi, year, and title against PubMed esummary (catches typos in hand-entered metadata).
+"""Cross-check pmid records' doi, pmcid, year, and title against PubMed esummary (catches typos in hand-entered metadata).
 
   python3 tools/check_meta.py         # prints mismatches; exit 1 if any
   python3 tools/check_meta.py --fix   # bibliographic metadata only: fill null journal/first_author/doi/pmcid
@@ -29,12 +29,16 @@ for i in range(0, len(ids), 150):
             if pmc and not r.get("pmcid") and (r.get("full_text_source") or "").startswith("PMC"): r["pmcid"] = pmc
             yr = (d.get("pubdate") or d.get("epubdate") or "")[:4]
             if yr.isdigit() and str(r["year"]) not in (d.get("pubdate", "") + d.get("epubdate", "")): r["year"] = int(yr)
-            if d.get("title"): r["title"] = d["title"]
+            if d.get("title") and r["title"].rstrip(". ").lower() != d["title"].rstrip(". ").lower(): r["title"] = d["title"]
             yaml.safe_dump(r, open(os.path.join(ROOT, "knowledge/records", fn), "w"), sort_keys=False, allow_unicode=True, width=1000)
         if (r.get("doi") or "").lower() != (doi or "").lower():
             print(f"{fn}: doi {r.get('doi')} != pubmed {doi}"); bad += 1
         if str(r["year"]) not in (d.get("pubdate", "") + d.get("epubdate", "")):
             print(f"{fn}: year {r['year']} not in pubmed dates {d.get('pubdate')} / {d.get('epubdate')}"); bad += 1
+        if r.get("pmcid") and pmc and r["pmcid"] != pmc:
+            print(f"{fn}: pmcid {r['pmcid']} != pubmed {pmc}"); bad += 1
+        if r.get("pmcid") and not pmc:
+            print(f"{fn}: pmcid {r['pmcid']} but PubMed lists no PMC copy (check it is this article)"); bad += 1
         t1 = "".join(ch for ch in r["title"].lower() if ch.isalnum())[:40]
         t2 = "".join(ch for ch in d.get("title", "").lower() if ch.isalnum())[:40]
         if t1 != t2:

@@ -1,0 +1,80 @@
+source_id: 10.1055/s-0044-1790967
+source_type: doi
+source_tier: conference_abstract
+source_url: https://doi.org/10.1055/s-0044-1790967
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://api.openalex.org/works/W4403328468
+language: de
+pmid: null
+doi: 10.1055/s-0044-1790967
+pmcid: null
+title: Juveniler Granulosazelltumor im Erwachsenenalter (pT3b, L0, V0, Pn0)
+journal: Geburtshilfe und Frauenheilkunde
+year: 2024
+first_author: null
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 28 years
+alterations:
+- gene: FOXL2
+  alteration: no mutation detected
+  frequency: null
+  notes: stated in abstract
+- gene: DICER1
+  alteration: no mutation detected
+  frequency: null
+  notes: stated in abstract
+treatments:
+- regimen: total hysterectomy, bilateral adnexectomy, omentectomy, resection of peritoneal deposits (macroscopically tumour-free)
+  setting: primary surgery
+  n: 1
+  outcome: macroscopic complete resection
+- regimen: carboplatin/paclitaxel, 6 cycles recommended, starting 4 weeks after surgery
+  setting: adjuvant, recommended
+  n: 1
+  outcome: null
+presentation:
+- incipient abdominal compartment syndrome
+- 25 cm multicystic-solid pelvic-abdominal tumour
+- CA-125 251 kU/L, AMH > 23 ug/L
+- history of polycystic ovaries, metabolic syndrome, laparoscopy for torsion of left ovary
+key_findings:
+- A 28-year-old woman with a history of polycystic ovaries, metabolic syndrome and laparoscopy for torsion of the left ovary presented with a suspected malignant ovarian tumour and incipient abdominal compartment syndrome; ultrasound showed a multicystic-solid tumour up to 25 cm without ascites or hydronephrosis.
+- CA-125 was 251 kU/L and AMH above 23 ug/L; staging CT showed no evidence of metastasis.
+- At laparotomy a tumour conglomerate of both adnexa and uterus adherent to both pelvic walls, omentum and sigmoid colon, with peritoneal carcinomatosis, was found; frozen section suggested a sex cord tumour, and total hysterectomy, bilateral adnexectomy, omentectomy and resection of peritoneal deposits achieved macroscopic tumour freedom.
+- 'Final histology: malignant juvenile granulosa cell tumour, pT3b, L0, V0, Pn0, involving both adnexa, pelvic peritoneum and omentum; no FOXL2 or DICER1 mutation was found.'
+- Adjuvant platinum-based combination chemotherapy was recommended (6 cycles carboplatin/paclitaxel, to start 4 weeks after surgery), with bone-health follow-up and gynaecological oncology aftercare; hormone replacement was discussed with weighing of risks.
+- Outcome and follow-up length are not reported.
+relevance_to_jgct: Advanced (pT3b) adult-age JGCT without FOXL2 mutation (and without DICER1 mutation), treated with complete debulking and recommended adjuvant carboplatin/paclitaxel.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Written from the abstract only (OpenAlex reconstruction of the publisher abstract); the publisher (Thieme) blocks automated access to the full text. Adult-age JGCT with absent FOXL2 mutation, as stated; the abstract does not say how the mutation was tested. Stage given as pTNM pT3b only (FIGO stage not stated), so the patient's stage field is left null. Whether chemotherapy was actually given and the outcome are not stated.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 28
+  site: ovary
+  stage: null
+  stage_system: pT3b (TNM; FIGO not stated)
+  rupture: unknown
+  malignant_ascites: null
+  tumor_size_cm: 25
+  presentation:
+  - abdominal_mass_or_distension
+  - other
+  syndrome: null
+  surgery: radical
+  chemotherapy: carboplatin/paclitaxel x6 recommended
+  chemo_setting: adjuvant
+  relapse: null
+  outcome: unknown
+  follow_up_months: null
+  notes: bilateral adnexal involvement, uterus and omentum, pelvic peritoneal carcinomatosis; macroscopically tumour-free after surgery; no FOXL2 or DICER1 mutation; CA-125 251 kU/L, AMH > 23 ug/L; size is maximum ultrasound diameter; whether chemotherapy was given is not stated

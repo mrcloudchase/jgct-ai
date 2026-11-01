@@ -1,0 +1,67 @@
+source_id: 10.11164/jjsps.52.6_1241
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.11164/jjsps.52.6_1241
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.jstage.jst.go.jp/article/jjsps/52/6/52_1241/_pdf/-char/ja
+abstract_source: null
+language: ja
+pmid: null
+doi: 10.11164/jjsps.52.6_1241
+pmcid: null
+title: A Case of Juvenile Granulosa Cell Tumor of the Ovary Detected Owing to Precocious Puberty
+journal: Nihon Shoni Geka Gakkai Zasshi (J Jpn Soc Pediatr Surg)
+year: 2016
+first_author: Kadohisa M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 7 years
+alterations: []
+treatments:
+- regimen: right salpingo-oophorectomy (right ovarian vein and tube ligated; specimen removed); contralateral adnexa normal
+  setting: primary surgery
+  n: 1
+  outcome: no adjuvant chemotherapy; uneventful course at 12 months
+presentation:
+- premature thelarche from before school entry
+- vaginal bleeding about half a year before presentation
+- increased growth (height 132.8 cm, +2.5 SD)
+- abdominal mass on ultrasound
+key_findings:
+- A 7-year-old girl had breast development noticed at school entry and vaginal bleeding about half a year before referral; height was 132.8 cm (+2.5 SD), weight 25.4 kg (+0.5 SD), Tanner breast stage II and pubic hair stage II.
+- 'Ultrasound and MRI showed a mixed solid and cystic tumour of 14 x 10 x 7 cm filling most of the abdomen. Blood tests: LH 0.0 mIU/ml, FSH below 0.1 mIU/ml, estradiol 61.6 pg/ml, testosterone 2.72 ng/ml, GH 56.04 ng/ml, hCG-beta 0.0 mIU/ml, AFP 2 ng/ml.'
+- The preoperative diagnosis was juvenile granulosa cell tumour or dysgerminoma. At laparotomy a capsule-covered 15 x 10 x 6 cm yellow-brown soft solid tumour with cystic spaces was removed with the right adnexa; ascites was scanty and cytology showed no malignant cells, the contralateral adnexa looked normal and no peritoneal dissemination was seen.
+- 'Histology: juvenile granulosa cell tumour with an intact capsule, no capsular invasion, 4 mitoses in 20 fields at x200 as the text is read, inhibin alpha weakly positive. FIGO stage Ia.'
+- No adjuvant chemotherapy was given. At 12 months after surgery the estradiol, testosterone and GH that were high before surgery were within reference range and there was no recurrence on imaging.
+- In their discussion the authors cite reports that stage and mitotic activity drive prognosis, that recurrence in stage I has been reported after 4 years, and that periodic follow-up is needed; they favour adnexectomy rather than tumour-only removal to avoid residual tumour.
+relevance_to_jgct: Japanese stage Ia JGCT in a 7-year-old presenting with precocious puberty and high estradiol, treated by unilateral salpingo-oophorectomy alone with 12 months NED.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Japanese with an English abstract. The PDF text layer is glyph-garbled: the English abstract, figures'' numbers and the digits were read, and Japanese words were read through the garbling by context; the mitosis count (4 per 20 fields at x200) is read that way and was left out of mitoses_per_10hpf. Testosterone and GH are stated as elevated for age. Presented at the 56th Chugoku-Shikoku Pediatric Cancer Research Meeting (April 2015, Tottori).'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 7
+  site: ovary
+  stage: IA
+  stage_system: FIGO
+  rupture: none
+  malignant_ascites: false
+  tumor_size_cm: 15
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 12
+  notes: capsule intact; ascites cytology negative; estradiol, testosterone and GH normalised after surgery; mitoses 4 per 20 fields at x200

@@ -1,0 +1,53 @@
+source_id: 10.83129/toubkal-29149
+source_type: doi
+source_tier: other
+source_url: https://doi.org/10.83129/toubkal-29149
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://doi.org/10.83129/toubkal-29149
+language: fr
+pmid: null
+doi: 10.83129/toubkal-29149
+pmcid: null
+title: '[Juvenile granulosa tumors during pregnancy: experience of two cases and review of the literature on conservative management and maternal-fetal prognosis]'
+journal: Thèse, Université Mohammed V, Faculté de Médecine et de Pharmacie, Rabat
+year: 2025
+first_author: Ayadine A
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 2
+age_range: null
+alterations: []
+treatments: []
+presentation:
+- pregnancy
+key_findings:
+- Thesis summary (Rabat, Morocco; supervisor Kouach Jaouad) reporting two pregnancies complicated by juvenile granulosa cell tumor managed in the authors' department, compared with the literature.
+- The authors state that juvenile granulosa tumors occur mainly in the first two or three decades of life, so rarely coincide with pregnancy, and that fewer than 10 cases in pregnancy have been reported.
+- The authors state that the lack of data on maternal and fetal outcomes calls for more clinical studies balancing oncologic prognosis, fetal well-being and fertility preservation.
+- The summary gives no ages, stages, treatments or outcomes for the two patients.
+relevance_to_jgct: Thesis on JGCT in pregnancy (two cases); only the summary page is available, with no patient-level data.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Abstract-level record from the repository summary page (French). Keywords include conservative surgery and prognosis, but the summary reports no results. Replace if the thesis PDF becomes readable.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  site: ovary
+  presentation:
+  - pregnancy
+  outcome: unknown
+  notes: no details in the summary
+- id: '2'
+  sex: F
+  site: ovary
+  presentation:
+  - pregnancy
+  outcome: unknown
+  notes: no details in the summary

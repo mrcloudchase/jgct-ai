@@ -53,7 +53,8 @@ key_findings:
 - Authors note 20 JGCT diagnosed at their hospital over 9 years, with peritoneal metastases in 5.
 relevance_to_jgct: Directly addresses whether lymphadenectomy adds benefit in early-stage ovarian JGCT; small retrospective cohort with confounded groups (age).
 conflicts_with: []
-overlaps_with: []
+overlaps_with:
+- doi-10.1200_jco.2025.43.16_suppl.e17553
 superseded_by: null
 retracted: false
 notes: Small n and age imbalance between groups; no multivariate analysis. Text says non-lymphadenectomy group younger. Relapse table lists case 2 DFS 24 months but text gives range of 6-20 months for time to relapse; the text 'Median time to relapse 12 months (range 6-20)' conflicts with Table 2 (6, 24, 12). The study excluded one stage III patient. Possible patient overlap with other West China Second Hospital JGCT reports is not stated. Bibliographic ledger year is 2023.

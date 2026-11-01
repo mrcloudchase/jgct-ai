@@ -1,0 +1,70 @@
+source_id: 10.21474/ijar01/14578
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.21474/ijar01/14578
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://doi.org/10.21474/ijar01/14578
+abstract_source: null
+language: en
+pmid: null
+doi: 10.21474/ijar01/14578
+pmcid: null
+title: 'Granulosa tumors: about 10 cases'
+journal: International Journal of Advanced Research
+year: 2022
+first_author: Mettahri A
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 4
+age_range: 18-31 years
+alterations: []
+treatments: []
+presentation:
+- abdominal distension
+- chronic pelvic pain
+- metrorrhagia
+key_findings:
+- 'Retrospective series of 10 ovarian granulosa tumors treated at the gynaecology-obstetrics department of Mohammed VI University Hospital, Oujda, Morocco (September 2016 to September 2021): 6 adult type and 4 juvenile type (40%).'
+- The ages of the juvenile-type patients are listed as 18, 19, 22 and 31 years (the text gives the mean as 18.6 years, which does not match these four values, whose mean is 22.5); adult-type ages 35, 38, 52, 57, 66, 81.
+- 'For the whole series (not separated by type): all had palpable pelvic masses, mean tumour size 141.5 mm (63-220 mm), 80% conservative and 20% radical surgery, 60% received chemotherapy, none radiotherapy, one recurrence and all patients alive after surgical treatment.'
+- The text does not link treatment, stage, recurrence or outcome to the juvenile-type patients individually; the one recurrence may or may not have been in a juvenile case.
+- The authors cite the literature for juvenile granulosa tumor presenting before age 20 (peak 0-10 years) and for chemotherapy being unnecessary in stage I except with large size, capsular rupture or high mitotic index.
+relevance_to_jgct: Mixed adult/juvenile Moroccan series; only 4 labelled juvenile type, all aged 18-31, with no individual detail.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Per-type data are limited to ages. ''Juvenile'' label at ages 18-31 is by the authors'' histology; no immunohistochemistry or FOXL2 testing reported. Internal inconsistencies: adult mean age stated as 58.4 in the abstract and 54.8 in the results (54.8 matches the listed ages); the juvenile mean 18.6 does not match the listed ages; the text refers to ''GIST'' and ''GERD'' where granulosa tumor and ovarian cancer are meant. Figure 4 is a juvenile-tumour photograph credited to reference 1. The series may include patients also reported elsewhere from Oujda.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: J1
+  sex: F
+  age_years: 18
+  site: ovary
+  stage: null
+  outcome: unknown
+  notes: juvenile type per the authors; treatment, stage and outcome not given per patient; all 10 patients alive after surgery, one recurrence in the series
+- id: J2
+  sex: F
+  age_years: 19
+  site: ovary
+  stage: null
+  outcome: unknown
+  notes: juvenile type per the authors; treatment, stage and outcome not given per patient; all 10 patients alive after surgery, one recurrence in the series
+- id: J3
+  sex: F
+  age_years: 22
+  site: ovary
+  stage: null
+  outcome: unknown
+  notes: juvenile type per the authors; treatment, stage and outcome not given per patient; all 10 patients alive after surgery, one recurrence in the series
+- id: J4
+  sex: F
+  age_years: 31
+  site: ovary
+  stage: null
+  outcome: unknown
+  notes: juvenile type per the authors; treatment, stage and outcome not given per patient; all 10 patients alive after surgery, one recurrence in the series
