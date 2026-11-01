@@ -35,7 +35,8 @@ key_findings:
 - Previously reported FSH receptor polymorphisms (Ser680Asn and Ala307Thr) were found in 25 of 27 tumor samples and 9 of 9 premature thelarche samples.
 - The authors conclude that activating mutations in the known hot-spots of Gs-alpha and the FSH receptor are probably not a major cause of premature thelarche or granulosa cell tumors.
 relevance_to_jgct: Negative genetic screen (GNAS/Gs-alpha and FSHR hot-spots) in a set of juvenile and adult granulosa cell tumors; the number of juvenile specimens is not given in the abstract.
-conflicts_with: []
+conflicts_with:
+- pmid-16507630
 overlaps_with: []
 superseded_by: null
 retracted: false

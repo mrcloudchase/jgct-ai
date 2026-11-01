@@ -35,7 +35,8 @@ key_findings:
 - 'Patients with a hyperactivated Galphas had significantly more advanced tumors (P < 0.05): seven of them (77.7%) were stage Ic or had a recurrence.'
 - Galphai showed no mutation.
 relevance_to_jgct: First report of recurrent somatic GNAS activating mutations in JGCT and their association with advanced stage or recurrence.
-conflicts_with: []
+conflicts_with:
+- pmid-12199347
 overlaps_with:
 - url-670c73814ffc
 superseded_by: null

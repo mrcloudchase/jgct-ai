@@ -4,7 +4,7 @@ After surgery, the work is watching: for the tumor coming back, which happens ea
 
 ## Surveillance for recurrence
 
-The 2026 European recommendations: physical examination with abdominal and pelvic ultrasound every 3 months for the first 2 years, then at longer intervals; tumor markers (inhibin, estrogen or testosterone, CA-125) only if they were raised at diagnosis; MRI only when ultrasound is unclear; no routine imaging above the diaphragm [pmid-42504512]. The 2025 multidisciplinary review suggests every 3 months for 3 years [pmid-41367860]; OTST authors advise imaging plus markers for up to 5 years [pmid-40267023]; the COG imaging white paper recommends pelvic ultrasound or MRI surveillance in every girl after an ovarian tumor and notes that no formal schedule exists for children [pmid-36184758]. Earlier US guidance proposed MRI or ultrasound with inhibin B about every 3 months for at least 3 years [pmid-22525408].
+The 2026 European recommendations: physical examination with abdominal and pelvic ultrasound every 3 months for the first 2 years, then at longer intervals; tumor markers (inhibin, estrogen or testosterone, CA-125) only if they were raised at diagnosis; MRI only when ultrasound is unclear; no routine imaging above the diaphragm [pmid-42504512]. The 2025 multidisciplinary review suggests every 3 months for 3 years [pmid-41367860]; OTST authors advise imaging plus markers for up to 5 years [pmid-40267023]; the COG imaging white paper recommends pelvic ultrasound or MRI surveillance in every girl after an ovarian tumor and notes that no formal schedule exists for children [pmid-36184758]. Earlier US guidance proposed MRI or ultrasound with inhibin B about every 3 months for at least 3 years [pmid-22525408]. What patients actually receive was reported by a multinational survey of a granulosa cell tumor support group (743 respondents, 52 with the juvenile type, all self-reported): among those without recurrence, 60% had inhibin A and B monitored, 26% inhibin B alone, 33% CA-125 and 51% scans, with few reporting AMH; these figures are not split by tumor type [pmid-37011030]. The survey's conference abstract reports the same data and is not a separate sample [doi-10.1210_jendso_bvad114.2137].
 
 ## Markers during follow-up
 
@@ -12,7 +12,7 @@ Inhibin B falls to normal within days to weeks of complete resection [pmid-34487
 
 ## The hormones after surgery
 
-Breast development, bleeding and virilization regress over weeks to months once the tumor is out [pmid-41367860, pmid-39877787, pmid-36112066]. Two things to watch:
+Breast development, bleeding and virilization regress over weeks to months once the tumor is out [pmid-41367860, pmid-39877787, pmid-36112066]; single cases describe withdrawal bleeding just after surgery and breast regression [doi-10.11164_jjsps.22.6_1102], regression beginning about two months after surgery [doi-10.4236_ojped.2023.132019], and raised estradiol, testosterone and growth hormone back in range by 12 months [doi-10.11164_jjsps.52.6_1241]. Two things to watch:
 
 - **Central precocious puberty.** Prolonged exposure to tumor estrogen can "prime" the brain's puberty axis, so true puberty starts early after the tumor is gone; a 5-year-old needed GnRH analog treatment 18 months after surgery, and 2 of 57 prepubertal cases in a review developed it [pmid-35371651, pmid-41367860]. Re-appearing pubertal signs therefore need hormone tests and an ultrasound to tell priming from relapse [pmid-41367860].
 - **Delayed puberty from the tumor itself** resolved after surgery in a 13-year-old whose interleukin-6 had suppressed her puberty axis [pmid-31582893].
@@ -21,11 +21,11 @@ Hormone replacement is avoided right after surgery because sex steroids are tumo
 
 ## Fertility
 
-Most patients keep one ovary and the uterus. Pregnancy after fertility-sparing surgery occurred in 42% of JGCT patients in one review and in 88% of those who tried [pmid-35437273]; small series report term births, including after BEP chemotherapy [pmid-25788847, pmid-21998762]. Ifosfamide and cyclophosphamide are the most gonadotoxic drugs used; platinum carries moderate risk [pmid-32355841]. From abstracts only: four of 35 Chinese patients had six live births after fertility-sparing surgery, 31 of them having received chemotherapy [pmid-34902562]; two of 18 Fudan patients gave birth and 4 of 6 premenarchal girls later had regular periods [pmid-42706059]; two of seven patients in a pathology series had babies [pmid-32561911].
+Most patients keep one ovary and the uterus. Pregnancy after fertility-sparing surgery occurred in 42% of JGCT patients in one review and in 88% of those who tried [pmid-35437273]; small series report term births, including after BEP chemotherapy [pmid-25788847, pmid-21998762]; a Spanish woman delivered a healthy baby a year into follow-up (abstract only) [doi-10.1016_j.gamo.2016.03.006], and a German 25-year-old facing chemotherapy joined the FertiPROTEKT fertility-preservation network (abstract only) [doi-10.1055_s-0036-1592834]. Ifosfamide and cyclophosphamide are the most gonadotoxic drugs used; platinum carries moderate risk [pmid-32355841]. From abstracts only: four of 35 Chinese patients had six live births after fertility-sparing surgery, 31 of them having received chemotherapy [pmid-34902562]; two of 18 Fudan patients gave birth and 4 of 6 premenarchal girls later had regular periods [pmid-42706059]; two of seven patients in a pathology series had babies [pmid-32561911].
 
 ## The other ovary
 
-Metachronous tumors in the remaining ovary are reported in about 4% of published pediatric cases (up to 10% in some sources), at a median 2.3 years, some benign (cystadenomas) and some new JGCT [pmid-41367860, pmid-36748172]; one MAKEI patient's contralateral tumor appeared at 126 months (abstract only) [pmid-12165898]. New masses in the contralateral ovary are therefore a reason to re-image rather than assume relapse or assume benignity [pmid-41367860].
+Metachronous tumors in the remaining ovary are reported in about 4% of published pediatric cases (up to 10% in some sources), at a median 2.3 years, some benign (cystadenomas) and some new JGCT [pmid-41367860, pmid-36748172]; one MAKEI patient's contralateral tumor appeared at 126 months (abstract only) [pmid-12165898]. A Chinese 10-year-old's second JGCT, two years after the first, looked like a simple physiological cyst and was watched until it measured 21 cm; the authors advise surgery for persistent enlarging cysts (preprint) [doi-10.21203_rs.3.rs-143384_v1]. New masses in the contralateral ovary are therefore a reason to re-image rather than assume relapse or assume benignity [pmid-41367860].
 
 ## Testicular JGCT
 
@@ -33,4 +33,4 @@ Annual clinical and ultrasound review is enough; markers and staging imaging are
 
 ## What is unknown
 
-How long to follow a stage IA tumor with a low mitotic index, which has not relapsed in either registry [pmid-40267023, pmid-40272823]; whether the schedule can be relaxed for them; and long-term endocrine and psychosocial outcomes, which no source reports systematically.
+How long to follow a stage IA tumor with a low mitotic index, which has not relapsed in either registry [pmid-40267023, pmid-40272823]; whether the schedule can be relaxed for them; and long-term endocrine and psychosocial outcomes, which no source reports systematically; the one survivor survey reports treatment experiences and monitoring [pmid-37011030].
