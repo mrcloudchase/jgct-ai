@@ -1,0 +1,67 @@
+source_id: 10.11164/jjsps.26.5_987
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.11164/jjsps.26.5_987
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.jstage.jst.go.jp/article/jjsps/26/5/26_KJ00000876715/_pdf/-char/ja
+abstract_source: null
+language: ja
+pmid: null
+doi: 10.11164/jjsps.26.5_987
+pmcid: null
+title: A Case Report of Juvenile Granulosa Cell Tumor
+journal: Nihon Shoni Geka Gakkai Zasshi (J Jpn Soc Pediatr Surg)
+year: 1990
+first_author: Fujita H
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 3 years
+alterations: []
+treatments:
+- regimen: bilateral salpingo-oophorectomy with partial resection of right adrenal-region tumour, then cyclophosphamide, vincristine, adriamycin, cisplatin; later VP16, DTIC and cisplatin
+  setting: primary surgery plus chemotherapy for stage IV
+  n: 1
+  outcome: no response; died 4.5 months from presentation
+presentation:
+- constipation then abdominal pain and rapid abdominal distension
+- large bloody ascites and right pleural effusion
+- no precocious puberty or secondary sex characteristics
+key_findings:
+- A 3-year-old girl with constipation, abdominal pain and rapidly increasing distension had bilateral ovarian tumours and a right adrenal-region tumour on ultrasound and CT with massive ascites; she had no vaginal bleeding or secondary sexual characteristics, and urinary estrogens, androgens and progesterone were age-appropriate.
+- 'Blood tests: white cells 27,500/mm3, LDH 4,330 IU/l (isozymes 1 and 2 high); other tumour markers normal; bone marrow had no abnormal cells. At surgery there was bloody ascites; both ovarian tumours were encapsulated (right 10 x 7 x 6 cm, 856 g; left 8.5 x 7.5 x 6 cm, 670 g), and a tumour at the right adrenal region reached the diaphragm and involved the inferior vena cava and could not be removed.'
+- Both ovaries were removed with the tubes and the adrenal tumour partly resected; about 100 cc of bloody pleural fluid was taken. Ascitic and pleural fluid cytology was class V. The authors staged the case FIGO IV (bilateral ovaries, dissemination to the adrenal capsule, pleural and peritoneal malignant cells).
+- 'Histology: granulosa cells with scant cytoplasm in macrofollicular and diffuse patterns surrounded by theca cells, many mitoses, and the resected right adrenal region mass (5 x 4 x 3 cm) was separated from adrenal tissue by its capsule and showed the same granulosa-cell pattern without theca cells. The diagnosis was JGCT (no immunohistochemistry or molecular testing reported).'
+- Chemotherapy with cyclophosphamide 1,200 mg/m2, vincristine 1.5 mg/m2, adriamycin 40 mg/m2 and cisplatin 90 mg/m2 gave only a transient effect; bone, bone marrow, oral cavity and both orbits became involved, and VP16, DTIC and cisplatin did not stop growth. She died of respiratory arrest thought to be caused by intracranial metastasis 4.5 months after presentation; no autopsy; blood and urine sex hormones stayed normal even during metastasis.
+- The authors attribute the course to an undifferentiated tumour with no hormone production; in their table of 11 Japanese cases (their review) this is the only bilateral case without precocious puberty.
+relevance_to_jgct: Rapidly fatal bilateral stage IV tumour in a 3-year-old called JGCT without hormone production or precocity; poor response to cyclophosphamide, vincristine, adriamycin and cisplatin; unusual features raise the question of classification.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Japanese with English abstract; OCR text legible with garbled tables. Unusual for JGCT: bilateral ovarian involvement, adrenal-region mass, no hormone secretion, no theca component in the adrenal mass, stage IV at diagnosis, death within 5 months; the diagnosis rests on 1990-era morphology only. The drug dose lines for the second regimen are OCR-damaged (VP16 100 mg/m2, DTIC and cisplatin 20 mg/m2 x 5 days as read). Authors'' literature statements on prognosis are theirs.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 3
+  site: ovary
+  stage: IV
+  stage_system: FIGO (pre-2014)
+  rupture: null
+  malignant_ascites: true
+  tumor_size_cm: 10
+  presentation:
+  - abdominal_pain
+  - abdominal_mass_or_distension
+  - ascites
+  surgery: other
+  chemotherapy: cyclophosphamide, vincristine, adriamycin, cisplatin; then VP16, DTIC, cisplatin
+  chemo_setting: adjuvant
+  relapse: null
+  outcome: DOD
+  follow_up_months: 4.5
+  notes: bilateral ovarian tumours (10 x 7 x 6 cm right, 8.5 x 7.5 x 6 cm left) plus right adrenal-region tumour; no precocious puberty; hormones normal; death attributed to intracranial metastasis, no autopsy

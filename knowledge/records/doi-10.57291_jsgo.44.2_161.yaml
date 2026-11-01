@@ -1,0 +1,63 @@
+source_id: 10.57291/jsgo.44.2_161
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.57291/jsgo.44.2_161
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.jstage.jst.go.jp/article/jsgo/44/2/44_161/_pdf/-char/ja
+abstract_source: null
+language: ja
+pmid: null
+doi: 10.57291/jsgo.44.2_161
+pmcid: null
+title: A Granulosa Cell Tumor Lacking FOXL2 Mutation With 12-year-old Onset and Adult Presentation
+journal: Nihon Fujinka Shuyo Gakkai Zasshi (J Jpn Soc Gynecol Oncol)
+year: 2026
+first_author: Ohirabaru R
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 12 years (first tumour); 40 years (second tumour)
+alterations:
+- gene: FOXL2
+  alteration: c.402C>G not detected (PCR plus Sanger) in both the age-12 and age-40 specimens
+  frequency: 1 patient, 2 specimens
+  notes: DICER1 mutation also not detected in both
+treatments:
+- regimen: 'age 12: left oophorectomy, details lost, patient recalls about 3 months of inpatient nauseating infusions (probable chemotherapy); age 40: hysterectomy, right adnexectomy, omentectomy, left tubectomy then DC chemotherapy x4 (adult-type tumour)'
+  setting: primary then second tumour
+  n: 1
+  outcome: no recurrence at last follow-up after the age-40 treatment
+presentation:
+- left ovarian tumour at age 12 treated by open left oophorectomy
+- at age 40 a slowly growing pelvic mass thought to be a right ovarian teratoma
+key_findings:
+- A 40-year-old woman (G5P3) had had an open left oophorectomy at age 12 for an ovarian tumour (28 years earlier; the outside hospital had discarded the paper chart) and the patient recalled about 3 months of inpatient infusions causing nausea, so chemotherapy was presumed.
+- At 40 a right pelvic mass grew from 45 mm to 56 mm over 6 months; tumour markers were normal (LD 191 U/L, CA125 8 U/L, HE4 43.1 pmol/L, AFP 2.7 ng/mL) and estrogen was not measured. Surgery found a 15 mm lesion on the sigmoid mesocolon and a 50 mm mass on the right pelvic sidewall peritoneum adherent to the right ovary, so the operation became hysterectomy, right adnexectomy, left tubectomy and omentectomy.
+- 'The age-40 tumour was judged adult-type granulosa cell tumour: Call-Exner bodies, coffee-bean nuclei, mitoses 3-5/HPF, calretinin positive, NCAM partly positive, inhibin positive; ascitic cytology showed atypical cells. She received DC therapy (regimen abbreviation not expanded in the text) for four courses and was recurrence-free at the time of writing.'
+- The age-12 slide, recovered from the outside hospital, showed pseudopapillary growth, indistinct nuclear grooves and mildly eosinophilic cytoplasm, calretinin partly positive, NCAM and inhibin positive; it had been diagnosed juvenile-type GCT because of age 12, and the authors' hospital pathologist agreed.
+- FOXL2 c.402C>G was not found in either specimen and DICER1 was not mutated in either. The authors conclude the age-40 tumour is an adult-type GCT lacking FOXL2 mutation and say FOXL2 negativity does not exclude adult-type GCT.
+- 'The authors say two explanations remain: the age-12 tumour was a true JGCT and a new FOXL2-negative adult-type tumour arose at 40, or the age-12 tumour was a FOXL2-negative adult-type GCT that recurred 28 years later; they say the age-12 tumour was morphologically JGCT but possibly adult-type clinically, and that morphology, genetics and clinical course must be weighed together.'
+relevance_to_jgct: Case where a morphologic JGCT at age 12 and an adult-type GCT at age 40 in the same patient were both FOXL2 and DICER1 negative; the authors assign adult type to the second tumour and leave the type of the first open.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Japanese with English synopsis, read in full. IMPORTANT: the authors diagnose the age-40 tumour as adult-type GCT lacking FOXL2 mutation; only the age-12 tumour (28 years earlier, slides re-reviewed) is called juvenile-type, so n_jgct_patients counts that tumour and it carries no stage, size, hormone or mitosis data. The authors'' own classification of the whole case is ''adult-type granulosa cell tumor, FOXL2-negative'' and they discuss late recurrence. Authors'' literature claims (JGCT 5% of GCTs, DICER1 in 5-10%) are theirs. Patient outcome after the age-12 treatment is not documented beyond the second tumour.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 12
+  site: ovary
+  stage: null
+  presentation:
+  - other
+  surgery: oophorectomy
+  chemotherapy: probable chemotherapy (about 3 months inpatient infusions per patient recall), regimen unknown
+  chemo_setting: unknown
+  relapse: null
+  outcome: unknown
+  notes: first tumour at age 12 diagnosed JGCT by the outside hospital and re-reviewed; at age 40 a peritoneal/mesocolon adult-type GCT (FOXL2 negative) that the authors consider either a new tumour or a very late recurrence; all details of the 12-year-old presentation lost; no recurrence after age-40 treatment at last report

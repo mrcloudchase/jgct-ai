@@ -1,0 +1,53 @@
+source_id: 10.11405/nisshoshi.119.750
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.11405/nisshoshi.119.750
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://www.jstage.jst.go.jp/article/nisshoshi/119/8/119_750/_pdf/-char/ja
+language: ja
+pmid: null
+doi: 10.11405/nisshoshi.119.750
+pmcid: null
+title: '[A case of CA19-9-producing esophagogastric junction cancer with rectal cancer in which a swollen left ovary suggested Krukenberg tumour and proved to be juvenile granulosa cell tumour]'
+journal: Nihon Shokakibyo Gakkai Zasshi (Jpn J Gastroenterol)
+year: 2022
+first_author: Kawada M
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: adult; exact age digits lost in extraction
+alterations: []
+treatments:
+- regimen: laparoscopic bilateral salpingo-oophorectomy for diagnosis; then thoracolaparotomy for esophagogastric junction cancer and robot-assisted surgery for rectal cancer
+  setting: diagnostic surgery before curative surgeries
+  n: 1
+  outcome: not reported in abstract
+presentation:
+- incidental swollen left ovary found during work-up of CA19-9 elevation and gastrointestinal cancers
+key_findings:
+- The English abstract states a woman (age digits lost in the extracted text) was diagnosed with double cancers of the esophagogastric junction and rectum and had a swollen left ovary suspected to be a Krukenberg tumour, which would have meant inoperable progression.
+- A laparoscopic bilateral salpingo-oophorectomy for histology showed the ovarian tumour was juvenile granulosa cell tumour, not Krukenberg tumour, so curative surgeries (thoracolaparotomy for the esophagogastric junction cancer, robot-assisted rectal surgery) were done.
+- Immunostaining showed CA19-9 strongly in the esophagogastric junction tumour but not in the rectal or ovarian tumours, and serum CA19-9 dropped sharply after resection of the esophagogastric junction cancer; the authors call it a CA19-9-producing gastric-type cancer by the criteria of Okinaga et al., and note JGCT is a borderline malignant sex cord-stromal tumour rarely found in adults.
+relevance_to_jgct: Rare adult-age 'juvenile' granulosa cell tumour found as an unexpected ovarian mass beside two gastrointestinal cancers; no stage, size, hormone or outcome data available.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Recorded from the English abstract only. The article text in the cache is a font-encoded PDF in which all digits and Japanese words are lost or scrambled (only the English abstract could be decoded), so age, size, stage, mitoses and follow-up are unavailable. The patient's age is not recoverable; the authors' own classification is JGCT in an adult, so it conflicts with the usual age profile and is worth verifying against a clean copy of the full text.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: null
+  site: ovary
+  presentation:
+  - incidental
+  surgery: other
+  chemotherapy: null
+  chemo_setting: null
+  outcome: unknown
+  notes: adult patient (age digits lost); bilateral salpingo-oophorectomy; JGCT diagnosed in a left ovary suspected as Krukenberg tumour; synchronous esophagogastric junction cancer and rectal cancer

@@ -1,0 +1,58 @@
+source_id: 10.3126/njog.v6i2.6764
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.3126/njog.v6i2.6764
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.nepjol.info/index.php/NJOG/article/download/6764/5489
+abstract_source: null
+language: en
+pmid: null
+doi: 10.3126/njog.v6i2.6764
+pmcid: null
+title: Adult and Torted Juvenile Granulosa Cell Tumour
+journal: Nepal Journal of Obstetrics and Gynaecology
+year: 2011
+first_author: Bhobem D
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 17 years
+alterations: []
+treatments:
+- regimen: enucleation of the ovarian cyst, preserving the ipsilateral tube and contralateral adnexa
+  setting: emergency laparotomy for torsion
+  n: 1
+  outcome: not reported
+presentation:
+- acute abdominal pain and vomiting
+- tender left pelvic mass
+- ovarian torsion (twisted twice on its pedicle)
+- known polycystic ovarian disease on Dianette
+key_findings:
+- Letter from two Welsh hospitals (Nevill Hall, Prince Charles) describing one JGCT and one adult GCT. The JGCT patient was 17, known to have polycystic ovarian disease and taking Dianette, and presented with acute abdominal pain and vomiting and a tender left pelvic mass.
+- Ultrasound showed a normal uterus and an 8 cm cystic-solid mass without ascites; CT and tumour markers were normal. At laparotomy a 9 cm left ovarian cyst with a solid area, twisted twice on its pedicle, was enucleated, preserving the same-side tube and the normal right tube and ovary. Histology confirmed JGCT.
+- The authors counted 16 granulosa cell tumours over a decade at their hospital, one juvenile and 15 adult type, and argue that unilateral resection suits adolescents with JGCT, including when the tumour is torted.
+relevance_to_jgct: Adolescent JGCT presenting as torsion, treated by cyst enucleation (ovary-sparing); one-in-sixteen local frequency among GCTs.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: The PDF's text layer uses a glyph-index font encoding; it was decoded with a character map built from the legible words (digits map directly) and read in full. Follow-up not reported. Enucleation of a JGCT is an ovary-sparing procedure that most sources do not recommend; the letter does not discuss staging or margins.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 17
+  site: ovary
+  stage: null
+  tumor_size_cm: 9
+  presentation:
+  - torsion
+  - abdominal_pain
+  surgery: cystectomy_or_enucleation
+  chemotherapy: null
+  outcome: unknown
+  notes: PCOD on Dianette; tumour markers and CT normal; follow-up not reported

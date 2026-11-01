@@ -1,0 +1,36 @@
+source_id: '23898526'
+source_type: pmid
+source_tier: peer_reviewed
+source_url: https://pubmed.ncbi.nlm.nih.gov/23898526/
+retrieved_on: '2026-11-01'
+evidence_basis: abstract
+full_text_source: null
+abstract_source: https://pubmed.ncbi.nlm.nih.gov/23898526/
+language: zh
+pmid: '23898526'
+doi: null
+pmcid: null
+title: '[Pathologic features and prognostic factors of ovarian granulose cell tumor]'
+journal: Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition
+year: 2013
+first_author: Liao X
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 6
+age_range: JGCT mean age 35.3 years (AGCT mean 50.1)
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- Of 40 ovarian granulosa cell tumours reviewed at one Chinese centre between April 2002 and September 2011, 34 (85%) were adult type (mean age at onset 50.1 years) and 6 (15%) juvenile type (mean age 35.3 years); the difference in mean age was significant (P = 0.034).
+- The JGCT were mainly diffuse in pattern with rare Call-Exner bodies and common luteinisation, haemorrhage and necrosis, whereas AGCT were mainly follicular, insular and trabecular with frequent Call-Exner bodies.
+- Across all granulosa cell tumours, features of unfavourable prognosis were a mixed histological pattern (two or more of follicular, insular, trabecular, diffuse), rare Call-Exner bodies, 3 or more mitoses per 10 HPF, low PTEN and high Ki-67 expression.
+relevance_to_jgct: Chinese single-centre GCT series with 6 JGCT in adults (mean 35.3 years); prognostic factors are reported for GCT as a whole, not for JGCT separately.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Chinese article; English abstract only. The abstract does not give outcomes for the 6 JGCT separately; the prognostic factors are pooled across GCT types. Mean JGCT age of 35.3 years is unusually high for JGCT. Written from the abstract only; no open route to the full text was found. Replace with a full-text record when one can be read.
+review_status: draft
+reviewed_by: null
+reviewed_on: null

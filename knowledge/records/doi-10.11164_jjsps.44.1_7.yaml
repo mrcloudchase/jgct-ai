@@ -1,0 +1,44 @@
+source_id: 10.11164/jjsps.44.1_7
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.11164/jjsps.44.1_7
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.jstage.jst.go.jp/article/jjsps/44/1/44_KJ00004867092/_pdf/-char/ja
+abstract_source: null
+language: ja
+pmid: null
+doi: 10.11164/jjsps.44.1_7
+pmcid: null
+title: A Study of Eleven Cases With Bilateral Ovarian Tumor
+journal: Nihon Shoni Geka Gakkai Zasshi (J Jpn Soc Pediatr Surg)
+year: 2008
+first_author: Mochizuki K
+study_type: case_series
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: not assignable
+alterations: []
+treatments: []
+presentation: []
+key_findings:
+- 'Retrospective single-centre study (Kanagawa Children''s Medical Center, 1970-2005): 11 of 90 paediatric ovarian tumour operations (age 0-18 years) were bilateral, aged 10 days to 16 years (mean 11.4); 10 synchronous and 1 metachronous; 6 bilateral benign, 4 bilateral malignant, 1 benign plus malignant.'
+- The pathology column of the cases table lists one 'juvenile granulosa cell tumor (malignant)' among the malignant diagnoses, with a unilateral right ovary preserved and chemotherapy in the same row run; the table is scrambled in the extracted text so which patient, her age, stage and fate cannot be assigned.
+- 'Series context: no recurrences; one death (case 5, heart failure from doxorubicin); malignancy rate 22% (20/90) overall, 19% (15/79) unilateral, 45% (5/11) bilateral; no ovary was preserved in bilateral malignant cases (4); the authors suggest chemotherapy first for bilateral germ cell tumours. The paper says nothing further about JGCT in its text.'
+relevance_to_jgct: Paediatric bilateral ovarian tumour series that includes one JGCT labelled malignant; the JGCT patient cannot be characterised from the legible text.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Japanese with English abstract. Included only because the case table names one juvenile granulosa cell tumour; low JGCT content. The table is OCR-scrambled, so no patient-level data were extracted, and the identity of the JGCT case (and whether its other ovary held theca-cell hyperplasia, which also appears in the list) is uncertain.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: unassigned
+  sex: F
+  age_years: null
+  site: ovary
+  presentation: []
+  outcome: unknown
+  notes: the table row is not assignable; chemotherapy and a preserved right ovary appear in the same row run; only one death in the series (doxorubicin heart failure, case 5)

@@ -1,0 +1,73 @@
+source_id: 10.5505/aot.2012.33042
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5505/aot.2012.33042
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://doi.org/10.5505/aot.2012.33042
+abstract_source: null
+language: tr
+pmid: null
+doi: 10.5505/aot.2012.33042
+pmcid: null
+title: 'Very Early Recurrence Juvenile Granulosa Cell Tumor of the Ovary: A Case Report'
+journal: Acta Oncologica Turcica
+year: 2012
+first_author: Demirci A
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 23 years
+alterations: []
+treatments:
+- regimen: cyst excision, then right salpingo-oophorectomy with bilateral pelvic and para-aortic lymphadenectomy, omental biopsy, left ovarian biopsy and washings
+  setting: primary (two operations)
+  n: 1
+  outcome: intra-abdominal recurrence at 2 months
+- regimen: BEP x3 (bleomycin 30 mg days 1, 8, 15; etoposide 100 mg/m2 days 1-5; cisplatin 20 mg/m2 days 1-5), then a fourth cycle
+  setting: neoadjuvant for recurrence (stage IIIC at relapse)
+  n: 1
+  outcome: symptoms improved and CA125 fell to 22 U/ml, but masses slightly larger on MRI (12 cm)
+- regimen: interval debulking (bladder, sigmoid, rectum, omentum, right ovarian vessels, ureteric region), left ovary and uterus preserved; then LHRH analogue
+  setting: relapse surgery and adjuvant hormonal therapy
+  n: 1
+  outcome: tumour with extensive chemotherapy effect in resected sites; 0 of 15 nodes involved; further follow-up not reported
+presentation:
+- abdominal pain
+- right ovarian cyst; torsion three weeks after the first operation
+- CA125 106 U/ml after surgery; AFP and beta-hCG normal
+- no signs of oestrogen excess or precocious puberty
+key_findings:
+- A 23-year-old woman with abdominal pain had a right ovarian cyst excised; pathology was first reported as a malignant mixed germ cell tumour. Three weeks later she had emergency surgery for a 5 cm right ovary twisted twice.
+- At the second operation (right salpingo-oophorectomy, bilateral pelvic and para-aortic lymphadenectomy, omental biopsy, left ovarian biopsy, washings) all nodes were reactive and omentum and washings tumour-free. Two centres could not distinguish endometrial stromal sarcoma, JGCT and rhabdomyosarcoma, so the exact stage could not be given.
+- On review at the authors' centre the tumour had cystic and solid areas of small and medium cells in a myxoid stroma with scattered multinucleated giant cells and frequent mitoses. It was diffusely WT-1 positive with focal paranuclear desmin, and negative for inhibin, calretinin, PLAP, EMA, pan-cytokeratin, MyoD1, myogenin, CD99, LCA, caldesmon and actin; on these results JGCT was diagnosed.
+- Two months after surgery MRI and PET-CT showed coalescing intra-abdominal recurrent masses up to 12 cm (largest conglomerate at the pelvic inlet 8.5 cm, SUVmax 9.76); the authors stage the relapse as IIIC.
+- After three cycles of BEP her pain and distension improved and CA125 fell from 106 to 22 U/ml, though MRI showed the masses slightly larger (12 cm). After a fourth cycle she underwent debulking with the left ovary and uterus preserved; residual tumour with extensive chemotherapy effect was found in bladder, sigmoid, rectum, omentum and right ovarian vessel and ureter regions, and 0 of 15 nodes; an LHRH analogue was started as adjuvant therapy.
+- The authors call the tumour stage IA at diagnosis and state that they found no early-stage JGCT in the literature that relapsed this soon; they cite earliest relapses of 3 months (Zaloudek and Norris), 6 months (Vassal) and 7 months (Young).
+relevance_to_jgct: Adult JGCT diagnosis made on an inhibin- and calretinin-negative tumour after a differential with endometrial stromal sarcoma and rhabdomyosarcoma; relapse 2 months after surgery treated with BEP, debulking and an LHRH analogue.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Turkish, read in full. The JGCT diagnosis is doubtful by current criteria: inhibin and calretinin were negative, the first pathology was a mixed germ cell tumour, and two centres could not separate ESS, JGCT and rhabdomyosarcoma. The first operation was a cystectomy, so ''stage IA'' rests on the second operation. Outcome after debulking not reported. Treat as classification-uncertain.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 23
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  rupture: unknown
+  presentation:
+  - abdominal_pain
+  - torsion
+  surgery: cystectomy_then_completion
+  chemotherapy: BEP x4 (for relapse), then debulking and LHRH analogue
+  chemo_setting: relapse
+  relapse: true
+  relapse_months: 2
+  outcome: AWD
+  notes: 'classification uncertain: inhibin- and calretinin-negative, WT-1+, differential with endometrial stromal sarcoma and rhabdomyosarcoma; status after debulking not reported (AWD = residual disease at last report)'

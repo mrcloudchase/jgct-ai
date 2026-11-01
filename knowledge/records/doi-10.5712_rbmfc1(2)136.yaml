@@ -1,0 +1,61 @@
+source_id: 10.5712/rbmfc1(2)136
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.5712/rbmfc1(2)136
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://rbmfc.org.br/rbmfc/article/download/136/100
+abstract_source: null
+language: pt
+pmid: null
+doi: 10.5712/rbmfc1(2)136
+pmcid: null
+title: Tumor de Celulas da Granulosa Juvenil - Relato de Caso em Atenção Primária
+journal: Revista Brasileira de Medicina de Família e Comunidade
+year: 2004
+first_author: Arruda JS
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 2 years 4 months
+alterations: []
+treatments:
+- regimen: left oophorectomy followed by chemotherapy cycles (regimen not stated)
+  setting: primary
+  n: 1
+  outcome: not reported (referral feedback lost)
+presentation:
+- white vaginal discharge treated repeatedly as candidiasis
+- diffuse abdominal pain
+- breast buds (thelarche) and pubic papules
+- LH 0.09 and FSH 0.1 (suppressed)
+key_findings:
+- A girl aged 2 years 4 months seen at a family-health (PSF) unit in Porto Alegre, Brazil, in April 2003 had odourless vaginal discharge, pubic papules and bilateral breast buds; the mother reported at least two months of diaper-area redness and heavy discharge, treated repeatedly as candidiasis.
+- Gonadotropins were suppressed (LH 0.09, FSH 0.1). Ultrasound, then MRI (August 2003) and Doppler (September 2003), showed a solid left ovarian mass with neovascularisation, about 3 x 2.1 x 2 cm on Doppler.
+- Left oophorectomy was done in September 2003 and pathology showed JGCT; she then began chemotherapy cycles. The authors infer more advanced disease than stage I from the chemotherapy, but because referral feedback failed they could not establish the stage.
+- 'The report''s point is about primary care: about five months passed between the first primary-care visit and surgery, and the primary-care team learned the outcome only through community health agents, students and the family.'
+relevance_to_jgct: Brazilian primary-care report of isosexual pseudo-precocious puberty from JGCT in a toddler, first managed as recurrent candidiasis; illustrates diagnostic delay and lost follow-up.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Portuguese. Scanned PDF with OCR errors; the clinical narrative is legible. Stage, chemotherapy regimen and outcome not reported. The ultrasound and MRI dimensions are printed in mm (5.7 x 4.4 x 5.4 mm; 5 x 3.5 x 2.5 mm), probably meaning cm.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 2.33
+  site: ovary
+  stage: null
+  tumor_size_cm: 3
+  presentation:
+  - precocious_puberty
+  - abdominal_pain
+  - other
+  surgery: oophorectomy
+  chemotherapy: chemotherapy cycles, regimen not stated
+  chemo_setting: adjuvant
+  outcome: unknown
+  notes: stage unknown; tumor size 3 cm on Doppler

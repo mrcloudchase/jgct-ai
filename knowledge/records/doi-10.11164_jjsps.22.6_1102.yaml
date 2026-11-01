@@ -1,0 +1,70 @@
+source_id: 10.11164/jjsps.22.6_1102
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.11164/jjsps.22.6_1102
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.jstage.jst.go.jp/article/jjsps/22/6/22_KJ00003308630/_pdf/-char/ja
+abstract_source: null
+language: ja
+pmid: null
+doi: 10.11164/jjsps.22.6_1102
+pmcid: null
+title: Juvenile Granulosa Cell Tumor of the Ovary
+journal: Nihon Shoni Geka Gakkai Zasshi (J Jpn Soc Pediatr Surg)
+year: 1986
+first_author: Takano H
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 4 years 4 months
+alterations: []
+treatments:
+- regimen: right adnexectomy plus left ovarian wedge resection (follicular cysts); no chemotherapy
+  setting: primary surgery
+  n: 1
+  outcome: no recurrence at 2 years 2 months
+presentation:
+- rapidly increasing abdominal distension
+- abdominal pain and vomiting
+- bilateral breast enlargement and genital discharge
+- bloody ascites 1,000-1,500 cc per day via drain
+- fever 38.5 C
+key_findings:
+- A 4-year-4-month-old girl developed rapid abdominal distension with pain and vomiting in late February 1983, bilateral breast enlargement from mid-February, and genital discharge; an outside appendicitis laparotomy found a huge tumour and was limited to exploration.
+- On transfer there was an adult-head-sized mass in the right lower abdomen, 1,000-1,500 cc/day of bloody ascites by drain, white cells 17,200, low potassium, raised serum and ascitic LDH; CEA and AFP normal; ascites cytology Pap class II (English abstract; the Japanese OCR is ambiguous).
+- Serum estradiol was 578 pg/ml (reference 10-150), urinary estradiol 78.9 ug/day and urinary estriol 424 ug/day, all very high. Hormone results were available only after surgery.
+- At surgery on 9 March 1983 a 23 x 16 x 12 cm, 1,615 g encapsulated tumour from the right ovary with extensive haemorrhage and necrosis was removed with the right adnexa; the left ovary had two 1 cm follicular cysts (wedge-resected, benign), no metastases were found.
+- 'Histology showed fibrous theca-like cells with diffuse growth and follicle-like lumina lined by luteinised granulosa cells, moderate atypia and frequent mitoses; silver staining showed reticulin around cell groups. The diagnosis of JGCT was confirmed by Scully according to the authors. Tumour tissue estrogen: estrone 2,925 ng/g, estradiol 2,849 ng/g.'
+- She received no adjuvant therapy; estradiol fell right after surgery with withdrawal bleeding, breast enlargement regressed, and at 2 years 2 months after surgery estradiol was normal with no sign of recurrence. FIGO stage Ic is given in the authors' table of Japanese cases.
+relevance_to_jgct: Giant estrogen-producing JGCT in a 4-year-old, FIGO Ic with bloody ascites, treated conservatively by unilateral adnexectomy; NED at 26 months.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: 'Japanese with English abstract; OCR text legible apart from table garbling (units like pg/ml partly OCR-damaged). Ascites cytology class: English abstract says class II, OCR of Japanese reads like III. The authors review 8 Japanese cases they found (their own table 3); those are reported as the authors'' literature review, not as findings of this record.'
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 4.33
+  site: ovary
+  stage: IC
+  stage_system: FIGO (pre-2014)
+  rupture: null
+  malignant_ascites: false
+  tumor_size_cm: 23
+  presentation:
+  - abdominal_mass_or_distension
+  - abdominal_pain
+  - precocious_puberty
+  - ascites
+  surgery: unilateral_salpingo-oophorectomy
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 26
+  notes: tumour 1,615 g; bloody ascites with benign cytology; left ovary wedge resection of follicular cysts; estradiol 578 pg/ml before surgery

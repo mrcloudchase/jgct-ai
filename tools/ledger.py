@@ -6,7 +6,7 @@ Backed by SQLite at state/ledger.sqlite. Never open the DB by hand; use this CLI
   python3 tools/ledger.py add --id pmid:12345 --title "..." --year 2020 [--status found] [--priority 50] [--origin "pubmed search X"]
   python3 tools/ledger.py set pmid:12345 --status processed [--note "..."] [--record pmid-12345]
   python3 tools/ledger.py get pmid:12345
-  python3 tools/ledger.py list [--status found] [--limit 30] [--order priority|year]
+  python3 tools/ledger.py list [--status found] [--origin substr] [--limit 30] [--order priority|year]
   python3 tools/ledger.py stats
   python3 tools/ledger.py search "AKT1"
 
@@ -54,7 +54,7 @@ def main():
     a.add_argument("--pubtype"); a.add_argument("--status", default="found", choices=STATUSES); a.add_argument("--priority", type=int, default=0); a.add_argument("--origin")
     st = s.add_parser("set"); st.add_argument("id"); st.add_argument("--status", choices=STATUSES); st.add_argument("--note"); st.add_argument("--record"); st.add_argument("--priority", type=int)
     g = s.add_parser("get"); g.add_argument("id")
-    l = s.add_parser("list"); l.add_argument("--status"); l.add_argument("--limit", type=int, default=30); l.add_argument("--order", default="priority", choices=("priority", "year"))
+    l = s.add_parser("list"); l.add_argument("--status"); l.add_argument("--limit", type=int, default=30); l.add_argument("--order", default="priority", choices=("priority", "year")); l.add_argument("--origin", help="substring of origin")
     s.add_parser("stats")
     se = s.add_parser("search"); se.add_argument("q")
     args = p.parse_args()
@@ -75,9 +75,13 @@ def main():
         print(dict(zip(cols, r)) if r else "not found")
     elif args.cmd == "list":
         q = "SELECT id,status,priority,year,pubtype,substr(title,1,110),note FROM items"
-        params = ()
+        conds, params = [], ()
         if args.status:
-            q += " WHERE status=?"; params = (args.status,)
+            conds.append("status=?"); params += (args.status,)
+        if args.origin:
+            conds.append("origin LIKE ?"); params += (f"%{args.origin}%",)
+        if conds:
+            q += " WHERE " + " AND ".join(conds)
         q += " ORDER BY " + ("priority DESC, year DESC" if args.order == "priority" else "year DESC")
         q += " LIMIT ?"
         for r in c.execute(q, params + (args.limit,)):

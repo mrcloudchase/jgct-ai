@@ -1,0 +1,65 @@
+source_id: 10.11164/jjsps.29.6_1141
+source_type: doi
+source_tier: peer_reviewed
+source_url: https://doi.org/10.11164/jjsps.29.6_1141
+retrieved_on: '2026-11-01'
+evidence_basis: full_text
+full_text_source: https://www.jstage.jst.go.jp/article/jjsps/29/6/29_KJ00003312960/_pdf/-char/ja
+abstract_source: null
+language: ja
+pmid: null
+doi: 10.11164/jjsps.29.6_1141
+pmcid: null
+title: A Case of Juvenile Granulosa Cell Tumor of the Ovary
+journal: Nihon Shoni Geka Gakkai Zasshi (J Jpn Soc Pediatr Surg)
+year: 1993
+first_author: Naito S
+study_type: case_report
+tumor_site: ovary
+n_jgct_patients: 1
+age_range: 3 years 3 months
+alterations: []
+treatments:
+- regimen: tumour-only removal first; completion right adnexectomy 2 months later as a second-look; no chemotherapy or radiation
+  setting: surgery
+  n: 1
+  outcome: no recurrence at 1 year
+presentation:
+- vaginal discharge from age 3 years 2 months, vaginal bleeding at 3 years 3 months
+- breast enlargement (Tanner II-III), no pubic hair
+- firm smooth non-tender lower abdominal mass
+key_findings:
+- A girl aged 3 years 3 months had vaginal discharge from 3 years 2 months, then vaginal bleeding and breast enlargement; height 101.3 cm (+1.93 SD), weight 18 kg (+15.1%), breasts Tanner II-III, no pubic hair, a firm smooth lower abdominal mass.
+- Tumour markers (CEA 1.5 ng/ml, AFP 5 ng/ml or below, CA125 9 U/ml or below, CA19-9 15 U/ml) were normal. Blood estradiol was high at 183 pg/ml and progesterone high at 3.1 ng/ml; LH and FSH were below 0.5 mIU/l throughout the LHRH test.
+- Ultrasound showed a 7.5 x 4.8 x 7.5 cm mass with cystic parts; CT showed an 8 x 7 cm well-enhancing mass with a hypodense centre. The tumour alone was removed on 17 December, preserving the adnexa. Histology was juvenile granulosa cell tumour, mainly diffuse, with granulosa-type and spindle theca-type cells, occasional fat and visible mitoses (no count given).
+- Bloody ascites taken at surgery contained cells suspicious for tumour cells, so a right adnexectomy was added 2 months later as a second look; the ascitic cells were finally judged to be peritoneal epithelium, and the authors staged the case FIGO Ia.
+- No chemotherapy was given; ultrasound, CT and hormone tests showed no recurrence at 1 year. The authors conclude that tumour removal alone would have been enough, and recommend conservative surgery for stage I cases, citing that stage II and above usually respond poorly.
+relevance_to_jgct: 3-year-old stage Ia JGCT with precocious puberty; conservative two-step surgery, no adjuvant therapy, NED at 1 year; shows suspicious ascitic cells later judged benign.
+conflicts_with: []
+overlaps_with: []
+superseded_by: null
+retracted: false
+notes: Japanese with English abstract; text legible with OCR noise in tables (units partly garbled). Follow-up only 1 year. The authors' literature statements (prognosis, hormone production and outcome) are theirs, not findings of the case.
+review_status: draft
+reviewed_by: null
+reviewed_on: null
+patients:
+- id: '1'
+  sex: F
+  age_years: 3.25
+  site: ovary
+  stage: IA
+  stage_system: FIGO (pre-2014)
+  rupture: null
+  malignant_ascites: false
+  tumor_size_cm: 8
+  presentation:
+  - precocious_puberty
+  - abdominal_mass_or_distension
+  surgery: cystectomy_then_completion
+  chemotherapy: none
+  chemo_setting: none
+  relapse: false
+  outcome: NED
+  follow_up_months: 12
+  notes: tumour size is from CT 8 x 7 cm (ultrasound 7.5 x 4.8 x 7.5 cm); initial tumour-only excision then right adnexectomy at 2 months; bloody ascites with suspicious cells later judged peritoneal epithelium; estradiol 183 pg/ml
